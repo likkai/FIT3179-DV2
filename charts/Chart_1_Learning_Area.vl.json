@@ -3,8 +3,9 @@
   "description": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
   "title": {
     "text": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+    "anchor": "start",
     "subtitle": [
-      "Hover a line to highlight it"
+      "Hover a line to highlight it", "pp = percentage points"
     ]
   },
   "width": "container",
