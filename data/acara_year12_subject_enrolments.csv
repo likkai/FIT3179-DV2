@@ -1,0 +1,601 @@
+year,sex,learning_area,proportion_pct
+2024,Male,English,75.9
+2024,Male,Mathematics,70.0
+2024,Male,Society and Environment,49.9
+2024,Male,Science,43.7
+2024,Male,Arts,14.9
+2024,Male,Languages other than English,5.9
+2024,Male,Technology,33.6
+2024,Male,Health and Physical Education,23.6
+2024,Male,Cross-disciplinary,14.8
+2024,Female,English,82.8
+2024,Female,Mathematics,64.0
+2024,Female,Society and Environment,57.0
+2024,Female,Science,53.1
+2024,Female,Arts,26.3
+2024,Female,Languages other than English,9.1
+2024,Female,Technology,22.4
+2024,Female,Health and Physical Education,31.7
+2024,Female,Cross-disciplinary,12.6
+2024,All,English,79.5
+2024,All,Mathematics,67.0
+2024,All,Society and Environment,53.5
+2024,All,Science,48.5
+2024,All,Arts,20.7
+2024,All,Languages other than English,7.5
+2024,All,Technology,27.9
+2024,All,Health and Physical Education,27.7
+2024,All,Cross-disciplinary,13.7
+2024,All,Japanese,22.0
+2024,All,French,19.5
+2024,All,German,5.6
+2024,All,Chinese,17.1
+2024,All,Italian,8.1
+2024,All,Indonesian,2.6
+2024,All,Greek,2.2
+2024,All,Vietnamese,4.0
+2024,All,Spanish,5.0
+2024,All,Arabic,2.4
+2024,All,Other,11.4
+2024,All,All,100.0
+2023,Male,English,72.3
+2023,Male,Mathematics,70.9
+2023,Male,Society and Environment,49.9
+2023,Male,Science,45.0
+2023,Male,Arts,15.7
+2023,Male,Languages other than English,6.0
+2023,Male,Technology,34.2
+2023,Male,Health and Physical Education,24.2
+2023,Male,Cross-disciplinary,14.1
+2023,Female,English,80.1
+2023,Female,Mathematics,65.1
+2023,Female,Society and Environment,58.2
+2023,Female,Science,54.6
+2023,Female,Arts,26.9
+2023,Female,Languages other than English,9.2
+2023,Female,Technology,21.9
+2023,Female,Health and Physical Education,32.0
+2023,Female,Cross-disciplinary,12.1
+2023,All,English,76.3
+2023,All,Mathematics,67.9
+2023,All,Society and Environment,54.1
+2023,All,Science,50.0
+2023,All,Arts,21.5
+2023,All,Languages other than English,7.6
+2023,All,Technology,27.9
+2023,All,Health and Physical Education,28.2
+2023,All,Cross-disciplinary,13.0
+2023,All,Japanese,22.6
+2023,All,French,19.3
+2023,All,German,6.4
+2023,All,Chinese,17.4
+2023,All,Italian,7.6
+2023,All,Indonesian,3.0
+2023,All,Greek,2.4
+2023,All,Vietnamese,2.9
+2023,All,Spanish,4.2
+2023,All,Arabic,2.8
+2023,All,Other,11.3
+2023,All,All,100.0
+2022,Male,English,71.9
+2022,Male,Mathematics,70.3
+2022,Male,Society and Environment,49.5
+2022,Male,Science,45.4
+2022,Male,Arts,15.8
+2022,Male,Languages other than English,6.4
+2022,Male,Technology,34.8
+2022,Male,Health and Physical Education,23.0
+2022,Male,Cross-disciplinary,8.7
+2022,Female,English,80.1
+2022,Female,Mathematics,65.6
+2022,Female,Society and Environment,58.9
+2022,Female,Science,55.3
+2022,Female,Arts,26.9
+2022,Female,Languages other than English,9.8
+2022,Female,Technology,21.8
+2022,Female,Health and Physical Education,32.2
+2022,Female,Cross-disciplinary,8.4
+2022,All,English,76.1
+2022,All,Mathematics,67.9
+2022,All,Society and Environment,54.4
+2022,All,Science,50.5
+2022,All,Arts,21.5
+2022,All,Languages other than English,8.2
+2022,All,Technology,28.1
+2022,All,Health and Physical Education,27.7
+2022,All,Cross-disciplinary,8.6
+2022,All,Japanese,23.0
+2022,All,French,18.6
+2022,All,German,5.7
+2022,All,Chinese,18.5
+2022,All,Italian,7.7
+2022,All,Indonesian,3.1
+2022,All,Greek,2.3
+2022,All,Vietnamese,2.9
+2022,All,Spanish,4.3
+2022,All,Arabic,2.9
+2022,All,Other,10.9
+2022,All,All,100.0
+2021,Male,English,71.8
+2021,Male,Mathematics,69.9
+2021,Male,Society and Environment,48.7
+2021,Male,Science,45.0
+2021,Male,Arts,16.9
+2021,Male,Languages other than English,6.5
+2021,Male,Technology,35.1
+2021,Male,Health and Physical Education,23.0
+2021,Male,Cross-disciplinary,9.0
+2021,Female,English,80.8
+2021,Female,Mathematics,65.7
+2021,Female,Society and Environment,58.7
+2021,Female,Science,54.8
+2021,Female,Arts,28.0
+2021,Female,Languages other than English,10.6
+2021,Female,Technology,21.3
+2021,Female,Health and Physical Education,32.3
+2021,Female,Cross-disciplinary,8.6
+2021,All,English,76.4
+2021,All,Mathematics,67.7
+2021,All,Society and Environment,53.8
+2021,All,Science,50.0
+2021,All,Arts,22.6
+2021,All,Languages other than English,8.6
+2021,All,Technology,28.0
+2021,All,Health and Physical Education,27.8
+2021,All,Cross-disciplinary,8.8
+2021,All,Japanese,20.8
+2021,All,French,18.9
+2021,All,German,6.7
+2021,All,Chinese,19.6
+2021,All,Italian,8.2
+2021,All,Indonesian,3.3
+2021,All,Greek,1.9
+2021,All,Vietnamese,3.6
+2021,All,Spanish,4.7
+2021,All,Arabic,2.6
+2021,All,Other,9.8
+2021,All,All,100.0
+2020,Male,English,68.5
+2020,Male,Mathematics,68.0
+2020,Male,Society and Environment,49.2
+2020,Male,Science,44.6
+2020,Male,Arts,17.0
+2020,Male,Languages other than English,7.3
+2020,Male,Technology,36.1
+2020,Male,Health and Physical Education,23.6
+2020,Female,English,78.7
+2020,Female,Mathematics,64.7
+2020,Female,Society and Environment,59.0
+2020,Female,Science,54.0
+2020,Female,Arts,29.1
+2020,Female,Languages other than English,11.5
+2020,Female,Technology,22.0
+2020,Female,Health and Physical Education,33.1
+2020,All,English,73.8
+2020,All,Mathematics,66.3
+2020,All,Society and Environment,54.3
+2020,All,Science,49.4
+2020,All,Arts,23.2
+2020,All,Languages other than English,9.5
+2020,All,Technology,28.8
+2020,All,Health and Physical Education,28.5
+2020,All,Japanese,20.9
+2020,All,French,18.0
+2020,All,German,6.1
+2020,All,Chinese,19.4
+2020,All,Italian,8.4
+2020,All,Indonesian,3.8
+2020,All,Greek,2.0
+2020,All,Vietnamese,3.8
+2020,All,Spanish,4.6
+2020,All,Arabic,2.8
+2020,All,Other,10.1
+2020,All,All,100.0
+2019,Male,English,72.2
+2019,Male,Mathematics,73.5
+2019,Male,Society and Environment,52.1
+2019,Male,Science,46.9
+2019,Male,Arts,18.2
+2019,Male,Languages other than English,7.7
+2019,Male,Technology,39.1
+2019,Male,Health and Physical Education,25.3
+2019,Female,English,81.5
+2019,Female,Mathematics,68.9
+2019,Female,Society and Environment,62.2
+2019,Female,Science,56.2
+2019,Female,Arts,30.8
+2019,Female,Languages other than English,12.7
+2019,Female,Technology,24.3
+2019,Female,Health and Physical Education,34.5
+2019,All,English,77.0
+2019,All,Mathematics,71.1
+2019,All,Society and Environment,57.3
+2019,All,Science,51.7
+2019,All,Arts,24.7
+2019,All,Languages other than English,10.3
+2019,All,Technology,31.5
+2019,All,Health and Physical Education,30.0
+2019,All,Japanese,20.2
+2019,All,French,18.1
+2019,All,German,6.3
+2019,All,Chinese,21.9
+2019,All,Italian,8.5
+2019,All,Indonesian,3.4
+2019,All,Greek,2.3
+2019,All,Vietnamese,3.4
+2019,All,Spanish,3.8
+2019,All,Arabic,2.9
+2019,All,Other,9.2
+2019,All,All,100.0
+2018,Male,English,72.1
+2018,Male,Mathematics,74.1
+2018,Male,Society and Environment,51.0
+2018,Male,Science,48.4
+2018,Male,Arts,18.8
+2018,Male,Languages other than English,7.9
+2018,Male,Technology,38.1
+2018,Male,Health and Physical Education,26.0
+2018,Female,English,82.0
+2018,Female,Mathematics,70.2
+2018,Female,Society and Environment,61.5
+2018,Female,Science,56.9
+2018,Female,Arts,31.9
+2018,Female,Languages other than English,12.4
+2018,Female,Technology,24.4
+2018,Female,Health and Physical Education,34.3
+2018,All,English,77.2
+2018,All,Mathematics,72.1
+2018,All,Society and Environment,56.4
+2018,All,Science,52.7
+2018,All,Arts,25.5
+2018,All,Languages other than English,10.2
+2018,All,Technology,31.1
+2018,All,Health and Physical Education,30.3
+2018,All,Japanese,21.4
+2018,All,French,17.9
+2018,All,German,6.8
+2018,All,Chinese,21.9
+2018,All,Italian,8.6
+2018,All,Indonesian,3.7
+2018,All,Greek,2.2
+2018,All,Vietnamese,3.0
+2018,All,Spanish,3.3
+2018,All,Arabic,2.4
+2018,All,Other,8.8
+2018,All,All,100.0
+2017,Male,English,72.3
+2017,Male,Mathematics,73.8
+2017,Male,Society and Environment,51.2
+2017,Male,Science,49.1
+2017,Male,Arts,19.1
+2017,Male,Languages other than English,7.8
+2017,Male,Technology,39.4
+2017,Male,Health and Physical Education,25.9
+2017,Female,English,82.0
+2017,Female,Mathematics,69.3
+2017,Female,Society and Environment,62.3
+2017,Female,Science,56.2
+2017,Female,Arts,33.0
+2017,Female,Languages other than English,12.8
+2017,Female,Technology,26.3
+2017,Female,Health and Physical Education,34.0
+2017,All,English,77.3
+2017,All,Mathematics,71.5
+2017,All,Society and Environment,56.9
+2017,All,Science,52.7
+2017,All,Arts,26.2
+2017,All,Languages other than English,10.3
+2017,All,Technology,32.7
+2017,All,Health and Physical Education,30.0
+2017,All,Japanese,20.6
+2017,All,French,18.5
+2017,All,German,7.1
+2017,All,Chinese,21.0
+2017,All,Italian,8.9
+2017,All,Indonesian,3.8
+2017,All,Greek,2.2
+2017,All,Vietnamese,2.8
+2017,All,Spanish,3.6
+2017,All,Arabic,2.2
+2017,All,Other,9.3
+2017,All,All,100.0
+2016,Male,English,72.8
+2016,Male,Mathematics,73.2
+2016,Male,Society and Environment,52.0
+2016,Male,Science,48.7
+2016,Male,Arts,19.7
+2016,Male,Languages other than English,7.6
+2016,Male,Technology,40.9
+2016,Male,Health and Physical Education,26.7
+2016,Female,English,82.6
+2016,Female,Mathematics,68.8
+2016,Female,Society and Environment,63.4
+2016,Female,Science,55.9
+2016,Female,Arts,33.4
+2016,Female,Languages other than English,12.7
+2016,Female,Technology,26.8
+2016,Female,Health and Physical Education,34.2
+2016,All,English,77.8
+2016,All,Mathematics,71.0
+2016,All,Society and Environment,57.8
+2016,All,Science,52.4
+2016,All,Arts,26.7
+2016,All,Languages other than English,10.2
+2016,All,Technology,33.7
+2016,All,Health and Physical Education,30.5
+2016,All,Japanese,20.5
+2016,All,French,19.9
+2016,All,German,7.4
+2016,All,Chinese,19.7
+2016,All,Italian,9.6
+2016,All,Indonesian,3.8
+2016,All,Greek,2.2
+2016,All,Vietnamese,2.5
+2016,All,Spanish,3.0
+2016,All,Arabic,2.0
+2016,All,Other,9.5
+2016,All,All,100.0
+2015,Male,English,73.3
+2015,Male,Mathematics,73.8
+2015,Male,Society and Environment,51.3
+2015,Male,Science,48.8
+2015,Male,Arts,19.6
+2015,Male,Languages other than English,7.7
+2015,Male,Technology,41.8
+2015,Male,Health and Physical Education,26.9
+2015,Female,English,83.0
+2015,Female,Mathematics,69.1
+2015,Female,Society and Environment,63.7
+2015,Female,Science,54.4
+2015,Female,Arts,34.3
+2015,Female,Languages other than English,12.6
+2015,Female,Technology,27.6
+2015,Female,Health and Physical Education,33.7
+2015,All,English,78.3
+2015,All,Mathematics,71.4
+2015,All,Society and Environment,57.6
+2015,All,Science,51.7
+2015,All,Arts,27.1
+2015,All,Languages other than English,10.2
+2015,All,Technology,34.6
+2015,All,Health and Physical Education,30.4
+2015,All,Japanese,20.7
+2015,All,French,20.1
+2015,All,German,7.2
+2015,All,Chinese,20.0
+2015,All,Italian,9.8
+2015,All,Indonesian,4.0
+2015,All,Greek,2.3
+2015,All,Vietnamese,2.3
+2015,All,Spanish,3.1
+2015,All,Arabic,1.7
+2015,All,Other,8.9
+2015,All,All,100.0
+2014,Male,English,74.5
+2014,Male,Mathematics,74.5
+2014,Male,Society and Environment,53.1
+2014,Male,Science,49.7
+2014,Male,Arts,20.9
+2014,Male,Languages other than English,7.7
+2014,Male,Technology,41.9
+2014,Male,Health and Physical Education,26.9
+2014,Female,English,84.4
+2014,Female,Mathematics,69.6
+2014,Female,Society and Environment,65.7
+2014,Female,Science,54.0
+2014,Female,Arts,36.0
+2014,Female,Languages other than English,12.8
+2014,Female,Technology,28.4
+2014,Female,Health and Physical Education,33.6
+2014,All,English,79.6
+2014,All,Mathematics,72.0
+2014,All,Society and Environment,59.5
+2014,All,Science,51.9
+2014,All,Arts,28.6
+2014,All,Languages other than English,10.3
+2014,All,Technology,35.0
+2014,All,Health and Physical Education,30.3
+2014,All,Japanese,20.0
+2014,All,French,20.6
+2014,All,German,7.8
+2014,All,Chinese,19.7
+2014,All,Italian,8.8
+2014,All,Indonesian,4.1
+2014,All,Greek,2.4
+2014,All,Vietnamese,2.7
+2014,All,Spanish,3.4
+2014,All,Arabic,1.8
+2014,All,Other,8.8
+2014,All,All,100.0
+2013,Male,English,75.2
+2013,Male,Mathematics,75.4
+2013,Male,Society and Environment,53.0
+2013,Male,Science,48.5
+2013,Male,Arts,21.1
+2013,Male,Languages other than English,7.9
+2013,Male,Technology,42.4
+2013,Male,Health and Physical Education,25.9
+2013,Female,English,84.5
+2013,Female,Mathematics,69.6
+2013,Female,Society and Environment,65.3
+2013,Female,Science,52.6
+2013,Female,Arts,36.1
+2013,Female,Languages other than English,13.0
+2013,Female,Technology,28.7
+2013,Female,Health and Physical Education,31.8
+2013,All,English,80.0
+2013,All,Mathematics,72.4
+2013,All,Society and Environment,59.3
+2013,All,Science,50.6
+2013,All,Arts,28.8
+2013,All,Languages other than English,10.5
+2013,All,Technology,35.4
+2013,All,Health and Physical Education,28.9
+2013,All,Japanese,19.7
+2013,All,French,20.9
+2013,All,German,7.5
+2013,All,Chinese,19.1
+2013,All,Italian,9.4
+2013,All,Indonesian,4.2
+2013,All,Greek,2.2
+2013,All,Vietnamese,2.9
+2013,All,Spanish,3.0
+2013,All,Arabic,1.7
+2013,All,Other,9.5
+2013,All,All,100.0
+2012,Male,English,76.4
+2012,Male,Mathematics,76.2
+2012,Male,Society and Environment,53.5
+2012,Male,Science,48.9
+2012,Male,Arts,22.2
+2012,Male,Languages other than English,8.4
+2012,Male,Technology,42.5
+2012,Male,Health and Physical Education,26.3
+2012,Female,English,85.5
+2012,Female,Mathematics,69.8
+2012,Female,Society and Environment,65.5
+2012,Female,Science,52.3
+2012,Female,Arts,37.6
+2012,Female,Languages other than English,13.4
+2012,Female,Technology,29.5
+2012,Female,Health and Physical Education,31.0
+2012,All,English,81.1
+2012,All,Mathematics,72.9
+2012,All,Society and Environment,59.7
+2012,All,Science,50.6
+2012,All,Arts,30.1
+2012,All,Languages other than English,10.9
+2012,All,Technology,35.8
+2012,All,Health and Physical Education,28.7
+2012,All,Japanese,20.1
+2012,All,French,21.1
+2012,All,German,7.7
+2012,All,Chinese,18.7
+2012,All,Italian,9.3
+2012,All,Indonesian,3.9
+2012,All,Greek,2.1
+2012,All,Vietnamese,2.9
+2012,All,Spanish,3.2
+2012,All,Arabic,1.7
+2012,All,Other,9.2
+2012,All,All,100.0
+2011,Male,English,78.5
+2011,Male,Mathematics,76.3
+2011,Male,Society and Environment,52.9
+2011,Male,Science,49.3
+2011,Male,Arts,22.6
+2011,Male,Languages other than English,8.3
+2011,Male,Technology,42.5
+2011,Male,Health and Physical Education,26.5
+2011,Female,English,86.2
+2011,Female,Mathematics,69.5
+2011,Female,Society and Environment,63.8
+2011,Female,Science,52.7
+2011,Female,Arts,37.5
+2011,Female,Languages other than English,13.2
+2011,Female,Technology,29.4
+2011,Female,Health and Physical Education,31.4
+2011,All,English,82.5
+2011,All,Mathematics,72.8
+2011,All,Society and Environment,58.5
+2011,All,Science,51.1
+2011,All,Arts,30.3
+2011,All,Languages other than English,10.9
+2011,All,Technology,35.7
+2011,All,Health and Physical Education,29.1
+2011,All,Japanese,19.7
+2011,All,French,20.1
+2011,All,German,7.6
+2011,All,Chinese,19.7
+2011,All,Italian,9.0
+2011,All,Indonesian,4.5
+2011,All,Greek,2.0
+2011,All,Vietnamese,3.5
+2011,All,Spanish,2.8
+2011,All,Arabic,1.9
+2011,All,Other,9.2
+2011,All,All,100.0
+2010,Male,English,80.2
+2010,Male,Mathematics,75.0
+2010,Male,Society and Environment,55.9
+2010,Male,Science,49.6
+2010,Male,Arts,22.1
+2010,Male,Languages other than English,8.6
+2010,Male,Technology,41.1
+2010,Male,Health and Physical Education,26.3
+2010,Female,English,86.9
+2010,Female,Mathematics,68.3
+2010,Female,Society and Environment,66.0
+2010,Female,Science,53.1
+2010,Female,Arts,35.8
+2010,Female,Languages other than English,13.8
+2010,Female,Technology,28.1
+2010,Female,Health and Physical Education,31.4
+2010,All,English,83.7
+2010,All,Mathematics,71.6
+2010,All,Society and Environment,61.1
+2010,All,Science,51.4
+2010,All,Arts,29.2
+2010,All,Languages other than English,11.3
+2010,All,Technology,34.3
+2010,All,Health and Physical Education,28.9
+2010,All,Japanese,19.8
+2010,All,French,19.6
+2010,All,German,7.8
+2010,All,Chinese,20.2
+2010,All,Italian,8.6
+2010,All,Indonesian,4.8
+2010,All,Greek,2.2
+2010,All,Vietnamese,3.2
+2010,All,Spanish,2.9
+2010,All,Arabic,1.7
+2010,All,Other,9.2
+2010,All,All,100.0
+2009,All,Japanese,19.3
+2009,All,French,18.5
+2009,All,German,7.7
+2009,All,Chinese,22.3
+2009,All,Italian,8.6
+2009,All,Indonesian,4.6
+2009,All,Greek,2.1
+2009,All,Vietnamese,3.2
+2009,All,Spanish,2.7
+2009,All,Arabic,1.7
+2009,All,Other,9.2
+2009,All,All,100.0
+2008,All,Japanese,19.0
+2008,All,French,19.0
+2008,All,German,9.0
+2008,All,Chinese,20.0
+2008,All,Italian,8.0
+2008,All,Indonesian,5.0
+2008,All,Greek,2.0
+2008,All,Vietnamese,3.0
+2008,All,Spanish,3.0
+2008,All,Arabic,2.0
+2008,All,Other,10.0
+2008,All,All,100.0
+2007,All,Japanese,18.6
+2007,All,French,18.7
+2007,All,German,9.4
+2007,All,Chinese,19.0
+2007,All,Italian,9.1
+2007,All,Indonesian,5.8
+2007,All,Greek,2.5
+2007,All,Vietnamese,2.6
+2007,All,Spanish,2.8
+2007,All,Arabic,1.9
+2007,All,Other,9.6
+2007,All,All,100.0
+2006,All,Japanese,19.8
+2006,All,French,18.2
+2006,All,German,9.1
+2006,All,Chinese,18.9
+2006,All,Italian,9.5
+2006,All,Indonesian,6.4
+2006,All,Greek,1.8
+2006,All,Vietnamese,2.3
+2006,All,Spanish,2.7
+2006,All,Arabic,2.0
+2006,All,Other,9.3
+2006,All,All,100.0
