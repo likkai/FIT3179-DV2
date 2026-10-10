@@ -60,7 +60,7 @@
       "as": "abs_gap"
     },
     {
-      "calculate": "{'Health and Physical Education': 'Physical Education', 'Languages other than English': 'Languages'}[datum.learning_area] || datum.learning_area",
+      "calculate": "{'Health and Physical Education': 'Physical Education', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
       "as": "short_name"
     },
     {
@@ -119,7 +119,7 @@
         },
         "tooltip": [
           {
-            "field": "learning_area",
+            "field": "short_name",
             "title": "Learning area"
           },
           {
