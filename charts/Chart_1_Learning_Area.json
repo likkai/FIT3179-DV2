@@ -1,0 +1,279 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+  "title": {
+    "text": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+    "subtitle": [
+      "Hover a line to highlight it"
+    ]
+  },
+  "width": "container",
+  "height": "container",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "format": {
+      "parse": {
+        "year": "number",
+        "proportion_pct": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.sex === 'All' && (datum.year === 2010 || datum.year === 2024)"
+    },
+    {
+      "filter": {
+        "field": "learning_area",
+        "oneOf": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Society and Environment",
+          "Arts",
+          "Technology",
+          "Chinese",
+          "Languages other than English"
+        ]
+      }
+    },
+    {
+      "calculate": "{'Society and Environment': 'Humanities and Social Sciences', 'Arts': 'The Arts', 'Technology': 'Technology and Business', 'Chinese': 'Chinese', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
+      "as": "colour_key"
+    },
+    {
+      "calculate": "{'Society and Environment': 'Society & Environment', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
+      "as": "short_name"
+    },
+    {
+      "calculate": "datum.year === 2010 ? datum.proportion_pct : null",
+      "as": "v2010"
+    },
+    {
+      "calculate": "datum.year === 2024 ? datum.proportion_pct : null",
+      "as": "v2024"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "v2010",
+          "as": "start"
+        },
+        {
+          "op": "max",
+          "field": "v2024",
+          "as": "end"
+        }
+      ],
+      "groupby": [
+        "learning_area"
+      ]
+    },
+    {
+      "calculate": "datum.end - datum.start",
+      "as": "change"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {
+        "orient": "top",
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 14,
+        "labelFontWeight": 700,
+        "labelColor": "#1d1c1a",
+        "labelAngle": 0
+      }
+    },
+    "color": {
+      "field": "colour_key",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "English",
+          "Mathematics",
+          "Humanities and Social Sciences",
+          "Science",
+          "Technology and Business",
+          "The Arts",
+          "Chinese",
+          "Non-English Languages"
+        ],
+        "range": [
+          "#0072B2",
+          "#E69F00",
+          "#009E73",
+          "#D55E00",
+          "#CC79A7",
+          "#56B4E9",
+          "#000000",
+          "#A65628"
+        ]
+      }
+    },
+    "opacity": {
+      "condition": [
+        {
+          "param": "hover",
+          "value": 1
+        }
+      ],
+      "value": 0.2
+    },
+    "tooltip": [
+      {
+        "field": "learning_area",
+        "title": "Learning area"
+      },
+      {
+        "field": "start",
+        "title": "2010 (%)",
+        "format": ".1f"
+      },
+      {
+        "field": "end",
+        "title": "2024 (%)",
+        "format": ".1f"
+      },
+      {
+        "field": "change",
+        "title": "Change (pp)",
+        "format": "+.1f"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.5
+      },
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative",
+          "axis": null
+        },
+        "detail": {
+          "field": "learning_area"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 80,
+        "stroke": "#fbfaf7",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "description": "Easy hover by adding invisible lines",
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": [
+              "learning_area"
+            ],
+            "on": "pointerover",
+            "clear": "pointerout"
+          }
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 14
+      },
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative"
+        },
+        "detail": {
+          "field": "learning_area"
+        },
+        "opacity": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2010"
+        },
+        {
+          "calculate": "datum.short_name + '  ' + format(datum.proportion_pct, '.1f') + '%'",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": -10,
+        "fontSize": 12
+      },
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "value": "#1d1c1a"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2024"
+        },
+        {
+          "calculate": "format(datum.proportion_pct, '.1f') + '%  ' + datum.short_name",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "fontSize": 12
+      },
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "value": "#1d1c1a"
+        }
+      }
+    }
+  ]
+}
