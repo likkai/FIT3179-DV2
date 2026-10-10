@@ -1,0 +1,312 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Male vs Female Year 12 Students Enrolled in Each Learning Area",
+  "title": {
+    "text": "Male vs Female Year 12 Students Enrolled in Each Learning Area in 2024",
+    "anchor": "start",
+    "subtitle": [
+      "Sort by gender gap",
+      "pp = percentage points"
+    ]
+  },
+  "width": "container",
+  "height": "container",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "format": {
+      "parse": {
+        "year": "number",
+        "proportion_pct": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.year === 2019 && datum.sex !== 'All'"
+    },
+    {
+      "filter": {
+        "field": "learning_area",
+        "oneOf": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Society and Environment",
+          "Arts",
+          "Technology",
+          "Health and Physical Education",
+          "Languages other than English"
+        ]
+      }
+    },
+    {
+      "pivot": "sex",
+      "value": "proportion_pct",
+      "groupby": [
+        "learning_area"
+      ]
+    },
+    {
+      "calculate": "datum.Female - datum.Male",
+      "as": "gap"
+    },
+    {
+      "calculate": "abs(datum.gap)",
+      "as": "abs_gap"
+    },
+    {
+      "calculate": "{'Health and Physical Education': 'Physical Education', 'Languages other than English': 'Languages'}[datum.learning_area] || datum.learning_area",
+      "as": "short_name"
+    },
+    {
+      "calculate": "(datum.gap > 0 ? 'Girls +' : 'Boys +') + format(abs(datum.gap), '.1f') + ' pp'",
+      "as": "gap_label"
+    }
+  ],
+  "spacing": 0,
+  "bounds": "flush",
+  "hconcat": [
+    {
+      "title": {
+        "text": "Boys",
+        "anchor": "end",
+        "fontSize": 14,
+        "font": "Source Sans 3",
+        "fontWeight": 700,
+        "color": "#4a3aa7"
+      },
+      "width": 180,
+      "height": {
+        "step": 40
+      },
+      "encoding": {
+        "y": {
+          "field": "short_name",
+          "type": "nominal",
+          "sort": {
+            "field": "abs_gap",
+            "order": "descending"
+          },
+          "axis": null
+        },
+        "x": {
+          "field": "Male",
+          "type": "quantitative",
+          "title": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "reverse": true
+          },
+          "axis": {
+            "values": [
+              0,
+              25,
+              50,
+              75,
+              100
+            ],
+            "labelExpr": "datum.value + '%'",
+            "grid": true
+          }
+        },
+        "tooltip": [
+          {
+            "field": "learning_area",
+            "title": "Learning area"
+          },
+          {
+            "field": "Male",
+            "title": "Boys (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "Female",
+            "title": "Girls (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "gap_label",
+            "title": "Gap"
+          }
+        ]
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "bar",
+            "color": "#4a3aa7",
+            "size": 22,
+            "cornerRadiusEnd": 4
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "right",
+            "dx": -5,
+            "fontSize": 12,
+            "color": "#1d1c1a"
+          },
+          "encoding": {
+            "text": {
+              "field": "Male",
+              "format": ".1f"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 165,
+      "height": {
+        "step": 40
+      },
+      "encoding": {
+        "y": {
+          "field": "short_name",
+          "type": "nominal",
+          "sort": {
+            "field": "abs_gap",
+            "order": "descending"
+          },
+          "axis": null
+        }
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "text",
+            "dy": -7,
+            "fontSize": 13,
+            "fontWeight": 600,
+            "color": "#1d1c1a"
+          },
+          "encoding": {
+            "x": {
+              "value": 83
+            },
+            "text": {
+              "field": "short_name"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": 9,
+            "fontSize": 11,
+            "color": "#807e78"
+          },
+          "encoding": {
+            "x": {
+              "value": 83
+            },
+            "text": {
+              "field": "gap_label"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Girls",
+        "anchor": "start",
+        "fontSize": 14,
+        "font": "Source Sans 3",
+        "fontWeight": 700,
+        "color": "#d95f02"
+      },
+      "width": 180,
+      "height": {
+        "step": 40
+      },
+      "encoding": {
+        "y": {
+          "field": "short_name",
+          "type": "nominal",
+          "sort": {
+            "field": "abs_gap",
+            "order": "descending"
+          },
+          "axis": null
+        },
+        "x": {
+          "field": "Female",
+          "type": "quantitative",
+          "title": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          },
+          "axis": {
+            "values": [
+              0,
+              25,
+              50,
+              75,
+              100
+            ],
+            "labelExpr": "datum.value + '%'",
+            "grid": true
+          }
+        },
+        "tooltip": [
+          {
+            "field": "learning_area",
+            "title": "Learning area"
+          },
+          {
+            "field": "Female",
+            "title": "Girls (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "Male",
+            "title": "Boys (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "gap_label",
+            "title": "Gap"
+          }
+        ]
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "bar",
+            "color": "#d95f02",
+            "size": 22,
+            "cornerRadiusEnd": 4
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 5,
+            "fontSize": 12,
+            "color": "#1d1c1a"
+          },
+          "encoding": {
+            "text": {
+              "field": "Female",
+              "format": ".1f"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
