@@ -1,0 +1,456 @@
+state,state_name,year,rank,subject,learning_area,enrolments,share_pct,symbol_lon,symbol_lat,capital,capital_lon,capital_lat
+ACT,Australian Capital Territory,2021,1,Physical Education,Health and Physical Education,1467.0,5.92,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2021,2,Biology,Science,1278.0,5.16,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2021,3,Studies of Religion,Humanities and Social Sciences,1204.0,4.86,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2021,4,Psychology,Science,958.0,3.86,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2021,5,Chemistry,Science,883.0,3.56,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2022,1,Physical Education,Health and Physical Education,1403.0,5.9,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2022,2,Studies of Religion,Humanities and Social Sciences,1244.0,5.23,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2022,3,Biology,Science,1243.0,5.22,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2022,4,Psychology,Science,1041.0,4.38,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2022,5,Chemistry,Science,886.0,3.72,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2023,1,Physical Education,Health and Physical Education,1531.0,5.92,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2023,2,Studies of Religion,Humanities and Social Sciences,1364.0,5.27,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2023,3,Biology,Science,1301.0,5.03,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2023,4,Psychology,Science,991.0,3.83,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2023,5,Business,Technology and Business,935.0,3.62,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2024,1,Physical Education,Health and Physical Education,1612.0,5.97,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2024,2,Studies of Religion,Humanities and Social Sciences,1386.0,5.13,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2024,3,Biology,Science,1345.0,4.98,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2024,4,Psychology,Science,1055.0,3.91,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2024,5,Business,Technology and Business,941.0,3.49,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2025,1,Physical Education,Health and Physical Education,1897.0,6.85,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2025,2,Studies of Religion,Humanities and Social Sciences,1412.0,5.1,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2025,3,Biology,Science,1225.0,4.42,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2025,4,Business,Technology and Business,958.0,3.46,151.6,-35.9,Canberra,149.13,-35.28
+ACT,Australian Capital Territory,2025,5,Psychology,Science,947.0,3.42,151.6,-35.9,Canberra,149.13,-35.28
+NSW,New South Wales,2012,1,Biology,Science,22663.0,5.37,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2012,2,Business,Technology and Business,19103.0,4.53,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2012,3,Physical Education,Health and Physical Education,18725.0,4.44,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2012,4,Ancient History,Humanities and Social Sciences,16809.0,3.99,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2012,5,Chemistry,Science,15818.0,3.75,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2013,1,Biology,Science,22920.0,5.39,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2013,2,Physical Education,Health and Physical Education,19607.0,4.61,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2013,3,Business,Technology and Business,19559.0,4.6,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2013,4,Chemistry,Science,16232.0,3.82,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2013,5,Ancient History,Humanities and Social Sciences,16199.0,3.81,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2014,1,Biology,Science,23067.0,5.42,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2014,2,Physical Education,Health and Physical Education,20354.0,4.78,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2014,3,Business,Technology and Business,19883.0,4.67,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2014,4,Chemistry,Science,16193.0,3.8,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2014,5,Ancient History,Humanities and Social Sciences,15556.0,3.65,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2015,1,Biology,Science,23487.0,5.53,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2015,2,Physical Education,Health and Physical Education,21122.0,4.97,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2015,3,Business,Technology and Business,20463.0,4.82,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2015,4,Chemistry,Science,15755.0,3.71,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2015,5,Ancient History,Humanities and Social Sciences,14856.0,3.5,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2016,1,Biology,Science,24053.0,5.67,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2016,2,Physical Education,Health and Physical Education,21294.0,5.02,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2016,3,Business,Technology and Business,20816.0,4.91,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2016,4,Chemistry,Science,15897.0,3.75,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2016,5,Legal Studies,Humanities and Social Sciences,14306.0,3.37,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2017,1,Biology,Science,24410.0,5.77,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2017,2,Physical Education,Health and Physical Education,22037.0,5.21,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2017,3,Business,Technology and Business,21121.0,4.99,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2017,4,Chemistry,Science,16005.0,3.78,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2017,5,Legal Studies,Humanities and Social Sciences,14539.0,3.44,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2018,1,Biology,Science,24792.0,5.95,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2018,2,Physical Education,Health and Physical Education,21429.0,5.14,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2018,3,Business,Technology and Business,21019.0,5.04,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2018,4,Chemistry,Science,15474.0,3.71,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2018,5,Modern History,Humanities and Social Sciences,14623.0,3.51,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2019,1,Biology,Science,25130.0,5.99,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2019,2,Physical Education,Health and Physical Education,21537.0,5.13,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2019,3,Business,Technology and Business,20808.0,4.96,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2019,4,Chemistry,Science,14663.0,3.5,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2019,5,Legal Studies,Humanities and Social Sciences,14419.0,3.44,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2020,1,Biology,Science,25299.0,5.99,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2020,2,Physical Education,Health and Physical Education,22225.0,5.26,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2020,3,Business,Technology and Business,21014.0,4.98,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2020,4,Chemistry,Science,14555.0,3.45,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2020,5,Legal Studies,Humanities and Social Sciences,14469.0,3.43,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2021,1,Biology,Science,24991.0,6.01,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2021,2,Physical Education,Health and Physical Education,22075.0,5.3,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2021,3,Business,Technology and Business,21251.0,5.11,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2021,4,Chemistry,Science,14145.0,3.4,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2021,5,Legal Studies,Humanities and Social Sciences,14137.0,3.4,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2022,1,Biology,Science,24915.0,6.12,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2022,2,Physical Education,Health and Physical Education,21789.0,5.35,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2022,3,Business,Technology and Business,21302.0,5.23,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2022,4,Chemistry,Science,13803.0,3.39,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2022,5,Legal Studies,Humanities and Social Sciences,13388.0,3.29,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2023,1,Biology,Science,24981.0,6.01,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2023,2,Physical Education,Health and Physical Education,22317.0,5.37,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2023,3,Business,Technology and Business,22198.0,5.34,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2023,4,Modern History,Humanities and Social Sciences,13537.0,3.26,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2023,5,Community and Family Studies,Health and Physical Education,13502.0,3.25,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2024,1,Biology,Science,25438.0,5.95,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2024,2,Business,Technology and Business,24974.0,5.84,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2024,3,Physical Education,Health and Physical Education,22988.0,5.38,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2024,4,Chemistry,Science,13768.0,3.22,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2024,5,Modern History,Humanities and Social Sciences,13694.0,3.2,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2025,1,Business,Technology and Business,25977.0,6.06,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2025,2,Biology,Science,25934.0,6.05,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2025,3,Physical Education,Health and Physical Education,22288.0,5.2,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2025,4,Community and Family Studies,Health and Physical Education,14070.0,3.28,146.5,-32.5,Sydney,151.21,-33.87
+NSW,New South Wales,2025,5,Chemistry,Science,13832.0,3.23,146.5,-32.5,Sydney,151.21,-33.87
+NT,Northern Territory,2011,1,Physical Education,Health and Physical Education,1372.0,5.75,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2011,2,Visual Arts,The Arts,1270.0,5.32,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2011,3,Biology,Science,1001.0,4.19,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2011,4,Chemistry,Science,816.0,3.42,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2011,5,Design and Technology,Technology and Business,763.0,3.2,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2012,1,Physical Education,Health and Physical Education,1500.0,6.28,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2012,2,Visual Arts,The Arts,1229.0,5.14,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2012,3,Biology,Science,1014.0,4.24,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2012,4,Design and Technology,Technology and Business,896.0,3.75,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2012,5,Chemistry,Science,840.0,3.51,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2013,1,Physical Education,Health and Physical Education,1469.0,5.98,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2013,2,Visual Arts,The Arts,1146.0,4.66,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2013,3,Biology,Science,1066.0,4.34,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2013,4,Design and Technology,Technology and Business,905.0,3.68,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2013,5,Chemistry,Science,886.0,3.6,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2014,1,Physical Education,Health and Physical Education,1468.0,5.93,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2014,2,Biology,Science,1096.0,4.43,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2014,3,Visual Arts,The Arts,1086.0,4.39,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2014,4,Chemistry,Science,942.0,3.81,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2014,5,Design and Technology,Technology and Business,898.0,3.63,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2015,1,Physical Education,Health and Physical Education,1460.0,6.04,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2015,2,Biology,Science,1074.0,4.45,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2015,3,Design and Technology,Technology and Business,988.0,4.09,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2015,4,Chemistry,Science,966.0,4.0,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2015,5,Visual Arts,The Arts,903.0,3.74,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2016,1,Physical Education,Health and Physical Education,1267.0,5.22,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2016,2,Biology,Science,1237.0,5.09,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2016,3,Chemistry,Science,1040.0,4.28,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2016,4,Design and Technology,Technology and Business,867.0,3.57,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2016,5,Visual Arts,The Arts,732.0,3.01,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2017,1,Physical Education,Health and Physical Education,1332.0,5.49,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2017,2,Biology,Science,1224.0,5.05,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2017,3,Chemistry,Science,1009.0,4.16,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2017,4,Visual Arts,The Arts,851.0,3.51,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2017,5,Design and Technology,Technology and Business,799.0,3.29,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2018,1,Physical Education,Health and Physical Education,1200.0,4.95,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2018,2,Biology,Science,1192.0,4.92,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2018,3,Chemistry,Science,968.0,3.99,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2018,4,Visual Arts,The Arts,898.0,3.7,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2018,5,Psychology,Science,786.0,3.24,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2019,1,Physical Education,Health and Physical Education,1069.0,4.28,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2019,2,Biology,Science,1041.0,4.17,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2019,3,Visual Arts,The Arts,996.0,3.99,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2019,4,Chemistry,Science,958.0,3.83,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2019,5,Design and Technology,Technology and Business,855.0,3.42,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2020,1,Biology,Science,1079.0,4.42,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2020,2,Physical Education,Health and Physical Education,1005.0,4.12,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2020,3,Design and Technology,Technology and Business,960.0,3.93,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2020,4,Chemistry,Science,927.0,3.8,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2020,5,Psychology,Science,915.0,3.75,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2021,1,Physical Education,Health and Physical Education,1044.0,4.55,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2021,2,Biology,Science,1029.0,4.49,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2021,3,Visual Arts,The Arts,843.0,3.68,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2021,4,Design and Technology,Technology and Business,824.0,3.59,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2021,5,Chemistry,Science,809.0,3.53,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2022,1,Physical Education,Health and Physical Education,1015.0,4.48,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2022,2,Biology,Science,917.0,4.05,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2022,3,Psychology,Science,817.0,3.61,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2022,4,Design and Technology,Technology and Business,770.0,3.4,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2022,5,Chemistry,Science,767.0,3.39,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2023,1,Physical Education,Health and Physical Education,930.0,3.83,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2023,2,Biology,Science,900.0,3.71,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2023,3,Health,Health and Physical Education,878.0,3.62,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2023,4,Design and Technology,Technology and Business,861.0,3.55,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2023,5,Visual Arts,The Arts,783.0,3.22,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2024,1,Biology,Science,922.0,3.76,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2024,2,Physical Education,Health and Physical Education,891.0,3.63,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2024,3,Design and Technology,Technology and Business,866.0,3.53,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2024,4,Visual Arts,The Arts,852.0,3.48,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2024,5,Health,Health and Physical Education,836.0,3.41,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2025,1,Creative Arts,The Arts,1105.0,4.28,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2025,2,Biology,Science,1035.0,4.01,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2025,3,Physical Education,Health and Physical Education,864.0,3.35,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2025,4,Design and Technology,Technology and Business,841.0,3.26,133.0,-19.5,Darwin,130.84,-12.46
+NT,Northern Territory,2025,5,Visual Arts,The Arts,809.0,3.14,133.0,-19.5,Darwin,130.84,-12.46
+QLD,Queensland,2020,1,Biology,Science,29897.0,5.96,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2020,2,Studies of Religion,Humanities and Social Sciences,20673.0,4.12,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2020,3,Physical Education,Health and Physical Education,19673.0,3.92,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2020,4,Chemistry,Science,18613.0,3.71,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2020,5,Visual Arts,The Arts,17683.0,3.52,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2021,1,Biology,Science,30745.0,5.94,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2021,2,Studies of Religion,Humanities and Social Sciences,21690.0,4.19,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2021,3,Physical Education,Health and Physical Education,19847.0,3.84,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2021,4,Chemistry,Science,18933.0,3.66,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2021,5,Visual Arts,The Arts,17694.0,3.42,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2022,1,Biology,Science,30788.0,5.87,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2022,2,Studies of Religion,Humanities and Social Sciences,23068.0,4.4,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2022,3,Physical Education,Health and Physical Education,19902.0,3.8,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2022,4,Chemistry,Science,19485.0,3.72,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2022,5,Visual Arts,The Arts,17791.0,3.39,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2023,1,Biology,Science,31060.0,5.75,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2023,2,Studies of Religion,Humanities and Social Sciences,24538.0,4.54,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2023,3,Physical Education,Health and Physical Education,20059.0,3.71,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2023,4,Chemistry,Science,19527.0,3.62,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2023,5,Visual Arts,The Arts,18699.0,3.46,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2024,1,Biology,Science,31194.0,5.6,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2024,2,Studies of Religion,Humanities and Social Sciences,25699.0,4.61,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2024,3,Chemistry,Science,20370.0,3.66,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2024,4,Physical Education,Health and Physical Education,20053.0,3.6,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2024,5,Sport and Recreation,Health and Physical Education,19568.0,3.51,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2025,1,Biology,Science,31266.0,5.46,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2025,2,Studies of Religion,Humanities and Social Sciences,26231.0,4.58,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2025,3,Chemistry,Science,21314.0,3.72,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2025,4,Sport and Recreation,Health and Physical Education,20451.0,3.57,144.5,-22.5,Brisbane,153.03,-27.47
+QLD,Queensland,2025,5,Physical Education,Health and Physical Education,19998.0,3.49,144.5,-22.5,Brisbane,153.03,-27.47
+SA,South Australia,2012,1,Design and Technology,Technology and Business,8583.5,5.71,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2012,2,Biology,Science,8019.5,5.34,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2012,3,Physical Education,Health and Physical Education,7207.5,4.8,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2012,4,Visual Arts,The Arts,6722.5,4.47,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2012,5,Chemistry,Science,6075.0,4.04,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2013,1,Design and Technology,Technology and Business,8856.0,5.99,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2013,2,Biology,Science,8056.5,5.45,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2013,3,Physical Education,Health and Physical Education,7069.0,4.78,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2013,4,Chemistry,Science,6079.0,4.11,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2013,5,Visual Arts,The Arts,6030.0,4.08,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2014,1,Design and Technology,Technology and Business,8451.0,5.65,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2014,2,Biology,Science,8395.5,5.61,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2014,3,Physical Education,Health and Physical Education,7361.0,4.92,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2014,4,Chemistry,Science,6445.5,4.31,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2014,5,Physics,Science,5512.0,3.68,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2015,1,Biology,Science,8550.5,5.6,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2015,2,Design and Technology,Technology and Business,8418.0,5.52,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2015,3,Physical Education,Health and Physical Education,7276.0,4.77,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2015,4,Chemistry,Science,6426.0,4.21,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2015,5,Physics,Science,5620.5,3.68,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2016,1,Biology,Science,8745.5,5.74,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2016,2,Design and Technology,Technology and Business,8478.5,5.56,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2016,3,Physical Education,Health and Physical Education,7070.0,4.64,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2016,4,Chemistry,Science,6407.0,4.2,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2016,5,Physics,Science,5424.0,3.56,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2017,1,Biology,Science,8921.0,5.95,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2017,2,Design and Technology,Technology and Business,8251.5,5.51,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2017,3,Physical Education,Health and Physical Education,6834.5,4.56,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2017,4,Chemistry,Science,6165.5,4.12,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2017,5,Psychology,Science,5494.0,3.67,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2018,1,Biology,Science,8436.5,5.7,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2018,2,Design and Technology,Technology and Business,8112.0,5.48,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2018,3,Physical Education,Health and Physical Education,6632.5,4.48,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2018,4,Chemistry,Science,5984.5,4.05,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2018,5,Psychology,Science,5475.5,3.7,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2019,1,Biology,Science,8245.0,5.64,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2019,2,Design and Technology,Technology and Business,8028.5,5.49,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2019,3,Physical Education,Health and Physical Education,6146.5,4.21,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2019,4,Psychology,Science,5753.0,3.94,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2019,5,Chemistry,Science,5658.0,3.87,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2020,1,Biology,Science,8272.0,5.66,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2020,2,Design and Technology,Technology and Business,8203.5,5.61,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2020,3,Psychology,Science,5963.5,4.08,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2020,4,Physical Education,Health and Physical Education,5919.0,4.05,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2020,5,Chemistry,Science,5527.5,3.78,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2021,1,Design and Technology,Technology and Business,8410.0,5.87,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2021,2,Biology,Science,8066.0,5.63,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2021,3,Psychology,Science,6283.0,4.39,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2021,4,Physical Education,Health and Physical Education,5590.0,3.9,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2021,5,Chemistry,Science,5411.0,3.78,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2022,1,Design and Technology,Technology and Business,8327.5,5.83,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2022,2,Biology,Science,7851.0,5.5,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2022,3,Psychology,Science,6402.5,4.49,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2022,4,Physical Education,Health and Physical Education,5181.0,3.63,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2022,5,Chemistry,Science,5179.0,3.63,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2023,1,Design and Technology,Technology and Business,8534.0,5.75,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2023,2,Biology,Science,8113.0,5.47,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2023,3,Psychology,Science,6364.5,4.29,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2023,4,Physical Education,Health and Physical Education,5359.0,3.61,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2023,5,Chemistry,Science,5102.5,3.44,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2024,1,Design and Technology,Technology and Business,9244.0,6.0,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2024,2,Biology,Science,8230.0,5.35,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2024,3,Psychology,Science,6193.0,4.02,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2024,4,Physical Education,Health and Physical Education,5453.5,3.54,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2024,5,Chemistry,Science,5233.0,3.4,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2025,1,Design and Technology,Technology and Business,9657.0,6.09,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2025,2,Biology,Science,8257.5,5.21,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2025,3,Psychology,Science,6422.0,4.05,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2025,4,Physical Education,Health and Physical Education,5470.5,3.45,135.5,-30.0,Adelaide,138.6,-34.93
+SA,South Australia,2025,5,Food and Nutrition,Technology and Business,5279.5,3.33,135.5,-30.0,Adelaide,138.6,-34.93
+TAS,Tasmania,2015,1,Visual Arts,The Arts,2225.0,5.68,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2015,2,Computer Applications and Office Skills,Technology and Business,1975.0,5.04,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2015,3,Outdoor Education,Health and Physical Education,1652.0,4.22,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2015,4,Health,Health and Physical Education,1543.0,3.94,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2015,5,Physical Sciences,Science,1456.0,3.72,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2016,1,Visual Arts,The Arts,2327.0,5.85,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2016,2,Computer Applications and Office Skills,Technology and Business,2020.0,5.07,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2016,3,Outdoor Education,Health and Physical Education,1794.0,4.51,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2016,4,Health,Health and Physical Education,1563.0,3.93,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2016,5,Physical Sciences,Science,1505.0,3.78,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2017,1,Visual Arts,The Arts,2359.0,6.08,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2017,2,Computer Applications and Office Skills,Technology and Business,1889.0,4.87,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2017,3,Outdoor Education,Health and Physical Education,1865.0,4.8,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2017,4,Physical Sciences,Science,1517.0,3.91,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2017,5,Health,Health and Physical Education,1504.0,3.87,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2018,1,Visual Arts,The Arts,2417.0,6.27,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2018,2,Computer Applications and Office Skills,Technology and Business,1719.0,4.46,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2018,3,Physical Sciences,Science,1462.0,3.79,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2018,4,Outdoor Education,Health and Physical Education,1421.0,3.68,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2018,5,Biology,Science,1352.0,3.5,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2019,1,Visual Arts,The Arts,2354.0,6.26,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2019,2,Computer Applications and Office Skills,Technology and Business,2353.0,6.26,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2019,3,Food and Nutrition,Technology and Business,1423.0,3.79,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2019,4,Biology,Science,1335.0,3.55,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2019,5,Physical Sciences,Science,1325.0,3.52,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2020,1,Visual Arts,The Arts,2357.0,6.12,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2020,2,Computer Applications and Office Skills,Technology and Business,1531.0,3.97,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2020,3,Psychology,Science,1397.0,3.63,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2020,4,Sport and Recreation,Health and Physical Education,1363.0,3.54,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2020,5,Food and Nutrition,Technology and Business,1349.0,3.5,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2021,1,Visual Arts,The Arts,2354.0,6.33,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2021,2,Sport and Recreation,Health and Physical Education,1401.0,3.77,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2021,3,Computer Applications and Office Skills,Technology and Business,1366.0,3.67,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2021,4,Food and Nutrition,Technology and Business,1353.0,3.64,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2021,5,Biology,Science,1342.0,3.61,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2022,1,Visual Arts,The Arts,2443.0,6.65,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2022,2,Sport and Recreation,Health and Physical Education,1664.0,4.53,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2022,3,Food and Nutrition,Technology and Business,1435.0,3.91,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2022,4,Physical Education,Health and Physical Education,1255.0,3.42,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2022,5,Biology,Science,1231.0,3.35,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2023,1,Visual Arts,The Arts,2489.0,6.79,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2023,2,Sport and Recreation,Health and Physical Education,2040.0,5.57,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2023,3,Food and Nutrition,Technology and Business,1439.0,3.93,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2023,4,Outdoor Education,Health and Physical Education,1398.0,3.82,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2023,5,Physical Education,Health and Physical Education,1248.0,3.41,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2024,1,Visual Arts,The Arts,2511.0,6.51,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2024,2,Sport and Recreation,Health and Physical Education,2235.0,5.79,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2024,3,Food and Nutrition,Technology and Business,1704.0,4.41,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2024,4,Outdoor Education,Health and Physical Education,1504.0,3.9,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2024,5,Financial Literacy,Humanities and Social Sciences,1380.0,3.58,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2025,1,Visual Arts,The Arts,2263.0,5.98,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2025,2,Sport and Recreation,Health and Physical Education,2203.0,5.82,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2025,3,Food and Nutrition,Technology and Business,1875.0,4.95,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2025,4,Outdoor Education,Health and Physical Education,1469.0,3.88,146.6,-42.0,Hobart,147.33,-42.88
+TAS,Tasmania,2025,5,Biology,Science,1389.0,3.67,146.6,-42.0,Hobart,147.33,-42.88
+VIC,Victoria,2014,1,Psychology,Science,35847.0,5.93,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2014,2,Biology,Science,28744.0,4.76,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2014,3,Health,Health and Physical Education,27988.0,4.63,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2014,4,Business,Technology and Business,26611.0,4.41,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2014,5,Chemistry,Science,24708.0,4.09,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2015,1,Psychology,Science,35630.0,5.86,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2015,2,Biology,Science,30129.0,4.96,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2015,3,Health,Health and Physical Education,28683.0,4.72,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2015,4,Business,Technology and Business,28289.0,4.65,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2015,5,Chemistry,Science,25049.0,4.12,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2016,1,Psychology,Science,35486.0,5.78,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2016,2,Biology,Science,31793.0,5.18,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2016,3,Business,Technology and Business,29483.0,4.81,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2016,4,Health,Health and Physical Education,28992.0,4.73,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2016,5,Chemistry,Science,26131.0,4.26,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2017,1,Psychology,Science,34889.0,5.62,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2017,2,Biology,Science,32063.0,5.17,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2017,3,Business,Technology and Business,29780.0,4.8,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2017,4,Health,Health and Physical Education,29402.0,4.74,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2017,5,Chemistry,Science,26174.0,4.22,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2018,1,Psychology,Science,35123.0,5.76,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2018,2,Biology,Science,32247.0,5.29,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2018,3,Health,Health and Physical Education,28959.0,4.75,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2018,4,Business,Technology and Business,28789.0,4.72,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2018,5,Chemistry,Science,25638.0,4.21,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2019,1,Psychology,Science,35779.0,5.96,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2019,2,Biology,Science,32949.0,5.49,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2019,3,Health,Health and Physical Education,28794.0,4.79,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2019,4,Business,Technology and Business,28770.0,4.79,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2019,5,Chemistry,Science,25161.0,4.19,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2020,1,Psychology,Science,37416.0,6.18,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2020,2,Biology,Science,33839.0,5.59,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2020,3,Business,Technology and Business,29564.0,4.89,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2020,4,Health,Health and Physical Education,29501.0,4.87,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2020,5,Chemistry,Science,25496.0,4.21,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2021,1,Psychology,Science,39625.0,6.53,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2021,2,Biology,Science,34824.0,5.74,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2021,3,Business,Technology and Business,31117.0,5.12,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2021,4,Health,Health and Physical Education,29928.0,4.93,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2021,5,Chemistry,Science,26524.0,4.37,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2022,1,Psychology,Science,40473.0,6.71,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2022,2,Biology,Science,34185.0,5.67,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2022,3,Business,Technology and Business,32379.0,5.37,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2022,4,Health,Health and Physical Education,30035.0,4.98,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2022,5,Chemistry,Science,25507.0,4.23,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2023,1,Psychology,Science,41084.0,6.6,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2023,2,Biology,Science,34356.0,5.52,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2023,3,Business,Technology and Business,33702.0,5.42,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2023,4,Health,Health and Physical Education,31441.0,5.05,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2023,5,Chemistry,Science,25368.0,4.08,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2024,1,Psychology,Science,39242.0,6.1,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2024,2,Business,Technology and Business,36236.0,5.64,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2024,3,Biology,Science,35384.0,5.5,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2024,4,Health,Health and Physical Education,32786.0,5.1,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2024,5,Chemistry,Science,26237.0,4.08,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2025,1,Psychology,Science,38989.0,5.99,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2025,2,Business,Technology and Business,37111.0,5.7,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2025,3,Biology,Science,36108.0,5.55,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2025,4,Health,Health and Physical Education,33485.0,5.14,144.5,-36.8,Melbourne,144.96,-37.81
+VIC,Victoria,2025,5,Chemistry,Science,27259.0,4.19,144.5,-36.8,Melbourne,144.96,-37.81
+WA,Western Australia,2012,1,Biology,Science,14245.0,5.73,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2012,2,Chemistry,Science,10925.0,4.4,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2012,3,Physical Education,Health and Physical Education,10885.0,4.38,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2012,4,Studies of Religion,Humanities and Social Sciences,10674.0,4.3,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2012,5,Industrial Technology and Trades,Technology and Business,8733.0,3.51,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2013,1,Biology,Science,11242.0,5.58,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2013,2,Chemistry,Science,9403.0,4.67,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2013,3,Studies of Religion,Humanities and Social Sciences,8895.0,4.42,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2013,4,Physical Education,Health and Physical Education,8290.0,4.12,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2013,5,Physics,Science,7141.0,3.55,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2014,1,Biology,Science,12450.0,5.99,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2014,2,Chemistry,Science,10142.0,4.88,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2014,3,Studies of Religion,Humanities and Social Sciences,9178.0,4.41,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2014,4,Physical Education,Health and Physical Education,8728.0,4.2,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2014,5,Physics,Science,7566.0,3.64,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2015,1,Biology,Science,15509.0,6.35,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2015,2,Chemistry,Science,11505.0,4.71,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2015,3,Physical Education,Health and Physical Education,10857.0,4.44,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2015,4,Studies of Religion,Humanities and Social Sciences,10835.0,4.43,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2015,5,Physics,Science,8267.0,3.38,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2016,1,Biology,Science,16755.0,6.82,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2016,2,Chemistry,Science,11366.0,4.63,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2016,3,Physical Education,Health and Physical Education,11179.0,4.55,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2016,4,Studies of Religion,Humanities and Social Sciences,10768.0,4.38,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2016,5,Physics,Science,7633.0,3.11,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2017,1,Biology,Science,17476.0,7.08,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2017,2,Physical Education,Health and Physical Education,11600.0,4.7,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2017,3,Chemistry,Science,11125.0,4.51,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2017,4,Studies of Religion,Humanities and Social Sciences,10748.0,4.36,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2017,5,Industrial Technology and Trades,Technology and Business,7825.0,3.17,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2018,1,Biology,Science,17483.0,7.18,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2018,2,Physical Education,Health and Physical Education,11548.0,4.74,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2018,3,Chemistry,Science,10814.0,4.44,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2018,4,Studies of Religion,Humanities and Social Sciences,10656.0,4.37,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2018,5,Industrial Technology and Trades,Technology and Business,7852.0,3.22,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2019,1,Biology,Science,17092.0,7.08,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2019,2,Physical Education,Health and Physical Education,11646.0,4.83,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2019,3,Studies of Religion,Humanities and Social Sciences,10469.0,4.34,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2019,4,Chemistry,Science,10274.0,4.26,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2019,5,Industrial Technology and Trades,Technology and Business,8417.0,3.49,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2020,1,Biology,Science,17691.0,7.08,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2020,2,Physical Education,Health and Physical Education,12397.0,4.96,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2020,3,Chemistry,Science,10403.0,4.16,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2020,4,Studies of Religion,Humanities and Social Sciences,10299.0,4.12,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2020,5,Industrial Technology and Trades,Technology and Business,9257.0,3.7,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2021,1,Biology,Science,17786.0,7.04,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2021,2,Physical Education,Health and Physical Education,13290.0,5.26,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2021,3,Studies of Religion,Humanities and Social Sciences,10236.0,4.05,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2021,4,Chemistry,Science,9994.0,3.95,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2021,5,Industrial Technology and Trades,Technology and Business,9959.0,3.94,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2022,1,Biology,Science,17538.0,6.94,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2022,2,Physical Education,Health and Physical Education,13526.0,5.35,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2022,3,Studies of Religion,Humanities and Social Sciences,10278.0,4.06,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2022,4,Industrial Technology and Trades,Technology and Business,10198.0,4.03,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2022,5,Chemistry,Science,9485.0,3.75,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2023,1,Biology,Science,18004.0,6.79,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2023,2,Physical Education,Health and Physical Education,14329.0,5.4,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2023,3,Industrial Technology and Trades,Technology and Business,11441.0,4.32,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2023,4,Studies of Religion,Humanities and Social Sciences,10579.0,3.99,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2023,5,Chemistry,Science,9755.0,3.68,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2024,1,Biology,Science,18884.0,6.78,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2024,2,Physical Education,Health and Physical Education,14896.0,5.35,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2024,3,Industrial Technology and Trades,Technology and Business,12524.0,4.49,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2024,4,Studies of Religion,Humanities and Social Sciences,10842.0,3.89,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2024,5,Chemistry,Science,10454.0,3.75,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2025,1,Biology,Science,19215.0,6.76,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2025,2,Physical Education,Health and Physical Education,15164.0,5.34,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2025,3,Industrial Technology and Trades,Technology and Business,13480.0,4.74,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2025,4,Studies of Religion,Humanities and Social Sciences,11047.0,3.89,122.0,-26.0,Perth,115.86,-31.95
+WA,Western Australia,2025,5,Chemistry,Science,10528.0,3.71,122.0,-26.0,Perth,115.86,-31.95
