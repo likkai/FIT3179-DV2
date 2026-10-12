@@ -8,9 +8,7 @@
     ]
   },
   "width": "container",
-  "height": {
-    "step": 30
-  },
+  "height": "container",
   "autosize": {
     "type": "fit",
     "contains": "padding"
