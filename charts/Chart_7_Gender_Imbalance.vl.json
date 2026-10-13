@@ -7,8 +7,8 @@
       "Each dot is a state, the grey line spans the lowest to the highest state"
     ]
   },
-  "width": "container",
-  "height": "container",
+  "width": 450,
+  "height": 600,
   "autosize": {
     "type": "fit",
     "contains": "padding"
@@ -69,8 +69,20 @@
       "filter": "datum.group_type === 'subject' && datum.year_level === 'Year 11-12 combined'"
     },
     {
-      "calculate": "datum.low_count === 'yes' ? 'Fewer than 50 students' : '50 or more students'",
-      "as": "sample"
+      "lookup": "group",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main//data/stem_lookup.csv"
+        },
+        "key": "group",
+        "fields": [
+          "is_stem"
+        ]
+      }
+    },
+    {
+      "calculate": "datum.is_stem === 'yes' ? 'STEM' : 'Non-STEM'",
+      "as": "stem_label"
     },
     {
       "calculate": "datum.year === 2025 ? datum.female_share_pct : null",
@@ -272,6 +284,7 @@
       "mark": {
         "type": "circle",
         "filled": true,
+        "stroke": "#fbfaf7",
         "strokeWidth": 1.5
       },
       "encoding": {
@@ -341,6 +354,10 @@
             "title": "Subject"
           },
           {
+            "field": "stem_label",
+            "title": "Subject type"
+          },
+          {
             "field": "female_share_pct",
             "title": "Girls (%)",
             "format": ".1f"
@@ -349,34 +366,24 @@
             "field": "enrolments",
             "title": "Enrolments",
             "format": ",.0f"
-          },
-          {
-            "field": "low_count",
-            "title": "Fewer than 50 students?"
           }
         ],
         "fill": {
-          "condition": [
-            {
-              "test": "datum.state === highlightState && datum.low_count === 'yes'",
-              "value": "#fbfaf7"
-            },
-            {
-              "test": "datum.state === highlightState",
-              "value": "#1d1c1a"
-            }
-          ],
-          "field": "sample",
+          "condition": {
+            "test": "datum.state === highlightState",
+            "value": "#1d1c1a"
+          },
+          "field": "stem_label",
           "type": "nominal",
-          "title": "Sample size",
+          "title": "Subject type",
           "scale": {
             "domain": [
-              "50 or more students",
-              "Fewer than 50 students"
+              "STEM",
+              "Non-STEM"
             ],
             "range": [
-              "#9e9c95",
-              "rgba(255,255,255,0)"
+              "#45966c",
+              "#9e9c95"
             ]
           },
           "legend": {
@@ -384,41 +391,16 @@
             "direction": "horizontal",
             "symbolType": "circle",
             "symbolSize": 90,
-            "symbolStrokeWidth": 1.8,
             "titleFontSize": 11,
             "labelFontSize": 11
           }
-        },
-        "stroke": {
-          "field": "sample",
-          "type": "nominal",
-          "scale": {
-            "domain": [
-              "50 or more students",
-              "Fewer than 50 students"
-            ],
-            "range": [
-              "#fbfaf7",
-              "#1d1c1a"
-            ]
-          },
-          "legend": {
-            "orient": "bottom",
-            "direction": "horizontal",
-            "symbolType": "circle",
-            "symbolSize": 90,
-            "symbolStrokeWidth": 1.8,
-            "titleFontSize": 11,
-            "labelFontSize": 11
-          },
-          "title": "Sample size"
         },
         "opacity": {
           "condition": {
             "test": "datum.state === highlightState",
             "value": 1
           },
-          "value": 0.7
+          "value": 0.85
         }
       }
     },
