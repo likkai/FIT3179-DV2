@@ -1,0 +1,296 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Popularity of Each Learning Area by State",
+  "title": {
+    "text": "Popularity of Each Learning Area by State",
+    "subtitle": [
+      "Vocational and other courses are excluded as",
+      "some states count extra courses that others do not."
+    ],
+    "anchor": "start"
+  },
+  "width": 600,
+  "height": 440,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "params": [
+    {
+      "name": "learningArea",
+      "value": "Science",
+      "bind": {
+        "input": "select",
+        "name": "Learning area ",
+        "options": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Humanities and Social Sciences",
+          "The Arts",
+          "Technology and Business",
+          "Health and Physical Education",
+          "Languages"
+        ]
+      }
+    },
+    {
+      "name": "selectedYear",
+      "value": 2025,
+      "bind": {
+        "input": "range",
+        "min": 2021,
+        "max": 2025,
+        "step": 1,
+        "name": "Year "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "description": "Base layer: every state in neutral grey (shows through if data are missing).",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e9e7e1",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "description": "Choropleth fill for the selected learning area and year.",
+      "data": {
+        "url": "../data/national_learning_area.csv",
+        "format": {
+          "parse": {
+            "year": "number",
+            "enrolments": "number",
+            "state_total_enrolments": "number",
+            "share_of_all_pct": "number",
+            "share_excl_vocational_other_pct": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area === learningArea && datum.year === selectedYear"
+        },
+        {
+          "window": [
+            {
+              "op": "rank",
+              "as": "rank"
+            }
+          ],
+          "sort": [
+            {
+              "field": "share_excl_vocational_other_pct",
+              "order": "descending"
+            }
+          ]
+        },
+        {
+          "lookup": "state_name",
+          "from": {
+            "data": {
+              "url": "../australia_states.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "states"
+              }
+            },
+            "key": "properties.state_name"
+          },
+          "as": "geo"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "share_excl_vocational_other_pct",
+          "type": "quantitative",
+          "title": "% of enrolments",
+          "scale": {
+            "range": [
+              "#cde2fb",
+              "#86b6ef",
+              "#3987e5",
+              "#1c5cab",
+              "#0d366b"
+            ],
+            "zero": false,
+            "nice": true
+          },
+          "legend": {
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "gradientLength": 180,
+            "format": ".0f"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state_name",
+            "title": "State"
+          },
+          {
+            "field": "learning_area",
+            "title": "Learning area"
+          },
+          {
+            "field": "share_excl_vocational_other_pct",
+            "title": "Share of enrolments (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "rank",
+            "title": "Rank (of 8 states)"
+          },
+          {
+            "field": "year",
+            "title": "Year"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Invisible layer: feeds all 2021-2025 values into the colour scale so colours stay comparable as the year slider moves.",
+      "data": {
+        "url": "../data/national_learning_area.csv",
+        "format": {
+          "parse": {
+            "year": "number",
+            "enrolments": "number",
+            "state_total_enrolments": "number",
+            "share_of_all_pct": "number",
+            "share_excl_vocational_other_pct": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area === learningArea && datum.year >= 2021"
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "opacity": 0
+      },
+      "encoding": {
+        "color": {
+          "field": "share_excl_vocational_other_pct",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "description": "Direct labels: state code and value; white text on dark fills.",
+      "data": {
+        "url": "../data/national_learning_area.csv",
+        "format": {
+          "parse": {
+            "year": "number",
+            "enrolments": "number",
+            "state_total_enrolments": "number",
+            "share_of_all_pct": "number",
+            "share_excl_vocational_other_pct": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area === learningArea && datum.year >= 2021"
+        },
+        {
+          "joinaggregate": [
+            {
+              "op": "min",
+              "field": "share_excl_vocational_other_pct",
+              "as": "lo"
+            },
+            {
+              "op": "max",
+              "field": "share_excl_vocational_other_pct",
+              "as": "hi"
+            }
+          ]
+        },
+        {
+          "filter": "datum.year === selectedYear"
+        },
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "../data/aus_states_reference.csv",
+              "format": {
+                "parse": {
+                  "capital_lon": "number",
+                  "capital_lat": "number",
+                  "symbol_lon": "number",
+                  "symbol_lat": "number"
+                }
+              }
+            },
+            "key": "state",
+            "fields": [
+              "symbol_lon",
+              "symbol_lat"
+            ]
+          }
+        },
+        {
+          "calculate": "datum.state + ' ' + format(datum.share_excl_vocational_other_pct, '.1f') + '%'",
+          "as": "label"
+        },
+        {
+          "calculate": "datum.state === 'TAS' ? 151.2 : datum.symbol_lon",
+          "as": "label_lon"
+        },
+        {
+          "calculate": "datum.state === 'TAS' ? -42.4 : datum.symbol_lat",
+          "as": "label_lat"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "longitude": {
+          "field": "label_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "label_lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.state !== 'ACT' && datum.state !== 'TAS' && datum.share_excl_vocational_other_pct >= datum.lo + 0.6 * (datum.hi - datum.lo)",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      }
+    }
+  ]
+}
