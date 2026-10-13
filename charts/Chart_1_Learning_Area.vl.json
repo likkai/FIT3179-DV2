@@ -5,7 +5,8 @@
     "text": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
     "anchor": "start",
     "subtitle": [
-      "Hover a line to highlight it", "pp = percentage points"
+      "Hover a line to highlight it",
+      "pp = percentage points"
     ]
   },
   "width": "container",
@@ -164,7 +165,9 @@
         "y": {
           "field": "proportion_pct",
           "type": "quantitative",
-          "axis": null
+          "axis": {
+            "title": "Proportion"
+          }
         },
         "detail": {
           "field": "learning_area"
