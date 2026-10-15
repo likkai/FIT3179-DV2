@@ -9,7 +9,7 @@
     "type": "fit",
     "contains": "padding"
   },
-  "height": 440,
+  "height": "container",
   "projection": {
     "type": "conicEqualArea",
     "parallels": [

@@ -1,0 +1,393 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Female vs male enrolments in a chosen subject",
+  "title": {
+    "text": "Female vs male enrolments in a chosen subject"
+  },
+  "width": "container",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "height": "container",
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0,
+      0
+    ]
+  },
+  "params": [
+    {
+      "name": "subject",
+      "value": "Physics",
+      "bind": {
+        "input": "select",
+        "name": "Subject ",
+        "options": [
+          "Accounting",
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Computing and IT",
+          "Drama",
+          "Economics",
+          "Engineering",
+          "English",
+          "Mathematics",
+          "Music",
+          "Physical Education",
+          "Physics",
+          "Psychology",
+          "Studies of Religion",
+          "Visual Arts"
+        ]
+      }
+    },
+    {
+      "name": "selectedYear",
+      "value": 2025,
+      "bind": {
+        "input": "range",
+        "min": 2021,
+        "max": 2025,
+        "step": 1,
+        "name": "Year "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/australia_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ecebe5",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.2
+      }
+    },
+    {
+      "description": "Leader lines from each capital to its donut (donuts offset so the south-east does not overlap).",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "format": {
+          "parse": {
+            "capital_lon": "number",
+            "capital_lat": "number",
+            "symbol_lon": "number",
+            "symbol_lat": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.state !== 'NT'"
+        },
+        {
+          "calculate": "{NSW: [148.5, -31.0], VIC: [142.0, -40.2], QLD: [144.5, -22.5], SA: [135.5, -30.0], WA: [122.0, -26.0], TAS: [152.0, -43.2], NT: [133.0, -19.5], ACT: [155.5, -35.6]}[datum.state]",
+          "as": "pos"
+        },
+        {
+          "calculate": "datum.pos[0]",
+          "as": "sym_lon"
+        },
+        {
+          "calculate": "datum.pos[1]",
+          "as": "sym_lat"
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "color": "#a9a79f",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "capital_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "capital_lat",
+          "type": "quantitative"
+        },
+        "longitude2": {
+          "field": "sym_lon"
+        },
+        "latitude2": {
+          "field": "sym_lat"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "format": {
+          "parse": {
+            "capital_lon": "number",
+            "capital_lat": "number",
+            "symbol_lon": "number",
+            "symbol_lat": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.state !== 'NT'"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 14,
+        "color": "#807e78"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "capital_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "capital_lat",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "description": "One donut per state. Angles are computed explicitly (radians) so each state's donut sums to a full circle.",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/national_gender_by_subject.csv",
+        "format": {
+          "parse": {
+            "year": "number",
+            "enrolments": "number",
+            "female": "number",
+            "male": "number",
+            "female_share_pct": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.group_type === 'subject' && datum.year_level === 'Year 11-12 combined' && datum.group === subject && datum.year === selectedYear && isValid(datum.female_share_pct)"
+        },
+        {
+          "calculate": "{NSW: [148.5, -31.0], VIC: [142.0, -40.2], QLD: [144.5, -22.5], SA: [135.5, -30.0], WA: [122.0, -26.0], TAS: [152.0, -43.2], NT: [133.0, -19.5], ACT: [155.5, -35.6]}[datum.state]",
+          "as": "pos"
+        },
+        {
+          "calculate": "datum.pos[0]",
+          "as": "sym_lon"
+        },
+        {
+          "calculate": "datum.pos[1]",
+          "as": "sym_lat"
+        },
+        {
+          "fold": [
+            "female",
+            "male"
+          ],
+          "as": [
+            "gender",
+            "students"
+          ]
+        },
+        {
+          "calculate": "datum.gender === 'female' ? 'Female' : 'Male'",
+          "as": "gender"
+        },
+        {
+          "calculate": "datum.gender === 'Female' ? datum.female_share_pct : 100 - datum.female_share_pct",
+          "as": "gender_share"
+        },
+        {
+          "calculate": "datum.gender === 'Female' ? 0 : 2 * PI * datum.female_share_pct / 100",
+          "as": "angle_start"
+        },
+        {
+          "calculate": "datum.gender === 'Female' ? 2 * PI * datum.female_share_pct / 100 : 2 * PI",
+          "as": "angle_end"
+        }
+      ],
+      "mark": {
+        "type": "arc",
+        "innerRadius": 14,
+        "outerRadius": 28,
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "longitude": {
+          "field": "sym_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "sym_lat",
+          "type": "quantitative"
+        },
+        "theta": {
+          "field": "angle_start",
+          "type": "quantitative",
+          "scale": null
+        },
+        "theta2": {
+          "field": "angle_end"
+        },
+        "color": {
+          "field": "gender",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Female",
+              "Male"
+            ],
+            "range": [
+              "#d95f02",
+              "#4a3aa7"
+            ]
+          },
+          "legend": {
+            "orient": "bottom",
+            "direction": "horizontal",
+            "symbolType": "circle",
+            "offset": 60
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state_name",
+            "title": "State"
+          },
+          {
+            "field": "group",
+            "title": "Subject"
+          },
+          {
+            "field": "gender",
+            "title": "Gender"
+          },
+          {
+            "field": "students",
+            "title": "Enrolments",
+            "format": ",.0f"
+          },
+          {
+            "field": "gender_share",
+            "title": "Share (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "gender_note",
+            "title": "Note"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Label: state code and female share under each donut.",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/national_gender_by_subject.csv",
+        "format": {
+          "parse": {
+            "year": "number",
+            "enrolments": "number",
+            "female": "number",
+            "male": "number",
+            "female_share_pct": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.group_type === 'subject' && datum.year_level === 'Year 11-12 combined' && datum.group === subject && datum.year === selectedYear && isValid(datum.female_share_pct)"
+        },
+        {
+          "calculate": "{NSW: [148.5, -31.0], VIC: [142.0, -40.2], QLD: [144.5, -22.5], SA: [135.5, -30.0], WA: [122.0, -26.0], TAS: [152.0, -43.2], NT: [133.0, -19.5], ACT: [155.5, -35.6]}[datum.state]",
+          "as": "pos"
+        },
+        {
+          "calculate": "datum.pos[0]",
+          "as": "sym_lon"
+        },
+        {
+          "calculate": "datum.pos[1]",
+          "as": "sym_lat"
+        },
+        {
+          "calculate": "datum.state + ' · ' + format(datum.female_share_pct, '.0f') + '% girls'",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "dy": 40,
+        "fontSize": 11.5,
+        "fontWeight": 600,
+        "color": "#1d1c1a"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "sym_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "sym_lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        }
+      }
+    },
+    {
+      "description": "Northern Territory publishes no gender split - say so on the map rather than leave a gap.",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "format": {
+          "parse": {
+            "capital_lon": "number",
+            "capital_lat": "number",
+            "symbol_lon": "number",
+            "symbol_lat": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.state === 'NT'"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "color": "#807e78",
+        "lineBreak": "\n"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "symbol_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "symbol_lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "value": "NT: no gender\ndata published"
+        }
+      }
+    }
+  ]
+}
