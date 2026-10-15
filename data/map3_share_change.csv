@@ -1,0 +1,353 @@
+state,state_name,year_level,window,start_year,end_year,learning_area,share_start_pct,share_end_pct,change_pp
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,English,19.44,19.36,-0.08
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,18.08,17.8,-0.28
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Science,15.82,15.29,-0.53
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,14.83,14.7,-0.13
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Languages,3.34,3.46,0.12
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,8.13,6.92,-1.21
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,12.67,13.65,0.98
+ACT,Australian Capital Territory,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,7.69,8.82,1.13
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,English,19.44,19.36,-0.08
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Mathematics,18.08,17.8,-0.28
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Science,15.82,15.29,-0.53
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,14.83,14.7,-0.13
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Languages,3.34,3.46,0.12
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,The Arts,8.13,6.92,-1.21
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Technology and Business,12.67,13.65,0.98
+ACT,Australian Capital Territory,Year 12,common_2021_2025,2021,2025,Health and Physical Education,7.69,8.82,1.13
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,English,20.01,20.3,0.29
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Mathematics,18.65,18.13,-0.52
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Science,14.62,14.83,0.21
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,15.41,15.62,0.21
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Languages,1.88,1.72,-0.16
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,The Arts,6.31,6.24,-0.07
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Technology and Business,14.63,14.58,-0.05
+NSW,New South Wales,Year 11,common_2021_2025,2021,2025,Health and Physical Education,8.48,8.57,0.09
+NSW,New South Wales,Year 11,longest_available,2012,2025,English,19.64,20.3,0.66
+NSW,New South Wales,Year 11,longest_available,2012,2025,Mathematics,18.53,18.13,-0.4
+NSW,New South Wales,Year 11,longest_available,2012,2025,Science,14.55,14.83,0.28
+NSW,New South Wales,Year 11,longest_available,2012,2025,Humanities and Social Sciences,15.73,15.62,-0.11
+NSW,New South Wales,Year 11,longest_available,2012,2025,Languages,2.22,1.72,-0.5
+NSW,New South Wales,Year 11,longest_available,2012,2025,The Arts,7.26,6.24,-1.02
+NSW,New South Wales,Year 11,longest_available,2012,2025,Technology and Business,14.89,14.58,-0.31
+NSW,New South Wales,Year 11,longest_available,2012,2025,Health and Physical Education,7.17,8.57,1.4
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,English,21.05,21.39,0.34
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,19.18,18.84,-0.34
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Science,14.3,14.46,0.16
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,15.0,15.0,0.0
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Languages,1.9,1.73,-0.17
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,6.43,6.23,-0.2
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,13.63,13.86,0.23
+NSW,New South Wales,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,8.51,8.49,-0.02
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,English,20.5,21.39,0.89
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Mathematics,18.91,18.84,-0.07
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Science,14.43,14.46,0.03
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Humanities and Social Sciences,15.57,15.0,-0.57
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Languages,2.29,1.73,-0.56
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,The Arts,7.18,6.23,-0.95
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Technology and Business,14.12,13.86,-0.26
+NSW,New South Wales,Year 11-12 combined,longest_available,2012,2025,Health and Physical Education,7.0,8.49,1.49
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,English,22.4,22.75,0.35
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Mathematics,19.88,19.73,-0.15
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Science,13.87,13.99,0.12
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,14.46,14.22,-0.24
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Languages,1.93,1.75,-0.18
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,The Arts,6.59,6.21,-0.38
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Technology and Business,12.33,12.96,0.63
+NSW,New South Wales,Year 12,common_2021_2025,2021,2025,Health and Physical Education,8.55,8.38,-0.17
+NSW,New South Wales,Year 12,longest_available,2012,2025,English,21.63,22.75,1.12
+NSW,New South Wales,Year 12,longest_available,2012,2025,Mathematics,19.41,19.73,0.32
+NSW,New South Wales,Year 12,longest_available,2012,2025,Science,14.27,13.99,-0.28
+NSW,New South Wales,Year 12,longest_available,2012,2025,Humanities and Social Sciences,15.36,14.22,-1.14
+NSW,New South Wales,Year 12,longest_available,2012,2025,Languages,2.38,1.75,-0.63
+NSW,New South Wales,Year 12,longest_available,2012,2025,The Arts,7.07,6.21,-0.86
+NSW,New South Wales,Year 12,longest_available,2012,2025,Technology and Business,13.12,12.96,-0.16
+NSW,New South Wales,Year 12,longest_available,2012,2025,Health and Physical Education,6.77,8.38,1.61
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,English,21.66,23.23,1.57
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Mathematics,20.16,20.58,0.42
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Science,16.18,15.51,-0.67
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,7.57,8.46,0.89
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Languages,2.79,2.57,-0.22
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,The Arts,9.11,9.76,0.65
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Technology and Business,10.96,9.78,-1.18
+NT,Northern Territory,Year 11,common_2021_2025,2021,2025,Health and Physical Education,11.57,10.11,-1.46
+NT,Northern Territory,Year 11,longest_available,2011,2025,English,17.94,23.23,5.29
+NT,Northern Territory,Year 11,longest_available,2011,2025,Mathematics,19.84,20.58,0.74
+NT,Northern Territory,Year 11,longest_available,2011,2025,Science,16.15,15.51,-0.64
+NT,Northern Territory,Year 11,longest_available,2011,2025,Humanities and Social Sciences,7.39,8.46,1.07
+NT,Northern Territory,Year 11,longest_available,2011,2025,Languages,2.84,2.57,-0.27
+NT,Northern Territory,Year 11,longest_available,2011,2025,The Arts,12.88,9.76,-3.12
+NT,Northern Territory,Year 11,longest_available,2011,2025,Technology and Business,11.93,9.78,-2.15
+NT,Northern Territory,Year 11,longest_available,2011,2025,Health and Physical Education,11.03,10.11,-0.92
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,English,22.12,23.11,0.99
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,19.83,19.68,-0.15
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Science,16.98,15.78,-1.2
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,7.81,9.01,1.2
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Languages,2.66,2.66,0.0
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,8.77,9.73,0.96
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,10.68,9.94,-0.74
+NT,Northern Territory,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,11.16,10.08,-1.08
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,English,19.14,23.11,3.97
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Mathematics,19.72,19.68,-0.04
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Science,16.1,15.78,-0.32
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Humanities and Social Sciences,7.51,9.01,1.5
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Languages,2.74,2.66,-0.08
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,The Arts,12.75,9.73,-3.02
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Technology and Business,11.74,9.94,-1.8
+NT,Northern Territory,Year 11-12 combined,longest_available,2011,2025,Health and Physical Education,10.3,10.08,-0.22
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,English,23.75,22.65,-1.1
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Mathematics,18.69,16.23,-2.46
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Science,19.79,16.81,-2.98
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,8.65,11.13,2.48
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Languages,2.17,3.03,0.86
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,The Arts,7.56,9.65,2.09
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Technology and Business,9.67,10.53,0.86
+NT,Northern Territory,Year 12,common_2021_2025,2021,2025,Health and Physical Education,9.73,9.97,0.24
+NT,Northern Territory,Year 12,longest_available,2011,2025,English,23.7,22.65,-1.05
+NT,Northern Territory,Year 12,longest_available,2011,2025,Mathematics,19.27,16.23,-3.04
+NT,Northern Territory,Year 12,longest_available,2011,2025,Science,15.91,16.81,0.9
+NT,Northern Territory,Year 12,longest_available,2011,2025,Humanities and Social Sciences,7.93,11.13,3.2
+NT,Northern Territory,Year 12,longest_available,2011,2025,Languages,2.34,3.03,0.69
+NT,Northern Territory,Year 12,longest_available,2011,2025,The Arts,12.28,9.65,-2.63
+NT,Northern Territory,Year 12,longest_available,2011,2025,Technology and Business,11.06,10.53,-0.53
+NT,Northern Territory,Year 12,longest_available,2011,2025,Health and Physical Education,7.51,9.97,2.46
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,English,20.88,20.85,-0.03
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Mathematics,21.94,22.68,0.74
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Science,15.96,16.84,0.88
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,13.59,14.55,0.96
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Languages,1.33,1.3,-0.03
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,The Arts,8.19,6.96,-1.23
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Technology and Business,9.16,8.23,-0.93
+QLD,Queensland,Year 11,common_2021_2025,2021,2025,Health and Physical Education,8.96,8.58,-0.38
+QLD,Queensland,Year 11,longest_available,2019,2025,English,20.5,20.85,0.35
+QLD,Queensland,Year 11,longest_available,2019,2025,Mathematics,21.76,22.68,0.92
+QLD,Queensland,Year 11,longest_available,2019,2025,Science,15.59,16.84,1.25
+QLD,Queensland,Year 11,longest_available,2019,2025,Humanities and Social Sciences,13.07,14.55,1.48
+QLD,Queensland,Year 11,longest_available,2019,2025,Languages,1.52,1.3,-0.22
+QLD,Queensland,Year 11,longest_available,2019,2025,The Arts,8.99,6.96,-2.03
+QLD,Queensland,Year 11,longest_available,2019,2025,Technology and Business,9.75,8.23,-1.52
+QLD,Queensland,Year 11,longest_available,2019,2025,Health and Physical Education,8.81,8.58,-0.23
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,English,21.13,21.14,0.01
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,21.88,22.61,0.73
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Science,15.49,16.43,0.94
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,13.66,14.52,0.86
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Languages,1.39,1.29,-0.1
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,8.63,7.23,-1.4
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,9.04,8.22,-0.82
+QLD,Queensland,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,8.77,8.56,-0.21
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,English,21.02,21.14,0.12
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Mathematics,21.86,22.61,0.75
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Science,15.16,16.43,1.27
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Humanities and Social Sciences,13.46,14.52,1.06
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Languages,1.47,1.29,-0.18
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,The Arts,9.03,7.23,-1.8
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Technology and Business,9.32,8.22,-1.1
+QLD,Queensland,Year 11-12 combined,longest_available,2020,2025,Health and Physical Education,8.69,8.56,-0.13
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,English,21.41,21.46,0.05
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Mathematics,21.81,22.52,0.71
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Science,14.96,15.96,1.0
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,13.74,14.47,0.73
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Languages,1.46,1.28,-0.18
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,The Arts,9.14,7.54,-1.6
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Technology and Business,8.91,8.21,-0.7
+QLD,Queensland,Year 12,common_2021_2025,2021,2025,Health and Physical Education,8.56,8.55,-0.01
+QLD,Queensland,Year 12,longest_available,2020,2025,English,21.3,21.46,0.16
+QLD,Queensland,Year 12,longest_available,2020,2025,Mathematics,21.88,22.52,0.64
+QLD,Queensland,Year 12,longest_available,2020,2025,Science,14.72,15.96,1.24
+QLD,Queensland,Year 12,longest_available,2020,2025,Humanities and Social Sciences,13.15,14.47,1.32
+QLD,Queensland,Year 12,longest_available,2020,2025,Languages,1.55,1.28,-0.27
+QLD,Queensland,Year 12,longest_available,2020,2025,The Arts,9.37,7.54,-1.83
+QLD,Queensland,Year 12,longest_available,2020,2025,Technology and Business,9.35,8.21,-1.14
+QLD,Queensland,Year 12,longest_available,2020,2025,Health and Physical Education,8.68,8.55,-0.13
+SA,South Australia,Year 11,common_2021_2025,2021,2025,English,20.76,20.86,0.1
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Mathematics,20.88,20.24,-0.64
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Science,19.23,17.63,-1.6
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,8.22,9.31,1.09
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Languages,1.46,1.54,0.08
+SA,South Australia,Year 11,common_2021_2025,2021,2025,The Arts,7.14,6.79,-0.35
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Technology and Business,13.43,14.28,0.85
+SA,South Australia,Year 11,common_2021_2025,2021,2025,Health and Physical Education,8.88,9.37,0.49
+SA,South Australia,Year 11,longest_available,2012,2025,English,18.19,20.86,2.67
+SA,South Australia,Year 11,longest_available,2012,2025,Mathematics,20.75,20.24,-0.51
+SA,South Australia,Year 11,longest_available,2012,2025,Science,17.13,17.63,0.5
+SA,South Australia,Year 11,longest_available,2012,2025,Humanities and Social Sciences,9.51,9.31,-0.2
+SA,South Australia,Year 11,longest_available,2012,2025,Languages,1.76,1.54,-0.22
+SA,South Australia,Year 11,longest_available,2012,2025,The Arts,9.21,6.79,-2.42
+SA,South Australia,Year 11,longest_available,2012,2025,Technology and Business,15.0,14.28,-0.72
+SA,South Australia,Year 11,longest_available,2012,2025,Health and Physical Education,8.45,9.37,0.92
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,English,20.56,20.36,-0.2
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,19.66,18.94,-0.72
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Science,19.46,18.0,-1.46
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,8.47,9.42,0.95
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Languages,1.62,1.68,0.06
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,7.31,7.15,-0.16
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,13.77,14.58,0.81
+SA,South Australia,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,9.15,9.89,0.74
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,English,18.19,20.36,2.17
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Mathematics,19.2,18.94,-0.26
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Science,17.68,18.0,0.32
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Humanities and Social Sciences,9.48,9.42,-0.06
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Languages,1.9,1.68,-0.22
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,The Arts,9.19,7.15,-2.04
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Technology and Business,15.78,14.58,-1.2
+SA,South Australia,Year 11-12 combined,longest_available,2012,2025,Health and Physical Education,8.59,9.89,1.3
+SA,South Australia,Year 12,common_2021_2025,2021,2025,English,20.21,19.51,-0.7
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Mathematics,17.6,16.73,-0.87
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Science,19.86,18.63,-1.23
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,8.88,9.6,0.72
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Languages,1.89,1.91,0.02
+SA,South Australia,Year 12,common_2021_2025,2021,2025,The Arts,7.59,7.78,0.19
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Technology and Business,14.36,15.09,0.73
+SA,South Australia,Year 12,common_2021_2025,2021,2025,Health and Physical Education,9.6,10.76,1.16
+SA,South Australia,Year 12,longest_available,2012,2025,English,18.18,19.51,1.33
+SA,South Australia,Year 12,longest_available,2012,2025,Mathematics,16.51,16.73,0.22
+SA,South Australia,Year 12,longest_available,2012,2025,Science,18.63,18.63,0.0
+SA,South Australia,Year 12,longest_available,2012,2025,Humanities and Social Sciences,9.42,9.6,0.18
+SA,South Australia,Year 12,longest_available,2012,2025,Languages,2.15,1.91,-0.24
+SA,South Australia,Year 12,longest_available,2012,2025,The Arts,9.14,7.78,-1.36
+SA,South Australia,Year 12,longest_available,2012,2025,Technology and Business,17.13,15.09,-2.04
+SA,South Australia,Year 12,longest_available,2012,2025,Health and Physical Education,8.84,10.76,1.92
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,English,18.71,18.7,-0.01
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Mathematics,22.93,23.13,0.2
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Science,10.45,10.99,0.54
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,12.65,10.79,-1.86
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Languages,1.34,0.91,-0.43
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,The Arts,9.34,8.52,-0.82
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Technology and Business,13.33,13.32,-0.01
+TAS,Tasmania,Year 11,common_2021_2025,2021,2025,Health and Physical Education,11.26,13.63,2.37
+TAS,Tasmania,Year 11,longest_available,2015,2025,English,20.38,18.7,-1.68
+TAS,Tasmania,Year 11,longest_available,2015,2025,Mathematics,22.13,23.13,1.0
+TAS,Tasmania,Year 11,longest_available,2015,2025,Science,11.28,10.99,-0.29
+TAS,Tasmania,Year 11,longest_available,2015,2025,Humanities and Social Sciences,7.69,10.79,3.1
+TAS,Tasmania,Year 11,longest_available,2015,2025,Languages,1.71,0.91,-0.8
+TAS,Tasmania,Year 11,longest_available,2015,2025,The Arts,9.85,8.52,-1.33
+TAS,Tasmania,Year 11,longest_available,2015,2025,Technology and Business,13.92,13.32,-0.6
+TAS,Tasmania,Year 11,longest_available,2015,2025,Health and Physical Education,13.05,13.63,0.58
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,English,14.28,14.27,-0.01
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,16.69,16.64,-0.05
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Science,12.34,12.31,-0.03
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,15.27,12.11,-3.16
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Languages,1.31,0.87,-0.44
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,11.15,10.75,-0.4
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,15.85,16.47,0.62
+TAS,Tasmania,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,13.11,16.58,3.47
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,English,16.21,14.27,-1.94
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Mathematics,17.53,16.64,-0.89
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Science,13.37,12.31,-1.06
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Humanities and Social Sciences,11.02,12.11,1.09
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Languages,1.58,0.87,-0.71
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,The Arts,10.64,10.75,0.11
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Technology and Business,16.15,16.47,0.32
+TAS,Tasmania,Year 11-12 combined,longest_available,2015,2025,Health and Physical Education,13.49,16.58,3.09
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,English,8.81,8.42,-0.39
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Mathematics,8.99,8.08,-0.91
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Science,14.67,14.05,-0.62
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,18.51,13.85,-4.66
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Languages,1.27,0.83,-0.44
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,The Arts,13.38,13.68,0.3
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Technology and Business,18.96,20.62,1.66
+TAS,Tasmania,Year 12,common_2021_2025,2021,2025,Health and Physical Education,15.4,20.47,5.07
+TAS,Tasmania,Year 12,longest_available,2015,2025,English,10.78,8.42,-2.36
+TAS,Tasmania,Year 12,longest_available,2015,2025,Mathematics,11.56,8.08,-3.48
+TAS,Tasmania,Year 12,longest_available,2015,2025,Science,16.09,14.05,-2.04
+TAS,Tasmania,Year 12,longest_available,2015,2025,Humanities and Social Sciences,15.35,13.85,-1.5
+TAS,Tasmania,Year 12,longest_available,2015,2025,Languages,1.42,0.83,-0.59
+TAS,Tasmania,Year 12,longest_available,2015,2025,The Arts,11.68,13.68,2.0
+TAS,Tasmania,Year 12,longest_available,2015,2025,Technology and Business,19.05,20.62,1.57
+TAS,Tasmania,Year 12,longest_available,2015,2025,Health and Physical Education,14.07,20.47,6.4
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,English,17.9,18.1,0.2
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Mathematics,18.91,19.32,0.41
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Science,20.33,19.72,-0.61
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,12.61,12.4,-0.21
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Languages,2.7,2.49,-0.21
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,The Arts,6.95,6.21,-0.74
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Technology and Business,11.41,12.2,0.79
+VIC,Victoria,Year 11,common_2021_2025,2021,2025,Health and Physical Education,9.2,9.56,0.36
+VIC,Victoria,Year 11,longest_available,2014,2025,English,18.51,18.1,-0.41
+VIC,Victoria,Year 11,longest_available,2014,2025,Mathematics,19.31,19.32,0.01
+VIC,Victoria,Year 11,longest_available,2014,2025,Science,18.17,19.72,1.55
+VIC,Victoria,Year 11,longest_available,2014,2025,Humanities and Social Sciences,12.35,12.4,0.05
+VIC,Victoria,Year 11,longest_available,2014,2025,Languages,3.13,2.49,-0.64
+VIC,Victoria,Year 11,longest_available,2014,2025,The Arts,8.77,6.21,-2.56
+VIC,Victoria,Year 11,longest_available,2014,2025,Technology and Business,11.06,12.2,1.14
+VIC,Victoria,Year 11,longest_available,2014,2025,Health and Physical Education,8.71,9.56,0.85
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,English,18.68,18.79,0.11
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,19.07,19.78,0.71
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Science,19.86,19.06,-0.8
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,11.57,11.31,-0.26
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Languages,2.96,2.69,-0.27
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,7.02,6.37,-0.65
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,11.2,11.89,0.69
+VIC,Victoria,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,9.63,10.12,0.49
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,English,19.18,18.79,-0.39
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Mathematics,19.1,19.78,0.68
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Science,17.89,19.06,1.17
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Humanities and Social Sciences,11.36,11.31,-0.05
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Languages,3.4,2.69,-0.71
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,The Arts,8.64,6.37,-2.27
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Technology and Business,11.12,11.89,0.77
+VIC,Victoria,Year 11-12 combined,longest_available,2014,2025,Health and Physical Education,9.3,10.12,0.82
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,English,19.63,19.61,-0.02
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Mathematics,19.27,20.32,1.05
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Science,19.29,18.27,-1.02
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,10.32,10.01,-0.31
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Languages,3.27,2.93,-0.34
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,The Arts,7.1,6.55,-0.55
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Technology and Business,10.95,11.52,0.57
+VIC,Victoria,Year 12,common_2021_2025,2021,2025,Health and Physical Education,10.16,10.79,0.63
+VIC,Victoria,Year 12,longest_available,2014,2025,English,20.0,19.61,-0.39
+VIC,Victoria,Year 12,longest_available,2014,2025,Mathematics,18.86,20.32,1.46
+VIC,Victoria,Year 12,longest_available,2014,2025,Science,17.55,18.27,0.72
+VIC,Victoria,Year 12,longest_available,2014,2025,Humanities and Social Sciences,10.15,10.01,-0.14
+VIC,Victoria,Year 12,longest_available,2014,2025,Languages,3.74,2.93,-0.81
+VIC,Victoria,Year 12,longest_available,2014,2025,The Arts,8.48,6.55,-1.93
+VIC,Victoria,Year 12,longest_available,2014,2025,Technology and Business,11.19,11.52,0.33
+VIC,Victoria,Year 12,longest_available,2014,2025,Health and Physical Education,10.04,10.79,0.75
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,English,20.4,20.19,-0.21
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Mathematics,20.19,19.92,-0.27
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Science,18.27,18.18,-0.09
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Humanities and Social Sciences,10.85,9.75,-1.1
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Languages,0.93,0.81,-0.12
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,The Arts,5.12,5.16,0.04
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Technology and Business,13.66,14.95,1.29
+WA,Western Australia,Year 11,common_2021_2025,2021,2025,Health and Physical Education,10.59,11.05,0.46
+WA,Western Australia,Year 11,longest_available,2012,2025,English,19.66,20.19,0.53
+WA,Western Australia,Year 11,longest_available,2012,2025,Mathematics,19.59,19.92,0.33
+WA,Western Australia,Year 11,longest_available,2012,2025,Science,16.7,18.18,1.48
+WA,Western Australia,Year 11,longest_available,2012,2025,Humanities and Social Sciences,12.28,9.75,-2.53
+WA,Western Australia,Year 11,longest_available,2012,2025,Languages,1.28,0.81,-0.47
+WA,Western Australia,Year 11,longest_available,2012,2025,The Arts,6.99,5.16,-1.83
+WA,Western Australia,Year 11,longest_available,2012,2025,Technology and Business,14.77,14.95,0.18
+WA,Western Australia,Year 11,longest_available,2012,2025,Health and Physical Education,8.74,11.05,2.31
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,English,20.91,20.76,-0.15
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Mathematics,20.42,20.19,-0.23
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Science,17.86,17.6,-0.26
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Humanities and Social Sciences,10.82,9.58,-1.24
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Languages,0.92,0.81,-0.11
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,The Arts,5.25,5.4,0.15
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Technology and Business,13.54,14.68,1.14
+WA,Western Australia,Year 11-12 combined,common_2021_2025,2021,2025,Health and Physical Education,10.27,10.98,0.71
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,English,20.06,20.76,0.7
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Mathematics,19.65,20.19,0.54
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Science,16.57,17.6,1.03
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Humanities and Social Sciences,12.28,9.58,-2.7
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Languages,1.27,0.81,-0.46
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,The Arts,7.05,5.4,-1.65
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Technology and Business,14.45,14.68,0.23
+WA,Western Australia,Year 11-12 combined,longest_available,2012,2025,Health and Physical Education,8.67,10.98,2.31
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,English,21.51,21.4,-0.11
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Mathematics,20.67,20.51,-0.16
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Science,17.39,16.94,-0.45
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Humanities and Social Sciences,10.79,9.4,-1.39
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Languages,0.91,0.82,-0.09
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,The Arts,5.4,5.67,0.27
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Technology and Business,13.42,14.36,0.94
+WA,Western Australia,Year 12,common_2021_2025,2021,2025,Health and Physical Education,9.91,10.9,0.99
+WA,Western Australia,Year 12,longest_available,2012,2025,English,20.55,21.4,0.85
+WA,Western Australia,Year 12,longest_available,2012,2025,Mathematics,19.72,20.51,0.79
+WA,Western Australia,Year 12,longest_available,2012,2025,Science,16.4,16.94,0.54
+WA,Western Australia,Year 12,longest_available,2012,2025,Humanities and Social Sciences,12.29,9.4,-2.89
+WA,Western Australia,Year 12,longest_available,2012,2025,Languages,1.26,0.82,-0.44
+WA,Western Australia,Year 12,longest_available,2012,2025,The Arts,7.14,5.67,-1.47
+WA,Western Australia,Year 12,longest_available,2012,2025,Technology and Business,14.05,14.36,0.31
+WA,Western Australia,Year 12,longest_available,2012,2025,Health and Physical Education,8.59,10.9,2.31
