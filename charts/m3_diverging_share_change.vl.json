@@ -1,0 +1,308 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Change in a learning area's share of enrolments",
+  "title": {
+    "text": "Change in a learning area's share of enrolments"
+  },
+  "width": "container",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "height": 440,
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0,
+      0
+    ]
+  },
+  "params": [
+    {
+      "name": "learningArea",
+      "value": "Humanities and Social Sciences",
+      "bind": {
+        "input": "select",
+        "name": "Learning area ",
+        "options": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Humanities and Social Sciences",
+          "The Arts",
+          "Technology and Business",
+          "Health and Physical Education",
+          "Languages"
+        ]
+      }
+    },
+    {
+      "name": "period",
+      "value": "common_2021_2025",
+      "bind": {
+        "input": "radio",
+        "name": "Period ",
+        "options": [
+          "common_2021_2025",
+          "longest_available"
+        ],
+        "labels": [
+          "2021 → 2025 (all states)",
+          "Longest record per state"
+        ]
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e9e7e1",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/map3_share_change.csv",
+        "format": {
+          "parse": {
+            "start_year": "number",
+            "end_year": "number",
+            "share_start_pct": "number",
+            "share_end_pct": "number",
+            "change_pp": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year_level === 'Year 11-12 combined' && datum.window === period && datum.learning_area === learningArea"
+        },
+        {
+          "lookup": "state_name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "states"
+              }
+            },
+            "key": "properties.state_name"
+          },
+          "as": "geo"
+        },
+        {
+          "calculate": "datum.start_year + ' → ' + datum.end_year",
+          "as": "span"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "change_pp",
+          "type": "quantitative",
+          "title": "Change (pp)",
+          "scale": {
+            "scheme": "redblue",
+            "domainMid": 0
+          },
+          "legend": {
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "gradientLength": 180,
+            "format": "+.1f"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state_name",
+            "title": "State"
+          },
+          {
+            "field": "learning_area",
+            "title": "Learning area"
+          },
+          {
+            "field": "span",
+            "title": "Period"
+          },
+          {
+            "field": "share_start_pct",
+            "title": "Share at start (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "share_end_pct",
+            "title": "Share at end (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "change_pp",
+            "title": "Change (pp)",
+            "format": "+.2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/map3_share_change.csv",
+        "format": {
+          "parse": {
+            "start_year": "number",
+            "end_year": "number",
+            "share_start_pct": "number",
+            "share_end_pct": "number",
+            "change_pp": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year_level === 'Year 11-12 combined' && datum.window === period && datum.learning_area === learningArea"
+        },
+        {
+          "joinaggregate": [
+            {
+              "op": "max",
+              "field": "change_pp",
+              "as": "hi"
+            },
+            {
+              "op": "min",
+              "field": "change_pp",
+              "as": "lo"
+            }
+          ]
+        },
+        {
+          "calculate": "max(abs(datum.hi), abs(datum.lo))",
+          "as": "extent"
+        },
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv",
+              "format": {
+                "parse": {
+                  "capital_lon": "number",
+                  "capital_lat": "number",
+                  "symbol_lon": "number",
+                  "symbol_lat": "number"
+                }
+              }
+            },
+            "key": "state",
+            "fields": [
+              "symbol_lon",
+              "symbol_lat"
+            ]
+          }
+        },
+        {
+          "calculate": "datum.state + ' ' + format(datum.change_pp, '+.1f')",
+          "as": "label"
+        },
+        {
+          "calculate": "datum.state === 'TAS' ? 151.2 : datum.symbol_lon",
+          "as": "label_lon"
+        },
+        {
+          "calculate": "datum.state === 'TAS' ? -42.4 : datum.symbol_lat",
+          "as": "label_lat"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "longitude": {
+          "field": "label_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "label_lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.state !== 'ACT' && datum.state !== 'TAS' && abs(datum.change_pp) > 0.6 * datum.extent",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      }
+    },
+    {
+      "description": "Note for states with no record in the chosen period (ACT has data from 2021 only).",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv",
+        "format": {
+          "parse": {
+            "capital_lon": "number",
+            "capital_lat": "number",
+            "symbol_lon": "number",
+            "symbol_lat": "number"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "period === 'longest_available' && datum.state === 'ACT'"
+        },
+        {
+          "calculate": "'ACT: no earlier data'",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "color": "#807e78",
+        "dy": 16
+      },
+      "encoding": {
+        "longitude": {
+          "field": "symbol_lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "symbol_lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "note"
+        }
+      }
+    }
+  ]
+}
