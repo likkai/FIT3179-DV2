@@ -2,35 +2,94 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Charts</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subject Choices in Senior Secondary School</title>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
   <style>
-    #grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
-    #grid h2 { grid-column: 1 / -1; margin: 20px 0 0 0; }
-    #grid div { height: 500px; min-width: 0; overflow: auto; }
+    :root {
+      --page: #f4f2ec;      /* page background */
+      --card: #fbfaf7;      /* chart cards */
+      --band: #e1dfd5;      /* header bands (same neutral family as the charts) */
+      --line: #c9c6b9;      /* borders */
+      --ink: #1d1c1a;       /* text */
+      --muted: #5f5d56;     /* secondary text */
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font-family: "Segoe UI", Helvetica, Arial, sans-serif; }
+
+    /* full-width header bands */
+    .band { width: 100%; background: var(--band); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .band > * { max-width: 1760px; margin: 0 auto; padding-left: 40px; padding-right: 40px; }
+
+    header.band { border-top: 0; }
+    header.band h1 { margin: 0; padding-top: 28px; font-size: 30px; font-weight: 700; letter-spacing: -0.01em; }
+    header.band p { margin: 6px auto 0; padding-bottom: 24px; color: var(--muted); font-size: 15px; }
+
+    section { margin-top: 28px; }
+    section h2 { margin: 0 auto; padding-top: 14px; font-size: 19px; font-weight: 600; }
+    section .band p { margin: 2px auto 0; padding-bottom: 14px; color: var(--muted); font-size: 14px; }
+
+    .row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; max-width: 1760px; margin: 0 auto; padding: 24px 40px 0; }
+    .row > div { height: var(--h, 660px); overflow: auto; padding: 14px 14px 64px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); }
+
+    .vega-bindings { font-size: 13px; }
+    footer { height: 48px; }
   </style>
 </head>
 <body>
 
-<div id="grid">
-  <h2>Learning areas nationally over time</h2>
-  <div id="chart1"></div>
-  <div id="chart6"></div>
+<header class="band">
+  <h1>Subject Choices in Senior Secondary School</h1>
+  <p>Enrolment patterns across Australian states and territories</p>
+</header>
 
-  <h2>Learning areas across states</h2>
-  <div id="chart9"></div>
-  <div id="chart3"></div>
+<section>
+  <div class="band">
+    <h2>Learning areas nationally over time</h2>
+    <p>How the share of Year 12 enrolments in each learning area, and in individual languages, has shifted over time.</p>
+  </div>
+  <div class="row" style="--h: 560px">
+    <div id="chart1"></div>
+    <div id="chart6"></div>
+  </div>
+</section>
 
-  <h2>Change and gender across states</h2>
-  <div id="m3"></div>
-  <div id="m4"></div>
+<section>
+  <div class="band">
+    <h2>Learning areas across states</h2>
+    <p>Which learning areas each state favours, and how each state's subject mix compares with the national average.</p>
+  </div>
+  <div class="row" style="--h: 580px">
+    <div id="chart9"></div>
+    <div id="chart3"></div>
+  </div>
+</section>
 
-  <h2>Gender differences in subjects</h2>
-  <div id="chart2"></div>
-  <div id="chart7"></div>
-</div>
+<section>
+  <div class="band">
+    <h2>Change and gender across states</h2>
+    <p>Where a learning area's share has grown or shrunk, and how girls and boys split in a chosen subject, state by state.</p>
+  </div>
+  <div class="row" style="--h: 620px">
+    <div id="m3"></div>
+    <div id="m4"></div>
+  </div>
+</section>
+
+<section>
+  <div class="band">
+    <h2>Gender differences in subjects</h2>
+    <p>Girls' and boys' enrolments by learning area, and how much each subject's gender balance varies between states.</p>
+  </div>
+  <div class="row" style="--h: 640px">
+    <div id="chart2"></div>
+    <div id="chart7"></div>
+  </div>
+</section>
+
+<footer></footer>
 
 <script type="text/javascript">
   var charts = {

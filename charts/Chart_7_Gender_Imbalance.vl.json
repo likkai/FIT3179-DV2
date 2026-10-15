@@ -4,11 +4,12 @@
   "title": {
     "text": "Gender Imbalances Across Subjects and States",
     "subtitle": [
-      "Each dot is a state, the grey line spans the lowest to the highest state"
+      "Each dot is a state,",
+      "the grey line spans the lowest to the highest state"
     ]
   },
-  "width": 450,
-  "height": 600,
+  "width": 560,
+  "height": 540,
   "autosize": {
     "type": "fit",
     "contains": "padding"

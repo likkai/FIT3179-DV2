@@ -11,6 +11,7 @@
   },
   "width": "container",
   "height": "container",
+  "padding": {"left": 30, "right": 26, "top": 10, "bottom": 10},
   "autosize": {
     "type": "fit",
     "contains": "padding",
