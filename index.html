@@ -23,9 +23,12 @@
     .band { width: 100%; background: var(--band); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
     .band > * { max-width: 1760px; margin: 0 auto; padding-left: 40px; padding-right: 40px; }
 
-    header.band { border-top: 0; }
-    header.band h1 { margin: 0; padding-top: 28px; font-size: 30px; font-weight: 700; letter-spacing: -0.01em; }
-    header.band p { margin: 6px auto 0; padding-bottom: 24px; color: var(--muted); font-size: 15px; }
+    /* hero header */
+    header.hero { width: 100%; background: #3b2a1f; color: #ffffff; }
+    header.hero > div { max-width: 1760px; margin: 0 auto; padding: 72px 40px 64px; }
+    header.hero .kicker { margin: 0 0 20px; font-size: 15px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; }
+    header.hero h1 { margin: 0; font-size: clamp(44px, 5.6vw, 88px); line-height: 1.05; font-weight: 800; letter-spacing: -0.02em; }
+    header.hero p.sub { margin: 28px 0 0; font-size: 21px; color: #ffffff; }
 
     section { margin-top: 28px; }
     section h2 { margin: 0 auto; padding-top: 14px; font-size: 19px; font-weight: 600; }
@@ -40,9 +43,12 @@
 </head>
 <body>
 
-<header class="band">
-  <h1>Subject Choices in Senior Secondary School</h1>
-  <p>Enrolment patterns across Australian states and territories</p>
+<header class="hero">
+  <div>
+    <p class="kicker">FIT3179 &middot; Data Visualisation 2</p>
+    <h1>Subject Choices in Senior Secondary School</h1>
+    <p class="sub">Enrolment patterns across Australian states and territories</p>
+  </div>
 </header>
 
 <section>
