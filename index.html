@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Charts</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+  <style>
+    #grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    #grid h2 { grid-column: 1 / -1; margin: 20px 0 0 0; }
+    #grid div { height: 500px; min-width: 0; overflow: auto; }
+  </style>
+</head>
+<body>
+
+<div id="grid">
+  <h2>Learning areas nationally over time</h2>
+  <div id="chart1"></div>
+  <div id="chart6"></div>
+
+  <h2>Learning areas across states</h2>
+  <div id="chart9"></div>
+  <div id="chart3"></div>
+
+  <h2>Change and gender across states</h2>
+  <div id="m3"></div>
+  <div id="m4"></div>
+
+  <h2>Gender differences in subjects</h2>
+  <div id="chart2"></div>
+  <div id="chart7"></div>
+</div>
+
+<script type="text/javascript">
+  var charts = {
+    "#chart1": "./charts/Chart_1_Learning_Area.vl.json",
+    "#chart6": "./charts/Chart_6_Top_Languages.vl.json",
+    "#chart9": "./charts/Chart_9_National_Learning_Area.vl.json",
+    "#chart3": "./charts/Chart_3_Heatmap_State_Learning_Area.vl.json",
+    "#m3": "./charts/m3_diverging_share_change.vl.json",
+    "#m4": "./charts/m4_glyph_gender_split.vl.json",
+    "#chart2": "./charts/Chart_2_Gender_Gap.vl.json",
+    "#chart7": "./charts/Chart_7_Gender_Imbalance.vl.json"
+  };
+
+  Object.keys(charts).forEach(function (id) {
+    vegaEmbed(id, charts[id]).catch(console.error);
+  });
+</script>
+
+</body>
+</html>

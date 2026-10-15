@@ -80,7 +80,7 @@
     {
       "description": "Leader lines from each capital to its donut (donuts offset so the south-east does not overlap).",
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_location.csv",
         "format": {
           "parse": {
             "capital_lon": "number",
@@ -131,7 +131,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_location.csv",
         "format": {
           "parse": {
             "capital_lon": "number",
