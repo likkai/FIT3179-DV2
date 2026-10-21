@@ -1,0 +1,148 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+  "title": {
+    "text": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+    "anchor": "start",
+    "subtitle": ["Hover a line to highlight it", "pp = percentage points"]
+  },
+
+  "width": "container",
+  "height": "container",
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "format": {"parse": {"year": "number", "proportion_pct": "number"}}
+  },
+
+  "transform": [
+    {"filter": "datum.sex === 'All' && (datum.year === 2010 || datum.year === 2024)"},
+    {
+      "filter": {
+        "field": "learning_area",
+        "oneOf": ["English", "Mathematics", "Science", "Technology", "Japanese", "Spanish"]
+      }
+    },
+    {"calculate": "datum.year === 2010 ? datum.proportion_pct : null", "as": "v2010"},
+    {"calculate": "datum.year === 2024 ? datum.proportion_pct : null", "as": "v2024"},
+    {
+      "joinaggregate": [
+        {"op": "max", "field": "v2010", "as": "start"},
+        {"op": "max", "field": "v2024", "as": "end"}
+      ],
+      "groupby": ["learning_area"]
+    },
+    {"calculate": "datum.end - datum.start", "as": "change"}
+  ],
+
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {
+        "orient": "top",
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 14,
+        "labelFontWeight": 700,
+        "labelColor": "#1d1c1a",
+        "labelAngle": 0
+      }
+    },
+    "color": {
+      "field": "learning_area",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": ["English", "Mathematics", "Science", "Technology", "Japanese", "Spanish"],
+        "range": ["#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#A65628"]
+      }
+    },
+    "opacity": {"condition": [{"param": "hover", "value": 1}], "value": 0.2},
+    "tooltip": [
+      {"field": "learning_area", "title": "Learning area"},
+      {"field": "start", "title": "2010 (%)", "format": ".1f"},
+      {"field": "end", "title": "2024 (%)", "format": ".1f"},
+      {"field": "change", "title": "Change (pp)", "format": "+.1f"}
+    ]
+  },
+
+  "layer": [
+    {
+      "mark": {"type": "line", "strokeWidth": 2.5},
+      "encoding": {
+        "y": {
+          "field": "proportion_pct",
+          "type": "quantitative",
+          "scale": {"domain": [0, 100], "nice": false},
+          "axis": {"title": "Proportion"}
+        },
+        "detail": {"field": "learning_area"}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true, "size": 80, "stroke": "#fbfaf7", "strokeWidth": 2},
+      "encoding": {"y": {"field": "proportion_pct", "type": "quantitative"}}
+    },
+    {
+      "description": "Easy hover by adding invisible lines",
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": ["learning_area"],
+            "on": "pointerover",
+            "clear": "pointerout"
+          }
+        }
+      ],
+      "transform": [{"filter": "datum.year === 2010"}, {"calculate": "2024", "as": "year_end"}],
+      "mark": {"type": "rule", "strokeWidth": 14},
+      "encoding": {
+        "x": {"field": "year", "type": "ordinal"},
+        "x2": {"field": "year_end"},
+        "y": {"field": "start", "type": "quantitative"},
+        "y2": {"field": "end"},
+        "opacity": {"value": 0},
+        "tooltip": [
+          {"field": "learning_area", "title": "Learning area"},
+          {"field": "start", "title": "2010 (%)", "format": ".1f"},
+          {"field": "end", "title": "2024 (%)", "format": ".1f"},
+          {"field": "change", "title": "Change (pp)", "format": "+.1f"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.year === 2010"},
+        {
+          "calculate": "datum.learning_area + '  ' + format(datum.proportion_pct, '.1f') + '%'",
+          "as": "label"
+        }
+      ],
+      "mark": {"type": "text", "align": "right", "dx": -10, "fontSize": 12},
+      "encoding": {
+        "y": {"field": "proportion_pct", "type": "quantitative"},
+        "text": {"field": "label"},
+        "color": {"value": "#1d1c1a"}
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.year === 2024"},
+        {
+          "calculate": "format(datum.proportion_pct, '.1f') + '%  ' + datum.learning_area",
+          "as": "label"
+        }
+      ],
+      "mark": {"type": "text", "align": "left", "dx": 10, "fontSize": 12},
+      "encoding": {
+        "y": {"field": "proportion_pct", "type": "quantitative"},
+        "text": {"field": "label"},
+        "color": {"value": "#1d1c1a"}
+      }
+    }
+  ]
+}
