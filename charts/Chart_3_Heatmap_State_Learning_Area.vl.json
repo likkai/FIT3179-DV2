@@ -133,7 +133,12 @@
           "title": "Compared with average (pp)",
           "scale": {
             "scheme": "redblue",
-            "domainMid": 0
+            "domainMid": 0,
+            "domain": [
+              -6.5,
+              6.5
+            ],
+            "clamp": true
           },
           "legend": {
             "orient": "bottom",
