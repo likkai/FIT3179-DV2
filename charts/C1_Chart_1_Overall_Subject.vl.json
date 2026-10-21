@@ -1,0 +1,120 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Year 12 Enrolment by Learning Area",
+  "title": {"text": "Year 12 Enrolment by Learning Area", "anchor": "start"},
+  "width": "container",
+  "height": 440,
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "format": {"parse": {"year": "number", "proportion_pct": "number"}}
+  },
+
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": 2024,
+      "bind": {"input": "range", "min": 2010, "max": 2024, "step": 1, "name": "Year "}
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.sex === 'All' && datum.year === selectedYear && indexof(['English','Mathematics','Society and Environment','Science','Arts','Technology','Health and Physical Education','Cross-disciplinary'], datum.learning_area) >= 0"
+    },
+    {"calculate": "0", "as": "zero"}
+  ],
+
+  "encoding": {
+    "y": {
+      "field": "learning_area",
+      "type": "nominal",
+      "title": "Learning Area",
+      "sort": {"field": "proportion_pct", "order": "descending"},
+      "axis": {
+        "titlePadding": 20,
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 11,
+        "labelPadding": 8
+      }
+    }
+  },
+
+  "layer": [
+    {
+      "description": "Stick of the lollipop",
+      "mark": {"type": "rule", "strokeWidth": 3, "color": "#0072B2"},
+      "encoding": {
+        "x": {
+          "field": "zero",
+          "type": "quantitative",
+          "title": "Proportion of Year 12 students enrolled (%)",
+          "scale": {"domain": [0, 100], "nice": false},
+          "axis": {
+            "format": ".0f",
+            "grid": true,
+            "gridColor": "#e1e0d9",
+            "values": [0, 20, 40, 60, 80, 100],
+            "labelExpr": "datum.value + '%'"
+          }
+        },
+        "x2": {"field": "proportion_pct"},
+        "tooltip": [
+          {"field": "learning_area", "title": "Learning area"},
+          {"field": "proportion_pct", "title": "Proportion of students (%)", "format": ".1f"}
+        ]
+      }
+    },
+    {
+      "description": "Head of the lollipop",
+      "mark": {
+        "type": "circle",
+        "size": 180,
+        "opacity": 1,
+        "color": "#0072B2",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "x": {
+          "field": "proportion_pct",
+          "type": "quantitative",
+          "title": "Proportion of Year 12 students enrolled (%)",
+          "scale": {"domain": [0, 100], "nice": false},
+          "axis": {
+            "format": ".0f",
+            "grid": true,
+            "gridColor": "#e1e0d9",
+            "values": [0, 20, 40, 60, 80, 100],
+            "labelExpr": "datum.value + '%'"
+          }
+        },
+        "tooltip": [
+          {"field": "learning_area", "title": "Learning area"},
+          {"field": "proportion_pct", "title": "Proportion of students (%)", "format": ".1f"}
+        ]
+      }
+    },
+    {
+      "description": "Value labels",
+      "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 12, "color": "#1d1c1a"},
+      "encoding": {
+        "x": {
+          "field": "proportion_pct",
+          "type": "quantitative",
+          "title": "Proportion of Year 12 students enrolled (%)",
+          "scale": {"domain": [0, 100], "nice": false},
+          "axis": {
+            "format": ".0f",
+            "grid": true,
+            "gridColor": "#e1e0d9",
+            "values": [0, 20, 40, 60, 80, 100],
+            "labelExpr": "datum.value + '%'"
+          }
+        },
+        "text": {"field": "proportion_pct", "type": "quantitative", "format": ".1f"}
+      }
+    }
+  ]
+}
