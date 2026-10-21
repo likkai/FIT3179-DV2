@@ -11,10 +11,15 @@
   },
   "width": "container",
   "height": "container",
+  "padding": {
+    "left": 30,
+    "right": 26,
+    "top": 10,
+    "bottom": 10
+  },
   "autosize": {
     "type": "fit",
-    "contains": "padding",
-    "resize": true
+    "contains": "padding"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
@@ -43,10 +48,6 @@
           "Languages other than English"
         ]
       }
-    },
-    {
-      "calculate": "{'Society and Environment': 'Humanities and Social Sciences', 'Arts': 'The Arts', 'Technology': 'Technology and Business', 'Chinese': 'Chinese', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
-      "as": "colour_key"
     },
     {
       "calculate": "{'Society and Environment': 'Society & Environment', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
@@ -98,19 +99,19 @@
       }
     },
     "color": {
-      "field": "colour_key",
+      "field": "learning_area",
       "type": "nominal",
       "legend": null,
       "scale": {
         "domain": [
           "English",
           "Mathematics",
-          "Humanities and Social Sciences",
+          "Society and Environment",
           "Science",
-          "Technology and Business",
-          "The Arts",
+          "Technology",
+          "Arts",
           "Chinese",
-          "Non-English Languages"
+          "Languages other than English"
         ],
         "range": [
           "#0072B2",
