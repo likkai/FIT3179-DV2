@@ -20,7 +20,15 @@
     {
       "filter": {
         "field": "learning_area",
-        "oneOf": ["English", "Mathematics", "Science", "Technology", "Japanese", "Spanish"]
+        "oneOf": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Technology",
+          "Spanish",
+          "Society and Environment",
+          "Arts"
+        ]
       }
     },
     {"calculate": "datum.year === 2010 ? datum.proportion_pct : null", "as": "v2010"},
@@ -55,8 +63,24 @@
       "type": "nominal",
       "legend": null,
       "scale": {
-        "domain": ["English", "Mathematics", "Science", "Technology", "Japanese", "Spanish"],
-        "range": ["#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#A65628"]
+        "domain": [
+          "English",
+          "Mathematics",
+          "Science",
+          "Technology",
+          "Spanish",
+          "Society and Environment",
+          "Arts"
+        ],
+        "range": [
+          "#0072B2",
+          "#E69F00",
+          "#009E73",
+          "#CC79A7",
+          "#56B4E9",
+          "#A65628",
+          "#D55E00"
+        ]
       }
     },
     "opacity": {"condition": [{"param": "hover", "value": 1}], "value": 0.2},
