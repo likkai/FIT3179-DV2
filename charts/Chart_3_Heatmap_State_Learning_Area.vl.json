@@ -5,7 +5,8 @@
     "text": "How Each State's Subject Mix Compares with the National Average",
     "subtitle": [
       "Percentage points above (blue) or below (red) the 8-state average"
-    ]
+    ],
+    "anchor": "start"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_learning_area.csv",
@@ -53,163 +54,148 @@
       "as": "difference"
     }
   ],
-  "spacing": 24,
-  "hconcat": [
+  "width": {
+    "step": 50
+  },
+  "height": {
+    "step": 42
+  },
+  "encoding": {
+    "x": {
+      "field": "state",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "NSW",
+        "VIC",
+        "QLD",
+        "WA",
+        "SA",
+        "TAS",
+        "ACT",
+        "NT"
+      ],
+      "axis": {
+        "orient": "top",
+        "labelAngle": 0,
+        "labelFontSize": 13,
+        "labelFontWeight": 700,
+        "labelColor": "#1d1c1a",
+        "domain": false,
+        "ticks": false
+      }
+    },
+    "y": {
+      "field": "learning_area",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "average",
+        "op": "mean",
+        "order": "descending"
+      },
+      "axis": {
+        "labelFontSize": 12.5,
+        "labelColor": "#1d1c1a",
+        "labelLimit": 200,
+        "labelExpr": "{'Humanities and Social Sciences': 'Humanities & Social Sci.', 'Technology and Business': 'Technology & Business', 'Health and Physical Education': 'Health & PE'}[datum.label] || datum.label",
+        "domain": false,
+        "ticks": false,
+        "labelPadding": 8
+      }
+    }
+  },
+  "layer": [
     {
-      "width": {
-        "step": 50
-      },
-      "height": {
-        "step": 42
-      },
-      "encoding": {
-        "x": {
-          "field": "state",
-          "type": "nominal",
-          "title": null,
-          "sort": [
-            "NSW",
-            "VIC",
-            "QLD",
-            "WA",
-            "SA",
-            "TAS",
-            "ACT",
-            "NT"
-          ],
-          "axis": {
-            "orient": "top",
-            "labelAngle": 0,
-            "labelFontSize": 13,
-            "labelFontWeight": 700,
-            "labelColor": "#1d1c1a",
-            "domain": false,
-            "ticks": false
-          }
-        },
-        "y": {
-          "field": "learning_area",
-          "type": "nominal",
-          "title": null,
-          "sort": {
-            "field": "average",
-            "op": "mean",
-            "order": "descending"
-          },
-          "axis": {
-            "labelFontSize": 12.5,
-            "labelColor": "#1d1c1a",
-            "labelLimit": 200,
-            "labelExpr": "{'Humanities and Social Sciences': 'Humanities & Social Sci.', 'Technology and Business': 'Technology & Business', 'Health and Physical Education': 'Health & PE'}[datum.label] || datum.label",
-            "domain": false,
-            "ticks": false,
-            "labelPadding": 8
+      "params": [
+        {
+          "name": "rowHover",
+          "select": {
+            "type": "point",
+            "fields": [
+              "learning_area"
+            ],
+            "on": "pointerover",
+            "clear": "pointerout"
           }
         }
+      ],
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 3,
+        "stroke": "#fbfaf7",
+        "strokeWidth": 2
       },
-      "layer": [
-        {
-          "params": [
-            {
-              "name": "rowHover",
-              "select": {
-                "type": "point",
-                "fields": [
-                  "learning_area"
-                ],
-                "on": "pointerover",
-                "clear": "pointerout"
-              }
-            }
-          ],
-          "mark": {
-            "type": "rect",
-            "cornerRadius": 3,
-            "stroke": "#fbfaf7",
-            "strokeWidth": 2
+      "encoding": {
+        "color": {
+          "field": "difference",
+          "type": "quantitative",
+          "title": "Compared with average (pp)",
+          "scale": {
+            "scheme": "redblue",
+            "domainMid": 0
           },
-          "encoding": {
-            "color": {
-              "field": "difference",
-              "type": "quantitative",
-              "title": "Compared with average (pp)",
-              "scale": {
-                "scheme": "redblue",
-                "domain": [
-                  -6.5,
-                  6.5
-                ],
-                "domainMid": 0,
-                "clamp": true
-              },
-              "legend": {
-                "orient": "bottom",
-                "direction": "horizontal",
-                "gradientLength": 260,
-                "format": "+.0f",
-                "values": [
-                  -6,
-                  -3,
-                  0,
-                  3,
-                  6
-                ]
-              }
-            },
-            "tooltip": [
-              {
-                "field": "state_name",
-                "title": "State"
-              },
-              {
-                "field": "learning_area",
-                "title": "Learning area"
-              },
-              {
-                "field": "share_excl_vocational_other_pct",
-                "title": "State share (%)",
-                "format": ".1f"
-              },
-              {
-                "field": "average",
-                "title": "8-state average (%)",
-                "format": ".1f"
-              },
-              {
-                "field": "difference",
-                "title": "Difference (pp)",
-                "format": "+.1f"
-              }
+          "legend": {
+            "orient": "bottom",
+            "direction": "horizontal",
+            "gradientLength": 260,
+            "format": "+.0f",
+            "values": [
+              -6,
+              -3,
+              0,
+              3,
+              6
             ]
           }
         },
-        {
-          "mark": {
-            "type": "text",
-            "fontSize": 12,
-            "fontWeight": 600
+        "tooltip": [
+          {
+            "field": "state_name",
+            "title": "State"
           },
-          "encoding": {
-            "text": {
-              "field": "share_excl_vocational_other_pct",
-              "type": "quantitative",
-              "format": ".1f"
-            },
-            "color": {
-              "condition": {
-                "test": "abs(datum.difference) > 3.5",
-                "value": "#ffffff"
-              },
-              "value": "#1d1c1a"
-            }
+          {
+            "field": "learning_area",
+            "title": "Learning area"
+          },
+          {
+            "field": "share_excl_vocational_other_pct",
+            "title": "State share (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "average",
+            "title": "8-state average (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "difference",
+            "title": "Difference (pp)",
+            "format": "+.1f"
           }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "text": {
+          "field": "share_excl_vocational_other_pct",
+          "type": "quantitative",
+          "format": ".1f"
+        },
+        "color": {
+          "condition": {
+            "test": "abs(datum.difference) > 3.5",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
         }
-      ]
+      }
     }
-  ],
-  "resolve": {
-    "scale": {
-      "color": "independent"
-    }
-  }
+  ]
 }
