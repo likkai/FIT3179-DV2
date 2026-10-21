@@ -250,11 +250,5 @@
         }
       }
     }
-  ],
-  "resolve": {
-    "legend": {
-      "color": "independent",
-      "fill": "independent"
-    }
-  }
+  ]
 }
