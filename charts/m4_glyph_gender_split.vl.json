@@ -10,18 +10,6 @@
     "contains": "padding"
   },
   "height": "container",
-  "projection": {
-    "type": "conicEqualArea",
-    "parallels": [
-      -18,
-      -36
-    ],
-    "rotate": [
-      -132,
-      0,
-      0
-    ]
-  },
   "params": [
     {
       "name": "subject",
@@ -78,7 +66,7 @@
       }
     },
     {
-      "description": "Leader lines from each capital to its donut (donuts offset so the south-east does not overlap).",
+      "description": "Leader lines from each capital to its donut (offset applied so the south-east does not overlap). NT is not included because there is no gender data.",
       "data": {
         "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_location.csv",
         "format": {
@@ -163,7 +151,7 @@
       }
     },
     {
-      "description": "One donut per state. Angles are computed explicitly (radians) so each state's donut sums to a full circle.",
+      "description": "One donut per state. Angles are computed so each state's donut sums to a full circle.",
       "data": {
         "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/national_gender_by_subject.csv",
         "format": {
@@ -286,16 +274,12 @@
             "field": "gender_share",
             "title": "Share (%)",
             "format": ".1f"
-          },
-          {
-            "field": "gender_note",
-            "title": "Note"
           }
         ]
       }
     },
     {
-      "description": "Label: state code and female share under each donut.",
+      "description": "Label of state code and female share under each donut.",
       "data": {
         "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/national_gender_by_subject.csv",
         "format": {
@@ -351,9 +335,9 @@
       }
     },
     {
-      "description": "Northern Territory publishes no gender split - say so on the map rather than leave a gap.",
+      "description": "Note that states that northern Territory publishes no gender split.",
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_reference.csv",
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/dev/data/aus_states_location.csv",
         "format": {
           "parse": {
             "capital_lon": "number",
