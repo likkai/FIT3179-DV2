@@ -10,18 +10,6 @@
     "contains": "padding"
   },
   "height": "container",
-  "projection": {
-    "type": "conicEqualArea",
-    "parallels": [
-      -18,
-      -36
-    ],
-    "rotate": [
-      -132,
-      0,
-      0
-    ]
-  },
   "params": [
     {
       "name": "learningArea",
@@ -225,14 +213,6 @@
         {
           "calculate": "datum.state + ' ' + format(datum.change_pp, '+.1f')",
           "as": "label"
-        },
-        {
-          "calculate": "datum.state === 'TAS' ? 151.2 : datum.symbol_lon",
-          "as": "label_lon"
-        },
-        {
-          "calculate": "datum.state === 'TAS' ? -42.4 : datum.symbol_lat",
-          "as": "label_lat"
         }
       ],
       "mark": {
@@ -242,11 +222,11 @@
       },
       "encoding": {
         "longitude": {
-          "field": "label_lon",
+          "field": "symbol_lon",
           "type": "quantitative"
         },
         "latitude": {
-          "field": "label_lat",
+          "field": "symbol_lat",
           "type": "quantitative"
         },
         "text": {
