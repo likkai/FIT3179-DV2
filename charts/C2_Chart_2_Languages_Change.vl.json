@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Language's Share of Year 12 Enrolments in 2006 and 2024",
+  "description": "Language's Share of Year 12 Enrolments in 2010 and 2024",
   "title": {
-    "text": "How Language Study is Divided Between Languages in 2006 and 2024",
+    "text": "How Language Study is Divided Between Languages in 2010 and 2024",
     "subtitle": [""],
     "anchor": "start",
     "fontSize": 17
@@ -17,7 +17,7 @@
   },
 
   "transform": [
-    {"filter": "datum.sex === 'All' && (datum.year === 2006 || datum.year === 2024)"},
+    {"filter": "datum.sex === 'All' && (datum.year === 2010 || datum.year === 2024)"},
     {
       "filter": {
         "field": "learning_area",
@@ -39,11 +39,11 @@
       "calculate": "datum.learning_area === 'Other' ? 'Other languages' : datum.learning_area",
       "as": "learning_area"
     },
-    {"calculate": "datum.year === 2006 ? datum.proportion_pct : null", "as": "v2006"},
+    {"calculate": "datum.year === 2010 ? datum.proportion_pct : null", "as": "v2010"},
     {"calculate": "datum.year === 2024 ? datum.proportion_pct : null", "as": "v2024"},
     {
       "joinaggregate": [
-        {"op": "max", "field": "v2006", "as": "start"},
+        {"op": "max", "field": "v2010", "as": "start"},
         {"op": "max", "field": "v2024", "as": "end"}
       ],
       "groupby": ["learning_area"]
@@ -114,12 +114,12 @@
           "field": "year_label",
           "type": "nominal",
           "title": null,
-          "scale": {"domain": ["2006", "2024"], "range": ["#3478C9", "#e34948"]},
+          "scale": {"domain": ["2010", "2024"], "range": ["#3478C9", "#e34948"]},
           "legend": {"orient": "top", "direction": "horizontal", "symbolType": "circle"}
         },
         "tooltip": [
-          {"field": "language", "title": "Language"},
-          {"field": "start", "title": "2006 (%)", "format": ".1f"},
+          {"field": "learning_area", "title": "Language"},
+          {"field": "start", "title": "2010 (%)", "format": ".1f"},
           {"field": "end", "title": "2024 (%)", "format": ".1f"},
           {"field": "change", "title": "Change (pp)", "format": "+.1f"}
         ]

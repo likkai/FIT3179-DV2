@@ -1,0 +1,128 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Percentage change in the number of senior secondary students.",
+  "title": {
+    "text": "Where the Senior Secondary Student Population Changed from 2010 to 2024",
+    "anchor": "start",
+    "subtitle": ["Percentage change in the number of senior secondary students"],
+    "fontSize": 17
+  },
+
+  "width": "container",
+  "height": "container",
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "mark": {"type": "geoshape", "fill": "#e9e7e1", "stroke": "#fbfaf7", "strokeWidth": 1}
+    },
+    {
+      "description": "Change in senior secondary students.",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+        "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
+      },
+      "transform": [
+        {
+          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2010 || datum.calendar_year === 2024)"
+        },
+        {"calculate": "datum.calendar_year === 2010 ? datum.student_count : null", "as": "s2010"},
+        {"calculate": "datum.calendar_year === 2024 ? datum.student_count : null", "as": "s2024"},
+        {
+          "joinaggregate": [
+            {"op": "max", "field": "s2010", "as": "students_2010"},
+            {"op": "max", "field": "s2024", "as": "students_2024"}
+          ],
+          "groupby": ["state_territory"]
+        },
+        {"filter": "datum.calendar_year === 2024"},
+        {"calculate": "(datum.students_2024 / datum.students_2010 - 1) * 100", "as": "change_pct"},
+        {
+          "lookup": "state_territory",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+              "format": {"type": "topojson", "feature": "states"}
+            },
+            "key": "properties.state_name"
+          },
+          "as": "geo"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "#fbfaf7", "strokeWidth": 1.2},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "change_pct",
+          "type": "quantitative",
+          "title": "Change in students percentage",
+          "scale": {"scheme": "redblue", "domain": [-22, 22], "domainMid": 0},
+          "legend": {
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "gradientLength": 200,
+            "format": "+.0f"
+          }
+        },
+        "tooltip": [
+          {"field": "state_territory", "title": "State"},
+          {"field": "students_2010", "title": "Students 2010", "format": ",.0f"},
+          {"field": "students_2024", "title": "Students 2024", "format": ",.0f"},
+          {"field": "change_pct", "title": "Change (%)", "format": "+.1f"}
+        ]
+      }
+    },
+    {
+      "description": "State code and change.",
+      "data": {
+        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+        "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
+      },
+      "transform": [
+        {
+          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2010 || datum.calendar_year === 2024)"
+        },
+        {"calculate": "datum.calendar_year === 2010 ? datum.student_count : null", "as": "s2010"},
+        {"calculate": "datum.calendar_year === 2024 ? datum.student_count : null", "as": "s2024"},
+        {
+          "joinaggregate": [
+            {"op": "max", "field": "s2010", "as": "students_2010"},
+            {"op": "max", "field": "s2024", "as": "students_2024"}
+          ],
+          "groupby": ["state_territory"]
+        },
+        {"filter": "datum.calendar_year === 2024"},
+        {"calculate": "(datum.students_2024 / datum.students_2010 - 1) * 100", "as": "change_pct"},
+        {
+          "lookup": "state_territory",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv",
+              "format": {"parse": {"symbol_lon": "number", "symbol_lat": "number"}}
+            },
+            "key": "state_name",
+            "fields": ["state", "symbol_lon", "symbol_lat"]
+          }
+        },
+        {"calculate": "datum.state + ' ' + format(datum.change_pct, '+.1f') + '%'", "as": "label"}
+      ],
+      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600},
+      "encoding": {
+        "longitude": {"field": "symbol_lon", "type": "quantitative"},
+        "latitude": {"field": "symbol_lat", "type": "quantitative"},
+        "text": {"field": "label"},
+        "color": {
+          "condition": {
+            "test": "datum.state !== 'ACT' && datum.state !== 'TAS' && abs(datum.change_pct) >= 14",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      }
+    }
+  ]
+}
