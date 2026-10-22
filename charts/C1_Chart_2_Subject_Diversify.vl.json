@@ -1,0 +1,170 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Change in HHI of Year 12 enrolments from 2010",
+    "subtitle": [
+      "HHI = Herfindahl-Hirschman Index",
+      "Below 0 = Less; above 0 = more concentrated",
+      "2010 HHI = 1,558"
+    ],
+    "anchor": "start",
+    "fontSize": 17,
+    "subtitleColor": "#52514e",
+    "subtitleFontSize": 12,
+    "subtitleFontWeight": "normal",
+    "subtitlePadding": 6,
+    "offset": 16
+  },
+
+  "width": "container",
+  "height": "container",
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "format": {"type": "csv", "parse": {"year": "number", "proportion_pct": "number"}}
+  },
+
+  "transform": [
+    {"filter": "datum.sex === 'All'"},
+    {
+      "filter": {
+        "field": "learning_area",
+        "oneOf": [
+          "English",
+          "Mathematics",
+          "Society and Environment",
+          "Science",
+          "Arts",
+          "Languages other than English",
+          "Technology",
+          "Health and Physical Education"
+        ]
+      }
+    },
+    {
+      "joinaggregate": [{"op": "sum", "field": "proportion_pct", "as": "total"}],
+      "groupby": ["year"]
+    },
+    {"calculate": "pow(datum.proportion_pct / datum.total, 2) * 10000", "as": "sqr"},
+    {"aggregate": [{"op": "sum", "field": "sqr", "as": "hhi"}], "groupby": ["year"]},
+    {
+      "window": [{"op": "first_value", "field": "hhi", "as": "hhi_2010"}],
+      "sort": [{"field": "year", "order": "ascending"}]
+    },
+    {"calculate": "datum.hhi - datum.hhi_2010", "as": "change"},
+    {"joinaggregate": [{"op": "min", "field": "change", "as": "min_change"}]}
+  ],
+
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "color": "#2a78d6",
+        "strokeWidth": 2.5,
+        "point": {
+          "filled": true,
+          "fill": "#2a78d6",
+          "stroke": "white",
+          "strokeWidth": 1.5,
+          "size": 70
+        }
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "title": "Year",
+          "type": "quantitative",
+          "scale": {"domain": [2009.5, 2024.5], "nice": false},
+          "axis": {
+            "values": [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0,
+            "ticks": false,
+            "labelPadding": 8
+          }
+        },
+        "y": {
+          "field": "change",
+          "type": "quantitative",
+          "scale": {"domain": [-25, 100], "nice": false},
+          "axis": {
+            "values": [-25, 0, 25, 50, 75, 100],
+            "labelExpr": "datum.value > 0 ? '+' + datum.value : datum.value < 0 ? '−' + abs(datum.value) : '0'",
+            "title": "HHI points compared to 2010",
+            "domain": false,
+            "ticks": false
+          }
+        },
+        "tooltip": [
+          {"field": "year", "type": "ordinal", "title": "Year"},
+          {"field": "hhi", "type": "quantitative", "title": "HHI", "format": ",.0f"},
+          {"field": "change", "type": "quantitative", "title": "Change vs 2010", "format": "+.1f"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "#52514e", "strokeWidth": 1},
+      "encoding": {"y": {"datum": 0}}
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2024 || datum.year === 2021 || datum.change === datum.min_change"
+        },
+        {
+          "calculate": "datum.change > 0 ? '+' + format(datum.change, '.1f') : '−' + format(abs(datum.change), '.1f')",
+          "as": "label"
+        },
+        {"calculate": "datum.change + 7", "as": "label_y"}
+      ],
+      "mark": {"type": "text", "color": "#52514e", "fontSize": 12, "baseline": "middle"},
+      "encoding": {
+        "x": {"field": "year", "type": "quantitative"},
+        "y": {"field": "label_y", "type": "quantitative"},
+        "text": {"field": "label", "type": "nominal"}
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.year === 2020"},
+        {
+          "calculate": "datum.change > 0 ? '+' + format(datum.change, '.1f') : '−' + format(abs(datum.change), '.1f')",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "color": "#52514e",
+        "fontSize": 12,
+        "align": "left",
+        "baseline": "middle",
+        "dx": 10
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "quantitative"},
+        "y": {"field": "change", "type": "quantitative"},
+        "text": {"field": "label", "type": "nominal"}
+      }
+    },
+    {
+      "data": {"values": [{}]},
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "dy": 42,
+        "color": "#898781",
+        "fontSize": 10,
+        "lineHeight": 15,
+        "text": [
+          "Learning areas included: English, Mathematics, Society and Environment, Science,",
+          "Arts, Languages other than English, Technology, Health and Physical Education."
+        ]
+      },
+      "encoding": {"x": {"value": 0}, "y": {"value": "height"}}
+    }
+  ],
+
+  "config": {"view": {"stroke": null}, "font": "Helvetica, Arial, sans-serif"}
+}
