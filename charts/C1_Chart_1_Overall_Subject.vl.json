@@ -1,7 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Year 12 Enrolment by Learning Area",
-  "title": {"text": "Year 12 Enrolment by Learning Area", "anchor": "start"},
+  "title": {
+    "text": "Year 12 Enrolment by Learning Area",
+    "anchor": "start",
+    "subtitle": ["Students can be counted in multiple areas", "Bars are not shares of a total"]
+  },
+
   "width": "container",
   "height": 440,
   "autosize": {"type": "fit", "contains": "padding"},
