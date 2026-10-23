@@ -1,0 +1,176 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "State Breakdown of National Senior Secondary Enrolment Growth",
+  "title": {
+    "text": "State Breakdown of National Senior Secondary Enrolment Growth",
+    "fontSize": 17,
+    "anchor": "start",
+    "subtitle": []
+  },
+
+  "width": "container",
+  "height": "container",
+  "padding": {"left": 10, "right": 20, "top": 10, "bottom": 10},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+    "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
+  },
+
+  "params": [
+    {
+      "name": "startYear",
+      "value": 2011,
+      "bind": {"input": "range", "min": 2006, "max": 2024, "step": 1, "name": "From year "}
+    },
+    {
+      "name": "endYear",
+      "value": 2020,
+      "bind": {"input": "range", "min": 2007, "max": 2025, "step": 1, "name": "To year "}
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.state_territory !== 'Australia' && datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All'"
+    },
+    {"filter": "datum.calendar_year === startYear || datum.calendar_year === endYear"},
+    {
+      "calculate": "datum.calendar_year === startYear ? datum.student_count : null",
+      "as": "students_at_start"
+    },
+    {
+      "calculate": "datum.calendar_year === endYear ? datum.student_count : null",
+      "as": "students_at_end"
+    },
+    {
+      "joinaggregate": [
+        {"op": "max", "field": "students_at_start", "as": "students_at_start"},
+        {"op": "max", "field": "students_at_end", "as": "students_at_end"}
+      ],
+      "groupby": ["state_territory"]
+    },
+    {"filter": "datum.calendar_year === endYear"},
+    {
+      "calculate": "({'New South Wales':'NSW','Victoria':'VIC','Queensland':'QLD','South Australia':'SA','Western Australia':'WA','Tasmania':'TAS','Northern Territory':'NT','Australian Capital Territory':'ACT'})[datum.state_territory]",
+      "as": "state_code"
+    },
+    {"calculate": "datum.students_at_end - datum.students_at_start", "as": "student_change"},
+    {
+      "joinaggregate": [
+        {"op": "sum", "field": "student_change", "as": "national_net_change"},
+        {"op": "sum", "field": "students_at_start", "as": "national_students_at_start"}
+      ]
+    },
+    {
+      "calculate": "datum.student_change / datum.national_net_change * 100",
+      "as": "share_of_net_change_pct"
+    },
+    {
+      "calculate": "datum.student_change / datum.national_students_at_start * 100",
+      "as": "growth_contribution_pp"
+    },
+    {"calculate": "datum.student_change >= 0 ? 'Increase' : 'Decrease'", "as": "change_direction"},
+    {
+      "window": [{"op": "row_number", "as": "change_rank"}],
+      "sort": [{"field": "student_change", "order": "descending"}]
+    },
+    {
+      "window": [{"op": "sum", "field": "student_change", "as": "running_total"}],
+      "sort": [{"field": "change_rank"}],
+      "frame": [null, 0]
+    },
+    {
+      "calculate": "datum.change_rank === 1 ? [datum.state_code, 'Australia (Net)'] : [datum.state_code]",
+      "as": "label_list"
+    },
+    {"flatten": ["label_list"], "as": ["bar_label"]},
+    {"calculate": "datum.bar_label === 'Australia (Net)'", "as": "is_national_total"},
+    {"calculate": "datum.is_national_total ? 99 : datum.change_rank", "as": "bar_order"},
+    {
+      "calculate": "datum.is_national_total ? 0 : datum.running_total - datum.student_change",
+      "as": "bar_start"
+    },
+    {
+      "calculate": "datum.is_national_total ? datum.national_net_change : datum.running_total",
+      "as": "bar_end"
+    },
+    {
+      "calculate": "datum.is_national_total ? 'Net change' : datum.change_direction",
+      "as": "bar_type"
+    },
+    {
+      "calculate": "datum.is_national_total ? datum.national_net_change : datum.student_change",
+      "as": "bar_value"
+    },
+    {
+      "calculate": "datum.is_national_total ? 100 : datum.share_of_net_change_pct",
+      "as": "bar_share_pct"
+    }
+  ],
+
+  "encoding": {
+    "x": {
+      "field": "bar_label",
+      "type": "ordinal",
+      "title": null,
+      "sort": {"field": "bar_order", "op": "min"},
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 12,
+        "labelFontWeight": 700,
+        "ticks": false,
+        "domain": false
+      }
+    }
+  },
+
+  "layer": [
+    {
+      "mark": {"type": "bar", "size": 38, "cornerRadius": 2},
+      "encoding": {
+        "y": {
+          "field": "bar_start",
+          "type": "quantitative",
+          "title": "Change in students",
+          "scale": {"padding": 20},
+          "axis": {"format": "+,.0f", "grid": true, "gridColor": "#eeede8"}
+        },
+        "y2": {"field": "bar_end"},
+        "color": {
+          "field": "bar_type",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": ["Increase", "Decrease", "Net change"],
+            "range": ["#0072B2", "#D55E00", "#1d1c1a"]
+          },
+          "legend": {"orient": "bottom", "direction": "horizontal"}
+        },
+        "tooltip": [
+          {"field": "bar_label", "title": "State / national"},
+          {"field": "students_at_start", "title": "Students at start", "format": ","},
+          {"field": "students_at_end", "title": "Students at end", "format": ","},
+          {"field": "bar_value", "title": "Change", "format": "+,.0f"},
+          {"field": "bar_share_pct", "title": "Share of net national change (%)", "format": ".1f"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 700,
+        "color": "#1d1c1a",
+        "dy": {"expr": "datum.bar_end >= datum.bar_start ? -7 : 14"}
+      },
+      "encoding": {
+        "y": {"field": "bar_end", "type": "quantitative"},
+        "text": {"field": "bar_value", "type": "quantitative", "format": "+,.0f"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "#1d1c1a", "strokeWidth": 1},
+      "encoding": {"y": {"datum": 0}}
+    }
+  ]
+}
