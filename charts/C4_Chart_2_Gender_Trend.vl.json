@@ -1,0 +1,151 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Heat strip: each learning area's female share of enrolments (minus 50) by year.",
+  "title": {
+    "text": "Trends in Learning Area Participation Gender Gap",
+    "fontSize": 17,
+    "anchor": "start",
+    "subtitle": [
+      "Purple means more girls, otherwise more boys",
+      "Northern Territory excluded because no gender data"
+    ]
+  },
+
+  "width": "container",
+  "height": 460,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_gender_by_subject.csv",
+    "format": {
+      "parse": {
+        "year": "number",
+        "enrolments": "number",
+        "female": "number",
+        "male": "number",
+        "female_share_pct": "number"
+      }
+    }
+  },
+
+  "params": [
+    {
+      "name": "state_choice",
+      "value": "NSW, VIC, SA and WA (full series)",
+      "bind": {
+        "input": "select",
+        "options": [
+          "NSW, VIC, SA and WA (full series)",
+          "All states (coverage grows over time)",
+          "NSW",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "ACT"
+        ],
+        "name": "States "
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.group_type === 'learning_area' && datum.group !== 'Vocational and Other' && datum.year_level === 'Year 11-12 combined' && datum.low_count !== 'yes'"
+    },
+    {
+      "filter": "state_choice === 'All states (coverage grows over time)' || (state_choice === 'NSW, VIC, SA and WA (full series)' && indexof(['NSW', 'VIC', 'SA', 'WA'], datum.state) >= 0) || datum.state === state_choice"
+    },
+    {
+      "aggregate": [
+        {"op": "sum", "field": "female", "as": "female_students"},
+        {"op": "sum", "field": "male", "as": "male_students"},
+        {"op": "distinct", "field": "state", "as": "states_counted"}
+      ],
+      "groupby": ["group", "year"]
+    },
+    {
+      "calculate": "datum.female_students / (datum.female_students + datum.male_students) * 100 - 50",
+      "as": "gap_from_balance_pp"
+    },
+    {
+      "calculate": "datum.female_students / (datum.female_students + datum.male_students) * 100",
+      "as": "female_share_pct"
+    },
+    {
+      "calculate": "round(datum.gap_from_balance_pp) === 0 ? '0' : format(datum.gap_from_balance_pp, '+.0f')",
+      "as": "gap_label"
+    }
+  ],
+
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 12,
+        "ticks": false,
+        "domain": false,
+        "orient": "top"
+      }
+    },
+    "y": {
+      "field": "group",
+      "type": "nominal",
+      "title": null,
+      "sort": {"field": "gap_from_balance_pp", "op": "mean", "order": "descending"},
+      "axis": {
+        "labelFontSize": 12,
+        "labelFontWeight": 600,
+        "ticks": false,
+        "domain": false,
+        "labelLimit": 260
+      }
+    }
+  },
+
+  "layer": [
+    {
+      "mark": {"type": "rect", "stroke": "#fbfaf7", "strokeWidth": 1.5},
+      "encoding": {
+        "color": {
+          "field": "gap_from_balance_pp",
+          "type": "quantitative",
+          "title": "Female share minus 50 (pp)",
+          "scale": {
+            "domain": [-25, 0, 25],
+            "range": ["#b34d00", "#f7f5ee", "#4a3aa7"],
+            "clamp": true
+          },
+          "legend": {
+            "orient": "right",
+            "format": "+d",
+            "titleFontSize": 11,
+            "labelFontSize": 11,
+            "gradientLength": 160
+          }
+        },
+        "tooltip": [
+          {"field": "group", "title": "Learning area"},
+          {"field": "year", "title": "Year", "format": "d"},
+          {"field": "female_share_pct", "title": "Female share of enrolments (%)", "format": ".1f"},
+          {"field": "gap_from_balance_pp", "title": "Female share minus 50 (pp)", "format": "+.1f"},
+          {"field": "states_counted", "title": "States counted"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "fontSize": 11, "fontWeight": 600},
+      "encoding": {
+        "text": {"field": "gap_label"},
+        "color": {
+          "condition": {"test": "abs(datum.gap_from_balance_pp) >= 15", "value": "#ffffff"},
+          "value": "#1d1c1a"
+        }
+      }
+    }
+  ]
+}
