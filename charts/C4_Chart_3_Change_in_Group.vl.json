@@ -1,0 +1,200 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Subject Changes Driven by Gender",
+  "title": {
+    "text": "Subject Changes Driven by Gender",
+    "anchor": "start",
+    "fontSize": 17,
+    "subtitle": [
+      "Points along the dashed line grew or fell equally",
+      "Points off the line indicate gender disparity."
+    ]
+  },
+
+  "width": "container",
+  "height": 460,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_gender_by_subject.csv",
+    "format": {
+      "parse": {
+        "year": "number",
+        "enrolments": "number",
+        "female": "number",
+        "male": "number",
+        "female_share_pct": "number"
+      }
+    }
+  },
+
+  "params": [
+    {
+      "name": "start_year",
+      "value": 2014,
+      "bind": {"input": "range", "min": 2014, "max": 2024, "step": 1, "name": "From year "}
+    },
+    {
+      "name": "end_year",
+      "value": 2025,
+      "bind": {"input": "range", "min": 2015, "max": 2025, "step": 1, "name": "To year "}
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.group_type === 'subject' && datum.year_level === 'Year 11-12 combined' && datum.low_count !== 'yes' && indexof([\"NSW\", \"VIC\", \"SA\", \"WA\"], datum.state) >= 0 && (datum.year === start_year || datum.year === end_year)"
+    },
+    {
+      "aggregate": [
+        {"op": "sum", "field": "female", "as": "female_students"},
+        {"op": "sum", "field": "male", "as": "male_students"}
+      ],
+      "groupby": ["group", "year"]
+    },
+    {
+      "calculate": "datum.year === start_year ? datum.female_students : null",
+      "as": "female_at_start"
+    },
+    {"calculate": "datum.year === start_year ? datum.male_students : null", "as": "male_at_start"},
+    {
+      "joinaggregate": [
+        {"op": "max", "field": "female_at_start", "as": "female_at_start"},
+        {"op": "max", "field": "male_at_start", "as": "male_at_start"}
+      ],
+      "groupby": ["group"]
+    },
+    {
+      "filter": "datum.year === end_year && isValid(datum.female_at_start) && isValid(datum.male_at_start)"
+    },
+    {
+      "calculate": "(datum.female_students / datum.female_at_start - 1) * 100",
+      "as": "female_change_pct"
+    },
+    {"calculate": "(datum.male_students / datum.male_at_start - 1) * 100", "as": "male_change_pct"},
+    {
+      "calculate": "datum.female_change_pct * datum.male_change_pct < 0 ? 'Opposite directions' : (datum.female_change_pct >= 0 ? 'Both grew' : 'Both fell')",
+      "as": "pattern"
+    },
+    {"calculate": "datum.female_students + datum.male_students", "as": "students_at_end"}
+  ],
+
+  "layer": [
+    {
+      "data": {"values": [{"x": -60, "y": -60}, {"x": 250, "y": 250}]},
+      "mark": {"type": "line", "color": "#807e78", "strokeDash": [5, 4], "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "x", "type": "quantitative"},
+        "y": {"field": "y", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "#1d1c1a", "strokeWidth": 1},
+      "encoding": {
+        "x": {"value": 0},
+        "x2": {"value": "width"},
+        "y": {"datum": 0, "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "#1d1c1a", "strokeWidth": 1},
+      "encoding": {
+        "y": {"value": 0},
+        "y2": {"value": "height"},
+        "x": {"datum": 0, "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.2,
+        "opacity": 0.95
+      },
+      "encoding": {
+        "size": {
+          "field": "students_at_end",
+          "type": "quantitative",
+          "scale": {"range": [60, 600]},
+          "legend": {
+            "title": ["Number of", "enrolments"],
+            "orient": "right",
+            "format": ",.0f",
+            "values": [10000, 50000, 150000, 300000],
+            "symbolFillColor": "#b9b7ae",
+            "symbolStrokeColor": "#fbfaf7",
+            "titleFontSize": 11,
+            "labelFontSize": 11
+          }
+        },
+        "color": {
+          "field": "pattern",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": ["Both grew", "Both fell", "Opposite directions"],
+            "range": ["#2166ac", "#b35806", "#1b7837"]
+          },
+          "legend": {"orient": "bottom", "direction": "horizontal"}
+        },
+        "tooltip": [
+          {"field": "group", "title": "Subject"},
+          {"field": "male_change_pct", "title": "Male change (%)", "format": "+.0f"},
+          {"field": "female_change_pct", "title": "Female change (%)", "format": "+.0f"},
+          {"field": "male_students", "title": "Male enrolments", "format": ","},
+          {"field": "female_students", "title": "Female enrolments", "format": ","},
+          {"field": "pattern", "title": "Pattern"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "abs(datum.female_change_pct - datum.male_change_pct) >= 15 || datum.pattern === 'Opposite directions' || (datum.pattern === 'Both fell' && indexof(['Computing and IT', 'Drama', 'Visual Arts', 'Music'], datum.group) >= 0)"
+        },
+        {
+          "calculate": "({'Chemistry': ['right', -9, 0], 'Psychology': ['center', 0, -12], 'Economics': ['center', 0, 14], 'Drama': ['center', 0, -12], 'Computing and IT': ['left', 9, 9], 'Visual Arts': ['right', -9, 0], 'Music': ['center', 0, 13]})[datum.group] || ['left', 9, 0]",
+          "as": "label_placement"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": {"expr": "datum.label_placement[0]"},
+        "dx": {"expr": "datum.label_placement[1]"},
+        "dy": {"expr": "datum.label_placement[2]"},
+        "fontSize": 11,
+        "fontWeight": 600,
+        "color": "#1d1c1a"
+      },
+      "encoding": {"text": {"field": "group"}, "color": {"value": "#1d1c1a"}}
+    }
+  ],
+
+  "encoding": {
+    "x": {
+      "field": "male_change_pct",
+      "type": "quantitative",
+      "title": "Percentage of Change of Male Enrolments",
+      "scale": {"type": "symlog", "constant": 30, "domain": [-70, 260], "nice": false},
+      "axis": {
+        "values": [-50, -25, 0, 25, 50, 100, 200],
+        "format": "+d",
+        "grid": true,
+        "gridColor": "#eeede8"
+      }
+    },
+    "y": {
+      "field": "female_change_pct",
+      "type": "quantitative",
+      "title": "Percentage of Change of Female Enrolments",
+      "scale": {"type": "symlog", "constant": 30, "domain": [-70, 260], "nice": false},
+      "axis": {
+        "values": [-50, -25, 0, 25, 50, 100, 200],
+        "format": "+d",
+        "grid": true,
+        "gridColor": "#eeede8"
+      }
+    }
+  }
+}
