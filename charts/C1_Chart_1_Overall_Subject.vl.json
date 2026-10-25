@@ -25,7 +25,7 @@
 
   "transform": [
     {
-      "filter": "datum.sex === 'All' && datum.year === selectedYear && indexof(['English','Mathematics','Society and Environment','Science','Arts','Technology','Health and Physical Education','Cross-disciplinary'], datum.learning_area) >= 0"
+      "filter": "datum.sex === 'All' && datum.year === selectedYear && indexof(['English','Mathematics','Society and Environment','Science','Arts','Technology','Health and Physical Education','Languages other than English'], datum.learning_area) >= 0"
     },
     {"calculate": "0", "as": "zero"}
   ],
@@ -41,7 +41,8 @@
         "domain": false,
         "ticks": false,
         "labelFontSize": 11,
-        "labelPadding": 8
+        "labelPadding": 8,
+        "labelExpr": "datum.label === 'Health and Physical Education' ? ['Health and', 'Physical Education'] : (datum.label === 'Languages other than English' ? ['Languages other', 'than English'] : datum.label)"
       }
     }
   },
