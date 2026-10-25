@@ -1,0 +1,1567 @@
+year,stage,credit_type,learning_area,subject,catholic_female,catholic_male,government_female,government_male,independent_female,independent_male,female,male,total_enrolments,full_year_equivalent
+2012,Stage 1,10-credit,Arts,Creative Arts,115,48,708,518,154,68,977,634,1611,805.5
+2012,Stage 1,10-credit,Arts,Dance,12,4,315,30,98,7,425,41,466,233.0
+2012,Stage 1,10-credit,Arts,Drama,414,190,810,475,422,258,1646,923,2569,1284.5
+2012,Stage 1,10-credit,Arts,Music,232,215,727,857,252,310,1211,1382,2593,1296.5
+2012,Stage 1,10-credit,Arts,Visual Arts,1157,566,3466,1987,1163,668,5786,3221,9007,4503.5
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,184,274,171,188,127,315,482,777,1259,629.5
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,447,624,753,668,499,421,1699,1713,3412,1706.0
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,372,1686,1760,5755,308,1123,2440,8564,11004,5502.0
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,353,149,741,539,211,205,1305,893,2198,1099.0
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,80,335,144,635,114,402,338,1372,1710,855.0
+2012,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,239,279,498,732,295,328,1032,1339,2371,1185.5
+2012,Stage 1,10-credit,Cross-disciplinary,Community Studies,160,163,841,681,142,132,1143,976,2119,1059.5
+2012,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,0,1,183,167,2,60,185,228,413,206.5
+2012,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,1013,831,3751,4122,276,183,5040,5136,10176,5088.0
+2012,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,2140,1869,5753,6253,2200,2025,10093,10147,20240,10120.0
+2012,Stage 1,10-credit,English,English,3959,3755,9306,8911,3603,3460,16868,16126,32994,16497.0
+2012,Stage 1,10-credit,English,Literacy for Work and Community Life,178,419,1397,2135,56,64,1631,2618,4249,2124.5
+2012,Stage 1,10-credit,Health and Physical Education,Child Studies,448,10,1536,68,371,18,2355,96,2451,1225.5
+2012,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,649,212,2669,1307,789,280,4107,1799,5906,2953.0
+2012,Stage 1,10-credit,Health and Physical Education,Health,20,13,850,511,148,69,1018,593,1611,805.5
+2012,Stage 1,10-credit,Health and Physical Education,Outdoor Education,102,170,438,698,183,228,723,1096,1819,909.5
+2012,Stage 1,10-credit,Health and Physical Education,Physical Education,701,1248,1816,4100,702,1208,3219,6556,9775,4887.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,12,13,0,0,12,13,25,12.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,195,79,282,184,116,97,593,360,953,476.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,0,0,50,32,50,32,82,41.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Economics,120,222,26,57,116,318,262,597,859,429.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Geography,117,158,232,232,260,273,609,663,1272,636.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,History,548,482,827,669,691,569,2066,1720,3786,1893.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,405,332,730,494,397,279,1532,1105,2637,1318.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,76,63,235,284,44,118,355,465,820,410.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,31,77,111,96,99,25,241,198,439,219.5
+2012,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,2102,2614,0,0,508,630,2610,3244,5854,2927.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,103,67,488,353,68,25,659,445,1104,552.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Tourism,254,78,641,255,127,49,1022,382,1404,702.0
+2012,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,89,3,0,0,89,3,92,46.0
+2012,Stage 1,10-credit,Languages,Arabic,0,0,13,1,9,6,22,7,29,14.5
+2012,Stage 1,10-credit,Languages,Auslan,0,0,21,0,0,0,21,0,21,10.5
+2012,Stage 1,10-credit,Languages,Australian Languages,0,0,1,0,0,0,1,0,1,0.5
+2012,Stage 1,10-credit,Languages,Bosnian,0,0,4,3,0,0,4,3,7,3.5
+2012,Stage 1,10-credit,Languages,Chinese,39,2,221,214,55,78,315,294,609,304.5
+2012,Stage 1,10-credit,Languages,Croatian,0,0,3,10,0,0,3,10,13,6.5
+2012,Stage 1,10-credit,Languages,French,92,29,144,35,81,13,317,77,394,197.0
+2012,Stage 1,10-credit,Languages,German,0,0,93,48,143,64,236,112,348,174.0
+2012,Stage 1,10-credit,Languages,Hindi,0,0,11,13,0,0,11,13,24,12.0
+2012,Stage 1,10-credit,Languages,Indonesian,62,9,36,9,10,10,108,28,136,68.0
+2012,Stage 1,10-credit,Languages,Italian,233,77,79,49,24,23,336,149,485,242.5
+2012,Stage 1,10-credit,Languages,Japanese,76,47,148,127,75,33,299,207,506,253.0
+2012,Stage 1,10-credit,Languages,Khmer,0,0,9,1,0,0,9,1,10,5.0
+2012,Stage 1,10-credit,Languages,Korean,0,0,5,3,0,0,5,3,8,4.0
+2012,Stage 1,10-credit,Languages,Language and Culture,0,0,7,0,0,0,7,0,7,3.5
+2012,Stage 1,10-credit,Languages,Latin,2,0,0,0,0,0,2,0,2,1.0
+2012,Stage 1,10-credit,Languages,Modern Greek,0,0,60,16,18,8,78,24,102,51.0
+2012,Stage 1,10-credit,Languages,Persian,0,0,34,40,0,0,34,40,74,37.0
+2012,Stage 1,10-credit,Languages,Polish,0,0,11,2,0,0,11,2,13,6.5
+2012,Stage 1,10-credit,Languages,Portuguese,0,0,3,0,0,0,3,0,3,1.5
+2012,Stage 1,10-credit,Languages,Russian,0,0,0,0,9,8,9,8,17,8.5
+2012,Stage 1,10-credit,Languages,Serbian,0,0,4,0,0,0,4,0,4,2.0
+2012,Stage 1,10-credit,Languages,Spanish,0,0,133,50,6,2,139,52,191,95.5
+2012,Stage 1,10-credit,Languages,Vietnamese,26,2,35,28,21,2,82,32,114,57.0
+2012,Stage 1,10-credit,Mathematics,Mathematics,3743,4192,8339,9770,4101,4503,16183,18465,34648,17324.0
+2012,Stage 1,10-credit,Mathematics,Numeracy for Work and Community Life,352,458,1568,1721,161,141,2081,2320,4401,2200.5
+2012,Stage 1,10-credit,Sciences,Agriculture,30,85,387,377,97,115,514,577,1091,545.5
+2012,Stage 1,10-credit,Sciences,Biology,1543,783,3150,1650,1729,926,6422,3359,9781,4890.5
+2012,Stage 1,10-credit,Sciences,Chemistry,946,830,1826,1888,1069,1181,3841,3899,7740,3870.0
+2012,Stage 1,10-credit,Sciences,Geology,0,17,23,15,0,0,23,32,55,27.5
+2012,Stage 1,10-credit,Sciences,Nutrition,193,77,239,120,23,0,455,197,652,326.0
+2012,Stage 1,10-credit,Sciences,Physics,417,1182,992,2810,588,1424,1997,5416,7413,3706.5
+2012,Stage 1,10-credit,Sciences,Psychology,838,361,1746,651,872,332,3456,1344,4800,2400.0
+2012,Stage 1,10-credit,Sciences,Scientific Studies,332,349,543,841,24,32,899,1222,2121,1060.5
+2012,Stage 1,20-credit,Arts,Creative Arts,3,3,34,31,8,1,45,35,80,80
+2012,Stage 1,20-credit,Arts,Dance,0,0,0,0,28,3,28,3,31,31
+2012,Stage 1,20-credit,Arts,Drama,0,0,6,5,0,0,6,5,11,11
+2012,Stage 1,20-credit,Arts,Music,4,3,31,53,0,2,35,58,93,93
+2012,Stage 1,20-credit,Arts,Visual Arts,6,12,4,2,0,0,10,14,24,24
+2012,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,6,9,14,45,0,0,20,54,74,74
+2012,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,6,0,19,105,4,21,29,126,155,155
+2012,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,7,2,0,0,7,2,9,9
+2012,Stage 1,20-credit,"Business, Enterprise and Technology",Information Technology,0,0,0,10,0,12,0,22,22,22
+2012,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,1,18,14,49,39,53,54,120,174,174
+2012,Stage 1,20-credit,Cross-disciplinary,Community Studies,9,0,182,143,0,2,191,145,336,336
+2012,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,8,69,66,98,0,0,74,167,241,241
+2012,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,0,0,61,72,0,0,61,72,133,133
+2012,Stage 1,20-credit,English,English,6,6,288,295,103,125,397,426,823,823
+2012,Stage 1,20-credit,English,Literacy for Work and Community Life,10,13,27,23,2,0,39,36,75,75
+2012,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,1,0,12,2,13,2,15,15
+2012,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,7,0,0,0,7,0,14,0,14,14
+2012,Stage 1,20-credit,Health and Physical Education,Health,3,4,59,83,0,0,62,87,149,149
+2012,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,0,3,0,0,0,3,3,3
+2012,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,19,27,0,0,19,27,46,46
+2012,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,6,4,0,0,6,4,10,10
+2012,Stage 1,20-credit,Humanities and Social Sciences,Geography,0,0,0,1,0,0,0,1,1,1
+2012,Stage 1,20-credit,Humanities and Social Sciences,History,0,0,0,1,0,0,0,1,1,1
+2012,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,220,221,0,0,0,0,220,221,441,441
+2012,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,3,4,19,25,0,0,22,29,51,51
+2012,Stage 1,20-credit,Languages,Arabic,0,0,0,0,0,2,0,2,2,2
+2012,Stage 1,20-credit,Languages,Chinese,0,0,0,0,3,2,3,2,5,5
+2012,Stage 1,20-credit,Languages,French,0,0,2,4,23,3,25,7,32,32
+2012,Stage 1,20-credit,Languages,German,0,0,0,4,9,9,9,13,22,22
+2012,Stage 1,20-credit,Languages,Japanese,0,0,9,10,0,2,9,12,21,21
+2012,Stage 1,20-credit,Languages,Language and Culture,0,0,1,0,0,0,1,0,1,1
+2012,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,1,1,1,1,2,2
+2012,Stage 1,20-credit,Languages,Polish,0,0,0,0,3,0,3,0,3,3
+2012,Stage 1,20-credit,Languages,Russian,0,0,0,0,1,0,1,0,1,1
+2012,Stage 1,20-credit,Languages,Ukrainian,0,0,0,0,0,1,0,1,1,1
+2012,Stage 1,20-credit,Languages,Vietnamese,0,1,0,0,16,10,16,11,27,27
+2012,Stage 1,20-credit,Mathematics,Mathematics,9,21,98,108,0,0,107,129,236,236
+2012,Stage 1,20-credit,Sciences,Agriculture,0,0,0,15,0,0,0,15,15,15
+2012,Stage 1,20-credit,Sciences,Chemistry,0,0,4,2,0,0,4,2,6,6
+2012,Stage 1,20-credit,Sciences,Scientific Studies,0,0,9,11,0,0,9,11,20,20
+2013,Stage 1,10-credit,Arts,Creative Arts,72,61,668,499,123,61,863,621,1484,742.0
+2013,Stage 1,10-credit,Arts,Dance,29,2,412,66,92,8,533,76,609,304.5
+2013,Stage 1,10-credit,Arts,Drama,456,183,712,418,554,244,1722,845,2567,1283.5
+2013,Stage 1,10-credit,Arts,Music,267,172,588,701,304,261,1159,1134,2293,1146.5
+2013,Stage 1,10-credit,Arts,Visual Arts,1039,364,3228,1722,1185,486,5452,2572,8024,4012.0
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,195,263,137,151,122,264,454,678,1132,566.0
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,505,540,542,572,533,474,1580,1586,3166,1583.0
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,450,1340,1814,5913,365,1225,2629,8478,11107,5553.5
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,353,121,587,614,252,195,1192,930,2122,1061.0
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,68,381,85,647,64,404,217,1432,1649,824.5
+2013,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,210,244,471,682,384,370,1065,1296,2361,1180.5
+2013,Stage 1,10-credit,Cross-disciplinary,Community Studies,146,106,717,797,116,157,979,1060,2039,1019.5
+2013,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,5,15,186,174,8,61,199,250,449,224.5
+2013,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,1044,901,3699,3905,198,151,4941,4957,9898,4949.0
+2013,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1935,2041,5366,5718,1986,1961,9287,9720,19007,9503.5
+2013,Stage 1,10-credit,English,English,4155,3629,8833,8899,3752,3395,16740,15923,32663,16331.5
+2013,Stage 1,10-credit,English,Literacy for Work and Community Life,220,395,1258,2039,59,81,1537,2515,4052,2026.0
+2013,Stage 1,10-credit,Health and Physical Education,Child Studies,510,18,1283,52,390,5,2183,75,2258,1129.0
+2013,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,718,286,2542,1279,838,252,4098,1817,5915,2957.5
+2013,Stage 1,10-credit,Health and Physical Education,Health,7,8,780,428,137,73,924,509,1433,716.5
+2013,Stage 1,10-credit,Health and Physical Education,Outdoor Education,132,182,384,768,159,231,675,1181,1856,928.0
+2013,Stage 1,10-credit,Health and Physical Education,Physical Education,752,1157,1754,3996,842,1187,3348,6340,9688,4844.0
+2013,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,27,18,0,0,27,18,45,22.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,135,85,189,177,84,52,408,314,722,361.0
+2013,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,11,11,38,22,49,33,82,41.0
+2013,Stage 1,10-credit,Humanities and Social Sciences,Economics,128,253,34,62,127,338,289,653,942,471.0
+2013,Stage 1,10-credit,Humanities and Social Sciences,Geography,110,145,201,206,223,300,534,651,1185,592.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,History,585,394,1026,915,698,525,2309,1834,4143,2071.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,417,297,644,422,401,224,1462,943,2405,1202.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,122,112,179,245,83,150,384,507,891,445.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,42,23,54,39,87,24,183,86,269,134.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,2189,2295,0,0,609,685,2798,2980,5778,2889.0
+2013,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,150,51,461,356,69,80,680,487,1167,583.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Tourism,210,71,589,211,58,28,857,310,1167,583.5
+2013,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,63,0,0,0,63,0,63,31.5
+2013,Stage 1,10-credit,Languages,Arabic,0,0,7,0,15,6,22,6,28,14.0
+2013,Stage 1,10-credit,Languages,Auslan,0,0,10,12,0,0,10,12,22,11.0
+2013,Stage 1,10-credit,Languages,Australian Languages,0,0,12,3,2,2,14,5,19,9.5
+2013,Stage 1,10-credit,Languages,Bosnian,0,0,6,0,0,0,6,0,6,3.0
+2013,Stage 1,10-credit,Languages,Chinese,28,18,153,192,45,60,226,270,496,248.0
+2013,Stage 1,10-credit,Languages,Croatian,0,0,1,0,0,0,1,0,1,0.5
+2013,Stage 1,10-credit,Languages,French,51,2,91,35,58,20,200,57,257,128.5
+2013,Stage 1,10-credit,Languages,German,0,0,84,61,116,44,200,105,305,152.5
+2013,Stage 1,10-credit,Languages,Hindi,0,0,23,13,0,0,23,13,36,18.0
+2013,Stage 1,10-credit,Languages,Indonesian,49,13,28,24,21,4,98,41,139,69.5
+2013,Stage 1,10-credit,Languages,Italian,216,72,57,49,37,20,310,141,451,225.5
+2013,Stage 1,10-credit,Languages,Japanese,84,73,161,132,152,51,397,256,653,326.5
+2013,Stage 1,10-credit,Languages,Khmer,0,0,6,4,0,0,6,4,10,5.0
+2013,Stage 1,10-credit,Languages,Korean,0,0,2,1,0,0,2,1,3,1.5
+2013,Stage 1,10-credit,Languages,Language and Culture,0,0,13,5,0,0,13,5,18,9.0
+2013,Stage 1,10-credit,Languages,Latin,0,2,0,0,0,0,0,2,2,1.0
+2013,Stage 1,10-credit,Languages,Modern Greek,0,0,33,25,15,14,48,39,87,43.5
+2013,Stage 1,10-credit,Languages,Persian,0,0,23,22,0,1,23,23,46,23.0
+2013,Stage 1,10-credit,Languages,Polish,0,0,4,4,0,0,4,4,8,4.0
+2013,Stage 1,10-credit,Languages,Portuguese,0,0,2,0,0,0,2,0,2,1.0
+2013,Stage 1,10-credit,Languages,Russian,0,0,0,0,7,6,7,6,13,6.5
+2013,Stage 1,10-credit,Languages,Serbian,0,0,0,1,0,0,0,1,1,0.5
+2013,Stage 1,10-credit,Languages,Spanish,0,0,145,72,10,2,155,74,229,114.5
+2013,Stage 1,10-credit,Languages,Vietnamese,26,0,27,24,42,8,95,32,127,63.5
+2013,Stage 1,10-credit,Mathematics,Mathematics,3985,3995,7911,9413,4121,4355,16017,17763,33780,16890.0
+2013,Stage 1,10-credit,Mathematics,Numeracy for Work and Community Life,320,446,1475,1720,160,192,1955,2358,4313,2156.5
+2013,Stage 1,10-credit,Sciences,Agriculture,26,74,408,364,80,119,514,557,1071,535.5
+2013,Stage 1,10-credit,Sciences,Biology,1542,702,3127,1700,1742,936,6411,3338,9749,4874.5
+2013,Stage 1,10-credit,Sciences,Chemistry,1008,840,1816,2009,1136,1135,3960,3984,7944,3972.0
+2013,Stage 1,10-credit,Sciences,Geology,7,15,22,38,0,0,29,53,82,41.0
+2013,Stage 1,10-credit,Sciences,Nutrition,229,89,297,125,108,35,634,249,883,441.5
+2013,Stage 1,10-credit,Sciences,Physics,473,1146,976,2872,525,1387,1974,5405,7379,3689.5
+2013,Stage 1,10-credit,Sciences,Psychology,1009,377,1815,719,960,290,3784,1386,5170,2585.0
+2013,Stage 1,10-credit,Sciences,Scientific Studies,327,287,519,744,39,56,885,1087,1972,986.0
+2013,Stage 1,20-credit,Arts,Creative Arts,3,0,32,31,11,1,46,32,78,78
+2013,Stage 1,20-credit,Arts,Dance,0,0,0,0,14,1,14,1,15,15
+2013,Stage 1,20-credit,Arts,Drama,1,0,29,24,4,3,34,27,61,61
+2013,Stage 1,20-credit,Arts,Music,2,2,31,44,8,11,41,57,98,98
+2013,Stage 1,20-credit,Arts,Visual Arts,1,7,10,9,0,0,11,16,27,27
+2013,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,0,0,20,47,0,0,20,47,67,67
+2013,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,1,97,4,121,0,21,5,239,244,244
+2013,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,10,19,6,30,23,27,39,76,115,115
+2013,Stage 1,20-credit,Cross-disciplinary,Community Studies,11,8,183,143,1,1,195,152,347,347
+2013,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,8,30,54,112,0,0,62,142,204,204
+2013,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,0,3,43,53,0,0,43,56,99,99
+2013,Stage 1,20-credit,English,English,11,14,297,319,77,89,385,422,807,807
+2013,Stage 1,20-credit,English,Literacy for Work and Community Life,5,10,19,29,0,0,24,39,63,63
+2013,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,0,0,4,0,4,0,4,4
+2013,Stage 1,20-credit,Health and Physical Education,Health,4,1,57,75,0,2,61,78,139,139
+2013,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,3,5,0,0,3,5,8,8
+2013,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,24,21,0,0,24,21,45,45
+2013,Stage 1,20-credit,Humanities and Social Sciences,History,0,0,3,1,0,0,3,1,4,4
+2013,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,1,0,0,0,1,1,1
+2013,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,209,195,0,0,0,0,209,195,404,404
+2013,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,3,0,28,29,0,0,31,29,60,60
+2013,Stage 1,20-credit,Languages,Chinese,0,1,0,0,2,7,2,8,10,10
+2013,Stage 1,20-credit,Languages,French,0,0,16,9,10,1,26,10,36,36
+2013,Stage 1,20-credit,Languages,German,0,0,2,2,9,4,11,6,17,17
+2013,Stage 1,20-credit,Languages,Italian,4,1,9,3,0,0,13,4,17,17
+2013,Stage 1,20-credit,Languages,Japanese,0,0,5,4,3,0,8,4,12,12
+2013,Stage 1,20-credit,Languages,Language and Culture,0,0,0,1,0,0,0,1,1,1
+2013,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,0,1,0,1,1,1
+2013,Stage 1,20-credit,Languages,Persian,0,0,0,2,0,0,0,2,2,2
+2013,Stage 1,20-credit,Languages,Ukrainian,0,0,0,0,1,1,1,1,2,2
+2013,Stage 1,20-credit,Languages,Vietnamese,2,1,0,0,12,10,14,11,25,25
+2013,Stage 1,20-credit,Mathematics,Mathematics,11,62,81,112,5,8,97,182,279,279
+2013,Stage 1,20-credit,Mathematics,Numeracy for Work and Community Life,0,3,0,0,0,0,0,3,3,3
+2013,Stage 1,20-credit,Sciences,Agriculture,0,0,2,12,0,0,2,12,14,14
+2013,Stage 1,20-credit,Sciences,Biology,0,0,29,4,0,0,29,4,33,33
+2013,Stage 1,20-credit,Sciences,Chemistry,0,0,1,2,0,0,1,2,3,3
+2013,Stage 1,20-credit,Sciences,Physics,0,0,0,1,0,1,0,2,2,2
+2013,Stage 1,20-credit,Sciences,Scientific Studies,5,0,31,43,0,0,36,43,79,79
+2014,Stage 1,10-credit,Arts,Creative Arts,65,38,638,461,173,84,876,583,1459,729.5
+2014,Stage 1,10-credit,Arts,Dance,56,10,362,70,96,4,514,84,598,299.0
+2014,Stage 1,10-credit,Arts,Drama,344,137,597,387,533,264,1474,788,2262,1131.0
+2014,Stage 1,10-credit,Arts,Music,209,160,625,736,292,282,1126,1178,2304,1152.0
+2014,Stage 1,10-credit,Arts,Visual Arts,940,430,2840,1574,1064,493,4844,2497,7341,3670.5
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,136,209,114,125,132,274,382,608,990,495.0
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,540,639,601,604,467,499,1608,1742,3350,1675.0
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,398,1412,1816,5520,417,1100,2631,8032,10663,5331.5
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,287,170,549,536,222,243,1058,949,2007,1003.5
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,30,313,79,671,49,341,158,1325,1483,741.5
+2014,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,215,266,489,648,363,368,1067,1282,2349,1174.5
+2014,Stage 1,10-credit,Cross-disciplinary,Community Studies,135,129,627,623,159,122,921,874,1795,897.5
+2014,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,45,67,125,124,12,48,182,239,421,210.5
+2014,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,862,595,3339,3766,193,162,4394,4523,8917,4458.5
+2014,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,2175,2108,5760,6238,1938,1634,9873,9980,19853,9926.5
+2014,Stage 1,10-credit,Cross-disciplinary,Research Practices,133,146,611,545,203,147,947,838,1785,892.5
+2014,Stage 1,10-credit,English,English,3993,3862,9155,8956,3812,3642,16960,16460,33420,16710.0
+2014,Stage 1,10-credit,English,Literacy for Work and Community Life,134,317,1061,1777,71,103,1266,2197,3463,1731.5
+2014,Stage 1,10-credit,Health and Physical Education,Child Studies,446,12,1277,65,336,13,2059,90,2149,1074.5
+2014,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,721,270,2539,1175,709,252,3969,1697,5666,2833.0
+2014,Stage 1,10-credit,Health and Physical Education,Health,9,20,906,542,165,65,1080,627,1707,853.5
+2014,Stage 1,10-credit,Health and Physical Education,Outdoor Education,133,188,412,785,139,273,684,1246,1930,965.0
+2014,Stage 1,10-credit,Health and Physical Education,Physical Education,810,1426,1888,4035,731,1216,3429,6677,10106,5053.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,46,36,0,0,46,36,82,41.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,181,86,233,178,135,73,549,337,886,443.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,9,6,63,21,72,27,99,49.5
+2014,Stage 1,10-credit,Humanities and Social Sciences,Economics,89,275,20,39,126,326,235,640,875,437.5
+2014,Stage 1,10-credit,Humanities and Social Sciences,Geography,178,179,239,192,236,305,653,676,1329,664.5
+2014,Stage 1,10-credit,Humanities and Social Sciences,History,491,462,821,727,694,531,2006,1720,3726,1863.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,424,349,715,488,380,282,1519,1119,2638,1319.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,100,123,169,278,70,88,339,489,828,414.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,19,52,136,166,99,50,254,268,522,261.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,2305,2460,0,0,543,660,2848,3120,5968,2984.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,172,74,548,341,58,51,778,466,1244,622.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Tourism,246,57,598,205,95,33,939,295,1234,617.0
+2014,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,69,5,0,0,69,5,74,37.0
+2014,Stage 1,10-credit,Languages,Arabic,0,0,16,5,6,8,22,13,35,17.5
+2014,Stage 1,10-credit,Languages,Auslan,0,0,7,4,0,0,7,4,11,5.5
+2014,Stage 1,10-credit,Languages,Australian Languages,0,0,0,2,0,0,0,2,2,1.0
+2014,Stage 1,10-credit,Languages,Bosnian,0,0,2,8,0,0,2,8,10,5.0
+2014,Stage 1,10-credit,Languages,Chinese,17,10,169,173,71,66,257,249,506,253.0
+2014,Stage 1,10-credit,Languages,French,43,4,86,46,76,11,205,61,266,133.0
+2014,Stage 1,10-credit,Languages,German,0,0,92,43,102,77,194,120,314,157.0
+2014,Stage 1,10-credit,Languages,Hindi,0,0,16,13,0,0,16,13,29,14.5
+2014,Stage 1,10-credit,Languages,Indonesian,88,6,50,29,0,0,138,35,173,86.5
+2014,Stage 1,10-credit,Languages,Italian,181,70,104,44,25,13,310,127,437,218.5
+2014,Stage 1,10-credit,Languages,Japanese,41,39,227,129,81,40,349,208,557,278.5
+2014,Stage 1,10-credit,Languages,Khmer,0,0,9,6,0,0,9,6,15,7.5
+2014,Stage 1,10-credit,Languages,Korean,0,0,0,2,0,0,0,2,2,1.0
+2014,Stage 1,10-credit,Languages,Language and Culture,0,0,20,15,0,0,20,15,35,17.5
+2014,Stage 1,10-credit,Languages,Latin,1,4,0,0,0,0,1,4,5,2.5
+2014,Stage 1,10-credit,Languages,Modern Greek,0,0,27,15,14,12,41,27,68,34.0
+2014,Stage 1,10-credit,Languages,Persian,0,0,18,21,0,5,18,26,44,22.0
+2014,Stage 1,10-credit,Languages,Polish,0,0,6,0,0,0,6,0,6,3.0
+2014,Stage 1,10-credit,Languages,Punjabi,0,0,3,0,0,0,3,0,3,1.5
+2014,Stage 1,10-credit,Languages,Russian,0,0,0,0,19,4,19,4,23,11.5
+2014,Stage 1,10-credit,Languages,Spanish,4,2,126,34,8,0,138,36,174,87.0
+2014,Stage 1,10-credit,Languages,Vietnamese,7,0,37,16,19,0,63,16,79,39.5
+2014,Stage 1,10-credit,Mathematics,Mathematics,3745,4214,8303,9364,4190,4504,16238,18082,34320,17160.0
+2014,Stage 1,10-credit,Mathematics,Numeracy for Work and Community Life,349,519,1502,1803,283,292,2134,2614,4748,2374.0
+2014,Stage 1,10-credit,Sciences,Agriculture,24,79,452,322,102,153,578,554,1132,566.0
+2014,Stage 1,10-credit,Sciences,Biology,1551,842,3380,1775,1839,968,6770,3585,10355,5177.5
+2014,Stage 1,10-credit,Sciences,Chemistry,953,909,2084,2056,1116,1241,4153,4206,8359,4179.5
+2014,Stage 1,10-credit,Sciences,Geology,0,14,26,34,0,0,26,48,74,37.0
+2014,Stage 1,10-credit,Sciences,Nutrition,236,137,341,160,110,43,687,340,1027,513.5
+2014,Stage 1,10-credit,Sciences,Physics,410,1102,1021,2725,540,1446,1971,5273,7244,3622.0
+2014,Stage 1,10-credit,Sciences,Psychology,985,442,1794,820,1056,367,3835,1629,5464,2732.0
+2014,Stage 1,10-credit,Sciences,Scientific Studies,275,310,401,705,105,139,781,1154,1935,967.5
+2014,Stage 1,20-credit,Arts,Creative Arts,2,0,31,88,5,0,38,88,126,126
+2014,Stage 1,20-credit,Arts,Dance,0,0,0,0,30,1,30,1,31,31
+2014,Stage 1,20-credit,Arts,Drama,11,1,21,4,4,2,36,7,43,43
+2014,Stage 1,20-credit,Arts,Music,3,6,39,41,1,3,43,50,93,93
+2014,Stage 1,20-credit,Arts,Visual Arts,5,6,17,3,4,1,26,10,36,36
+2014,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,1,5,30,62,0,1,31,68,99,99
+2014,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,3,60,6,80,1,24,10,164,174,174
+2014,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,6,8,0,0,6,8,14,14
+2014,Stage 1,20-credit,"Business, Enterprise and Technology",Information Technology,0,0,1,7,0,0,1,7,8,8
+2014,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,1,18,17,41,18,32,36,91,127,127
+2014,Stage 1,20-credit,Cross-disciplinary,Community Studies,15,5,131,88,0,1,146,94,240,240
+2014,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,20,81,109,148,0,0,129,229,358,358
+2014,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,13,57,87,79,0,0,100,136,236,236
+2014,Stage 1,20-credit,English,English,37,67,341,410,21,17,399,494,893,893
+2014,Stage 1,20-credit,English,Literacy for Work and Community Life,8,10,16,25,3,8,27,43,70,70
+2014,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,0,0,14,2,14,2,16,16
+2014,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,5,0,5,0,10,0,10,10
+2014,Stage 1,20-credit,Health and Physical Education,Health,0,1,65,148,0,2,65,151,216,216
+2014,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,3,2,0,0,3,2,5,5
+2014,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,21,31,0,0,21,31,52,52
+2014,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,0,3,0,0,0,3,3,3
+2014,Stage 1,20-credit,Humanities and Social Sciences,Geography,0,0,3,2,0,0,3,2,5,5
+2014,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,122,210,0,0,0,0,122,210,332,332
+2014,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,2,0,11,39,0,0,13,39,52,52
+2014,Stage 1,20-credit,Languages,Arabic,0,0,0,0,1,3,1,3,4,4
+2014,Stage 1,20-credit,Languages,Chinese,0,0,1,4,2,0,3,4,7,7
+2014,Stage 1,20-credit,Languages,French,0,0,15,5,10,1,25,6,31,31
+2014,Stage 1,20-credit,Languages,German,0,0,5,2,11,15,16,17,33,33
+2014,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,0,1,0,1,1,1
+2014,Stage 1,20-credit,Languages,Indonesian,0,0,0,0,3,0,3,0,3,3
+2014,Stage 1,20-credit,Languages,Italian,6,1,0,0,0,0,6,1,7,7
+2014,Stage 1,20-credit,Languages,Japanese,0,0,7,4,1,2,8,6,14,14
+2014,Stage 1,20-credit,Languages,Language and Culture,0,0,0,1,1,5,1,6,7,7
+2014,Stage 1,20-credit,Languages,Persian,0,0,2,1,0,0,2,1,3,3
+2014,Stage 1,20-credit,Languages,Spanish,0,0,0,0,16,2,16,2,18,18
+2014,Stage 1,20-credit,Languages,Vietnamese,6,0,0,0,10,4,16,4,20,20
+2014,Stage 1,20-credit,Mathematics,Mathematics,10,21,94,193,0,2,104,216,320,320
+2014,Stage 1,20-credit,Sciences,Agriculture,0,0,1,15,0,0,1,15,16,16
+2014,Stage 1,20-credit,Sciences,Biology,0,0,1,0,5,2,6,2,8,8
+2014,Stage 1,20-credit,Sciences,Chemistry,0,0,2,1,0,0,2,1,3,3
+2014,Stage 1,20-credit,Sciences,Physics,0,0,0,1,0,0,0,1,1,1
+2014,Stage 1,20-credit,Sciences,Scientific Studies,0,1,16,46,1,1,17,48,65,65
+2015,Stage 1,10-credit,Arts,Creative Arts,115,64,714,611,158,129,987,804,1791,895.5
+2015,Stage 1,10-credit,Arts,Dance,81,2,377,54,72,8,530,64,594,297.0
+2015,Stage 1,10-credit,Arts,Drama,373,171,680,501,438,250,1491,922,2413,1206.5
+2015,Stage 1,10-credit,Arts,Music,180,118,601,685,293,290,1074,1093,2167,1083.5
+2015,Stage 1,10-credit,Arts,Visual Arts,888,431,2883,1494,1221,569,4992,2494,7486,3743.0
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,177,294,120,132,138,309,435,735,1170,585.0
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,506,630,717,708,542,502,1765,1840,3605,1802.5
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,463,1299,1993,5593,377,1172,2833,8064,10897,5448.5
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,345,133,581,553,196,156,1122,842,1964,982.0
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,33,248,101,610,42,341,176,1199,1375,687.5
+2015,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,205,263,593,704,349,343,1147,1310,2457,1228.5
+2015,Stage 1,10-credit,Cross-disciplinary,Community Studies,95,93,595,598,31,30,721,721,1442,721.0
+2015,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,39,60,37,44,7,44,83,148,231,115.5
+2015,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,598,491,3243,3568,100,158,3941,4217,8158,4079.0
+2015,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,2306,2086,5998,6472,2099,2535,10403,11093,21496,10748.0
+2015,Stage 1,10-credit,Cross-disciplinary,Research Practices,210,97,900,1020,280,209,1390,1326,2716,1358.0
+2015,Stage 1,10-credit,English,English,4144,3860,9370,9274,4018,3672,17532,16806,34338,17169.0
+2015,Stage 1,10-credit,English,Literacy for Work and Community Life,135,140,1315,2041,59,123,1509,2304,3813,1906.5
+2015,Stage 1,10-credit,Health and Physical Education,Child Studies,458,13,1217,65,335,26,2010,104,2114,1057.0
+2015,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,608,268,2371,1216,679,208,3658,1692,5350,2675.0
+2015,Stage 1,10-credit,Health and Physical Education,Health,75,28,985,559,142,64,1202,651,1853,926.5
+2015,Stage 1,10-credit,Health and Physical Education,Outdoor Education,144,205,522,923,169,301,835,1429,2264,1132.0
+2015,Stage 1,10-credit,Health and Physical Education,Physical Education,759,1354,1780,4052,750,1165,3289,6571,9860,4930.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,37,18,0,0,37,18,55,27.5
+2015,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,152,71,226,194,114,83,492,348,840,420.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,8,7,44,21,52,28,80,40.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Economics,114,199,25,56,129,351,268,606,874,437.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Geography,121,118,276,226,226,287,623,631,1254,627.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,History,499,393,1047,868,582,440,2128,1701,3829,1914.5
+2015,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,431,353,737,468,391,242,1559,1063,2622,1311.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,64,77,198,286,81,103,343,466,809,404.5
+2015,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,8,20,59,36,187,160,254,216,470,235.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,2184,2126,0,0,665,691,2849,2817,5666,2833.0
+2015,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,205,71,474,361,74,48,753,480,1233,616.5
+2015,Stage 1,10-credit,Humanities and Social Sciences,Tourism,203,64,589,258,109,76,901,398,1299,649.5
+2015,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,152,5,0,0,152,5,157,78.5
+2015,Stage 1,10-credit,Languages,Arabic,0,0,2,3,4,8,6,11,17,8.5
+2015,Stage 1,10-credit,Languages,Auslan,0,0,8,4,0,0,8,4,12,6.0
+2015,Stage 1,10-credit,Languages,Australian Languages,0,0,6,2,0,0,6,2,8,4.0
+2015,Stage 1,10-credit,Languages,Bosnian,0,0,4,2,0,0,4,2,6,3.0
+2015,Stage 1,10-credit,Languages,Chinese,23,12,137,170,75,67,235,249,484,242.0
+2015,Stage 1,10-credit,Languages,French,58,6,125,31,77,16,260,53,313,156.5
+2015,Stage 1,10-credit,Languages,German,0,0,100,43,126,42,226,85,311,155.5
+2015,Stage 1,10-credit,Languages,Hindi,0,0,25,20,0,0,25,20,45,22.5
+2015,Stage 1,10-credit,Languages,Indonesian,44,7,39,13,23,21,106,41,147,73.5
+2015,Stage 1,10-credit,Languages,Italian,305,89,68,24,19,11,392,124,516,258.0
+2015,Stage 1,10-credit,Languages,Japanese,45,40,165,151,93,58,303,249,552,276.0
+2015,Stage 1,10-credit,Languages,Khmer,0,0,10,2,0,0,10,2,12,6.0
+2015,Stage 1,10-credit,Languages,Korean,0,0,7,4,0,0,7,4,11,5.5
+2015,Stage 1,10-credit,Languages,Language and Culture,0,1,18,7,0,0,18,8,26,13.0
+2015,Stage 1,10-credit,Languages,Latin,0,4,0,0,0,0,0,4,4,2.0
+2015,Stage 1,10-credit,Languages,Modern Greek,0,0,29,19,16,6,45,25,70,35.0
+2015,Stage 1,10-credit,Languages,Persian,0,0,21,19,0,0,21,19,40,20.0
+2015,Stage 1,10-credit,Languages,Polish,0,0,8,2,4,2,12,4,16,8.0
+2015,Stage 1,10-credit,Languages,Portuguese,0,0,0,4,0,0,0,4,4,2.0
+2015,Stage 1,10-credit,Languages,Punjabi,0,0,4,12,0,0,4,12,16,8.0
+2015,Stage 1,10-credit,Languages,Russian,0,0,0,0,9,6,9,6,15,7.5
+2015,Stage 1,10-credit,Languages,Serbian,0,0,4,0,0,0,4,0,4,2.0
+2015,Stage 1,10-credit,Languages,Spanish,0,4,117,78,1,0,118,82,200,100.0
+2015,Stage 1,10-credit,Languages,Vietnamese,22,3,31,12,58,34,111,49,160,80.0
+2015,Stage 1,10-credit,Mathematics,Mathematics,3697,3964,8432,9722,4256,4367,16385,18053,34438,17219.0
+2015,Stage 1,10-credit,Mathematics,Numeracy for Work and Community Life,486,577,1611,1834,269,315,2366,2726,5092,2546.0
+2015,Stage 1,10-credit,Sciences,Agriculture,39,63,404,429,104,105,547,597,1144,572.0
+2015,Stage 1,10-credit,Sciences,Biology,1679,845,3157,1777,1840,1025,6676,3647,10323,5161.5
+2015,Stage 1,10-credit,Sciences,Chemistry,1013,908,1967,2060,1212,1124,4192,4092,8284,4142.0
+2015,Stage 1,10-credit,Sciences,Geology,0,10,39,51,0,0,39,61,100,50.0
+2015,Stage 1,10-credit,Sciences,Nutrition,315,198,333,189,116,47,764,434,1198,599.0
+2015,Stage 1,10-credit,Sciences,Physics,423,1139,982,2781,565,1305,1970,5225,7195,3597.5
+2015,Stage 1,10-credit,Sciences,Psychology,1043,350,2107,886,1046,332,4196,1568,5764,2882.0
+2015,Stage 1,10-credit,Sciences,Scientific Studies,318,363,634,681,85,120,1037,1164,2201,1100.5
+2015,Stage 1,20-credit,Arts,Creative Arts,3,1,30,60,7,0,40,61,101,101
+2015,Stage 1,20-credit,Arts,Dance,0,0,0,4,28,2,28,6,34,34
+2015,Stage 1,20-credit,Arts,Drama,11,7,4,1,12,0,27,8,35,35
+2015,Stage 1,20-credit,Arts,Music,27,2,35,44,0,0,62,46,108,108
+2015,Stage 1,20-credit,Arts,Visual Arts,2,3,4,0,6,0,12,3,15,15
+2015,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,2,1,34,81,0,1,36,83,119,119
+2015,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,0,15,8,135,6,13,14,163,177,177
+2015,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,4,5,0,0,4,5,9,9
+2015,Stage 1,20-credit,"Business, Enterprise and Technology",Information Technology,0,0,2,12,0,0,2,12,14,14
+2015,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,2,8,20,60,32,23,54,91,145,145
+2015,Stage 1,20-credit,Cross-disciplinary,Community Studies,5,3,119,55,0,3,124,61,185,185
+2015,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,6,70,77,145,0,0,83,215,298,298
+2015,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,6,75,45,50,0,0,51,125,176,176
+2015,Stage 1,20-credit,English,English,12,36,357,372,19,17,388,425,813,813
+2015,Stage 1,20-credit,English,Literacy for Work and Community Life,8,13,15,9,0,0,23,22,45,45
+2015,Stage 1,20-credit,Health and Physical Education,Child Studies,1,1,0,0,0,0,1,1,2,2
+2015,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,2,0,0,0,2,0,2,2
+2015,Stage 1,20-credit,Health and Physical Education,Health,4,1,54,115,0,0,58,116,174,174
+2015,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,4,3,0,0,4,3,7,7
+2015,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,18,21,0,0,18,21,39,39
+2015,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,2,0,0,0,2,0,2,2
+2015,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,66,219,0,0,0,0,66,219,285,285
+2015,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,4,1,20,43,0,0,24,44,68,68
+2015,Stage 1,20-credit,Languages,Arabic,0,0,0,0,4,1,4,1,5,5
+2015,Stage 1,20-credit,Languages,Chinese,0,0,0,0,6,11,6,11,17,17
+2015,Stage 1,20-credit,Languages,French,0,0,7,6,15,3,22,9,31,31
+2015,Stage 1,20-credit,Languages,German,0,0,2,0,3,0,5,0,5,5
+2015,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,4,2,4,2,6,6
+2015,Stage 1,20-credit,Languages,Japanese,0,0,10,9,4,1,14,10,24,24
+2015,Stage 1,20-credit,Languages,Language and Culture,0,0,0,0,2,4,2,4,6,6
+2015,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,0,2,0,2,2,2
+2015,Stage 1,20-credit,Languages,Russian,0,0,0,0,2,1,2,1,3,3
+2015,Stage 1,20-credit,Languages,Spanish,0,0,0,0,15,0,15,0,15,15
+2015,Stage 1,20-credit,Mathematics,Mathematics,13,20,68,125,1,4,82,149,231,231
+2015,Stage 1,20-credit,Mathematics,Numeracy for Work and Community Life,1,0,1,0,0,0,2,0,2,2
+2015,Stage 1,20-credit,Sciences,Agriculture,0,0,3,13,0,0,3,13,16,16
+2015,Stage 1,20-credit,Sciences,Biology,0,0,1,0,0,0,1,0,1,1
+2015,Stage 1,20-credit,Sciences,Scientific Studies,1,6,35,98,0,0,36,104,140,140
+2016,Stage 1,10-credit,Arts,Creative Arts,132,81,659,615,155,109,946,805,1751,875.5
+2016,Stage 1,10-credit,Arts,Dance,49,0,415,58,55,8,519,66,585,292.5
+2016,Stage 1,10-credit,Arts,Drama,398,183,614,369,438,282,1450,834,2284,1142.0
+2016,Stage 1,10-credit,Arts,Music,175,156,631,663,305,278,1111,1097,2208,1104.0
+2016,Stage 1,10-credit,Arts,Visual Arts,864,444,2665,1422,999,499,4528,2365,6893,3446.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,130,244,82,131,135,339,347,714,1061,530.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,566,742,612,779,497,599,1675,2120,3795,1897.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,403,1386,1683,5562,316,1099,2402,8047,10449,5224.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,360,120,461,536,132,134,953,790,1743,871.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,21,222,76,568,38,356,135,1146,1281,640.5
+2016,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,211,262,468,689,334,393,1013,1344,2357,1178.5
+2016,Stage 1,10-credit,Cross-disciplinary,Community Studies,82,141,819,729,14,23,915,893,1808,904.0
+2016,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,45,69,39,70,7,37,91,176,267,133.5
+2016,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,391,409,3496,3749,107,135,3994,4293,8287,4143.5
+2016,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1908,1827,5430,5607,2034,2184,9372,9618,18990,9495.0
+2016,Stage 1,10-credit,Cross-disciplinary,Research Practices,328,173,794,908,188,196,1310,1277,2587,1293.5
+2016,Stage 1,10-credit,English,English,4073,3873,9765,10539,3918,3973,17756,18385,36141,18070.5
+2016,Stage 1,10-credit,Health and Physical Education,Child Studies,558,17,1194,49,337,34,2089,100,2189,1094.5
+2016,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,655,279,2066,1198,574,194,3295,1671,4966,2483.0
+2016,Stage 1,10-credit,Health and Physical Education,Health,85,40,882,494,138,77,1105,611,1716,858.0
+2016,Stage 1,10-credit,Health and Physical Education,Outdoor Education,141,137,550,844,176,320,867,1301,2168,1084.0
+2016,Stage 1,10-credit,Health and Physical Education,Physical Education,788,1259,1790,3817,758,1254,3336,6330,9666,4833.0
+2016,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,38,17,0,0,38,17,55,27.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,150,68,279,199,106,58,535,325,860,430.0
+2016,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,8,7,35,23,43,30,73,36.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Economics,124,214,42,69,99,333,265,616,881,440.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Geography,124,160,158,189,227,301,509,650,1159,579.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,History,462,495,868,749,636,558,1966,1802,3768,1884.0
+2016,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,414,363,661,464,394,288,1469,1115,2584,1292.0
+2016,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,97,70,137,170,52,90,286,330,616,308.0
+2016,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,22,32,69,44,81,33,172,109,281,140.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1986,1826,0,0,655,690,2641,2516,5157,2578.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,257,99,568,316,68,67,893,482,1375,687.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Tourism,157,49,469,229,104,61,730,339,1069,534.5
+2016,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,159,14,0,0,159,14,173,86.5
+2016,Stage 1,10-credit,Languages,Arabic,0,0,5,6,4,8,9,14,23,11.5
+2016,Stage 1,10-credit,Languages,Auslan,0,0,14,2,0,0,14,2,16,8.0
+2016,Stage 1,10-credit,Languages,Australian Languages,0,0,8,3,0,0,8,3,11,5.5
+2016,Stage 1,10-credit,Languages,Bosnian,0,0,4,0,0,0,4,0,4,2.0
+2016,Stage 1,10-credit,Languages,Chinese,30,42,179,149,80,76,289,267,556,278.0
+2016,Stage 1,10-credit,Languages,Croatian,0,0,4,1,0,0,4,1,5,2.5
+2016,Stage 1,10-credit,Languages,French,83,7,103,26,49,19,235,52,287,143.5
+2016,Stage 1,10-credit,Languages,German,0,0,66,42,147,78,213,120,333,166.5
+2016,Stage 1,10-credit,Languages,Hindi,0,0,21,4,0,0,21,4,25,12.5
+2016,Stage 1,10-credit,Languages,Indonesian,42,4,64,21,22,6,128,31,159,79.5
+2016,Stage 1,10-credit,Languages,Italian,203,65,112,75,17,7,332,147,479,239.5
+2016,Stage 1,10-credit,Languages,Japanese,62,87,197,137,115,54,374,278,652,326.0
+2016,Stage 1,10-credit,Languages,Khmer,0,0,8,8,0,0,8,8,16,8.0
+2016,Stage 1,10-credit,Languages,Korean,0,0,66,15,0,0,66,15,81,40.5
+2016,Stage 1,10-credit,Languages,Language and Culture,0,1,39,26,0,0,39,27,66,33.0
+2016,Stage 1,10-credit,Languages,Latin,3,3,0,0,0,0,3,3,6,3.0
+2016,Stage 1,10-credit,Languages,Modern Greek,0,0,26,11,9,10,35,21,56,28.0
+2016,Stage 1,10-credit,Languages,Persian,0,0,31,18,0,0,31,18,49,24.5
+2016,Stage 1,10-credit,Languages,Polish,0,0,7,0,0,0,7,0,7,3.5
+2016,Stage 1,10-credit,Languages,Portuguese,0,0,2,0,0,0,2,0,2,1.0
+2016,Stage 1,10-credit,Languages,Russian,0,0,0,0,8,18,8,18,26,13.0
+2016,Stage 1,10-credit,Languages,Serbian,0,0,10,1,0,0,10,1,11,5.5
+2016,Stage 1,10-credit,Languages,Spanish,0,0,103,52,0,0,103,52,155,77.5
+2016,Stage 1,10-credit,Languages,Vietnamese,19,0,40,32,42,21,101,53,154,77.0
+2016,Stage 1,10-credit,Mathematics,Mathematics,4288,4487,9621,11317,4337,4820,18246,20624,38870,19435.0
+2016,Stage 1,10-credit,Sciences,Agriculture,37,62,414,465,119,126,570,653,1223,611.5
+2016,Stage 1,10-credit,Sciences,Biology,1725,949,3480,1823,1803,1091,7008,3863,10871,5435.5
+2016,Stage 1,10-credit,Sciences,Chemistry,1000,935,2080,1984,1139,1200,4219,4119,8338,4169.0
+2016,Stage 1,10-credit,Sciences,Geology,0,0,8,13,0,0,8,13,21,10.5
+2016,Stage 1,10-credit,Sciences,Nutrition,404,188,381,193,106,43,891,424,1315,657.5
+2016,Stage 1,10-credit,Sciences,Physics,434,1062,970,2665,565,1360,1969,5087,7056,3528.0
+2016,Stage 1,10-credit,Sciences,Psychology,1066,461,2102,889,1076,442,4244,1792,6036,3018.0
+2016,Stage 1,10-credit,Sciences,Scientific Studies,240,336,494,694,93,123,827,1153,1980,990.0
+2016,Stage 1,20-credit,Arts,Creative Arts,0,0,41,56,11,2,52,58,110,110
+2016,Stage 1,20-credit,Arts,Dance,0,0,0,0,22,1,22,1,23,23
+2016,Stage 1,20-credit,Arts,Drama,6,1,12,9,9,0,27,10,37,37
+2016,Stage 1,20-credit,Arts,Music,24,3,44,25,0,0,68,28,96,96
+2016,Stage 1,20-credit,Arts,Visual Arts,1,0,0,0,3,0,4,0,4,4
+2016,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,0,0,31,72,0,1,31,73,104,104
+2016,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,1,18,21,102,1,38,23,158,181,181
+2016,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,1,0,3,0,0,0,4,0,4,4
+2016,Stage 1,20-credit,"Business, Enterprise and Technology",Information Technology,0,0,1,24,0,0,1,24,25,25
+2016,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,0,7,5,17,28,31,33,55,88,88
+2016,Stage 1,20-credit,Cross-disciplinary,Community Studies,0,1,133,91,0,4,133,96,229,229
+2016,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,4,33,63,144,1,0,68,177,245,245
+2016,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,120,37,55,84,0,0,175,121,296,296
+2016,Stage 1,20-credit,English,English,27,51,479,481,12,24,518,556,1074,1074
+2016,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,8,3,0,0,8,3,11,11
+2016,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,7,3,3,2,10,5,15,15
+2016,Stage 1,20-credit,Health and Physical Education,Health,1,7,75,131,0,0,76,138,214,214
+2016,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,31,22,0,0,31,22,53,53
+2016,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,0,0,0,0,2,0,2,2,2
+2016,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,89,124,0,0,0,0,89,124,213,213
+2016,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,3,4,23,63,0,0,26,67,93,93
+2016,Stage 1,20-credit,Languages,Arabic,0,0,0,0,2,1,2,1,3,3
+2016,Stage 1,20-credit,Languages,Chinese,0,0,0,0,10,3,10,3,13,13
+2016,Stage 1,20-credit,Languages,French,0,0,21,2,3,0,24,2,26,26
+2016,Stage 1,20-credit,Languages,German,0,0,2,1,12,1,14,2,16,16
+2016,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,5,2,5,2,7,7
+2016,Stage 1,20-credit,Languages,Italian,0,0,2,3,0,0,2,3,5,5
+2016,Stage 1,20-credit,Languages,Japanese,0,0,14,12,4,0,18,12,30,30
+2016,Stage 1,20-credit,Languages,Language and Culture,0,0,0,0,1,1,1,1,2,2
+2016,Stage 1,20-credit,Languages,Russian,0,0,0,0,0,1,0,1,1,1
+2016,Stage 1,20-credit,Languages,Spanish,0,0,7,6,0,0,7,6,13,13
+2016,Stage 1,20-credit,Mathematics,Mathematics,2,7,82,141,0,3,84,151,235,235
+2016,Stage 1,20-credit,Sciences,Agriculture,0,0,1,9,0,0,1,9,10,10
+2016,Stage 1,20-credit,Sciences,Biology,0,0,11,10,0,0,11,10,21,21
+2016,Stage 1,20-credit,Sciences,Scientific Studies,0,0,27,56,0,2,27,58,85,85
+2017,Stage 1,10-credit,Arts,Creative Arts,119,74,698,660,215,144,1032,878,1910,955.0
+2017,Stage 1,10-credit,Arts,Dance,104,12,425,67,80,8,609,87,696,348.0
+2017,Stage 1,10-credit,Arts,Drama,348,154,681,501,457,222,1486,877,2363,1181.5
+2017,Stage 1,10-credit,Arts,Music,160,117,621,571,251,271,1032,959,1991,995.5
+2017,Stage 1,10-credit,Arts,Visual Arts,768,351,2495,1221,1009,553,4272,2125,6397,3198.5
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,152,233,76,82,167,422,395,737,1132,566.0
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,446,689,652,715,516,594,1614,1998,3612,1806.0
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,327,1269,1851,5209,322,1264,2500,7742,10242,5121.0
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,261,177,494,458,110,138,865,773,1638,819.0
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Information Technology,7,200,89,515,32,322,128,1037,1165,582.5
+2017,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,152,249,404,657,379,370,935,1276,2211,1105.5
+2017,Stage 1,10-credit,Cross-disciplinary,Community Studies,61,107,673,644,11,18,745,769,1514,757.0
+2017,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,46,51,42,94,36,47,124,192,316,158.0
+2017,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,465,579,4158,4135,205,165,4828,4879,9707,4853.5
+2017,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1991,1918,5568,5630,2180,2245,9739,9793,19532,9766.0
+2017,Stage 1,10-credit,Cross-disciplinary,Research Practices,265,186,1049,1039,215,248,1529,1473,3002,1501.0
+2017,Stage 1,10-credit,English,English,3914,3868,9841,9796,3862,4012,17617,17676,35293,17646.5
+2017,Stage 1,10-credit,Health and Physical Education,Child Studies,522,21,1255,69,321,25,2098,115,2213,1106.5
+2017,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,537,303,2185,1189,613,219,3335,1711,5046,2523.0
+2017,Stage 1,10-credit,Health and Physical Education,Health,75,54,919,531,145,58,1139,643,1782,891.0
+2017,Stage 1,10-credit,Health and Physical Education,Outdoor Education,169,182,601,929,232,334,1002,1445,2447,1223.5
+2017,Stage 1,10-credit,Health and Physical Education,Physical Education,621,1234,1735,3680,706,1175,3062,6089,9151,4575.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,1,5,54,38,0,0,55,43,98,49.0
+2017,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,150,71,247,151,118,67,515,289,804,402.0
+2017,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,10,7,36,25,46,32,78,39.0
+2017,Stage 1,10-credit,Humanities and Social Sciences,Economics,92,208,21,36,110,319,223,563,786,393.0
+2017,Stage 1,10-credit,Humanities and Social Sciences,Geography,77,137,126,136,243,324,446,597,1043,521.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,392,293,758,387,481,288,1631,968,2599,1299.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,76,115,91,96,47,63,214,274,488,244.0
+2017,Stage 1,10-credit,Humanities and Social Sciences,Modern History,435,348,852,724,465,489,1752,1561,3313,1656.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,16,34,62,35,196,172,274,241,515,257.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1836,1720,0,0,604,705,2440,2425,4865,2432.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,188,87,443,301,58,34,689,422,1111,555.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Tourism,152,50,465,170,83,59,700,279,979,489.5
+2017,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,206,14,0,0,206,14,220,110.0
+2017,Stage 1,10-credit,Languages,Arabic,0,0,3,1,6,2,9,3,12,6.0
+2017,Stage 1,10-credit,Languages,Auslan,0,0,6,5,0,0,6,5,11,5.5
+2017,Stage 1,10-credit,Languages,Australian Languages,0,0,12,7,0,0,12,7,19,9.5
+2017,Stage 1,10-credit,Languages,Bosnian,0,0,0,4,0,0,0,4,4,2.0
+2017,Stage 1,10-credit,Languages,Chinese,38,14,168,156,91,85,297,255,552,276.0
+2017,Stage 1,10-credit,Languages,Croatian,0,0,0,1,0,0,0,1,1,0.5
+2017,Stage 1,10-credit,Languages,French,55,1,99,26,63,17,217,44,261,130.5
+2017,Stage 1,10-credit,Languages,German,0,0,60,47,136,76,196,123,319,159.5
+2017,Stage 1,10-credit,Languages,Hindi,0,0,19,10,0,0,19,10,29,14.5
+2017,Stage 1,10-credit,Languages,Indonesian,50,1,31,28,8,3,89,32,121,60.5
+2017,Stage 1,10-credit,Languages,Italian,174,43,138,46,1,0,313,89,402,201.0
+2017,Stage 1,10-credit,Languages,Japanese,69,63,225,156,117,68,411,287,698,349.0
+2017,Stage 1,10-credit,Languages,Khmer,0,0,4,0,0,0,4,0,4,2.0
+2017,Stage 1,10-credit,Languages,Korean,0,0,53,17,0,0,53,17,70,35.0
+2017,Stage 1,10-credit,Languages,Language and Culture,1,0,38,50,0,0,39,50,89,44.5
+2017,Stage 1,10-credit,Languages,Latin,5,3,0,0,0,0,5,3,8,4.0
+2017,Stage 1,10-credit,Languages,Modern Greek,0,0,25,23,14,9,39,32,71,35.5
+2017,Stage 1,10-credit,Languages,Persian,0,0,3,16,0,0,3,16,19,9.5
+2017,Stage 1,10-credit,Languages,Polish,0,0,5,10,0,0,5,10,15,7.5
+2017,Stage 1,10-credit,Languages,Punjabi,0,0,3,2,0,0,3,2,5,2.5
+2017,Stage 1,10-credit,Languages,Russian,0,0,0,0,10,9,10,9,19,9.5
+2017,Stage 1,10-credit,Languages,Serbian,0,0,2,0,0,0,2,0,2,1.0
+2017,Stage 1,10-credit,Languages,Sinhala,0,0,0,0,1,0,1,0,1,0.5
+2017,Stage 1,10-credit,Languages,Spanish,0,2,170,41,1,0,171,43,214,107.0
+2017,Stage 1,10-credit,Languages,Vietnamese,33,5,39,21,36,20,108,46,154,77.0
+2017,Stage 1,10-credit,Mathematics,Mathematics,4040,4323,9730,10706,4290,4701,18060,19730,37790,18895.0
+2017,Stage 1,10-credit,Sciences,Agriculture,64,108,498,486,49,99,611,693,1304,652.0
+2017,Stage 1,10-credit,Sciences,Biology,1603,791,3637,1776,1839,1088,7079,3655,10734,5367.0
+2017,Stage 1,10-credit,Sciences,Chemistry,1032,749,1961,1716,1221,1198,4214,3663,7877,3938.5
+2017,Stage 1,10-credit,Sciences,Earth and Environmental Science,0,0,45,37,0,0,45,37,82,41.0
+2017,Stage 1,10-credit,Sciences,Nutrition,442,235,336,250,131,37,909,522,1431,715.5
+2017,Stage 1,10-credit,Sciences,Physics,423,925,930,2363,562,1380,1915,4668,6583,3291.5
+2017,Stage 1,10-credit,Sciences,Psychology,1080,444,2320,915,1123,407,4523,1766,6289,3144.5
+2017,Stage 1,10-credit,Sciences,Scientific Studies,277,324,345,404,81,153,703,881,1584,792.0
+2017,Stage 1,20-credit,Arts,Creative Arts,1,3,37,73,11,1,49,77,126,126
+2017,Stage 1,20-credit,Arts,Dance,0,0,10,0,27,0,37,0,37,37
+2017,Stage 1,20-credit,Arts,Drama,5,3,13,10,9,0,27,13,40,40
+2017,Stage 1,20-credit,Arts,Music,14,3,60,55,0,0,74,58,132,132
+2017,Stage 1,20-credit,Arts,Visual Arts,1,7,15,4,10,0,26,11,37,37
+2017,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,3,13,13,66,1,0,17,79,96,96
+2017,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,5,112,20,145,10,10,35,267,302,302
+2017,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,2,0,0,0,2,0,2,2
+2017,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,4,13,9,14,34,49,47,76,123,123
+2017,Stage 1,20-credit,Cross-disciplinary,Community Studies,1,5,63,73,4,4,68,82,150,150
+2017,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,1,3,91,191,0,0,92,194,286,286
+2017,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,110,11,84,87,1,0,195,98,293,293
+2017,Stage 1,20-credit,English,English,22,52,448,506,75,21,545,579,1124,1124
+2017,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,2,3,0,1,2,4,6,6
+2017,Stage 1,20-credit,Health and Physical Education,Health,2,5,50,130,0,1,52,136,188,188
+2017,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,3,2,5,0,8,2,10,10
+2017,Stage 1,20-credit,Humanities and Social Sciences,Ancient Studies,0,0,0,2,0,0,0,2,2,2
+2017,Stage 1,20-credit,Humanities and Social Sciences,Geography,0,0,0,0,0,1,0,1,1,1
+2017,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,68,51,0,0,0,0,68,51,119,119
+2017,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,2,3,21,39,0,0,23,42,65,65
+2017,Stage 1,20-credit,Languages,Arabic,0,0,0,0,0,2,0,2,2,2
+2017,Stage 1,20-credit,Languages,Chinese,1,0,3,2,16,13,20,15,35,35
+2017,Stage 1,20-credit,Languages,French,0,0,17,6,3,2,20,8,28,28
+2017,Stage 1,20-credit,Languages,German,0,0,3,1,4,1,7,2,9,9
+2017,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,3,1,3,1,4,4
+2017,Stage 1,20-credit,Languages,Italian,0,0,4,1,0,0,4,1,5,5
+2017,Stage 1,20-credit,Languages,Japanese,0,0,9,5,1,3,10,8,18,18
+2017,Stage 1,20-credit,Languages,Language and Culture,0,0,0,2,6,2,6,4,10,10
+2017,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,1,0,1,0,1,1
+2017,Stage 1,20-credit,Languages,Russian,0,0,0,0,1,1,1,1,2,2
+2017,Stage 1,20-credit,Languages,Spanish,0,0,6,4,0,0,6,4,10,10
+2017,Stage 1,20-credit,Languages,Ukrainian,0,0,0,0,1,1,1,1,2,2
+2017,Stage 1,20-credit,Mathematics,Mathematics,7,7,51,134,3,25,61,166,227,227
+2017,Stage 1,20-credit,Sciences,Agriculture,0,0,4,7,0,0,4,7,11,11
+2017,Stage 1,20-credit,Sciences,Biology,0,0,3,2,0,0,3,2,5,5
+2017,Stage 1,20-credit,Sciences,Scientific Studies,0,0,126,181,1,1,127,182,309,309
+2018,Stage 1,10-credit,Arts,Creative Arts,151,103,792,715,204,77,1147,895,2042,1021.0
+2018,Stage 1,10-credit,Arts,Dance,62,3,287,29,115,4,464,36,500,250.0
+2018,Stage 1,10-credit,Arts,Drama,308,106,643,415,416,232,1367,753,2120,1060.0
+2018,Stage 1,10-credit,Arts,Music,142,138,552,524,237,220,931,882,1813,906.5
+2018,Stage 1,10-credit,Arts,Visual Arts,700,420,2584,1175,991,601,4275,2196,6471,3235.5
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,151,252,128,117,168,330,447,699,1146,573.0
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,523,731,649,766,490,573,1662,2070,3732,1866.0
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,307,1165,1998,4923,419,1122,2724,7210,9934,4967.0
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,8,192,81,534,31,269,120,995,1115,557.5
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,321,147,312,343,131,126,764,616,1380,690.0
+2018,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,164,289,346,576,518,525,1028,1390,2418,1209.0
+2018,Stage 1,10-credit,Cross-disciplinary,Community Studies,56,141,740,630,23,23,819,794,1613,806.5
+2018,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,55,105,171,259,33,42,259,406,665,332.5
+2018,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,567,845,3948,3949,210,208,4725,5002,9727,4863.5
+2018,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1860,1793,5837,6260,2137,2048,9834,10101,19935,9967.5
+2018,Stage 1,10-credit,Cross-disciplinary,Research Practices,284,143,1434,1317,297,245,2015,1705,3720,1860.0
+2018,Stage 1,10-credit,English,English,3664,3764,10473,10064,4011,4032,18148,17860,36008,18004.0
+2018,Stage 1,10-credit,Health and Physical Education,Child Studies,535,13,1256,79,306,14,2097,106,2203,1101.5
+2018,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,515,268,2209,1191,590,274,3314,1733,5047,2523.5
+2018,Stage 1,10-credit,Health and Physical Education,Health,146,89,897,558,101,67,1144,714,1858,929.0
+2018,Stage 1,10-credit,Health and Physical Education,Outdoor Education,177,188,594,1025,231,351,1002,1564,2566,1283.0
+2018,Stage 1,10-credit,Health and Physical Education,Physical Education,628,1191,1697,3463,873,1261,3198,5915,9113,4556.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,4,1,168,153,9,5,181,159,340,170.0
+2018,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,138,99,238,158,113,63,489,320,809,404.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,1,8,36,38,37,46,83,41.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Economics,103,241,48,55,118,314,269,610,879,439.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Geography,60,88,152,136,203,246,415,470,885,442.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,410,353,790,512,472,308,1672,1173,2845,1422.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,68,73,125,164,58,92,251,329,580,290.0
+2018,Stage 1,10-credit,Humanities and Social Sciences,Modern History,437,361,740,618,590,431,1767,1410,3177,1588.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,15,21,47,37,123,47,185,105,290,145.0
+2018,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1600,1496,1,0,668,686,2269,2182,4451,2225.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,221,87,480,304,94,50,795,441,1236,618.0
+2018,Stage 1,10-credit,Humanities and Social Sciences,Tourism,136,46,366,143,84,62,586,251,837,418.5
+2018,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,0,0,75,5,0,0,75,5,80,40.0
+2018,Stage 1,10-credit,Languages,Arabic,0,0,4,13,2,4,6,17,23,11.5
+2018,Stage 1,10-credit,Languages,Auslan,0,0,1,1,0,0,1,1,2,1.0
+2018,Stage 1,10-credit,Languages,Australian Languages,0,0,10,6,0,0,10,6,16,8.0
+2018,Stage 1,10-credit,Languages,Bosnian,0,0,4,6,0,0,4,6,10,5.0
+2018,Stage 1,10-credit,Languages,Chinese,27,20,166,145,111,89,304,254,558,279.0
+2018,Stage 1,10-credit,Languages,Croatian,0,0,4,1,0,0,4,1,5,2.5
+2018,Stage 1,10-credit,Languages,French,38,2,95,37,52,18,185,57,242,121.0
+2018,Stage 1,10-credit,Languages,German,0,0,74,45,79,44,153,89,242,121.0
+2018,Stage 1,10-credit,Languages,Hindi,0,0,6,11,0,0,6,11,17,8.5
+2018,Stage 1,10-credit,Languages,Indonesian,48,7,52,22,0,0,100,29,129,64.5
+2018,Stage 1,10-credit,Languages,Italian,183,65,112,51,37,32,332,148,480,240.0
+2018,Stage 1,10-credit,Languages,Japanese,61,46,248,150,107,53,416,249,665,332.5
+2018,Stage 1,10-credit,Languages,Khmer,0,0,6,6,0,0,6,6,12,6.0
+2018,Stage 1,10-credit,Languages,Korean,0,0,64,9,0,0,64,9,73,36.5
+2018,Stage 1,10-credit,Languages,Language and Culture,0,1,30,44,0,0,30,45,75,37.5
+2018,Stage 1,10-credit,Languages,Latin,1,5,0,0,0,0,1,5,6,3.0
+2018,Stage 1,10-credit,Languages,Modern Greek,0,0,22,18,26,10,48,28,76,38.0
+2018,Stage 1,10-credit,Languages,Persian,0,0,12,1,0,0,12,1,13,6.5
+2018,Stage 1,10-credit,Languages,Polish,0,0,2,3,0,0,2,3,5,2.5
+2018,Stage 1,10-credit,Languages,Punjabi,0,0,2,0,0,0,2,0,2,1.0
+2018,Stage 1,10-credit,Languages,Russian,0,0,0,0,15,10,15,10,25,12.5
+2018,Stage 1,10-credit,Languages,Serbian,0,0,8,2,0,0,8,2,10,5.0
+2018,Stage 1,10-credit,Languages,Spanish,0,0,105,47,0,0,105,47,152,76.0
+2018,Stage 1,10-credit,Languages,Vietnamese,24,2,49,20,20,0,93,22,115,57.5
+2018,Stage 1,10-credit,Mathematics,Mathematics,3894,4267,9825,10635,4560,4717,18279,19619,37898,18949.0
+2018,Stage 1,10-credit,Sciences,Agriculture,69,86,537,511,105,132,711,729,1440,720.0
+2018,Stage 1,10-credit,Sciences,Biology,1541,781,3547,1622,1923,997,7011,3400,10411,5205.5
+2018,Stage 1,10-credit,Sciences,Chemistry,917,795,2000,1728,1263,1164,4180,3687,7867,3933.5
+2018,Stage 1,10-credit,Sciences,Earth and Environmental Science,12,13,61,76,0,0,73,89,162,81.0
+2018,Stage 1,10-credit,Sciences,Nutrition,337,180,399,200,143,34,879,414,1293,646.5
+2018,Stage 1,10-credit,Sciences,Physics,330,842,826,2285,498,1244,1654,4371,6025,3012.5
+2018,Stage 1,10-credit,Sciences,Psychology,1095,469,2389,908,1087,415,4571,1792,6363,3181.5
+2018,Stage 1,10-credit,Sciences,Scientific Studies,245,412,383,461,124,141,752,1014,1766,883.0
+2018,Stage 1,20-credit,Arts,Creative Arts,2,6,38,70,5,4,45,80,125,125
+2018,Stage 1,20-credit,Arts,Dance,0,0,0,0,30,3,30,3,33,33
+2018,Stage 1,20-credit,Arts,Drama,1,0,16,6,13,6,30,12,42,42
+2018,Stage 1,20-credit,Arts,Music,47,3,29,22,3,2,79,27,106,106
+2018,Stage 1,20-credit,Arts,Visual Arts,1,11,19,11,13,2,33,24,57,57
+2018,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,4,13,32,62,0,1,36,76,112,112
+2018,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,5,112,22,85,8,33,35,230,265,265
+2018,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,0,0,0,5,0,5,5,5
+2018,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,1,0,0,0,1,0,1,1
+2018,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,3,5,9,12,2,0,14,17,31,31
+2018,Stage 1,20-credit,Cross-disciplinary,Community Studies,1,1,111,131,0,1,112,133,245,245
+2018,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,2,8,85,166,0,0,87,174,261,261
+2018,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,126,135,124,187,1,10,251,332,583,583
+2018,Stage 1,20-credit,English,English,87,91,461,516,62,23,610,630,1240,1240
+2018,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,3,1,0,0,3,1,4,4
+2018,Stage 1,20-credit,Health and Physical Education,Health,3,7,67,129,2,1,72,137,209,209
+2018,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,0,0,6,7,6,7,13,13
+2018,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,0,5,0,0,0,5,5,5
+2018,Stage 1,20-credit,Humanities and Social Sciences,Ancient Studies,0,0,1,2,0,0,1,2,3,3
+2018,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,0,19,0,19,19,19
+2018,Stage 1,20-credit,Humanities and Social Sciences,Media Studies,0,0,5,6,0,0,5,6,11,11
+2018,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,8,10,0,0,8,10,18,18
+2018,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,92,97,0,0,0,0,92,97,189,189
+2018,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,1,7,18,48,1,1,20,56,76,76
+2018,Stage 1,20-credit,Humanities and Social Sciences,Women's Studies,0,0,1,0,0,0,1,0,1,1
+2018,Stage 1,20-credit,Languages,Arabic,0,0,0,0,7,4,7,4,11,11
+2018,Stage 1,20-credit,Languages,Chinese,0,0,0,0,8,5,8,5,13,13
+2018,Stage 1,20-credit,Languages,French,0,0,16,7,7,3,23,10,33,33
+2018,Stage 1,20-credit,Languages,German,0,0,1,2,9,1,10,3,13,13
+2018,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,1,0,1,0,1,1
+2018,Stage 1,20-credit,Languages,Italian,10,0,3,3,0,0,13,3,16,16
+2018,Stage 1,20-credit,Languages,Japanese,4,6,10,2,1,2,15,10,25,25
+2018,Stage 1,20-credit,Languages,Language and Culture,0,0,0,0,0,5,0,5,5,5
+2018,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,1,0,1,0,1,1
+2018,Stage 1,20-credit,Languages,Russian,0,0,0,0,4,3,4,3,7,7
+2018,Stage 1,20-credit,Languages,Spanish,0,0,0,1,0,0,0,1,1,1
+2018,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,13,6,13,6,19,19
+2018,Stage 1,20-credit,Mathematics,Mathematics,6,7,69,142,7,7,82,156,238,238
+2018,Stage 1,20-credit,Sciences,Biology,0,0,0,2,0,0,0,2,2,2
+2018,Stage 1,20-credit,Sciences,Physics,0,0,0,1,0,0,0,1,1,1
+2018,Stage 1,20-credit,Sciences,Psychology,0,0,5,8,0,0,5,8,13,13
+2018,Stage 1,20-credit,Sciences,Scientific Studies,2,11,154,232,2,2,158,245,403,403
+2019,Stage 1,10-credit,Arts,Creative Arts,172,90,765,734,247,155,1184,979,2163,1081.5
+2019,Stage 1,10-credit,Arts,Dance,122,24,308,38,77,7,507,69,576,288.0
+2019,Stage 1,10-credit,Arts,Drama,300,115,565,396,374,189,1239,700,1939,969.5
+2019,Stage 1,10-credit,Arts,Music,148,124,570,582,291,252,1009,958,1967,983.5
+2019,Stage 1,10-credit,Arts,Visual Arts,805,259,2452,1151,1098,505,4355,1915,6270,3135.0
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,97,267,127,184,136,217,360,668,1028,514.0
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,202,221,313,394,403,352,918,967,1885,942.5
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,165,396,309,476,205,278,679,1150,1829,914.5
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,338,980,1745,5150,354,1080,2437,7210,9647,4823.5
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,11,122,101,550,28,276,140,948,1088,544.0
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,198,125,272,295,110,93,580,513,1093,546.5
+2019,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,211,267,363,644,443,356,1017,1267,2284,1142.0
+2019,Stage 1,10-credit,Cross-disciplinary,Community Studies,74,96,784,742,53,43,911,881,1792,896.0
+2019,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,55,90,86,135,20,47,161,272,433,216.5
+2019,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,506,919,3869,3902,270,261,4645,5082,9727,4863.5
+2019,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1858,1877,5445,6090,2138,1929,9441,9896,19337,9668.5
+2019,Stage 1,10-credit,Cross-disciplinary,Research Practices,235,295,1483,1525,474,404,2192,2224,4416,2208.0
+2019,Stage 1,10-credit,English,English,3483,3445,10171,10456,4050,3581,17704,17482,35186,17593.0
+2019,Stage 1,10-credit,Health and Physical Education,Child Studies,486,13,1206,79,364,16,2056,108,2164,1082.0
+2019,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,497,242,2152,1327,653,253,3302,1822,5124,2562.0
+2019,Stage 1,10-credit,Health and Physical Education,Health,187,117,971,622,142,101,1300,840,2140,1070.0
+2019,Stage 1,10-credit,Health and Physical Education,Outdoor Education,182,198,637,1009,304,379,1123,1586,2709,1354.5
+2019,Stage 1,10-credit,Health and Physical Education,Physical Education,550,1042,1471,3259,852,1007,2873,5308,8181,4090.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,4,4,181,158,4,0,189,162,351,175.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,127,72,231,197,85,51,443,320,763,381.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,10,7,43,29,53,36,89,44.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Economics,112,262,43,65,116,197,271,524,795,397.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Geography,82,89,207,231,194,198,483,518,1001,500.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,411,305,688,423,486,289,1585,1017,2602,1301.0
+2019,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,50,45,110,133,43,98,203,276,479,239.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Modern History,395,300,762,703,545,434,1702,1437,3139,1569.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,0,0,42,24,96,23,138,47,185,92.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1459,1206,1,0,711,772,2171,1978,4149,2074.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,218,67,506,263,100,42,824,372,1196,598.0
+2019,Stage 1,10-credit,Humanities and Social Sciences,Tourism,108,41,316,132,89,47,513,220,733,366.5
+2019,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,6,0,156,7,0,0,162,7,169,84.5
+2019,Stage 1,10-credit,Languages,Arabic,0,0,8,0,24,5,32,5,37,18.5
+2019,Stage 1,10-credit,Languages,Auslan,0,0,18,3,0,0,18,3,21,10.5
+2019,Stage 1,10-credit,Languages,Australian Languages,0,0,8,8,0,0,8,8,16,8.0
+2019,Stage 1,10-credit,Languages,Bosnian,0,0,2,5,0,0,2,5,7,3.5
+2019,Stage 1,10-credit,Languages,Chinese,23,25,134,122,79,69,236,216,452,226.0
+2019,Stage 1,10-credit,Languages,Croatian,0,0,0,2,0,0,0,2,2,1.0
+2019,Stage 1,10-credit,Languages,French,46,1,84,40,50,17,180,58,238,119.0
+2019,Stage 1,10-credit,Languages,German,0,0,46,46,83,52,129,98,227,113.5
+2019,Stage 1,10-credit,Languages,Hindi,0,0,12,4,0,0,12,4,16,8.0
+2019,Stage 1,10-credit,Languages,Indonesian,25,1,45,16,10,2,80,19,99,49.5
+2019,Stage 1,10-credit,Languages,Italian,168,72,129,79,26,23,323,174,497,248.5
+2019,Stage 1,10-credit,Languages,Japanese,86,55,225,169,104,67,415,291,706,353.0
+2019,Stage 1,10-credit,Languages,Khmer,0,0,0,1,0,0,0,1,1,0.5
+2019,Stage 1,10-credit,Languages,Korean,0,0,59,5,0,0,59,5,64,32.0
+2019,Stage 1,10-credit,Languages,Language and Culture,1,2,57,59,0,0,58,61,119,59.5
+2019,Stage 1,10-credit,Languages,Latin,1,5,0,0,0,0,1,5,6,3.0
+2019,Stage 1,10-credit,Languages,Modern Greek,0,0,22,14,14,10,36,24,60,30.0
+2019,Stage 1,10-credit,Languages,Persian,0,0,10,0,0,0,10,0,10,5.0
+2019,Stage 1,10-credit,Languages,Polish,0,0,12,4,0,0,12,4,16,8.0
+2019,Stage 1,10-credit,Languages,Portuguese,0,0,0,0,2,1,2,1,3,1.5
+2019,Stage 1,10-credit,Languages,Punjabi,0,0,0,5,0,0,0,5,5,2.5
+2019,Stage 1,10-credit,Languages,Russian,0,0,0,0,9,12,9,12,21,10.5
+2019,Stage 1,10-credit,Languages,Serbian,0,0,4,2,0,0,4,2,6,3.0
+2019,Stage 1,10-credit,Languages,Sinhala,0,0,0,0,2,2,2,2,4,2.0
+2019,Stage 1,10-credit,Languages,Spanish,0,0,89,60,8,4,97,64,161,80.5
+2019,Stage 1,10-credit,Languages,Vietnamese,22,2,51,27,8,1,81,30,111,55.5
+2019,Stage 1,10-credit,Mathematics,Mathematics,3821,3909,9546,10801,4505,4488,17872,19198,37070,18535.0
+2019,Stage 1,10-credit,Sciences,Agriculture,52,58,509,587,104,93,665,738,1403,701.5
+2019,Stage 1,10-credit,Sciences,Biology,1500,721,3370,1710,1834,893,6704,3324,10028,5014.0
+2019,Stage 1,10-credit,Sciences,Chemistry,862,731,1840,1578,1142,1013,3844,3322,7166,3583.0
+2019,Stage 1,10-credit,Sciences,Earth and Environmental Science,10,12,76,85,0,0,86,97,183,91.5
+2019,Stage 1,10-credit,Sciences,Nutrition,450,226,394,224,221,34,1065,484,1549,774.5
+2019,Stage 1,10-credit,Sciences,Physics,336,850,815,2138,480,1119,1631,4107,5738,2869.0
+2019,Stage 1,10-credit,Sciences,Psychology,1064,460,2701,1036,1138,372,4903,1868,6771,3385.5
+2019,Stage 1,10-credit,Sciences,Scientific Studies,124,275,455,495,145,190,724,960,1684,842.0
+2019,Stage 1,20-credit,Arts,Creative Arts,7,3,68,72,9,4,84,79,163,163
+2019,Stage 1,20-credit,Arts,Dance,0,0,1,0,28,3,29,3,32,32
+2019,Stage 1,20-credit,Arts,Drama,5,1,15,7,10,3,30,11,41,41
+2019,Stage 1,20-credit,Arts,Music,28,13,12,21,6,8,46,42,88,88
+2019,Stage 1,20-credit,Arts,Visual Arts,1,3,33,23,8,42,42,68,110,110
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Accounting,0,0,0,0,0,60,0,60,60,60
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,2,3,34,78,0,1,36,82,118,118
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,2,106,17,115,8,85,27,306,333,333
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,0,0,1,4,1,4,5,5
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,1,2,0,0,1,2,3,3
+2019,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,1,7,1,5,0,16,2,28,30,30
+2019,Stage 1,20-credit,Cross-disciplinary,Community Studies,2,0,98,94,3,9,103,103,206,206
+2019,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,2,12,94,160,0,1,96,173,269,269
+2019,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,12,102,266,398,1,1,279,501,780,780
+2019,Stage 1,20-credit,English,English,81,63,382,521,70,152,533,736,1269,1269
+2019,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,2,1,5,1,7,2,9,9
+2019,Stage 1,20-credit,Health and Physical Education,Health,6,1,62,128,1,3,69,132,201,201
+2019,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,0,0,1,38,1,38,39,39
+2019,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,8,18,0,42,8,60,68,68
+2019,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,0,0,0,0,34,0,34,34,34
+2019,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,0,19,0,19,19,19
+2019,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,0,3,18,3,18,21,21
+2019,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,120,107,0,0,0,0,120,107,227,227
+2019,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,1,1,23,67,0,1,24,69,93,93
+2019,Stage 1,20-credit,Languages,Arabic,0,0,0,0,5,6,5,6,11,11
+2019,Stage 1,20-credit,Languages,Chinese,0,0,2,7,7,5,9,12,21,21
+2019,Stage 1,20-credit,Languages,French,0,0,5,2,14,2,19,4,23,23
+2019,Stage 1,20-credit,Languages,German,0,0,2,0,5,2,7,2,9,9
+2019,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,3,1,3,1,4,4
+2019,Stage 1,20-credit,Languages,Italian,0,0,4,1,0,0,4,1,5,5
+2019,Stage 1,20-credit,Languages,Japanese,0,0,14,9,0,0,14,9,23,23
+2019,Stage 1,20-credit,Languages,Language and Culture,0,0,0,1,10,9,10,10,20,20
+2019,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,3,5,3,5,8,8
+2019,Stage 1,20-credit,Languages,Russian,0,0,0,0,2,0,2,0,2,2
+2019,Stage 1,20-credit,Languages,Spanish,0,0,3,5,2,0,5,5,10,10
+2019,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,17,9,17,9,26,26
+2019,Stage 1,20-credit,Mathematics,Mathematics,4,10,59,158,10,17,73,185,258,258
+2019,Stage 1,20-credit,Sciences,Biology,0,0,1,0,0,55,1,55,56,56
+2019,Stage 1,20-credit,Sciences,Chemistry,0,0,0,0,2,45,2,45,47,47
+2019,Stage 1,20-credit,Sciences,Physics,0,0,0,0,0,49,0,49,49,49
+2019,Stage 1,20-credit,Sciences,Scientific Studies,1,0,121,234,0,1,122,235,357,357
+2020,Stage 1,10-credit,Arts,Creative Arts,211,132,905,816,217,150,1333,1098,2431,1215.5
+2020,Stage 1,10-credit,Arts,Dance,39,0,243,32,79,3,361,35,396,198.0
+2020,Stage 1,10-credit,Arts,Drama,252,106,617,416,371,219,1240,741,1981,990.5
+2020,Stage 1,10-credit,Arts,Music,121,155,477,549,253,220,851,924,1775,887.5
+2020,Stage 1,10-credit,Arts,Visual Arts,723,247,2346,1144,983,389,4052,1780,5832,2916.0
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,134,241,73,158,90,180,297,579,876,438.0
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,441,633,692,886,440,663,1573,2182,3755,1877.5
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Business and Enterprise,13,37,31,99,8,22,52,158,210,105.0
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,338,1223,1641,5192,346,1181,2325,7596,9921,4960.5
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,32,147,99,496,35,209,166,852,1018,509.0
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,260,93,251,244,155,93,666,430,1096,548.0
+2020,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,66,225,459,751,387,396,912,1372,2284,1142.0
+2020,Stage 1,10-credit,Cross-disciplinary,Community Studies,112,102,793,782,76,82,981,966,1947,973.5
+2020,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,85,80,226,205,48,113,359,398,757,378.5
+2020,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,690,889,3113,3942,287,298,4090,5129,9219,4609.5
+2020,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1797,1630,5881,6240,2255,2409,9933,10279,20212,10106.0
+2020,Stage 1,10-credit,Cross-disciplinary,Research Practices,176,171,1655,1821,422,375,2253,2367,4620,2310.0
+2020,Stage 1,10-credit,English,English,3577,3600,10570,10895,4018,3684,18165,18179,36344,18172.0
+2020,Stage 1,10-credit,Health and Physical Education,Child Studies,563,26,1386,86,338,36,2287,148,2435,1217.5
+2020,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,475,258,2163,1374,681,269,3319,1901,5220,2610.0
+2020,Stage 1,10-credit,Health and Physical Education,Health,221,145,1112,678,154,84,1487,907,2394,1197.0
+2020,Stage 1,10-credit,Health and Physical Education,Outdoor Education,231,328,727,1207,295,421,1253,1956,3209,1604.5
+2020,Stage 1,10-credit,Health and Physical Education,Physical Education,565,1012,1317,2950,683,1097,2565,5059,7624,3812.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,2,3,187,141,7,5,196,149,345,172.5
+2020,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,91,90,229,206,120,66,440,362,802,401.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Australian and International Politics,0,0,5,12,46,15,51,27,78,39.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Economics,104,238,36,90,133,210,273,538,811,405.5
+2020,Stage 1,10-credit,Humanities and Social Sciences,Geography,56,55,153,205,231,293,440,553,993,496.5
+2020,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,374,306,772,478,454,252,1600,1036,2636,1318.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,33,53,116,154,30,73,179,280,459,229.5
+2020,Stage 1,10-credit,Humanities and Social Sciences,Modern History,350,355,715,649,598,404,1663,1408,3071,1535.5
+2020,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,6,9,60,36,150,49,216,94,310,155.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1422,1138,0,0,630,768,2052,1906,3958,1979.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,229,225,546,374,146,74,921,673,1594,797.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Tourism,111,24,349,162,59,31,519,217,736,368.0
+2020,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,16,0,109,9,0,0,125,9,134,67.0
+2020,Stage 1,10-credit,Languages,Arabic,0,0,18,4,15,10,33,14,47,23.5
+2020,Stage 1,10-credit,Languages,Auslan,0,0,19,3,0,0,19,3,22,11.0
+2020,Stage 1,10-credit,Languages,Australian Languages,0,0,14,9,0,0,14,9,23,11.5
+2020,Stage 1,10-credit,Languages,Bosnian,0,0,0,2,0,0,0,2,2,1.0
+2020,Stage 1,10-credit,Languages,Chinese,25,19,115,75,56,60,196,154,350,175.0
+2020,Stage 1,10-credit,Languages,Croatian,0,0,5,1,0,0,5,1,6,3.0
+2020,Stage 1,10-credit,Languages,French,56,0,133,32,36,13,225,45,270,135.0
+2020,Stage 1,10-credit,Languages,German,0,0,49,15,109,52,158,67,225,112.5
+2020,Stage 1,10-credit,Languages,Hindi,0,0,7,10,0,0,7,10,17,8.5
+2020,Stage 1,10-credit,Languages,Indonesian,24,2,33,16,0,0,57,18,75,37.5
+2020,Stage 1,10-credit,Languages,Italian,156,42,104,48,20,14,280,104,384,192.0
+2020,Stage 1,10-credit,Languages,Japanese,83,73,228,146,74,43,385,262,647,323.5
+2020,Stage 1,10-credit,Languages,Khmer,0,0,12,4,0,0,12,4,16,8.0
+2020,Stage 1,10-credit,Languages,Korean,0,0,38,4,0,0,38,4,42,21.0
+2020,Stage 1,10-credit,Languages,Language and Culture,0,1,53,35,0,0,53,36,89,44.5
+2020,Stage 1,10-credit,Languages,Latin,3,2,0,0,0,0,3,2,5,2.5
+2020,Stage 1,10-credit,Languages,Modern Greek,0,0,30,10,7,9,37,19,56,28.0
+2020,Stage 1,10-credit,Languages,Persian,0,0,2,5,0,0,2,5,7,3.5
+2020,Stage 1,10-credit,Languages,Polish,0,0,5,2,0,0,5,2,7,3.5
+2020,Stage 1,10-credit,Languages,Punjabi,0,0,6,0,0,0,6,0,6,3.0
+2020,Stage 1,10-credit,Languages,Russian,0,0,0,0,10,6,10,6,16,8.0
+2020,Stage 1,10-credit,Languages,Serbian,0,0,4,0,0,0,4,0,4,2.0
+2020,Stage 1,10-credit,Languages,Spanish,2,2,86,50,8,6,96,58,154,77.0
+2020,Stage 1,10-credit,Languages,Vietnamese,16,0,63,27,7,8,86,35,121,60.5
+2020,Stage 1,10-credit,Mathematics,Mathematics,3773,4177,9714,11038,4470,4770,17957,19985,37942,18971.0
+2020,Stage 1,10-credit,Sciences,Agriculture,39,111,423,593,102,115,564,819,1383,691.5
+2020,Stage 1,10-credit,Sciences,Biology,1559,749,3447,1828,1845,900,6851,3477,10328,5164.0
+2020,Stage 1,10-credit,Sciences,Chemistry,976,658,1864,1582,1216,885,4056,3125,7181,3590.5
+2020,Stage 1,10-credit,Sciences,Earth and Environmental Science,4,12,91,127,0,0,95,139,234,117.0
+2020,Stage 1,10-credit,Sciences,Nutrition,395,195,491,300,183,64,1069,559,1628,814.0
+2020,Stage 1,10-credit,Sciences,Physics,339,967,747,2188,495,1174,1581,4329,5910,2955.0
+2020,Stage 1,10-credit,Sciences,Psychology,998,418,2929,1156,1210,451,5137,2025,7162,3581.0
+2020,Stage 1,10-credit,Sciences,Scientific Studies,117,247,621,600,136,162,874,1009,1883,941.5
+2020,Stage 1,20-credit,Arts,Creative Arts,1,1,41,75,0,0,42,76,118,118
+2020,Stage 1,20-credit,Arts,Dance,0,0,12,1,23,0,35,1,36,36
+2020,Stage 1,20-credit,Arts,Drama,4,0,21,22,5,3,30,25,55,55
+2020,Stage 1,20-credit,Arts,Music,31,9,23,15,2,5,56,29,85,85
+2020,Stage 1,20-credit,Arts,Visual Arts,0,0,4,2,3,24,7,26,33,33
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Accounting,0,0,0,1,0,50,0,51,51,51
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Business and Enterprise,1,5,35,72,0,0,36,77,113,113
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,6,127,21,138,4,85,31,350,381,381
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,0,0,0,1,0,1,1,1
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,6,2,0,0,0,2,6,8,8
+2020,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,1,6,3,2,0,11,4,19,23,23
+2020,Stage 1,20-credit,Cross-disciplinary,Community Studies,42,22,64,56,8,11,114,89,203,203
+2020,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,1,0,108,178,0,0,109,178,287,287
+2020,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,5,106,430,479,32,57,467,642,1109,1109
+2020,Stage 1,20-credit,English,English,86,105,268,378,64,174,418,657,1075,1075
+2020,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,7,0,0,0,7,0,7,7
+2020,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,3,0,5,1,8,1,9,9
+2020,Stage 1,20-credit,Health and Physical Education,Health,1,2,59,134,0,1,60,137,197,197
+2020,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,0,0,1,50,1,50,51,51
+2020,Stage 1,20-credit,Health and Physical Education,Physical Education,0,0,7,23,0,39,7,62,69,69
+2020,Stage 1,20-credit,Humanities and Social Sciences,Ancient Studies,0,0,1,2,0,0,1,2,3,3
+2020,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,0,0,0,0,54,0,54,54,54
+2020,Stage 1,20-credit,Humanities and Social Sciences,Geography,0,0,1,0,0,0,1,0,1,1
+2020,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,4,19,4,19,23,23
+2020,Stage 1,20-credit,Humanities and Social Sciences,Media Studies,0,0,2,2,0,0,2,2,4,4
+2020,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,0,7,6,7,6,13,13
+2020,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,125,121,0,0,0,0,125,121,246,246
+2020,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,4,3,22,42,0,0,26,45,71,71
+2020,Stage 1,20-credit,Languages,Arabic,0,0,0,0,5,7,5,7,12,12
+2020,Stage 1,20-credit,Languages,Australian Languages,0,0,6,3,0,0,6,3,9,9
+2020,Stage 1,20-credit,Languages,Chinese,0,0,0,0,13,15,13,15,28,28
+2020,Stage 1,20-credit,Languages,French,0,0,1,0,9,1,10,1,11,11
+2020,Stage 1,20-credit,Languages,German,0,0,0,0,3,3,3,3,6,6
+2020,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,2,1,2,1,3,3
+2020,Stage 1,20-credit,Languages,Japanese,0,0,5,4,1,2,6,6,12,12
+2020,Stage 1,20-credit,Languages,Language and Culture,0,0,0,0,5,11,5,11,16,16
+2020,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,5,2,5,2,7,7
+2020,Stage 1,20-credit,Languages,Russian,0,0,0,0,7,1,7,1,8,8
+2020,Stage 1,20-credit,Languages,Spanish,0,0,6,2,0,0,6,2,8,8
+2020,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,9,5,9,5,14,14
+2020,Stage 1,20-credit,Mathematics,Mathematics,12,15,72,165,7,6,91,186,277,277
+2020,Stage 1,20-credit,Sciences,Biology,0,0,0,0,0,42,0,42,42,42
+2020,Stage 1,20-credit,Sciences,Chemistry,0,0,0,0,0,38,0,38,38,38
+2020,Stage 1,20-credit,Sciences,Physics,0,0,0,0,0,58,0,58,58,58
+2020,Stage 1,20-credit,Sciences,Scientific Studies,11,13,73,121,2,6,86,140,226,226
+2021,Stage 1,10-credit,Arts,Creative Arts,156,88,955,717,250,134,1361,939,2300,1150.0
+2021,Stage 1,10-credit,Arts,Dance,46,0,343,27,53,4,442,31,473,236.5
+2021,Stage 1,10-credit,Arts,Drama,213,106,468,376,307,149,988,631,1619,809.5
+2021,Stage 1,10-credit,Arts,Music,104,100,509,587,211,207,824,894,1718,859.0
+2021,Stage 1,10-credit,Arts,Visual Arts,593,265,2154,932,1050,451,3797,1648,5445,2722.5
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,69,239,98,170,63,318,230,727,957,478.5
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,388,523,706,875,532,611,1626,2009,3635,1817.5
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,323,1069,1871,5221,369,1382,2563,7672,10235,5117.5
+2021,Stage 1,10-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",5,31,17,34,1,2,23,67,90,45.0
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,8,92,114,455,31,230,153,777,930,465.0
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,264,116,194,153,91,73,549,342,891,445.5
+2021,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,161,321,575,794,337,363,1073,1478,2551,1275.5
+2021,Stage 1,10-credit,Cross-disciplinary,Community Studies,315,115,800,799,36,50,1151,964,2115,1057.5
+2021,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,55,59,118,137,74,112,247,308,555,277.5
+2021,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,539,930,3575,3892,455,411,4569,5233,9802,4901.0
+2021,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1867,1923,5783,6233,2154,2136,9804,10292,20096,10048.0
+2021,Stage 1,10-credit,Cross-disciplinary,Research Practices,312,127,2079,2124,478,464,2869,2715,5584,2792.0
+2021,Stage 1,10-credit,English,English,3476,3370,10263,10435,4143,4084,17882,17889,35771,17885.5
+2021,Stage 1,10-credit,Health and Physical Education,Child Studies,520,27,1548,93,377,35,2445,155,2600,1300.0
+2021,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,447,238,2080,1248,685,279,3212,1765,4977,2488.5
+2021,Stage 1,10-credit,Health and Physical Education,Health and Wellbeing,295,118,1015,600,140,95,1450,813,2263,1131.5
+2021,Stage 1,10-credit,Health and Physical Education,Outdoor Education,167,255,771,1235,343,403,1281,1893,3174,1587.0
+2021,Stage 1,10-credit,Health and Physical Education,Physical Education,538,1001,1266,2764,636,950,2440,4715,7155,3577.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,2,3,233,202,6,7,241,212,453,226.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,111,72,215,161,134,92,460,325,785,392.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Economics,102,266,45,90,85,324,232,680,912,456.0
+2021,Stage 1,10-credit,Humanities and Social Sciences,Geography,58,76,148,183,140,154,346,413,759,379.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,342,275,619,405,476,217,1437,897,2334,1167.0
+2021,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,76,62,123,109,43,74,242,245,487,243.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Modern History,302,276,706,580,528,386,1536,1242,2778,1389.0
+2021,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,38,33,59,44,191,76,288,153,441,220.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,"Politics, Power and People",0,0,17,13,38,19,55,32,87,43.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,1372,1311,0,0,675,780,2047,2091,4138,2069.0
+2021,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,217,193,459,237,114,50,790,480,1270,635.0
+2021,Stage 1,10-credit,Humanities and Social Sciences,Tourism,64,10,231,120,72,20,367,150,517,258.5
+2021,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,10,0,156,9,0,0,166,9,175,87.5
+2021,Stage 1,10-credit,Languages,Arabic,0,0,9,1,19,7,28,8,36,18.0
+2021,Stage 1,10-credit,Languages,Auslan,0,0,10,2,0,0,10,2,12,6.0
+2021,Stage 1,10-credit,Languages,Australian Languages,0,0,3,3,0,0,3,3,6,3.0
+2021,Stage 1,10-credit,Languages,Bosnian,0,0,6,4,0,0,6,4,10,5.0
+2021,Stage 1,10-credit,Languages,Chinese,23,25,108,80,55,53,186,158,344,172.0
+2021,Stage 1,10-credit,Languages,Croatian,0,0,0,2,0,0,0,2,2,1.0
+2021,Stage 1,10-credit,Languages,French,9,1,111,43,34,10,154,54,208,104.0
+2021,Stage 1,10-credit,Languages,German,0,0,24,37,55,47,79,84,163,81.5
+2021,Stage 1,10-credit,Languages,Hindi,0,0,20,13,0,0,20,13,33,16.5
+2021,Stage 1,10-credit,Languages,Indonesian,74,1,28,11,22,4,124,16,140,70.0
+2021,Stage 1,10-credit,Languages,Italian,153,35,81,29,12,4,246,68,314,157.0
+2021,Stage 1,10-credit,Languages,Japanese,56,45,246,180,85,33,387,258,645,322.5
+2021,Stage 1,10-credit,Languages,Khmer,0,0,14,8,0,0,14,8,22,11.0
+2021,Stage 1,10-credit,Languages,Korean,0,0,31,4,0,0,31,4,35,17.5
+2021,Stage 1,10-credit,Languages,Language and Culture,8,1,22,32,2,2,32,35,67,33.5
+2021,Stage 1,10-credit,Languages,Latin,5,5,0,0,0,0,5,5,10,5.0
+2021,Stage 1,10-credit,Languages,Modern Greek,0,0,23,8,23,8,46,16,62,31.0
+2021,Stage 1,10-credit,Languages,Persian,0,0,19,4,0,0,19,4,23,11.5
+2021,Stage 1,10-credit,Languages,Polish,0,0,6,6,0,0,6,6,12,6.0
+2021,Stage 1,10-credit,Languages,Punjabi,0,0,5,12,0,0,5,12,17,8.5
+2021,Stage 1,10-credit,Languages,Russian,0,0,0,0,12,11,12,11,23,11.5
+2021,Stage 1,10-credit,Languages,Serbian,0,0,0,1,0,0,0,1,1,0.5
+2021,Stage 1,10-credit,Languages,Sinhala,0,0,0,0,2,2,2,2,4,2.0
+2021,Stage 1,10-credit,Languages,Spanish,0,0,68,48,0,0,68,48,116,58.0
+2021,Stage 1,10-credit,Languages,Vietnamese,13,0,44,30,0,1,57,31,88,44.0
+2021,Stage 1,10-credit,Mathematics,Mathematics,3468,3777,9499,10783,4580,4790,17547,19350,36897,18448.5
+2021,Stage 1,10-credit,Sciences,Agriculture,44,72,481,579,93,124,618,775,1393,696.5
+2021,Stage 1,10-credit,Sciences,Biology,1410,644,3308,1657,1829,926,6547,3227,9774,4887.0
+2021,Stage 1,10-credit,Sciences,Chemistry,830,560,1802,1567,1187,1104,3819,3231,7050,3525.0
+2021,Stage 1,10-credit,Sciences,Earth and Environmental Science,2,8,81,71,44,6,127,85,212,106.0
+2021,Stage 1,10-credit,Sciences,Nutrition,354,240,437,324,208,57,999,621,1620,810.0
+2021,Stage 1,10-credit,Sciences,Physics,325,822,754,2279,459,1277,1538,4378,5916,2958.0
+2021,Stage 1,10-credit,Sciences,Psychology,1093,439,2739,1146,1343,560,5175,2145,7320,3660.0
+2021,Stage 1,10-credit,Sciences,Scientific Studies,113,201,559,511,157,192,829,904,1733,866.5
+2021,Stage 1,20-credit,Arts,Creative Arts,7,4,59,76,2,0,68,80,148,148
+2021,Stage 1,20-credit,Arts,Dance,1,0,34,3,23,0,58,3,61,61
+2021,Stage 1,20-credit,Arts,Drama,2,2,24,28,10,7,36,37,73,73
+2021,Stage 1,20-credit,Arts,Music,27,14,14,26,9,10,50,50,100,100
+2021,Stage 1,20-credit,Arts,Visual Arts,0,0,7,2,3,0,10,2,12,12
+2021,Stage 1,20-credit,"Business, Enterprise and Technology",Business Innovation,4,0,19,33,0,0,23,33,56,56
+2021,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,0,0,10,113,9,17,19,130,149,149
+2021,Stage 1,20-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",0,0,5,13,0,0,5,13,18,18
+2021,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,0,4,0,0,0,4,4,4
+2021,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,1,8,2,0,0,0,3,8,11,11
+2021,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,2,2,1,1,0,0,3,3,6,6
+2021,Stage 1,20-credit,Cross-disciplinary,Community Studies,15,24,92,106,14,10,121,140,261,261
+2021,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,1,4,75,142,1,0,77,146,223,223
+2021,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,3,83,542,408,20,43,565,534,1099,1099
+2021,Stage 1,20-credit,English,English,31,71,233,343,70,9,334,423,757,757
+2021,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,1,0,0,0,1,0,1,1
+2021,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,0,0,5,1,5,1,6,6
+2021,Stage 1,20-credit,Health and Physical Education,Health and Wellbeing,4,6,59,102,4,0,67,108,175,175
+2021,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,2,2,2,32,4,34,38,38
+2021,Stage 1,20-credit,Health and Physical Education,Physical Education,3,6,25,43,24,65,52,114,166,166
+2021,Stage 1,20-credit,Humanities and Social Sciences,Ancient Studies,1,0,0,0,0,0,1,0,1,1
+2021,Stage 1,20-credit,Humanities and Social Sciences,Geography,0,0,0,0,1,0,1,0,1,1
+2021,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,0,16,0,16,16,16
+2021,Stage 1,20-credit,Humanities and Social Sciences,Modern History,1,0,0,0,3,6,4,6,10,10
+2021,Stage 1,20-credit,Humanities and Social Sciences,Philosophy,0,0,0,1,0,0,0,1,1,1
+2021,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,118,98,0,0,0,0,118,98,216,216
+2021,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,1,0,24,44,0,0,25,44,69,69
+2021,Stage 1,20-credit,Humanities and Social Sciences,Tourism,0,0,1,0,0,0,1,0,1,1
+2021,Stage 1,20-credit,Humanities and Social Sciences,Women's Studies,0,0,2,0,0,0,2,0,2,2
+2021,Stage 1,20-credit,Languages,Arabic,0,0,0,0,4,5,4,5,9,9
+2021,Stage 1,20-credit,Languages,Australian Languages,0,0,2,2,0,0,2,2,4,4
+2021,Stage 1,20-credit,Languages,Chinese,0,0,0,0,6,3,6,3,9,9
+2021,Stage 1,20-credit,Languages,French,0,0,4,4,9,2,13,6,19,19
+2021,Stage 1,20-credit,Languages,German,0,0,2,3,5,0,7,3,10,10
+2021,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,2,1,2,1,3,3
+2021,Stage 1,20-credit,Languages,Japanese,0,0,0,1,0,0,0,1,1,1
+2021,Stage 1,20-credit,Languages,Language and Culture,0,0,9,5,5,5,14,10,24,24
+2021,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,9,4,9,4,13,13
+2021,Stage 1,20-credit,Languages,Portuguese,0,0,0,0,1,1,1,1,2,2
+2021,Stage 1,20-credit,Languages,Russian,0,0,0,0,0,4,0,4,4,4
+2021,Stage 1,20-credit,Languages,Tamil,0,0,0,0,1,2,1,2,3,3
+2021,Stage 1,20-credit,Languages,Vietnamese,2,0,0,0,6,5,8,5,13,13
+2021,Stage 1,20-credit,Mathematics,Mathematics,8,8,90,177,12,10,110,195,305,305
+2021,Stage 1,20-credit,Sciences,Psychology,0,0,13,5,0,0,13,5,18,18
+2021,Stage 1,20-credit,Sciences,Scientific Studies,6,10,161,250,4,3,171,263,434,434
+2022,Stage 1,10-credit,Arts,Creative Arts,190,98,963,753,278,163,1431,1014,2445,1222.5
+2022,Stage 1,10-credit,Arts,Dance,66,0,323,24,65,5,454,29,483,241.5
+2022,Stage 1,10-credit,Arts,Drama,205,45,448,299,342,143,995,487,1482,741.0
+2022,Stage 1,10-credit,Arts,Music,157,90,491,578,221,245,869,913,1782,891.0
+2022,Stage 1,10-credit,Arts,Visual Arts,602,231,1978,939,1113,424,3693,1594,5287,2643.5
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,72,246,104,156,68,316,244,718,962,481.0
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,355,638,703,1018,536,748,1594,2404,3998,1999.0
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,310,1301,1877,5145,412,1340,2599,7786,10385,5192.5
+2022,Stage 1,10-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",6,28,31,90,3,10,40,128,168,84.0
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,34,162,69,502,30,238,133,902,1035,517.5
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,200,54,154,136,120,62,474,252,726,363.0
+2022,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,230,479,646,896,324,329,1200,1704,2904,1452.0
+2022,Stage 1,10-credit,Cross-disciplinary,Community Studies,125,148,729,713,68,69,922,930,1852,926.0
+2022,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,21,176,119,123,64,128,204,427,631,315.5
+2022,Stage 1,10-credit,Cross-disciplinary,Exploring Identities and Futures,29,23,466,439,142,107,637,569,1206,603.0
+2022,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,571,1431,3868,4659,573,635,5012,6725,11737,5868.5
+2022,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1968,1920,5392,5768,2224,2146,9584,9834,19418,9709.0
+2022,Stage 1,10-credit,Cross-disciplinary,Research Practices,179,165,1819,1896,416,481,2414,2542,4956,2478.0
+2022,Stage 1,10-credit,English,English,3686,3605,10086,10320,4278,4155,18050,18080,36130,18065.0
+2022,Stage 1,10-credit,Health and Physical Education,Child Studies,575,29,1490,145,360,34,2425,208,2633,1316.5
+2022,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,502,335,2103,1466,700,306,3305,2107,5412,2706.0
+2022,Stage 1,10-credit,Health and Physical Education,Health and Wellbeing,347,166,1211,656,219,101,1777,923,2700,1350.0
+2022,Stage 1,10-credit,Health and Physical Education,Outdoor Education,264,306,928,1511,402,538,1594,2355,3949,1974.5
+2022,Stage 1,10-credit,Health and Physical Education,Physical Education,463,994,1208,2740,609,981,2280,4715,6995,3497.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,4,0,60,47,0,0,64,47,111,55.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,112,73,223,171,118,74,453,318,771,385.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Economics,87,293,41,67,123,377,251,737,988,494.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,Geography,65,75,132,173,164,176,361,424,785,392.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,372,233,703,501,428,225,1503,959,2462,1231.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,49,93,141,147,60,67,250,307,557,278.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Modern History,354,271,717,615,554,426,1625,1312,2937,1468.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,28,32,63,43,200,72,291,147,438,219.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,"Politics, Power and People",11,20,44,20,69,28,124,68,192,96.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,514,701,0,0,511,648,1025,1349,2374,1187.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,246,185,550,375,122,33,918,593,1511,755.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",832,268,0,0,106,122,938,390,1328,664.0
+2022,Stage 1,10-credit,Humanities and Social Sciences,Tourism,67,25,185,78,24,8,276,111,387,193.5
+2022,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,10,0,226,10,0,0,236,10,246,123.0
+2022,Stage 1,10-credit,Languages,Arabic,0,0,6,2,14,14,20,16,36,18.0
+2022,Stage 1,10-credit,Languages,Auslan,0,0,5,10,0,0,5,10,15,7.5
+2022,Stage 1,10-credit,Languages,Australian Languages,0,0,15,9,0,0,15,9,24,12.0
+2022,Stage 1,10-credit,Languages,Bosnian,0,0,2,0,0,0,2,0,2,1.0
+2022,Stage 1,10-credit,Languages,Chinese,12,11,97,78,53,47,162,136,298,149.0
+2022,Stage 1,10-credit,Languages,Croatian,0,0,2,0,0,0,2,0,2,1.0
+2022,Stage 1,10-credit,Languages,French,33,0,141,61,11,0,185,61,246,123.0
+2022,Stage 1,10-credit,Languages,German,0,0,35,25,60,52,95,77,172,86.0
+2022,Stage 1,10-credit,Languages,Hindi,0,0,21,12,0,0,21,12,33,16.5
+2022,Stage 1,10-credit,Languages,Indonesian,65,1,24,13,10,0,99,14,113,56.5
+2022,Stage 1,10-credit,Languages,Italian,139,32,82,43,4,1,225,76,301,150.5
+2022,Stage 1,10-credit,Languages,Japanese,39,51,140,128,63,44,242,223,465,232.5
+2022,Stage 1,10-credit,Languages,Khmer,0,0,12,2,0,0,12,2,14,7.0
+2022,Stage 1,10-credit,Languages,Korean,0,0,23,1,0,0,23,1,24,12.0
+2022,Stage 1,10-credit,Languages,Language and Culture,2,0,11,7,2,7,15,14,29,14.5
+2022,Stage 1,10-credit,Languages,Latin,1,6,0,0,0,0,1,6,7,3.5
+2022,Stage 1,10-credit,Languages,Modern Greek,0,0,25,24,19,4,44,28,72,36.0
+2022,Stage 1,10-credit,Languages,Nepali,0,0,24,22,0,0,24,22,46,23.0
+2022,Stage 1,10-credit,Languages,Persian,0,0,15,8,0,0,15,8,23,11.5
+2022,Stage 1,10-credit,Languages,Punjabi,0,0,9,2,0,0,9,2,11,5.5
+2022,Stage 1,10-credit,Languages,Serbian,0,0,0,5,0,0,0,5,5,2.5
+2022,Stage 1,10-credit,Languages,Spanish,0,0,78,34,2,4,80,38,118,59.0
+2022,Stage 1,10-credit,Languages,Vietnamese,18,6,29,20,0,0,47,26,73,36.5
+2022,Stage 1,10-credit,Mathematics,Mathematics,3762,3960,9281,10342,4589,4690,17632,18992,36624,18312.0
+2022,Stage 1,10-credit,Sciences,Agriculture,39,121,546,617,78,167,663,905,1568,784.0
+2022,Stage 1,10-credit,Sciences,Biology,1523,634,3349,1706,1790,888,6662,3228,9890,4945.0
+2022,Stage 1,10-credit,Sciences,Chemistry,795,568,1749,1445,1208,953,3752,2966,6718,3359.0
+2022,Stage 1,10-credit,Sciences,Earth and Environmental Science,0,0,76,59,53,16,129,75,204,102.0
+2022,Stage 1,10-credit,Sciences,Nutrition,409,231,467,320,223,85,1099,636,1735,867.5
+2022,Stage 1,10-credit,Sciences,Physics,278,752,717,2003,517,1279,1512,4034,5546,2773.0
+2022,Stage 1,10-credit,Sciences,Psychology,1195,374,3050,1234,1404,552,5649,2160,7809,3904.5
+2022,Stage 1,10-credit,Sciences,Scientific Studies,100,171,509,545,101,124,710,840,1550,775.0
+2022,Stage 1,20-credit,Arts,Creative Arts,6,14,49,83,2,6,57,103,160,160
+2022,Stage 1,20-credit,Arts,Dance,3,0,36,6,19,2,58,8,66,66
+2022,Stage 1,20-credit,Arts,Drama,4,2,8,7,7,3,19,12,31,31
+2022,Stage 1,20-credit,Arts,Music,23,12,24,36,14,10,61,58,119,119
+2022,Stage 1,20-credit,Arts,Visual Arts,0,0,1,0,19,2,20,2,22,22
+2022,Stage 1,20-credit,"Business, Enterprise and Technology",Business Innovation,9,16,30,45,0,1,39,62,101,101
+2022,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,0,9,19,102,14,24,33,135,168,168
+2022,Stage 1,20-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",0,1,3,22,0,0,3,23,26,26
+2022,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,1,1,0,0,1,1,2,2
+2022,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,1,1,0,0,1,1,2,2
+2022,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,0,0,10,15,0,1,10,16,26,26
+2022,Stage 1,20-credit,Cross-disciplinary,Community Studies,2,2,80,97,2,3,84,102,186,186
+2022,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,2,7,108,191,0,2,110,200,310,310
+2022,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,14,100,668,541,37,43,719,684,1403,1403
+2022,Stage 1,20-credit,English,English,28,106,283,318,82,21,393,445,838,838
+2022,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,0,0,21,3,21,3,24,24
+2022,Stage 1,20-credit,Health and Physical Education,Health and Wellbeing,10,9,48,102,1,3,59,114,173,173
+2022,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,2,3,9,40,11,43,54,54
+2022,Stage 1,20-credit,Health and Physical Education,Physical Education,5,19,12,36,2,29,19,84,103,103
+2022,Stage 1,20-credit,Humanities and Social Sciences,Geography,11,0,0,0,0,0,11,0,11,11
+2022,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,1,0,4,9,5,9,14,14
+2022,Stage 1,20-credit,Humanities and Social Sciences,Media Studies,0,0,0,1,0,0,0,1,1,1
+2022,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,0,5,4,5,4,9,9
+2022,Stage 1,20-credit,Humanities and Social Sciences,Religion Studies,88,71,0,0,0,0,88,71,159,159
+2022,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,0,7,24,62,1,6,25,75,100,100
+2022,Stage 1,20-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",150,138,0,0,4,10,154,148,302,302
+2022,Stage 1,20-credit,Languages,Arabic,0,0,0,0,7,4,7,4,11,11
+2022,Stage 1,20-credit,Languages,Australian Languages,0,0,1,1,2,1,3,2,5,5
+2022,Stage 1,20-credit,Languages,Chinese,0,0,0,0,4,4,4,4,8,8
+2022,Stage 1,20-credit,Languages,French,8,0,1,0,7,0,16,0,16,16
+2022,Stage 1,20-credit,Languages,German,0,0,2,0,8,2,10,2,12,12
+2022,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,0,1,0,1,1,1
+2022,Stage 1,20-credit,Languages,Japanese,0,7,4,5,2,3,6,15,21,21
+2022,Stage 1,20-credit,Languages,Language and Culture,0,0,2,1,2,7,4,8,12,12
+2022,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,7,6,7,6,13,13
+2022,Stage 1,20-credit,Languages,Russian,0,0,0,0,2,5,2,5,7,7
+2022,Stage 1,20-credit,Languages,Spanish,0,0,3,2,0,0,3,2,5,5
+2022,Stage 1,20-credit,Languages,Tamil,0,0,0,0,1,2,1,2,3,3
+2022,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,12,7,12,7,19,19
+2022,Stage 1,20-credit,Mathematics,Mathematics,13,48,89,159,13,6,115,213,328,328
+2022,Stage 1,20-credit,Sciences,Agriculture,0,0,3,6,0,0,3,6,9,9
+2022,Stage 1,20-credit,Sciences,Biology,0,0,6,3,0,0,6,3,9,9
+2022,Stage 1,20-credit,Sciences,Chemistry,0,19,3,6,0,0,3,25,28,28
+2022,Stage 1,20-credit,Sciences,Physics,0,25,0,0,0,0,0,25,25,25
+2022,Stage 1,20-credit,Sciences,Psychology,0,0,14,5,0,0,14,5,19,19
+2022,Stage 1,20-credit,Sciences,Scientific Studies,15,65,162,217,6,4,183,286,469,469
+2023,Stage 1,10-credit,Arts,Creative Arts,194,100,1185,773,321,175,1700,1048,2748,1374.0
+2023,Stage 1,10-credit,Arts,Dance,81,3,326,38,89,4,496,45,541,270.5
+2023,Stage 1,10-credit,Arts,Drama,264,90,532,320,328,152,1124,562,1686,843.0
+2023,Stage 1,10-credit,Arts,Music,121,74,556,672,268,255,945,1001,1946,973.0
+2023,Stage 1,10-credit,Arts,Visual Arts,716,269,2206,954,950,339,3872,1562,5434,2717.0
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,71,192,72,181,64,274,207,647,854,427.0
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,365,567,807,1037,530,735,1702,2339,4041,2020.5
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,316,1239,1674,5101,418,1153,2408,7493,9901,4950.5
+2023,Stage 1,10-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",9,23,45,105,3,25,57,153,210,105.0
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,24,151,103,558,15,194,142,903,1045,522.5
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,251,44,183,184,93,37,527,265,792,396.0
+2023,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,169,340,698,1058,270,350,1137,1748,2885,1442.5
+2023,Stage 1,10-credit,Cross-disciplinary,Community Studies,102,162,816,659,43,29,961,850,1811,905.5
+2023,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,111,125,249,303,111,140,471,568,1039,519.5
+2023,Stage 1,10-credit,Cross-disciplinary,Exploring Identities and Futures,559,406,1560,1574,663,583,2782,2563,5345,2672.5
+2023,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,701,1177,4073,4504,645,716,5419,6397,11816,5908.0
+2023,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,1571,1604,4543,4930,1754,1823,7868,8357,16225,8112.5
+2023,Stage 1,10-credit,Cross-disciplinary,Research Practices,202,178,1486,1529,313,327,2001,2034,4035,2017.5
+2023,Stage 1,10-credit,English,English,4001,3596,10725,10714,4277,4115,19003,18425,37428,18714.0
+2023,Stage 1,10-credit,Health and Physical Education,Child Studies,705,26,1638,134,407,17,2750,177,2927,1463.5
+2023,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,650,393,2305,1591,653,291,3608,2275,5883,2941.5
+2023,Stage 1,10-credit,Health and Physical Education,Health and Wellbeing,423,178,1325,876,201,125,1949,1179,3128,1564.0
+2023,Stage 1,10-credit,Health and Physical Education,Outdoor Education,280,358,913,1398,369,473,1562,2229,3791,1895.5
+2023,Stage 1,10-credit,Health and Physical Education,Physical Education,481,1017,1168,2771,560,867,2209,4655,6864,3432.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,17,1,122,97,2,6,141,104,245,122.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,142,91,226,209,143,60,511,360,871,435.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,Economics,93,257,42,109,135,357,270,723,993,496.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,Geography,34,98,143,150,133,126,310,374,684,342.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,440,265,791,460,497,295,1728,1020,2748,1374.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,44,78,178,184,88,114,310,376,686,343.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Modern History,362,252,804,640,509,362,1675,1254,2929,1464.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,14,13,64,40,155,67,233,120,353,176.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,"Politics, Power and People",25,15,33,27,42,36,100,78,178,89.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Religion Studies,96,82,0,0,58,52,154,134,288,144.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,234,226,597,379,118,41,949,646,1595,797.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",1579,1245,0,0,520,658,2099,1903,4002,2001.0
+2023,Stage 1,10-credit,Humanities and Social Sciences,Tourism,65,29,156,82,62,29,283,140,423,211.5
+2023,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,49,1,218,15,0,0,267,16,283,141.5
+2023,Stage 1,10-credit,Languages,Arabic,0,0,9,4,12,11,21,15,36,18.0
+2023,Stage 1,10-credit,Languages,Auslan,0,0,27,8,0,0,27,8,35,17.5
+2023,Stage 1,10-credit,Languages,Australian Languages,0,0,0,6,0,0,0,6,6,3.0
+2023,Stage 1,10-credit,Languages,Bosnian,0,0,5,2,0,0,5,2,7,3.5
+2023,Stage 1,10-credit,Languages,Chinese,27,31,73,53,68,44,168,128,296,148.0
+2023,Stage 1,10-credit,Languages,French,28,1,142,46,47,5,217,52,269,134.5
+2023,Stage 1,10-credit,Languages,German,0,0,55,26,76,65,131,91,222,111.0
+2023,Stage 1,10-credit,Languages,Hindi,0,0,5,5,0,0,5,5,10,5.0
+2023,Stage 1,10-credit,Languages,Indonesian,81,1,14,12,0,0,95,13,108,54.0
+2023,Stage 1,10-credit,Languages,Italian,215,64,87,47,0,0,302,111,413,206.5
+2023,Stage 1,10-credit,Languages,Japanese,53,15,239,172,75,55,367,242,609,304.5
+2023,Stage 1,10-credit,Languages,Khmer,0,0,15,10,0,0,15,10,25,12.5
+2023,Stage 1,10-credit,Languages,Korean,0,0,18,4,0,0,18,4,22,11.0
+2023,Stage 1,10-credit,Languages,Language and Culture,0,0,16,8,1,0,17,8,25,12.5
+2023,Stage 1,10-credit,Languages,Latin,0,7,0,0,0,0,0,7,7,3.5
+2023,Stage 1,10-credit,Languages,Modern Greek,0,0,18,28,22,9,40,37,77,38.5
+2023,Stage 1,10-credit,Languages,Nepali,0,0,17,18,0,0,17,18,35,17.5
+2023,Stage 1,10-credit,Languages,Persian,0,0,8,12,0,0,8,12,20,10.0
+2023,Stage 1,10-credit,Languages,Polish,0,0,10,5,0,0,10,5,15,7.5
+2023,Stage 1,10-credit,Languages,Punjabi,0,0,4,7,0,0,4,7,11,5.5
+2023,Stage 1,10-credit,Languages,Serbian,0,0,1,2,0,0,1,2,3,1.5
+2023,Stage 1,10-credit,Languages,Spanish,0,0,110,53,17,2,127,55,182,91.0
+2023,Stage 1,10-credit,Languages,Vietnamese,22,2,61,48,0,4,83,54,137,68.5
+2023,Stage 1,10-credit,Mathematics,Mathematics,3842,4027,9678,10662,4722,4796,18242,19485,37727,18863.5
+2023,Stage 1,10-credit,Sciences,Agriculture,37,135,666,656,78,140,781,931,1712,856.0
+2023,Stage 1,10-credit,Sciences,Biology,1534,707,3543,1690,1746,996,6823,3393,10216,5108.0
+2023,Stage 1,10-credit,Sciences,Chemistry,762,521,1853,1568,1085,924,3700,3013,6713,3356.5
+2023,Stage 1,10-credit,Sciences,Earth and Environmental Science,14,11,64,58,45,14,123,83,206,103.0
+2023,Stage 1,10-credit,Sciences,Nutrition,468,294,405,268,313,101,1186,663,1849,924.5
+2023,Stage 1,10-credit,Sciences,Physics,305,796,692,2076,467,1180,1464,4052,5516,2758.0
+2023,Stage 1,10-credit,Sciences,Psychology,1134,310,3160,1200,1314,515,5608,2025,7633,3816.5
+2023,Stage 1,10-credit,Sciences,Scientific Studies,147,175,695,644,90,114,932,933,1865,932.5
+2023,Stage 1,20-credit,Arts,Creative Arts,7,4,66,84,10,6,83,94,177,177
+2023,Stage 1,20-credit,Arts,Dance,0,0,16,2,24,0,40,2,42,42
+2023,Stage 1,20-credit,Arts,Drama,4,4,7,5,4,3,15,12,27,27
+2023,Stage 1,20-credit,Arts,Music,14,2,21,13,9,18,44,33,77,77
+2023,Stage 1,20-credit,Arts,Visual Arts,3,2,0,0,16,3,19,5,24,24
+2023,Stage 1,20-credit,"Business, Enterprise and Technology",Business Innovation,5,4,15,48,1,1,21,53,74,74
+2023,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,0,12,22,150,11,27,33,189,222,222
+2023,Stage 1,20-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",2,0,12,18,0,1,14,19,33,33
+2023,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,1,3,0,0,1,3,4,4
+2023,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,6,0,0,0,6,0,6,6
+2023,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,0,8,14,14,1,1,15,23,38,38
+2023,Stage 1,20-credit,Cross-disciplinary,Community Studies,1,0,130,118,19,12,150,130,280,280
+2023,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,2,42,109,156,1,2,112,200,312,312
+2023,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,12,116,753,612,92,174,857,902,1759,1759
+2023,Stage 1,20-credit,English,English,27,101,261,359,118,56,406,516,922,922
+2023,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,1,0,0,0,1,0,1,1
+2023,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,0,8,8,0,8,8,16,16
+2023,Stage 1,20-credit,Health and Physical Education,Health and Wellbeing,5,12,36,82,6,4,47,98,145,145
+2023,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,0,0,5,49,5,49,54,54
+2023,Stage 1,20-credit,Health and Physical Education,Physical Education,2,5,24,68,54,133,80,206,286,286
+2023,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,10,11,0,0,10,11,21,21
+2023,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,0,0,0,6,3,6,3,9,9
+2023,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,10,7,3,15,13,22,35,35
+2023,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,0,10,5,10,5,15,15
+2023,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,5,17,27,61,2,2,34,80,114,114
+2023,Stage 1,20-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",207,179,0,0,7,5,214,184,398,398
+2023,Stage 1,20-credit,Humanities and Social Sciences,Tourism,0,0,3,0,0,0,3,0,3,3
+2023,Stage 1,20-credit,Humanities and Social Sciences,Women's Studies,0,0,2,0,0,0,2,0,2,2
+2023,Stage 1,20-credit,Languages,Arabic,0,0,0,0,10,3,10,3,13,13
+2023,Stage 1,20-credit,Languages,Australian Languages,0,0,5,1,0,0,5,1,6,6
+2023,Stage 1,20-credit,Languages,Chinese,0,0,0,0,11,2,11,2,13,13
+2023,Stage 1,20-credit,Languages,French,0,0,14,7,5,5,19,12,31,31
+2023,Stage 1,20-credit,Languages,German,0,0,3,1,1,4,4,5,9,9
+2023,Stage 1,20-credit,Languages,Hindi,0,0,0,0,3,7,3,7,10,10
+2023,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,3,4,3,4,7,7
+2023,Stage 1,20-credit,Languages,Italian,0,0,3,2,0,0,3,2,5,5
+2023,Stage 1,20-credit,Languages,Japanese,0,7,8,6,0,4,8,17,25,25
+2023,Stage 1,20-credit,Languages,Language and Culture,0,1,0,2,9,9,9,12,21,21
+2023,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,4,2,4,2,6,6
+2023,Stage 1,20-credit,Languages,Portuguese,0,0,0,0,1,0,1,0,1,1
+2023,Stage 1,20-credit,Languages,Russian,0,0,0,0,5,7,5,7,12,12
+2023,Stage 1,20-credit,Languages,Spanish,0,0,1,2,0,0,1,2,3,3
+2023,Stage 1,20-credit,Languages,Tamil,0,0,0,0,3,1,3,1,4,4
+2023,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,8,8,8,8,16,16
+2023,Stage 1,20-credit,Mathematics,Mathematics,16,8,71,175,8,10,95,193,288,288
+2023,Stage 1,20-credit,Sciences,Biology,0,0,0,1,0,0,0,1,1,1
+2023,Stage 1,20-credit,Sciences,Chemistry,0,0,3,4,0,0,3,4,7,7
+2023,Stage 1,20-credit,Sciences,Physics,0,0,0,0,1,0,1,0,1,1
+2023,Stage 1,20-credit,Sciences,Psychology,0,0,3,1,17,14,20,15,35,35
+2023,Stage 1,20-credit,Sciences,Scientific Studies,7,64,138,243,2,3,147,310,457,457
+2024,Stage 1,10-credit,Arts,Creative Arts,292,127,1219,928,265,166,1776,1221,2997,1498.5
+2024,Stage 1,10-credit,Arts,Dance,63,1,382,34,157,2,602,37,639,319.5
+2024,Stage 1,10-credit,Arts,Drama,191,48,519,307,302,131,1012,486,1498,749.0
+2024,Stage 1,10-credit,Arts,Music,126,85,513,697,230,272,869,1054,1923,961.5
+2024,Stage 1,10-credit,Arts,Visual Arts,622,213,2334,980,1002,413,3958,1606,5564,2782.0
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,87,223,96,193,68,317,251,733,984,492.0
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,451,775,760,1039,626,800,1837,2614,4451,2225.5
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,405,1247,2089,5678,490,1538,2984,8463,11447,5723.5
+2024,Stage 1,10-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",12,91,35,110,5,25,52,226,278,139.0
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,13,101,118,482,23,192,154,775,929,464.5
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,158,35,225,154,130,39,513,228,741,370.5
+2024,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,201,354,741,1218,394,416,1336,1988,3324,1662.0
+2024,Stage 1,10-credit,Cross-disciplinary,Community Studies,88,180,880,876,54,53,1022,1109,2131,1065.5
+2024,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,117,290,317,360,103,132,537,782,1319,659.5
+2024,Stage 1,10-credit,Cross-disciplinary,Exploring Identities and Futures,1909,1911,4750,5018,2131,1774,8790,8703,17493,8746.5
+2024,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,556,1096,4238,5010,784,974,5578,7080,12658,6329.0
+2024,Stage 1,10-credit,Cross-disciplinary,Personal Learning Plan,186,221,1026,1246,444,566,1656,2033,3689,1844.5
+2024,Stage 1,10-credit,Cross-disciplinary,Research Practices,178,51,1128,1274,261,273,1567,1598,3165,1582.5
+2024,Stage 1,10-credit,English,English,4241,3875,10959,11265,4619,4539,19819,19679,39498,19749.0
+2024,Stage 1,10-credit,Health and Physical Education,Child Studies,704,31,1701,144,473,18,2878,193,3071,1535.5
+2024,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,653,414,2402,1817,748,363,3803,2594,6397,3198.5
+2024,Stage 1,10-credit,Health and Physical Education,Health and Wellbeing,538,254,1233,647,269,114,2040,1015,3055,1527.5
+2024,Stage 1,10-credit,Health and Physical Education,Outdoor Education,264,307,854,1482,371,460,1489,2249,3738,1869.0
+2024,Stage 1,10-credit,Health and Physical Education,Physical Education,489,1006,1098,2912,669,1255,2256,5173,7429,3714.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,9,9,159,122,6,6,174,137,311,155.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,139,81,278,215,158,74,575,370,945,472.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Economics,88,258,33,71,108,351,229,680,909,454.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Geography,67,184,128,153,110,148,305,485,790,395.0
+2024,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,405,277,780,444,531,287,1716,1008,2724,1362.0
+2024,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,59,50,202,203,80,85,341,338,679,339.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Modern History,279,271,756,659,414,412,1449,1342,2791,1395.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,15,20,56,41,164,72,235,133,368,184.0
+2024,Stage 1,10-credit,Humanities and Social Sciences,"Politics, Power and People",31,29,16,24,59,13,106,66,172,86.0
+2024,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,237,224,469,271,175,101,881,596,1477,738.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",1753,1633,0,0,627,751,2380,2384,4764,2382.0
+2024,Stage 1,10-credit,Humanities and Social Sciences,Tourism,50,11,271,183,69,35,390,229,619,309.5
+2024,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,14,0,208,20,0,0,222,20,242,121.0
+2024,Stage 1,10-credit,Languages,Arabic,0,0,8,3,8,9,16,12,28,14.0
+2024,Stage 1,10-credit,Languages,Auslan,0,0,27,2,0,0,27,2,29,14.5
+2024,Stage 1,10-credit,Languages,Australian Languages,0,0,6,0,0,0,6,0,6,3.0
+2024,Stage 1,10-credit,Languages,Bosnian,0,0,2,0,0,0,2,0,2,1.0
+2024,Stage 1,10-credit,Languages,Chinese,24,16,79,54,64,75,167,145,312,156.0
+2024,Stage 1,10-credit,Languages,Croatian,0,0,2,0,0,0,2,0,2,1.0
+2024,Stage 1,10-credit,Languages,French,29,7,137,58,40,13,206,78,284,142.0
+2024,Stage 1,10-credit,Languages,German,0,0,57,42,61,72,118,114,232,116.0
+2024,Stage 1,10-credit,Languages,Hindi,0,0,14,11,0,0,14,11,25,12.5
+2024,Stage 1,10-credit,Languages,Indonesian,56,0,18,10,17,14,91,24,115,57.5
+2024,Stage 1,10-credit,Languages,Italian,120,67,106,39,0,0,226,106,332,166.0
+2024,Stage 1,10-credit,Languages,Japanese,64,77,199,226,86,66,349,369,718,359.0
+2024,Stage 1,10-credit,Languages,Khmer,0,0,6,6,0,0,6,6,12,6.0
+2024,Stage 1,10-credit,Languages,Korean,0,0,16,0,0,0,16,0,16,8.0
+2024,Stage 1,10-credit,Languages,Language and Culture,1,0,9,23,0,1,10,24,34,17.0
+2024,Stage 1,10-credit,Languages,Latin,3,4,0,0,0,0,3,4,7,3.5
+2024,Stage 1,10-credit,Languages,Modern Greek,0,0,22,19,8,6,30,25,55,27.5
+2024,Stage 1,10-credit,Languages,Nepali,0,0,10,13,0,0,10,13,23,11.5
+2024,Stage 1,10-credit,Languages,Persian,0,0,9,11,0,0,9,11,20,10.0
+2024,Stage 1,10-credit,Languages,Polish,0,0,6,0,0,0,6,0,6,3.0
+2024,Stage 1,10-credit,Languages,Punjabi,0,0,9,2,0,0,9,2,11,5.5
+2024,Stage 1,10-credit,Languages,Russian,0,0,0,0,11,23,11,23,34,17.0
+2024,Stage 1,10-credit,Languages,Serbian,0,0,4,0,0,0,4,0,4,2.0
+2024,Stage 1,10-credit,Languages,Sinhala,0,0,0,0,9,8,9,8,17,8.5
+2024,Stage 1,10-credit,Languages,Spanish,0,0,126,74,0,0,126,74,200,100.0
+2024,Stage 1,10-credit,Languages,Vietnamese,23,0,55,47,63,33,141,80,221,110.5
+2024,Stage 1,10-credit,Mathematics,Mathematics,4096,4402,9651,10912,5154,5248,18901,20562,39463,19731.5
+2024,Stage 1,10-credit,Sciences,Agriculture,37,79,637,564,91,143,765,786,1551,775.5
+2024,Stage 1,10-credit,Sciences,Biology,1658,704,3344,1620,2047,987,7049,3311,10360,5180.0
+2024,Stage 1,10-credit,Sciences,Chemistry,837,540,1855,1458,1213,951,3905,2949,6854,3427.0
+2024,Stage 1,10-credit,Sciences,Earth and Environmental Science,66,47,48,30,49,18,163,95,258,129.0
+2024,Stage 1,10-credit,Sciences,Nutrition,411,288,543,389,380,150,1334,827,2161,1080.5
+2024,Stage 1,10-credit,Sciences,Physics,335,799,754,2236,497,1335,1586,4370,5956,2978.0
+2024,Stage 1,10-credit,Sciences,Psychology,1259,372,2841,1021,1389,470,5489,1863,7352,3676.0
+2024,Stage 1,10-credit,Sciences,Scientific Studies,100,171,735,574,115,150,950,895,1845,922.5
+2024,Stage 1,20-credit,Arts,Creative Arts,2,2,71,93,17,13,90,108,198,198
+2024,Stage 1,20-credit,Arts,Dance,1,0,13,1,12,2,26,3,29,29
+2024,Stage 1,20-credit,Arts,Drama,2,0,13,12,10,14,25,26,51,51
+2024,Stage 1,20-credit,Arts,Music,19,1,20,24,9,9,48,34,82,82
+2024,Stage 1,20-credit,Arts,Visual Arts,0,0,24,4,14,10,38,14,52,52
+2024,Stage 1,20-credit,"Business, Enterprise and Technology",Business Innovation,3,5,28,47,0,0,31,52,83,83
+2024,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,3,10,29,170,9,13,41,193,234,234
+2024,Stage 1,20-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",2,1,20,40,1,4,23,45,68,68
+2024,Stage 1,20-credit,"Business, Enterprise and Technology",Digital Technologies,0,0,0,1,0,0,0,1,1,1
+2024,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,0,0,0,1,0,1,1,1
+2024,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,0,6,10,13,2,10,12,29,41,41
+2024,Stage 1,20-credit,Cross-disciplinary,Community Studies,0,0,127,146,1,6,128,152,280,280
+2024,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,2,4,104,160,3,4,109,168,277,277
+2024,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,15,28,782,747,93,134,890,909,1799,1799
+2024,Stage 1,20-credit,English,English,31,113,207,284,116,72,354,469,823,823
+2024,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,3,0,0,0,3,0,3,3
+2024,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,4,10,1,0,5,10,15,15
+2024,Stage 1,20-credit,Health and Physical Education,Health and Wellbeing,3,0,55,126,12,7,70,133,203,203
+2024,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,2,1,1,31,3,32,35,35
+2024,Stage 1,20-credit,Health and Physical Education,Physical Education,2,7,38,67,2,27,42,101,143,143
+2024,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,0,1,0,0,0,1,1,1
+2024,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,0,0,0,1,2,1,2,3,3
+2024,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,1,16,1,16,17,17
+2024,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,0,2,3,2,3,5,5
+2024,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,6,15,32,76,1,1,39,92,131,131
+2024,Stage 1,20-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",182,272,0,0,6,6,188,278,466,466
+2024,Stage 1,20-credit,Languages,Arabic,0,0,0,0,11,7,11,7,18,18
+2024,Stage 1,20-credit,Languages,Australian Languages,0,0,0,1,0,0,0,1,1,1
+2024,Stage 1,20-credit,Languages,Chinese,0,0,9,13,7,5,16,18,34,34
+2024,Stage 1,20-credit,Languages,French,0,0,12,6,10,5,22,11,33,33
+2024,Stage 1,20-credit,Languages,German,0,0,0,0,3,3,3,3,6,6
+2024,Stage 1,20-credit,Languages,Hungarian,0,0,0,0,2,2,2,2,4,4
+2024,Stage 1,20-credit,Languages,Italian,0,1,11,2,0,0,11,3,14,14
+2024,Stage 1,20-credit,Languages,Japanese,0,0,6,10,2,4,8,14,22,22
+2024,Stage 1,20-credit,Languages,Language and Culture,0,0,2,4,11,10,13,14,27,27
+2024,Stage 1,20-credit,Languages,Modern Greek,0,0,9,12,12,11,21,23,44,44
+2024,Stage 1,20-credit,Languages,Russian,0,0,0,0,1,0,1,0,1,1
+2024,Stage 1,20-credit,Languages,Tamil,0,0,0,0,2,2,2,2,4,4
+2024,Stage 1,20-credit,Languages,Vietnamese,0,0,0,0,11,8,11,8,19,19
+2024,Stage 1,20-credit,Mathematics,Mathematics,5,16,83,172,8,13,96,201,297,297
+2024,Stage 1,20-credit,Sciences,Biology,0,0,0,0,0,3,0,3,3,3
+2024,Stage 1,20-credit,Sciences,Chemistry,0,0,7,5,0,0,7,5,12,12
+2024,Stage 1,20-credit,Sciences,Nutrition,0,0,0,0,1,0,1,0,1,1
+2024,Stage 1,20-credit,Sciences,Physics,0,0,0,0,0,1,0,1,1,1
+2024,Stage 1,20-credit,Sciences,Psychology,0,0,1,1,3,1,4,2,6,6
+2024,Stage 1,20-credit,Sciences,Scientific Studies,7,77,171,246,0,0,178,323,501,501
+2025,Stage 1,10-credit,Arts,Creative Arts,287,132,1274,1017,388,256,1949,1405,3354,1677.0
+2025,Stage 1,10-credit,Arts,Dance,65,1,343,27,155,4,563,32,595,297.5
+2025,Stage 1,10-credit,Arts,Drama,163,61,444,213,313,124,920,398,1318,659.0
+2025,Stage 1,10-credit,Arts,Music,87,100,474,520,293,255,854,875,1729,864.5
+2025,Stage 1,10-credit,Arts,Visual Arts,563,200,2099,928,971,369,3633,1497,5130,2565.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Accounting,106,273,93,95,101,338,300,706,1006,503.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Business Innovation,421,609,837,1102,749,920,2007,2631,4638,2319.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Design and Technology,311,1491,1983,5548,618,1499,2912,8538,11450,5725.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",19,41,38,151,9,11,66,203,269,134.5
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Digital Technologies,13,92,93,489,19,162,125,743,868,434.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Information Processing and Publishing,152,23,162,126,87,60,401,209,610,305.0
+2025,Stage 1,10-credit,"Business, Enterprise and Technology",Workplace Practices,172,521,958,1412,340,425,1470,2358,3828,1914.0
+2025,Stage 1,10-credit,Cross-disciplinary,Community Studies,41,46,650,684,66,56,757,786,1543,771.5
+2025,Stage 1,10-credit,Cross-disciplinary,Cross-disciplinary Studies,79,118,382,446,80,122,541,686,1227,613.5
+2025,Stage 1,10-credit,Cross-disciplinary,Exploring Identities and Futures,2209,2176,5591,6199,2479,2368,10279,10743,21022,10511.0
+2025,Stage 1,10-credit,Cross-disciplinary,Integrated Learning,587,1201,4657,5722,910,1059,6154,7982,14136,7068.0
+2025,Stage 1,10-credit,Cross-disciplinary,Research Practices,8,23,532,536,181,190,721,749,1470,735.0
+2025,Stage 1,10-credit,English,English,4203,3991,11014,11327,4835,4515,20052,19833,39885,19942.5
+2025,Stage 1,10-credit,Health and Physical Education,Child Studies,724,23,1744,134,456,23,2924,180,3104,1552.0
+2025,Stage 1,10-credit,Health and Physical Education,Food and Hospitality,674,464,2545,1896,739,369,3958,2729,6687,3343.5
+2025,Stage 1,10-credit,Health and Physical Education,Health and Wellbeing,553,243,1322,812,320,141,2195,1196,3391,1695.5
+2025,Stage 1,10-credit,Health and Physical Education,Outdoor Education,315,331,870,1628,359,534,1544,2493,4037,2018.5
+2025,Stage 1,10-credit,Health and Physical Education,Physical Education,502,971,1013,2804,769,1391,2284,5166,7450,3725.0
+2025,Stage 1,10-credit,Humanities and Social Sciences,Aboriginal Studies,34,24,179,144,15,6,228,174,402,201.0
+2025,Stage 1,10-credit,Humanities and Social Sciences,Ancient Studies,113,77,292,249,187,98,592,424,1016,508.0
+2025,Stage 1,10-credit,Humanities and Social Sciences,Economics,97,284,44,97,132,365,273,746,1019,509.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Geography,56,100,152,160,98,97,306,357,663,331.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Legal Studies,460,297,859,613,513,278,1832,1188,3020,1510.0
+2025,Stage 1,10-credit,Humanities and Social Sciences,Media Studies,81,47,176,183,50,50,307,280,587,293.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Modern History,279,245,840,667,437,363,1556,1275,2831,1415.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Philosophy,33,21,36,14,194,95,263,130,393,196.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,"Politics, Power and People",34,65,16,10,61,46,111,121,232,116.0
+2025,Stage 1,10-credit,Humanities and Social Sciences,Society and Culture,219,118,483,346,170,89,872,553,1425,712.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",2029,1521,17,5,923,1114,2969,2640,5609,2804.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Tourism,48,22,283,159,91,56,422,237,659,329.5
+2025,Stage 1,10-credit,Humanities and Social Sciences,Women's Studies,26,1,231,14,23,0,280,15,295,147.5
+2025,Stage 1,10-credit,Languages,Arabic,0,0,10,8,13,11,23,19,42,21.0
+2025,Stage 1,10-credit,Languages,Auslan,0,0,29,9,0,0,29,9,38,19.0
+2025,Stage 1,10-credit,Languages,Australian Languages,0,0,0,2,0,0,0,2,2,1.0
+2025,Stage 1,10-credit,Languages,Bosnian,0,0,1,0,0,0,1,0,1,0.5
+2025,Stage 1,10-credit,Languages,Chinese,12,36,77,92,83,58,172,186,358,179.0
+2025,Stage 1,10-credit,Languages,French,29,6,117,24,53,22,199,52,251,125.5
+2025,Stage 1,10-credit,Languages,German,0,0,52,29,58,65,110,94,204,102.0
+2025,Stage 1,10-credit,Languages,Hindi,0,0,6,4,0,0,6,4,10,5.0
+2025,Stage 1,10-credit,Languages,Indonesian,30,0,24,13,16,14,70,27,97,48.5
+2025,Stage 1,10-credit,Languages,Italian,182,46,119,56,0,0,301,102,403,201.5
+2025,Stage 1,10-credit,Languages,Japanese,65,41,208,191,75,46,348,278,626,313.0
+2025,Stage 1,10-credit,Languages,Khmer,0,0,16,12,0,0,16,12,28,14.0
+2025,Stage 1,10-credit,Languages,Korean,0,0,10,2,0,0,10,2,12,6.0
+2025,Stage 1,10-credit,Languages,Language and Culture,0,0,20,33,4,4,24,37,61,30.5
+2025,Stage 1,10-credit,Languages,Latin,0,2,0,0,0,0,0,2,2,1.0
+2025,Stage 1,10-credit,Languages,Modern Greek,0,0,23,17,14,11,37,28,65,32.5
+2025,Stage 1,10-credit,Languages,Nepali,0,0,15,6,0,0,15,6,21,10.5
+2025,Stage 1,10-credit,Languages,Persian,0,0,11,4,0,0,11,4,15,7.5
+2025,Stage 1,10-credit,Languages,Polish,0,0,4,3,0,0,4,3,7,3.5
+2025,Stage 1,10-credit,Languages,Punjabi,0,0,8,4,0,0,8,4,12,6.0
+2025,Stage 1,10-credit,Languages,Russian,0,0,0,0,5,10,5,10,15,7.5
+2025,Stage 1,10-credit,Languages,Serbian,0,0,2,0,0,0,2,0,2,1.0
+2025,Stage 1,10-credit,Languages,Sinhala,0,0,0,0,2,8,2,8,10,5.0
+2025,Stage 1,10-credit,Languages,Spanish,6,6,217,90,0,0,223,96,319,159.5
+2025,Stage 1,10-credit,Languages,Vietnamese,27,0,54,38,0,0,81,38,119,59.5
+2025,Stage 1,10-credit,Mathematics,Mathematics,4099,4469,9669,11015,5240,5179,19008,20663,39671,19835.5
+2025,Stage 1,10-credit,Sciences,Agriculture,47,133,494,515,122,158,663,806,1469,734.5
+2025,Stage 1,10-credit,Sciences,Biology,1623,609,3414,1593,2049,927,7086,3129,10215,5107.5
+2025,Stage 1,10-credit,Sciences,Chemistry,797,501,1650,1415,1152,914,3599,2830,6429,3214.5
+2025,Stage 1,10-credit,Sciences,Earth and Environmental Science,28,17,43,14,45,22,116,53,169,84.5
+2025,Stage 1,10-credit,Sciences,Nutrition,400,292,595,392,376,157,1371,841,2212,1106.0
+2025,Stage 1,10-credit,Sciences,Physics,340,837,721,2231,449,1289,1510,4357,5867,2933.5
+2025,Stage 1,10-credit,Sciences,Psychology,1274,297,3051,966,1478,454,5803,1717,7520,3760.0
+2025,Stage 1,10-credit,Sciences,Scientific Studies,132,288,696,555,111,170,939,1013,1952,976.0
+2025,Stage 1,20-credit,Arts,Creative Arts,2,15,60,76,6,2,68,93,161,161
+2025,Stage 1,20-credit,Arts,Dance,23,0,37,5,23,0,83,5,88,88
+2025,Stage 1,20-credit,Arts,Drama,1,0,20,6,11,10,32,16,48,48
+2025,Stage 1,20-credit,Arts,Music,13,5,30,31,6,4,49,40,89,89
+2025,Stage 1,20-credit,Arts,Visual Arts,0,0,6,2,15,9,21,11,32,32
+2025,Stage 1,20-credit,"Business, Enterprise and Technology",Business Innovation,6,11,28,44,4,8,38,63,101,101
+2025,Stage 1,20-credit,"Business, Enterprise and Technology",Design and Technology,3,13,26,159,17,44,46,216,262,262
+2025,Stage 1,20-credit,"Business, Enterprise and Technology","Design, Technology and Engineering",0,0,10,39,0,4,10,43,53,53
+2025,Stage 1,20-credit,"Business, Enterprise and Technology",Information Processing and Publishing,0,0,1,0,1,2,2,2,4,4
+2025,Stage 1,20-credit,"Business, Enterprise and Technology",Workplace Practices,2,3,18,24,0,0,20,27,47,47
+2025,Stage 1,20-credit,Cross-disciplinary,Community Studies,0,1,146,181,3,0,149,182,331,331
+2025,Stage 1,20-credit,Cross-disciplinary,Cross-disciplinary Studies,0,2,100,179,6,7,106,188,294,294
+2025,Stage 1,20-credit,Cross-disciplinary,Integrated Learning,15,41,364,480,117,163,496,684,1180,1180
+2025,Stage 1,20-credit,English,English,32,116,218,350,117,46,367,512,879,879
+2025,Stage 1,20-credit,Health and Physical Education,Child Studies,0,0,7,0,0,0,7,0,7,7
+2025,Stage 1,20-credit,Health and Physical Education,Food and Hospitality,0,0,1,1,1,0,2,1,3,3
+2025,Stage 1,20-credit,Health and Physical Education,Health and Wellbeing,2,15,63,112,2,4,67,131,198,198
+2025,Stage 1,20-credit,Health and Physical Education,Outdoor Education,0,0,1,7,13,23,14,30,44,44
+2025,Stage 1,20-credit,Health and Physical Education,Physical Education,1,4,26,76,4,5,31,85,116,116
+2025,Stage 1,20-credit,Humanities and Social Sciences,Aboriginal Studies,0,0,3,1,2,0,5,1,6,6
+2025,Stage 1,20-credit,Humanities and Social Sciences,Ancient Studies,0,0,3,0,1,0,4,0,4,4
+2025,Stage 1,20-credit,Humanities and Social Sciences,Economics,0,3,0,0,0,0,0,3,3,3
+2025,Stage 1,20-credit,Humanities and Social Sciences,Legal Studies,0,0,0,0,3,24,3,24,27,27
+2025,Stage 1,20-credit,Humanities and Social Sciences,Modern History,0,0,0,1,0,2,0,3,3,3
+2025,Stage 1,20-credit,Humanities and Social Sciences,"Politics, Power and People",0,0,0,1,0,0,0,1,1,1
+2025,Stage 1,20-credit,Humanities and Social Sciences,Society and Culture,6,20,47,88,0,0,53,108,161,161
+2025,Stage 1,20-credit,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",180,435,0,0,6,12,186,447,633,633
+2025,Stage 1,20-credit,Humanities and Social Sciences,Tourism,0,0,2,0,0,0,2,0,2,2
+2025,Stage 1,20-credit,Humanities and Social Sciences,Women's Studies,0,0,1,0,0,0,1,0,1,1
+2025,Stage 1,20-credit,Languages,Arabic,0,0,0,0,8,7,8,7,15,15
+2025,Stage 1,20-credit,Languages,Australian Languages,0,0,2,1,0,0,2,1,3,3
+2025,Stage 1,20-credit,Languages,Chinese,0,0,0,0,1,2,1,2,3,3
+2025,Stage 1,20-credit,Languages,French,0,0,20,13,20,3,40,16,56,56
+2025,Stage 1,20-credit,Languages,German,0,0,0,0,3,2,3,2,5,5
+2025,Stage 1,20-credit,Languages,Hindi,0,0,0,0,1,1,1,1,2,2
+2025,Stage 1,20-credit,Languages,Italian,1,0,0,0,0,0,1,0,1,1
+2025,Stage 1,20-credit,Languages,Japanese,0,0,17,20,6,0,23,20,43,43
+2025,Stage 1,20-credit,Languages,Language and Culture,0,0,5,5,5,6,10,11,21,21
+2025,Stage 1,20-credit,Languages,Modern Greek,0,0,0,0,6,3,6,3,9,9
+2025,Stage 1,20-credit,Languages,Portuguese,0,0,0,0,0,1,0,1,1,1
+2025,Stage 1,20-credit,Languages,Russian,0,0,0,0,0,2,0,2,2,2
+2025,Stage 1,20-credit,Languages,Tamil,0,0,0,0,1,4,1,4,5,5
+2025,Stage 1,20-credit,Languages,Vietnamese,0,0,2,0,5,5,7,5,12,12
+2025,Stage 1,20-credit,Mathematics,Mathematics,5,16,115,209,8,13,128,238,366,366
+2025,Stage 1,20-credit,Sciences,Chemistry,0,0,4,1,0,1,4,2,6,6
+2025,Stage 1,20-credit,Sciences,Nutrition,1,0,0,0,0,0,1,0,1,1
+2025,Stage 1,20-credit,Sciences,Physics,0,0,0,8,0,0,0,8,8,8
+2025,Stage 1,20-credit,Sciences,Psychology,0,0,0,0,1,0,1,0,1,1
+2025,Stage 1,20-credit,Sciences,Scientific Studies,1,2,153,242,0,0,154,244,398,398

@@ -1,0 +1,1282 @@
+year,learning_area,subject,tasc_level,courses_merged,total_students,male,female,other_or_unspecified,pre_year11,year11,year12,year13,grade_failure_or_limited,grade_pa,grade_sa,grade_ca,grade_ha,grade_ea,grades_partly_suppressed
+2015,English,English,Level 1,2,254,161,93,0,1,177,68,8,37,23,158,18,11,7,no
+2015,English,English,Level 2,4,2692,1565,1127,0,0,2048,606,38,312,260,933,752,316,119,no
+2015,English,English,Level 3,4,3410,1397,2013,0,9,2285,1089,27,73,208,941,1454,459,275,no
+2015,Health and Physical Education,Athlete Development,Level 2,1,479,314,165,0,97,270,108,4,18,49,54,172,100,86,no
+2015,Health and Physical Education,Health Studies,Level 3,1,1126,324,802,0,0,421,695,10,35,129,289,319,251,103,no
+2015,Health and Physical Education,Outdoor Education,Level 1,1,816,579,237,0,0,506,305,5,166,0,650,0,0,0,no
+2015,Health and Physical Education,Outdoor Education,Level 2,1,661,424,237,0,37,485,137,2,31,39,163,216,121,91,no
+2015,Health and Physical Education,Outdoor Education,Level 3,1,212,133,79,0,0,31,179,2,19,30,48,69,30,16,no
+2015,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,148,88,60,0,0,107,38,3,9,0,139,0,0,0,no
+2015,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,280,72,208,0,11,142,122,5,33,20,52,89,36,50,no
+2015,Health and Physical Education,Sport Science,Level 2,1,202,119,83,0,61,100,40,1,16,14,40,72,33,27,no
+2015,Health and Physical Education,Sport Science,Level 3,1,500,276,224,0,0,197,298,5,19,45,120,188,81,47,no
+2015,Health and Physical Education,Sport and Recreation,Level 1,1,1077,779,298,0,12,629,429,7,102,0,975,0,0,0,no
+2015,Humanities and Social Sciences,Accounting,Level 3,1,215,104,111,0,0,50,162,3,8,21,41,81,41,23,no
+2015,Humanities and Social Sciences,Ancient Civilisations,Level 3,1,301,150,151,0,0,126,170,5,15,31,82,135,16,22,no
+2015,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,206,72,134,0,0,41,165,0,10,20,57,73,31,15,no
+2015,Humanities and Social Sciences,Business Studies,Level 2,1,383,210,173,0,45,156,178,4,24,44,126,90,70,29,no
+2015,Humanities and Social Sciences,Business Studies,Level 3,1,496,276,220,0,0,153,336,7,12,29,149,173,100,33,no
+2015,Humanities and Social Sciences,Community Access,Level 1,1,21,16,5,0,0,13,8,0,0,4,17,0,0,0,no
+2015,Humanities and Social Sciences,Community Service Learning,Level 2,1,191,78,113,0,9,111,70,1,20,10,83,0,78,0,no
+2015,Humanities and Social Sciences,Economics,Level 3,1,257,154,103,0,0,21,235,1,3,15,54,102,59,24,no
+2015,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,92,38,54,0,0,80,12,0,1,10,26,34,10,11,no
+2015,Humanities and Social Sciences,Financial Literacy,Level 1,1,59,34,25,0,0,22,34,3,2,8,49,0,0,0,no
+2015,Humanities and Social Sciences,Focus on Children,Level 1,1,30,9,21,0,0,10,18,2,3,1,7,16,0,3,no
+2015,Humanities and Social Sciences,Geography,Level 3,1,215,107,108,0,0,37,177,1,1,10,71,79,40,14,no
+2015,Humanities and Social Sciences,History and the Environment,Level 2,1,40,20,20,0,0,9,25,6,7,5,9,11,5,3,no
+2015,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,724,213,511,0,57,495,166,6,48,70,164,238,104,100,no
+2015,Humanities and Social Sciences,Legal Studies,Level 2,1,253,98,155,0,14,130,102,7,19,26,53,81,44,30,no
+2015,Humanities and Social Sciences,Legal Studies,Level 3,1,381,150,231,0,0,81,295,5,4,23,117,148,51,38,no
+2015,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,115,70,45,0,0,83,32,0,6,8,39,0,62,0,no
+2015,Humanities and Social Sciences,Modern History,Level 3,1,297,131,166,0,0,107,183,7,5,25,90,118,30,29,no
+2015,Humanities and Social Sciences,Personal Pathway Planning,Level 2,1,6135,2993,3142,0,86,3666,2285,98,846,90,5199,0,0,0,no
+2015,Humanities and Social Sciences,Philosophy,Level 3,1,145,79,66,0,0,28,112,5,6,19,39,52,15,14,no
+2015,Humanities and Social Sciences,Psychology,Level 3,1,688,182,506,0,0,207,471,10,19,59,144,260,138,68,no
+2015,Humanities and Social Sciences,Religion in Society,Level 2,1,579,288,291,0,0,399,180,0,23,58,208,169,55,66,no
+2015,Humanities and Social Sciences,Road Safety,Level 1,1,177,113,64,0,58,58,61,0,36,10,122,0,0,9,no
+2015,Humanities and Social Sciences,Road Safety,Level 2,1,98,63,35,0,0,29,64,5,23,12,49,0,6,8,no
+2015,Humanities and Social Sciences,Sociology,Level 3,1,471,89,382,0,0,97,365,9,11,21,135,179,77,48,no
+2015,Humanities and Social Sciences,Studies of Religion,Level 3,1,332,113,219,0,0,124,204,4,4,13,65,165,42,43,no
+2015,Humanities and Social Sciences,Working with Children,Level 2,1,334,19,315,0,0,219,104,11,31,34,71,98,65,35,no
+2015,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,6,2,4,0,0,1,5,0,0,0,2,2,0,2,no
+2015,Languages,Chinese,Level 2,1,28,9,19,0,0,16,11,1,4,2,3,4,8,7,no
+2015,Languages,Chinese,Level 3,2,89,45,44,0,0,55,32,2,1,14,28,18,21,7,no
+2015,Languages,French,Level 2,1,82,21,61,0,0,57,24,1,8,3,17,18,21,15,no
+2015,Languages,French,Level 3,1,80,18,62,0,0,47,33,0,0,2,12,15,25,26,no
+2015,Languages,German,Level 2,1,23,10,13,0,2,13,8,0,0,4,1,7,4,7,no
+2015,Languages,German,Level 3,1,19,5,14,0,0,14,5,0,0,0,6,5,6,2,no
+2015,Languages,Italian,Level 2,1,24,9,15,0,0,16,8,0,0,0,3,6,5,10,no
+2015,Languages,Italian,Level 3,1,14,2,12,0,0,6,8,0,1,1,1,3,4,4,no
+2015,Languages,Japanese,Level 2,1,151,92,59,0,3,95,52,1,10,16,24,56,20,25,no
+2015,Languages,Japanese,Level 3,2,104,33,71,0,0,53,51,0,3,12,30,23,25,11,no
+2015,Languages,Korean,Level 3,1,3,3,0,0,0,3,0,0,0,1,0,1,1,0,no
+2015,Languages,Modern Greek,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,no
+2015,Languages,Persian,Level 3,1,2,2,0,0,0,0,2,0,0,2,0,0,0,0,no
+2015,Languages,Russian,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,no
+2015,Languages,Spanish,Level 3,1,4,1,3,0,0,2,2,0,0,0,1,2,0,1,no
+2015,Mathematics,Mathematics,Level 1,1,188,119,69,0,1,134,50,3,40,35,113,0,0,0,no
+2015,Mathematics,Mathematics,Level 2,4,4477,2324,2153,0,607,3108,728,34,349,311,1353,1317,720,427,no
+2015,Mathematics,Mathematics,Level 3,2,2591,1349,1242,0,0,1653,911,27,52,363,667,803,421,285,no
+2015,Mathematics,Mathematics,Level 4,1,217,153,64,0,0,2,211,4,0,28,38,72,42,37,no
+2015,Mixed Field,Project Implementation,Level 2,1,422,300,122,0,10,220,191,1,117,0,305,0,0,0,no
+2015,Mixed Field,Student Directed Inquiry,Level 3,1,77,35,42,0,0,1,75,1,7,2,15,21,14,18,no
+2015,Science,Biology,Level 3,1,790,239,551,0,0,78,697,15,14,59,190,291,136,100,no
+2015,Science,Chemistry,Level 4,1,651,352,299,0,0,2,639,10,11,97,165,130,150,98,no
+2015,Science,Environmental Science,Level 3,1,164,68,96,0,0,64,97,3,4,16,39,58,24,23,no
+2015,Science,Life Sciences,Level 2,1,468,146,322,0,2,364,99,3,24,48,110,147,86,53,no
+2015,Science,Physical Sciences,Level 2,1,279,163,116,0,91,151,32,5,14,12,73,95,58,27,no
+2015,Science,Physical Sciences,Level 3,1,1271,715,556,0,3,1135,122,11,45,220,322,310,224,150,no
+2015,Science,Physics,Level 4,1,354,298,56,0,0,0,349,5,7,59,98,77,64,49,no
+2015,TCE standards (assessment only),TCE standards (assessment only),Level 2,1,59,46,13,0,0,3,47,9,16,0,43,0,0,0,no
+2015,Technologies,Automotive Workshop Practices,Level 1,1,182,164,18,0,0,118,63,1,15,31,84,0,52,0,no
+2015,Technologies,Computer Applications,Level 1,1,59,35,24,0,0,38,19,2,7,1,51,0,0,0,no
+2015,Technologies,Computer Applications,Level 2,1,410,301,109,0,28,182,195,5,42,44,191,79,0,54,no
+2015,Technologies,Computer Graphics and Design,Level 2,1,279,241,38,0,6,175,94,4,34,44,80,75,26,20,no
+2015,Technologies,Computer Graphics and Design,Level 3,1,305,248,57,0,0,131,167,7,21,27,114,102,36,5,no
+2015,Technologies,Computer Science,Level 3,1,258,247,11,0,0,117,134,7,12,47,75,65,34,25,no
+2015,Technologies,Design and Production,Level 2,1,636,468,168,0,35,312,285,4,60,79,262,132,0,103,no
+2015,Technologies,Electronics,Level 2,1,121,117,4,0,0,69,51,1,5,11,40,33,15,17,no
+2015,Technologies,Electronics,Level 3,1,30,29,1,0,0,7,21,2,3,10,8,4,2,3,no
+2015,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1563,873,690,0,29,975,545,14,145,40,1378,0,0,0,no
+2015,Technologies,Food and Nutrition,Level 1,1,177,79,98,0,4,91,74,8,37,3,137,0,0,0,no
+2015,Technologies,Food and Nutrition,Level 2,1,399,153,246,0,8,204,179,8,35,52,98,119,61,34,no
+2015,Technologies,Food and Nutrition,Level 3,1,525,144,381,0,0,120,396,9,11,71,111,177,103,52,no
+2015,Technologies,Housing and Design,Level 3,1,237,127,110,0,0,71,161,5,15,28,94,71,23,6,no
+2015,Technologies,Information Systems and Digital Technologies,Level 3,1,89,78,11,0,0,32,56,1,2,13,38,26,6,4,no
+2015,Technologies,Introduction to Catering,Level 1,1,126,53,73,0,11,80,35,0,15,9,79,0,23,0,no
+2015,The Arts,Dance,Level 1,1,4,0,4,0,0,4,0,0,0,0,1,3,0,0,no
+2015,The Arts,Dance,Level 2,1,76,13,63,0,8,41,27,0,6,5,15,25,13,12,no
+2015,The Arts,Dance,Level 3,1,73,11,62,0,0,43,28,2,0,2,20,30,12,9,no
+2015,The Arts,Drama and Theatre,Level 2,2,233,134,99,0,33,123,73,4,6,24,54,74,41,34,no
+2015,The Arts,Drama and Theatre,Level 3,2,445,169,276,0,0,241,195,9,0,21,165,169,65,25,no
+2015,The Arts,Media,Level 2,1,138,99,39,0,12,84,37,5,9,12,39,41,19,18,no
+2015,The Arts,Media,Level 3,1,148,77,71,0,0,43,101,4,1,11,45,54,26,11,no
+2015,The Arts,Music,Level 2,5,818,445,373,0,40,464,298,16,51,44,149,128,308,138,no
+2015,The Arts,Music,Level 3,1,100,51,49,0,0,71,27,2,1,20,28,36,7,8,no
+2015,The Arts,Visual Arts,Level 1,1,52,23,29,0,0,31,20,1,2,2,18,7,9,14,no
+2015,The Arts,Visual Arts,Level 2,2,1101,458,643,0,37,590,457,17,114,127,301,329,148,82,no
+2015,The Arts,Visual Arts,Level 3,3,1109,306,803,0,0,444,646,19,34,23,247,460,259,86,no
+2016,English,English,Level 1,2,206,128,78,0,2,136,65,3,33,27,121,12,10,3,no
+2016,English,English,Level 2,4,2618,1633,985,0,22,2089,488,19,317,275,934,712,278,102,no
+2016,English,English,Level 3,4,3343,1423,1920,0,3,2173,1141,26,65,166,958,1473,439,242,no
+2016,Health and Physical Education,Athlete Development,Level 2,1,527,373,154,0,81,297,146,3,28,28,89,193,113,76,no
+2016,Health and Physical Education,Health Studies,Level 3,1,982,318,664,0,1,352,624,5,27,150,232,254,227,92,no
+2016,Health and Physical Education,Outdoor Education,Level 1,1,783,564,219,0,1,458,322,2,104,0,679,0,0,0,no
+2016,Health and Physical Education,Outdoor Education,Level 2,1,790,503,287,0,53,532,202,3,46,56,211,229,134,114,no
+2016,Health and Physical Education,Outdoor Education,Level 3,1,275,151,124,0,0,36,238,1,7,28,65,104,36,35,no
+2016,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,232,147,85,0,0,180,51,1,31,0,201,0,0,0,no
+2016,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,350,85,265,0,0,170,177,3,50,41,80,93,43,43,no
+2016,Health and Physical Education,Sport Science,Level 2,1,272,166,106,0,66,143,62,1,11,30,39,108,53,31,no
+2016,Health and Physical Education,Sport Science,Level 3,1,466,267,199,0,0,210,254,2,21,67,112,162,70,34,no
+2016,Health and Physical Education,Sport and Recreation,Level 1,1,1024,723,301,0,0,602,418,4,90,0,934,0,0,0,no
+2016,Humanities and Social Sciences,Accounting,Level 3,1,318,174,144,0,0,74,242,2,13,26,62,95,90,32,no
+2016,Humanities and Social Sciences,Ancient Civilisations,Level 3,1,268,130,138,0,0,108,155,5,17,22,98,94,23,14,no
+2016,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,169,62,107,0,0,42,124,3,10,23,38,59,20,19,no
+2016,Humanities and Social Sciences,Business Studies,Level 2,1,383,243,140,0,50,180,150,3,28,50,100,120,53,32,no
+2016,Humanities and Social Sciences,Business Studies,Level 3,1,471,250,221,0,0,127,340,4,15,54,111,164,90,37,no
+2016,Humanities and Social Sciences,Community Access,Level 1,1,70,31,39,0,0,46,23,1,12,16,42,0,0,0,no
+2016,Humanities and Social Sciences,Community Service Learning,Level 2,1,269,105,164,0,0,47,221,1,20,23,160,0,66,0,no
+2016,Humanities and Social Sciences,Economics,Level 3,1,324,205,119,0,0,18,304,2,4,27,68,120,69,36,no
+2016,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,162,84,78,0,0,154,8,0,8,10,32,57,29,26,no
+2016,Humanities and Social Sciences,Financial Literacy,Level 1,1,182,120,62,0,0,123,57,2,52,7,123,0,0,0,no
+2016,Humanities and Social Sciences,Focus on Children,Level 1,1,5,1,4,0,0,5,0,0,2,1,2,0,0,0,no
+2016,Humanities and Social Sciences,Geography,Level 3,1,190,84,106,0,0,28,162,0,1,9,58,62,43,17,no
+2016,Humanities and Social Sciences,History and the Environment,Level 2,1,19,9,10,0,2,7,9,1,3,6,1,6,1,2,no
+2016,Humanities and Social Sciences,Indonesian,Level 3,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2016,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,689,240,449,0,72,476,138,3,51,56,175,255,71,81,no
+2016,Humanities and Social Sciences,Legal Studies,Level 2,1,241,109,132,0,0,165,75,1,11,32,50,79,34,35,no
+2016,Humanities and Social Sciences,Legal Studies,Level 3,1,416,178,238,0,0,85,327,4,20,38,100,197,33,28,no
+2016,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,72,39,33,0,0,62,10,0,14,5,26,0,27,0,no
+2016,Humanities and Social Sciences,Modern History,Level 3,1,353,172,181,0,0,114,238,1,17,34,98,150,34,20,no
+2016,Humanities and Social Sciences,Personal Pathway Planning,Level 2,1,7826,4085,3741,0,227,4389,3137,73,848,114,6864,0,0,0,no
+2016,Humanities and Social Sciences,Philosophy,Level 3,1,184,87,97,0,0,41,141,2,9,16,46,70,26,17,no
+2016,Humanities and Social Sciences,Psychology,Level 3,1,759,210,549,0,0,181,571,7,42,70,210,234,120,83,no
+2016,Humanities and Social Sciences,Religion in Society,Level 2,1,525,247,278,0,0,345,180,0,13,36,176,188,58,54,no
+2016,Humanities and Social Sciences,Road Safety,Level 1,1,85,49,36,0,34,23,27,1,13,2,70,0,0,0,no
+2016,Humanities and Social Sciences,Road Safety,Level 2,1,161,87,74,0,0,65,93,3,28,13,84,0,13,23,no
+2016,Humanities and Social Sciences,Sociology,Level 3,1,574,143,431,0,0,143,427,4,21,25,156,238,88,46,no
+2016,Humanities and Social Sciences,Studies of Religion,Level 3,1,256,91,165,0,0,147,108,1,5,9,78,109,32,23,no
+2016,Humanities and Social Sciences,Working with Children,Level 2,1,232,38,194,0,0,148,82,2,36,20,49,68,31,28,no
+2016,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,10,6,4,0,0,7,3,0,9,0,1,0,0,0,no
+2016,Languages,Chinese,Level 2,1,26,15,11,0,0,14,11,1,0,0,4,9,7,6,no
+2016,Languages,Chinese,Level 3,2,90,49,41,0,0,56,33,1,0,19,25,13,21,12,no
+2016,Languages,French,Level 2,1,63,25,38,0,0,44,18,1,1,5,11,13,17,16,no
+2016,Languages,French,Level 3,1,68,16,52,0,0,48,20,0,1,5,10,15,17,20,no
+2016,Languages,German,Level 2,1,43,18,25,0,0,35,8,0,0,4,5,12,13,9,no
+2016,Languages,German,Level 3,1,23,6,17,0,0,17,6,0,0,0,2,6,5,10,no
+2016,Languages,Italian,Level 2,1,45,15,30,0,11,25,9,0,1,3,6,12,14,9,no
+2016,Languages,Italian,Level 3,1,31,6,25,0,0,9,21,1,0,3,2,11,9,6,no
+2016,Languages,Japanese,Level 2,1,102,52,50,0,3,71,26,2,5,6,24,39,12,16,no
+2016,Languages,Japanese,Level 3,1,94,35,59,0,0,51,42,1,6,5,15,26,24,18,no
+2016,Languages,Korean,Level 3,1,10,9,1,0,0,8,2,0,0,4,2,1,2,1,no
+2016,Languages,Persian,Level 3,1,5,3,2,0,0,0,3,2,0,1,3,1,0,0,no
+2016,Languages,Punjabi,Level 3,1,2,0,2,0,0,0,2,0,0,0,0,1,1,0,no
+2016,Languages,Spanish,Level 3,1,2,1,1,0,0,1,1,0,0,0,0,0,1,1,no
+2016,Languages,Vietnamese,Level 3,1,2,1,1,0,0,2,0,0,0,0,0,0,2,0,no
+2016,Mathematics,Mathematics,Level 1,1,129,77,52,0,0,92,37,0,17,31,81,0,0,0,no
+2016,Mathematics,Mathematics,Level 2,4,4298,2450,1848,0,736,2992,554,16,289,341,1333,1226,693,416,no
+2016,Mathematics,Mathematics,Level 3,2,2597,1342,1255,0,3,1758,823,13,79,409,806,713,333,257,no
+2016,Mathematics,Mathematics,Level 4,1,220,150,70,0,0,1,216,3,2,18,49,70,40,41,no
+2016,Mixed Field,Project Implementation,Level 2,1,682,466,216,0,9,497,173,3,137,0,545,0,0,0,no
+2016,Mixed Field,Student Directed Inquiry,Level 3,1,47,19,28,0,0,1,46,0,1,3,16,9,7,11,no
+2016,Mixed Field,Work Readiness,Level 1,1,130,70,60,0,0,77,53,0,28,0,102,0,0,0,no
+2016,Mixed Field,Work Readiness,Level 2,1,1323,711,612,0,0,695,600,28,321,0,841,0,161,0,no
+2016,Science,Biology,Level 3,1,862,288,574,0,0,95,757,10,11,68,225,295,146,117,no
+2016,Science,Chemistry,Level 4,1,640,344,296,0,0,3,631,6,16,119,184,141,118,62,no
+2016,Science,Environmental Science,Level 3,1,199,77,122,0,0,78,118,3,3,18,45,61,43,29,no
+2016,Science,Life Sciences,Level 2,1,562,187,375,0,6,408,141,7,38,33,150,183,108,50,no
+2016,Science,Physical Sciences,Level 2,1,313,181,132,0,83,186,44,0,17,22,96,94,62,22,no
+2016,Science,Physical Sciences,Level 3,1,1280,711,569,0,5,1127,142,6,49,190,313,304,236,188,no
+2016,Science,Physics,Level 4,1,332,274,58,0,0,0,330,2,7,61,76,71,76,41,no
+2016,TCE standards (assessment only),TCE standards (assessment only),Level 2,3,768,448,320,0,0,155,600,13,109,0,659,0,0,0,no
+2016,Technologies,Automotive and Mechanical Technologies,Level 2,1,195,178,17,0,0,112,81,2,48,36,55,36,15,5,no
+2016,Technologies,Computer Applications,Level 1,1,53,28,25,0,0,29,24,0,4,2,47,0,0,0,no
+2016,Technologies,Computer Applications,Level 2,1,413,322,91,0,11,213,188,1,45,58,181,72,0,57,no
+2016,Technologies,Computer Graphics and Design,Level 2,1,323,268,55,0,8,186,125,4,34,44,104,92,27,22,no
+2016,Technologies,Computer Graphics and Design,Level 3,1,241,207,34,0,0,76,161,4,13,31,94,72,24,7,no
+2016,Technologies,Computer Science,Level 3,1,248,232,16,0,0,120,126,2,16,34,79,70,29,20,no
+2016,Technologies,Design and Production,Level 2,1,649,522,127,0,70,303,275,1,47,103,197,148,101,53,no
+2016,Technologies,Electronics,Level 2,1,144,137,7,0,0,98,45,1,15,12,39,46,11,21,no
+2016,Technologies,Electronics,Level 3,1,27,26,1,0,0,5,22,0,2,10,2,10,1,2,no
+2016,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1576,931,645,0,11,1005,551,9,164,48,1364,0,0,0,no
+2016,Technologies,Food and Hospitality Enterprise,Level 2,1,176,83,93,0,0,117,52,7,19,19,51,57,25,5,no
+2016,Technologies,Food and Nutrition,Level 1,1,140,68,72,0,4,71,64,1,24,17,99,0,0,0,no
+2016,Technologies,Food and Nutrition,Level 2,1,404,141,263,0,15,187,197,5,30,55,83,127,77,32,no
+2016,Technologies,Food and Nutrition,Level 3,1,587,178,409,0,0,125,456,6,20,48,146,225,85,63,no
+2016,Technologies,Housing and Design,Level 3,1,300,162,138,0,0,65,234,1,24,44,96,103,23,10,no
+2016,Technologies,Information Systems and Digital Technologies,Level 3,1,56,51,5,0,0,22,34,0,0,1,20,25,8,2,no
+2016,Technologies,Technical Graphics,Level 2,1,82,77,5,0,0,44,38,0,5,8,25,27,12,5,no
+2016,Technologies,Technical Graphics,Level 3,1,50,41,9,0,0,24,26,0,0,6,21,17,3,3,no
+2016,Technologies,Workshop Techniques,Level 1,1,133,106,27,0,6,70,56,1,11,18,86,0,0,18,no
+2016,The Arts,Dance,Level 1,1,17,8,9,0,1,16,0,0,0,0,1,2,4,10,no
+2016,The Arts,Dance,Level 2,1,74,13,61,0,14,41,19,0,6,1,15,17,15,20,no
+2016,The Arts,Dance,Level 3,1,60,12,48,0,0,33,25,2,1,4,16,22,11,6,no
+2016,The Arts,Drama and Theatre,Level 2,2,172,84,88,0,15,93,63,1,7,9,52,57,24,23,no
+2016,The Arts,Drama and Theatre,Level 3,2,443,193,250,0,0,217,222,4,1,23,143,175,73,28,no
+2016,The Arts,Media,Level 2,1,176,137,39,0,17,88,71,0,12,25,50,45,31,13,no
+2016,The Arts,Media,Level 3,1,187,114,73,0,0,58,127,2,3,19,53,68,34,10,no
+2016,The Arts,Music,Level 2,5,1058,528,530,0,137,537,370,14,25,53,200,168,389,223,no
+2016,The Arts,Music,Level 3,1,86,44,42,0,0,56,30,0,0,13,36,24,6,7,no
+2016,The Arts,Visual Arts,Level 1,1,44,19,25,0,0,23,21,0,2,1,17,6,11,7,no
+2016,The Arts,Visual Arts,Level 2,2,1181,555,626,0,29,659,491,2,101,142,339,347,168,84,no
+2016,The Arts,Visual Arts,Level 3,3,1131,366,765,0,0,428,691,12,31,32,253,472,242,101,no
+2017,English,English,Level 1,2,187,116,71,0,5,115,67,0,22,21,129,10,2,3,no
+2017,English,English,Level 2,4,2728,1572,1156,0,36,2249,426,17,319,244,1001,757,228,179,no
+2017,English,English,Level 3,4,3036,1286,1750,0,0,1944,1075,17,102,118,814,1298,451,253,no
+2017,Health and Physical Education,Athlete Development,Level 2,1,558,398,160,0,77,305,174,2,15,48,95,223,92,85,no
+2017,Health and Physical Education,Health Studies,Level 3,1,993,319,674,0,0,372,616,5,23,166,259,297,183,65,no
+2017,Health and Physical Education,Outdoor Education,Level 1,1,818,554,264,0,63,427,325,3,137,0,681,0,0,0,no
+2017,Health and Physical Education,Outdoor Education,Level 2,1,855,563,292,0,43,561,250,1,44,31,212,307,128,133,no
+2017,Health and Physical Education,Outdoor Education,Level 3,1,298,187,111,0,0,45,253,0,9,36,59,99,58,37,no
+2017,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,206,144,62,0,0,147,58,1,30,0,176,0,0,0,no
+2017,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,305,81,224,0,0,161,137,7,35,33,86,87,38,26,no
+2017,Health and Physical Education,Sport Science,Level 2,1,230,158,72,0,52,111,65,2,10,18,47,77,57,21,no
+2017,Health and Physical Education,Sport Science,Level 3,1,517,264,253,0,0,221,296,0,13,72,169,163,74,26,no
+2017,Health and Physical Education,Sport and Recreation,Level 1,1,1069,783,286,0,14,595,454,6,49,25,995,0,0,0,no
+2017,Humanities and Social Sciences,Accounting,Level 3,1,184,116,68,0,0,40,144,0,12,15,40,65,33,19,no
+2017,Humanities and Social Sciences,Ancient History,Level 3,1,257,103,154,0,0,102,155,0,14,25,81,85,27,25,no
+2017,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,145,57,88,0,0,32,112,1,4,17,53,41,21,9,no
+2017,Humanities and Social Sciences,Business Studies,Level 2,1,385,234,151,0,65,147,171,2,33,40,102,108,50,52,no
+2017,Humanities and Social Sciences,Business Studies,Level 3,1,456,254,202,0,0,115,340,1,11,35,135,151,86,38,no
+2017,Humanities and Social Sciences,Community Access,Level 1,1,59,36,23,0,0,28,30,1,3,5,51,0,0,0,no
+2017,Humanities and Social Sciences,Community Service Learning,Level 2,1,338,149,189,0,0,127,207,4,62,12,138,0,126,0,no
+2017,Humanities and Social Sciences,Economics,Level 3,1,263,156,107,0,0,15,248,0,4,17,40,96,76,30,no
+2017,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,192,93,99,0,0,182,10,0,5,8,36,77,24,42,no
+2017,Humanities and Social Sciences,Financial Literacy,Level 1,1,55,30,25,0,3,25,25,2,19,2,34,0,0,0,no
+2017,Humanities and Social Sciences,Focus on Children,Level 1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2017,Humanities and Social Sciences,Geography,Level 3,1,189,83,106,0,0,30,157,2,6,8,59,59,41,16,no
+2017,Humanities and Social Sciences,History and the Environment,Level 2,1,58,29,29,0,10,22,25,1,8,8,9,12,11,10,no
+2017,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,671,199,472,0,37,473,154,7,54,57,167,216,72,105,no
+2017,Humanities and Social Sciences,Legal Studies,Level 2,1,292,126,166,0,9,193,87,3,30,39,66,88,39,30,no
+2017,Humanities and Social Sciences,Legal Studies,Level 3,1,408,152,256,0,0,72,335,1,10,37,100,193,32,36,no
+2017,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,259,132,127,0,0,107,152,0,49,20,103,0,87,0,no
+2017,Humanities and Social Sciences,Modern History,Level 3,1,356,168,188,0,0,111,245,0,9,32,111,138,34,32,no
+2017,Humanities and Social Sciences,Personal Pathway Planning,Level 2,1,7100,3648,3452,0,251,3878,2921,50,632,81,6387,0,0,0,no
+2017,Humanities and Social Sciences,Philosophy,Level 3,1,209,93,116,0,0,29,179,1,4,18,67,72,31,17,no
+2017,Humanities and Social Sciences,Psychology,Level 3,1,676,181,495,0,0,179,490,7,16,46,216,212,113,73,no
+2017,Humanities and Social Sciences,Religion in Society,Level 2,1,279,148,131,0,0,263,16,0,11,17,110,82,30,29,no
+2017,Humanities and Social Sciences,Road Safety,Level 1,1,88,42,46,0,1,28,53,6,13,2,73,0,0,0,no
+2017,Humanities and Social Sciences,Road Safety,Level 2,1,30,14,16,0,0,13,16,1,6,1,17,0,3,3,no
+2017,Humanities and Social Sciences,Sociology,Level 3,1,480,128,352,0,0,131,347,2,13,22,133,205,64,43,no
+2017,Humanities and Social Sciences,Studies of Religion,Level 3,1,236,59,177,0,0,138,98,0,8,12,71,80,35,30,no
+2017,Humanities and Social Sciences,Working with Children,Level 2,1,258,16,242,0,0,172,84,2,32,12,64,53,52,45,no
+2017,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,218,113,105,0,0,212,6,0,18,2,198,0,0,0,no
+2017,Languages,Arabic,Level 3,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,no
+2017,Languages,Chinese,Level 2,1,34,12,22,0,2,17,15,0,0,1,3,9,10,11,no
+2017,Languages,Chinese,Level 3,2,108,66,42,0,0,73,35,0,0,23,22,26,20,17,no
+2017,Languages,Dutch,Level 3,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,no
+2017,Languages,French,Level 2,1,67,14,53,0,0,37,30,0,2,5,16,16,12,16,no
+2017,Languages,French,Level 3,1,52,14,38,0,0,29,23,0,0,4,4,8,28,8,no
+2017,Languages,German,Level 2,1,21,14,7,0,2,11,8,0,0,2,3,5,4,7,no
+2017,Languages,German,Level 3,1,37,11,26,0,0,19,18,0,1,4,9,11,7,5,no
+2017,Languages,Hindi,Level 3,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,no
+2017,Languages,Italian,Level 2,1,25,5,20,0,10,7,7,1,0,1,6,6,7,5,no
+2017,Languages,Italian,Level 3,1,17,4,13,0,0,5,12,0,0,0,4,3,6,4,no
+2017,Languages,Japanese,Level 2,1,128,65,63,0,3,84,41,0,7,18,28,36,12,27,no
+2017,Languages,Japanese,Level 3,1,88,38,50,0,0,50,37,1,2,4,14,33,24,11,no
+2017,Languages,Korean,Level 3,1,10,8,2,0,0,3,7,0,0,5,2,1,1,1,no
+2017,Languages,Persian,Level 3,1,6,4,2,0,0,0,3,3,0,3,2,0,1,0,no
+2017,Languages,Russian,Level 3,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,no
+2017,Languages,Spanish,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,no
+2017,Languages,Ukrainian,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,no
+2017,Languages,Vietnamese,Level 3,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2017,Mathematics,Mathematics,Level 1,1,112,68,44,0,30,51,31,0,28,19,65,0,0,0,no
+2017,Mathematics,Mathematics,Level 2,3,3333,1702,1631,0,126,2643,553,11,259,226,1264,882,449,253,no
+2017,Mathematics,Mathematics,Level 3,2,2577,1349,1228,0,252,1600,708,17,91,352,807,780,309,238,no
+2017,Mathematics,Mathematics,Level 4,2,889,572,317,0,1,492,394,2,16,93,208,300,155,117,no
+2017,Mixed Field,Learning Through Internship,Level 2,1,7,2,5,0,0,5,2,0,0,0,2,0,0,5,no
+2017,Mixed Field,Pathways to Work,Level 1,1,174,113,61,0,20,96,58,0,18,30,48,0,78,0,no
+2017,Mixed Field,Project Implementation,Level 2,1,599,414,185,0,17,374,208,0,93,0,506,0,0,0,no
+2017,Mixed Field,Student Directed Inquiry,Level 3,1,38,14,24,0,0,1,36,1,3,1,12,8,6,8,no
+2017,Mixed Field,Work Readiness,Level 2,1,582,336,246,0,0,374,206,2,149,73,203,61,58,38,no
+2017,Science,Biology,Level 3,1,839,250,589,0,0,92,743,4,12,51,216,304,146,110,no
+2017,Science,Chemistry,Level 4,1,591,303,288,0,0,4,581,6,17,103,155,130,111,75,no
+2017,Science,Environmental Science,Level 3,1,194,73,121,0,0,70,123,1,9,15,40,70,33,27,no
+2017,Science,Life Sciences,Level 2,1,564,156,408,0,37,404,121,2,30,32,127,183,131,61,no
+2017,Science,Physical Sciences,Level 2,1,372,222,150,0,126,195,49,2,13,18,98,146,69,28,no
+2017,Science,Physical Sciences,Level 3,1,1272,757,515,0,1,1141,128,2,48,205,400,277,197,145,no
+2017,Science,Physics,Level 4,1,351,264,87,0,0,2,343,6,12,59,67,66,84,63,no
+2017,Technologies,Agriculture,Level 2,1,18,9,9,0,0,11,7,0,5,3,6,4,0,0,no
+2017,Technologies,Agriculture,Level 3,1,7,5,2,0,0,5,2,0,0,1,2,3,0,1,no
+2017,Technologies,Automotive and Mechanical Technologies,Level 2,1,215,191,24,0,0,130,84,1,26,36,81,42,19,11,no
+2017,Technologies,Computer Applications,Level 1,1,70,50,20,0,0,42,28,0,7,10,53,0,0,0,no
+2017,Technologies,Computer Applications,Level 2,1,380,313,67,0,18,225,137,0,32,48,156,82,0,62,no
+2017,Technologies,Computer Graphics and Design,Level 2,1,294,254,40,0,7,156,128,3,30,33,97,90,25,19,no
+2017,Technologies,Computer Graphics and Design,Level 3,1,223,185,38,0,0,81,141,1,7,22,77,84,21,12,no
+2017,Technologies,Computer Science,Level 3,1,204,185,19,0,0,66,137,1,4,33,65,53,27,22,no
+2017,Technologies,Design and Production,Level 2,1,610,470,140,0,45,297,265,3,49,84,152,179,83,63,no
+2017,Technologies,Electronics,Level 2,1,112,102,10,0,0,66,46,0,11,12,36,28,6,19,no
+2017,Technologies,Electronics,Level 3,1,47,44,3,0,0,6,41,0,2,18,9,7,7,4,no
+2017,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1511,905,606,0,54,923,521,13,142,46,1323,0,0,0,no
+2017,Technologies,Food and Hospitality Enterprise,Level 2,1,189,70,119,0,21,107,60,1,31,26,56,49,20,7,no
+2017,Technologies,Food and Nutrition,Level 1,1,147,64,83,0,2,85,59,1,13,25,109,0,0,0,no
+2017,Technologies,Food and Nutrition,Level 2,1,368,158,210,0,17,156,194,1,22,32,98,129,68,19,no
+2017,Technologies,Food and Nutrition,Level 3,1,585,192,393,0,0,125,457,3,14,55,126,203,137,50,no
+2017,Technologies,Housing and Design,Level 3,1,281,150,131,0,0,73,206,2,15,33,79,108,32,14,no
+2017,Technologies,Information Systems and Digital Technologies,Level 3,1,70,67,3,0,0,18,52,0,3,3,25,27,9,3,no
+2017,Technologies,Technical Graphics,Level 2,1,52,49,3,0,0,30,22,0,5,9,17,10,6,5,no
+2017,Technologies,Technical Graphics,Level 3,1,21,17,4,0,0,9,12,0,1,6,6,3,2,3,no
+2017,Technologies,Workshop Techniques,Level 1,1,180,155,25,0,63,64,51,2,29,13,122,0,0,16,no
+2017,The Arts,Dance,Level 1,1,20,3,17,0,0,18,2,0,0,0,0,0,4,16,no
+2017,The Arts,Dance,Level 2,1,85,11,74,0,12,52,21,0,4,5,29,21,14,12,no
+2017,The Arts,Dance,Level 3,1,61,5,56,0,0,32,29,0,1,2,26,17,10,5,no
+2017,The Arts,Drama and Theatre,Level 2,2,179,91,88,0,29,74,75,1,3,13,47,55,36,25,no
+2017,The Arts,Drama and Theatre,Level 3,2,390,143,247,0,0,204,186,0,2,29,111,144,75,29,no
+2017,The Arts,Media,Level 2,1,186,138,48,0,8,86,92,0,13,22,61,50,22,18,no
+2017,The Arts,Media,Level 3,1,202,134,68,0,0,58,144,0,14,28,58,77,13,12,no
+2017,The Arts,Music,Level 2,5,873,461,412,0,63,465,339,6,24,61,169,183,292,144,no
+2017,The Arts,Music,Level 3,1,92,46,46,0,0,70,22,0,0,15,30,32,8,7,no
+2017,The Arts,Visual Arts,Level 1,1,76,41,35,0,1,46,28,1,8,4,21,14,19,10,no
+2017,The Arts,Visual Arts,Level 2,2,1181,522,659,0,42,578,556,5,86,135,307,337,195,121,no
+2017,The Arts,Visual Arts,Level 3,3,1145,377,768,0,0,426,716,3,51,44,250,456,252,92,no
+2018,English,English,Level 1,2,157,93,64,0,1,103,53,0,23,17,103,9,2,3,no
+2018,English,English,Level 2,4,2691,1500,1191,0,22,2110,537,22,350,187,981,744,259,170,no
+2018,English,English,Level 3,4,3152,1260,1892,0,6,1992,1131,23,204,114,704,1414,461,255,no
+2018,Health and Physical Education,Athlete Development,Level 2,1,434,303,131,0,55,235,143,1,21,48,96,145,63,61,no
+2018,Health and Physical Education,Health Studies,Level 3,1,877,257,620,0,0,323,543,11,45,122,198,305,128,79,no
+2018,Health and Physical Education,Outdoor Education,Level 1,1,458,272,186,0,95,219,143,1,16,10,432,0,0,0,no
+2018,Health and Physical Education,Outdoor Education,Level 2,1,785,502,283,0,52,516,216,1,45,56,229,251,120,84,no
+2018,Health and Physical Education,Outdoor Education,Level 3,1,325,180,145,0,0,52,271,2,14,31,83,123,41,33,no
+2018,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,46,20,26,0,0,20,24,2,1,4,41,0,0,0,no
+2018,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,216,65,151,0,0,120,92,4,31,17,68,50,26,24,no
+2018,Health and Physical Education,Sport Science,Level 2,1,152,82,70,0,27,85,40,0,8,8,44,56,22,14,no
+2018,Health and Physical Education,Sport Science,Level 3,1,513,265,248,0,1,210,301,1,34,87,106,173,88,25,no
+2018,Health and Physical Education,Sport and Recreation,Level 1,2,841,625,216,0,6,398,434,3,58,52,731,0,0,0,no
+2018,Health and Physical Education,Sport and Recreation,Level 2,1,400,259,141,0,1,238,160,1,21,29,134,139,27,50,no
+2018,Humanities and Social Sciences,Accounting,Level 3,1,234,148,86,0,0,60,172,2,18,23,54,66,44,29,no
+2018,Humanities and Social Sciences,Ancient History,Level 3,1,170,78,92,0,0,76,93,1,16,19,56,49,12,18,no
+2018,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,65,28,37,0,0,22,43,0,4,4,19,27,8,3,no
+2018,Humanities and Social Sciences,Business Studies,Level 2,1,347,222,125,0,45,139,160,3,40,22,104,96,37,48,no
+2018,Humanities and Social Sciences,Business Studies,Level 3,1,483,304,179,0,0,143,336,4,24,52,101,193,83,30,no
+2018,Humanities and Social Sciences,Community Access,Level 1,1,69,23,46,0,0,35,34,0,12,14,43,0,0,0,no
+2018,Humanities and Social Sciences,Community Service Learning,Level 2,1,194,57,137,0,0,115,78,1,38,5,26,48,31,46,no
+2018,Humanities and Social Sciences,Economics,Level 3,1,285,198,87,0,0,22,262,1,15,13,40,127,66,24,no
+2018,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,237,109,128,0,0,221,15,1,15,11,50,104,29,28,no
+2018,Humanities and Social Sciences,Financial Literacy,Level 1,1,315,161,154,0,0,163,138,14,32,10,273,0,0,0,no
+2018,Humanities and Social Sciences,First Nations Studies,Level 2,1,7,2,5,0,0,1,6,0,0,0,2,2,2,1,no
+2018,Humanities and Social Sciences,Focus on Children,Level 1,1,2,0,2,0,0,1,1,0,0,1,1,0,0,0,no
+2018,Humanities and Social Sciences,Geography,Level 3,1,211,79,132,0,0,34,175,2,9,12,71,59,43,17,no
+2018,Humanities and Social Sciences,History and the Environment,Level 2,1,91,39,52,0,0,37,50,4,10,10,43,14,8,6,no
+2018,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,705,202,503,0,39,485,180,1,78,70,201,203,59,94,no
+2018,Humanities and Social Sciences,Legal Studies,Level 2,1,336,129,207,0,8,209,119,0,40,35,67,103,43,48,no
+2018,Humanities and Social Sciences,Legal Studies,Level 3,1,348,139,209,0,0,74,273,1,26,31,69,155,44,23,no
+2018,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,228,122,106,0,0,92,136,0,21,20,126,0,61,0,no
+2018,Humanities and Social Sciences,Modern History,Level 3,1,350,155,195,0,0,102,247,1,16,18,120,142,31,23,no
+2018,Humanities and Social Sciences,Philosophy,Level 3,1,219,103,116,0,1,44,171,3,16,15,54,89,26,19,no
+2018,Humanities and Social Sciences,Psychology,Level 3,1,654,169,485,0,0,165,484,5,52,31,188,194,130,59,no
+2018,Humanities and Social Sciences,Religion in Society,Level 2,1,268,128,140,0,0,256,12,0,8,17,96,97,26,24,no
+2018,Humanities and Social Sciences,Road Safety,Level 1,1,506,255,251,0,291,91,122,2,128,66,312,0,0,0,no
+2018,Humanities and Social Sciences,Road Safety,Level 2,1,88,38,50,0,0,36,48,4,33,5,22,0,5,23,no
+2018,Humanities and Social Sciences,Sociology,Level 3,1,451,99,352,0,0,138,310,3,22,16,109,210,63,31,no
+2018,Humanities and Social Sciences,Studies of Religion,Level 3,1,238,53,185,0,0,141,97,0,9,5,60,90,46,28,no
+2018,Humanities and Social Sciences,Working with Children,Level 2,1,280,18,262,0,0,192,83,5,32,21,64,87,41,35,no
+2018,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,162,80,82,0,0,161,1,0,23,3,136,0,0,0,no
+2018,Languages,Arabic,Level 3,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2018,Languages,Chinese,Level 2,1,36,12,24,0,0,30,6,0,2,1,4,3,5,21,no
+2018,Languages,Chinese,Level 3,2,119,62,57,0,0,82,35,2,2,21,32,26,27,11,no
+2018,Languages,Dutch,Level 3,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2018,Languages,French,Level 2,1,69,22,47,0,0,45,24,0,2,1,9,21,17,19,no
+2018,Languages,French,Level 3,1,48,8,40,0,0,30,18,0,2,1,6,4,27,8,no
+2018,Languages,German,Level 2,1,35,17,18,0,3,19,13,0,3,4,2,9,5,12,no
+2018,Languages,German,Level 3,1,32,20,12,0,0,21,11,0,4,2,6,8,5,7,no
+2018,Languages,Italian,Level 2,1,16,6,10,0,0,12,3,1,0,0,2,3,2,9,no
+2018,Languages,Italian,Level 3,1,23,11,12,0,0,14,8,1,4,1,2,7,5,4,no
+2018,Languages,Japanese,Level 2,1,121,54,67,0,4,87,30,0,7,10,29,31,16,28,no
+2018,Languages,Japanese,Level 3,1,84,23,61,0,1,46,36,1,6,8,16,18,23,13,no
+2018,Languages,Korean,Level 3,1,6,2,4,0,0,4,2,0,0,0,1,2,3,0,no
+2018,Languages,Persian,Level 3,1,12,6,6,0,0,1,7,4,0,2,4,3,3,0,no
+2018,Languages,Portuguese,Level 3,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,no
+2018,Languages,Russian,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,no
+2018,Languages,Vietnamese,Level 3,1,4,2,2,0,0,2,2,0,0,3,1,0,0,0,no
+2018,Mathematics,Mathematics,Level 1,1,102,56,46,0,2,77,23,0,20,12,70,0,0,0,no
+2018,Mathematics,Mathematics,Level 2,3,3063,1536,1527,0,12,2470,559,22,303,224,1073,842,431,190,no
+2018,Mathematics,Mathematics,Level 3,2,2687,1371,1316,0,275,1782,621,9,257,306,618,788,415,303,no
+2018,Mathematics,Mathematics,Level 4,2,916,578,338,0,5,443,455,13,23,71,211,333,148,130,no
+2018,Mixed Field,Building Connections,Level 1,1,43,30,13,0,0,11,31,1,9,0,34,0,0,0,no
+2018,Mixed Field,Career and Life Planning,Level 2,1,5781,2733,3048,0,303,2950,2487,41,698,288,4795,0,0,0,no
+2018,Mixed Field,Learning Through Internship,Level 2,1,30,11,19,0,2,16,10,2,4,1,5,8,5,7,no
+2018,Mixed Field,Pathways to Work,Level 1,1,65,30,35,0,0,50,15,0,14,17,20,0,14,0,no
+2018,Mixed Field,Project Implementation,Level 2,1,581,360,221,0,14,325,238,4,78,68,435,0,0,0,no
+2018,Mixed Field,Student Directed Inquiry,Level 3,1,43,21,22,0,0,1,41,1,8,3,13,9,5,5,no
+2018,Mixed Field,Work Readiness,Level 2,1,473,235,238,0,0,263,207,3,171,37,145,58,38,24,no
+2018,Science,Biology,Level 3,1,874,268,606,0,0,92,775,7,40,76,232,282,137,107,no
+2018,Science,Chemistry,Level 4,1,623,339,284,0,0,3,612,8,22,113,141,133,127,87,no
+2018,Science,Environmental Science,Level 3,1,172,63,109,0,0,61,107,4,6,14,38,67,30,17,no
+2018,Science,Life Sciences,Level 2,1,528,149,379,0,50,363,112,3,25,41,123,167,94,78,no
+2018,Science,Physical Sciences,Level 2,1,309,181,128,0,112,158,37,2,23,24,95,110,42,15,no
+2018,Science,Physical Sciences,Level 3,1,1266,674,592,0,1,1120,135,10,96,191,335,316,181,147,no
+2018,Science,Physics,Level 4,1,349,269,80,0,0,4,340,5,11,47,71,78,82,60,no
+2018,TCE standards (assessment only),TCE standards (assessment only),Level 2,4,1978,1021,957,0,1,109,1855,13,93,0,1885,0,0,0,no
+2018,Technologies,Agriculture,Level 2,1,38,17,21,0,0,17,21,0,11,7,15,2,2,1,no
+2018,Technologies,Agriculture,Level 3,1,26,13,13,0,0,6,19,1,1,0,5,7,8,5,no
+2018,Technologies,Automotive and Mechanical Technologies,Level 2,1,202,187,15,0,0,116,86,0,22,31,77,56,10,6,no
+2018,Technologies,Computer Applications,Level 1,1,60,29,31,0,0,25,35,0,13,3,44,0,0,0,no
+2018,Technologies,Computer Applications,Level 2,1,351,254,97,0,15,168,160,8,31,58,127,78,0,57,no
+2018,Technologies,Computer Graphics and Design,Level 2,1,295,239,56,0,3,175,113,4,30,47,108,69,28,13,no
+2018,Technologies,Computer Graphics and Design,Level 3,1,195,161,34,0,0,53,138,4,22,29,71,51,14,8,no
+2018,Technologies,Computer Science,Level 3,1,228,210,18,0,1,92,135,0,16,27,66,62,30,27,no
+2018,Technologies,Design and Production,Level 2,1,639,455,184,0,11,329,293,6,47,76,188,185,101,42,no
+2018,Technologies,Electronics,Level 2,1,116,109,7,0,0,65,51,0,16,17,46,24,9,4,no
+2018,Technologies,Electronics,Level 3,1,42,40,2,0,0,6,36,0,7,13,8,7,4,3,no
+2018,Technologies,Engineering Design,Level 2,1,28,27,1,0,0,17,10,1,1,1,7,11,5,3,no
+2018,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1355,763,592,0,32,701,600,22,210,38,1107,0,0,0,no
+2018,Technologies,Food and Hospitality Enterprise,Level 2,1,190,76,114,0,0,129,61,0,25,24,57,59,16,9,no
+2018,Technologies,Food and Nutrition,Level 1,1,139,80,59,0,0,87,51,1,28,20,91,0,0,0,no
+2018,Technologies,Food and Nutrition,Level 2,1,413,167,246,0,7,187,211,8,52,50,84,126,55,46,no
+2018,Technologies,Food and Nutrition,Level 3,1,592,168,424,0,0,128,462,2,33,37,131,229,104,58,no
+2018,Technologies,Housing and Design,Level 3,1,295,172,123,0,0,71,223,1,17,26,89,112,39,12,no
+2018,Technologies,Information Systems and Digital Technologies,Level 3,1,76,69,7,0,0,28,48,0,9,4,35,17,7,4,no
+2018,Technologies,Technical Graphics,Level 2,1,56,53,3,0,0,26,30,0,6,3,17,19,5,6,no
+2018,Technologies,Technical Graphics,Level 3,1,24,15,9,0,0,2,21,1,7,2,11,2,1,1,no
+2018,Technologies,Workshop Techniques,Level 1,1,124,105,19,0,18,57,48,1,17,16,74,0,0,17,no
+2018,The Arts,Dance,Level 1,1,13,1,12,0,0,11,2,0,3,0,1,0,4,5,no
+2018,The Arts,Dance,Level 2,1,58,6,52,0,6,38,13,1,3,0,11,25,8,11,no
+2018,The Arts,Dance,Level 3,1,58,4,54,0,0,35,22,1,7,0,17,18,11,5,no
+2018,The Arts,Drama and Theatre,Level 2,2,216,96,120,0,25,112,76,3,8,12,49,71,43,33,no
+2018,The Arts,Drama and Theatre,Level 3,2,406,149,257,0,0,203,201,2,18,20,137,159,57,15,no
+2018,The Arts,Media,Level 2,1,165,123,42,0,17,77,71,0,15,15,51,57,18,9,no
+2018,The Arts,Media,Level 3,1,186,115,71,0,0,65,119,2,26,20,46,69,12,13,no
+2018,The Arts,Music,Level 2,5,945,463,482,0,60,507,367,9,42,62,187,181,308,165,no
+2018,The Arts,Music,Level 3,1,116,56,60,0,0,64,52,0,17,24,30,20,15,10,no
+2018,The Arts,Visual Arts,Level 1,1,52,21,31,0,0,29,23,0,3,11,12,7,6,13,no
+2018,The Arts,Visual Arts,Level 2,2,1130,428,702,0,32,562,520,16,76,123,295,377,148,111,no
+2018,The Arts,Visual Arts,Level 3,3,1267,364,903,0,0,449,813,5,130,59,217,509,260,92,no
+2019,English,English,Level 1,2,184,103,81,0,0,136,47,1,38,26,97,15,7,1,no
+2019,English,English,Level 2,4,2566,1427,1139,0,0,2118,415,33,270,178,963,783,235,137,no
+2019,English,English,Level 3,4,2773,1057,1715,1,4,1783,972,14,57,108,659,1223,449,277,no
+2019,English,Preliminary courses,Preliminary,4,106,72,34,0,2,66,36,2,13,8,85,0,0,0,no
+2019,Health and Physical Education,Athlete Development,Level 2,1,500,360,140,0,20,325,154,1,19,66,84,186,91,54,no
+2019,Health and Physical Education,Health Studies,Level 3,1,832,232,600,0,0,298,531,3,28,154,157,319,111,63,no
+2019,Health and Physical Education,Outdoor Education,Level 1,1,206,132,74,0,24,90,90,2,5,8,193,0,0,0,no
+2019,Health and Physical Education,Outdoor Education,Level 2,1,766,446,320,0,24,529,212,1,40,57,205,254,120,90,no
+2019,Health and Physical Education,Outdoor Education,Level 3,1,322,192,130,0,0,42,278,2,10,36,86,116,51,23,no
+2019,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,30,10,20,0,0,5,22,3,0,1,29,0,0,0,no
+2019,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,204,33,171,0,0,100,103,1,21,16,46,61,32,28,no
+2019,Health and Physical Education,Preliminary courses,Preliminary,4,74,54,20,0,1,45,28,0,13,6,55,0,0,0,no
+2019,Health and Physical Education,Sport Science,Level 2,1,176,113,63,0,30,105,41,0,17,14,49,65,21,10,no
+2019,Health and Physical Education,Sport Science,Level 3,1,475,245,230,0,0,186,289,0,10,75,123,158,79,30,no
+2019,Health and Physical Education,Sport and Recreation,Level 1,2,826,578,248,0,2,337,484,3,64,42,720,0,0,0,no
+2019,Health and Physical Education,Sport and Recreation,Level 2,1,392,290,102,0,0,190,201,1,21,46,151,106,31,37,no
+2019,Humanities and Social Sciences,Accounting,Level 3,1,212,134,78,0,0,46,166,0,7,18,65,56,46,20,no
+2019,Humanities and Social Sciences,Ancient History,Level 3,1,218,98,120,0,0,74,141,3,20,46,57,54,23,18,no
+2019,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,80,37,43,0,0,22,58,0,5,6,26,24,14,5,no
+2019,Humanities and Social Sciences,Business Studies,Level 2,1,300,186,114,0,5,151,140,4,29,24,99,75,44,29,no
+2019,Humanities and Social Sciences,Business Studies,Level 3,1,369,210,159,0,0,92,277,0,10,30,90,151,62,26,no
+2019,Humanities and Social Sciences,Community Access,Level 1,1,56,13,43,0,1,30,24,1,9,10,37,0,0,0,no
+2019,Humanities and Social Sciences,Community Service Learning,Level 2,1,234,54,180,0,0,136,97,1,27,10,49,70,20,58,no
+2019,Humanities and Social Sciences,Economics,Level 3,1,279,167,111,1,0,7,272,0,6,11,45,136,54,27,no
+2019,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,283,125,158,0,0,257,26,0,21,14,51,122,31,44,no
+2019,Humanities and Social Sciences,Financial Literacy,Level 1,1,178,77,101,0,0,91,83,4,65,2,111,0,0,0,no
+2019,Humanities and Social Sciences,First Nations Studies,Level 2,1,3,3,0,0,0,1,2,0,1,0,2,0,0,0,no
+2019,Humanities and Social Sciences,First Nations Studies,Level 3,1,5,1,4,0,0,1,4,0,0,1,1,2,0,1,no
+2019,Humanities and Social Sciences,Focus on Children,Level 1,1,5,0,5,0,0,4,1,0,0,1,4,0,0,0,no
+2019,Humanities and Social Sciences,Geography,Level 3,1,178,81,97,0,0,22,156,0,2,11,53,64,32,16,no
+2019,Humanities and Social Sciences,History and the Environment,Level 2,1,109,61,48,0,0,42,67,0,8,13,32,30,16,10,no
+2019,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,666,200,466,0,44,465,156,1,65,57,171,207,77,89,no
+2019,Humanities and Social Sciences,Legal Studies,Level 2,1,282,99,183,0,2,166,114,0,31,35,42,89,48,37,no
+2019,Humanities and Social Sciences,Legal Studies,Level 3,1,326,116,210,0,0,63,261,2,10,16,90,134,47,29,no
+2019,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,217,109,108,0,0,110,107,0,33,27,102,0,55,0,no
+2019,Humanities and Social Sciences,Modern History,Level 3,1,271,120,151,0,0,90,178,3,10,23,78,108,26,26,no
+2019,Humanities and Social Sciences,Philosophy,Level 3,1,203,74,129,0,0,43,159,1,8,15,37,87,30,26,no
+2019,Humanities and Social Sciences,Preliminary courses,Preliminary,4,37,27,10,0,1,28,8,0,13,2,22,0,0,0,no
+2019,Humanities and Social Sciences,Psychology,Level 3,1,613,149,464,0,0,151,461,1,9,43,173,215,97,76,no
+2019,Humanities and Social Sciences,Religion in Society,Level 2,1,175,88,87,0,0,169,6,0,2,6,66,56,17,28,no
+2019,Humanities and Social Sciences,Road Safety,Level 1,1,393,185,208,0,27,170,183,13,46,98,249,0,0,0,no
+2019,Humanities and Social Sciences,Road Safety,Level 2,1,72,34,38,0,0,22,49,1,22,5,33,0,5,7,no
+2019,Humanities and Social Sciences,Sociology,Level 3,1,438,100,337,1,0,128,309,1,13,18,125,193,59,30,no
+2019,Humanities and Social Sciences,Studies of Religion,Level 3,1,234,61,173,0,0,152,82,0,4,11,43,95,46,35,no
+2019,Humanities and Social Sciences,Working with Children,Level 2,1,242,21,221,0,0,124,114,4,27,25,48,64,37,41,no
+2019,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,110,66,44,0,0,108,1,1,17,1,92,0,0,0,no
+2019,Languages,Arabic,Level 3,1,3,2,1,0,0,0,2,1,1,0,1,0,1,0,no
+2019,Languages,Chinese,Level 2,1,31,9,22,0,0,20,11,0,4,2,2,9,5,9,no
+2019,Languages,Chinese,Level 3,2,111,50,61,0,0,57,54,0,6,15,14,27,35,14,no
+2019,Languages,Croatian,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,no
+2019,Languages,Dutch,Level 3,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,no
+2019,Languages,Filipino,Level 3,1,5,1,4,0,0,2,3,0,0,0,1,1,2,1,no
+2019,Languages,French,Level 2,1,94,31,63,0,0,62,32,0,5,9,21,29,13,17,no
+2019,Languages,French,Level 3,1,44,11,33,0,0,26,18,0,1,3,6,9,12,13,no
+2019,Languages,German,Level 2,1,42,25,17,0,4,22,15,1,2,3,12,11,8,6,no
+2019,Languages,German,Level 3,1,16,6,10,0,0,7,8,1,0,0,4,1,6,5,no
+2019,Languages,Italian,Level 2,1,21,5,16,0,2,11,8,0,0,0,2,6,3,10,no
+2019,Languages,Italian,Level 3,1,19,6,13,0,2,3,14,0,0,1,1,6,7,4,no
+2019,Languages,Japanese,Level 2,1,127,73,54,0,3,84,39,1,13,21,20,21,11,41,no
+2019,Languages,Japanese,Level 3,2,86,31,55,0,0,36,50,0,2,13,14,24,18,15,no
+2019,Languages,Korean,Level 3,1,6,2,4,0,0,2,4,0,1,1,1,1,1,1,no
+2019,Languages,Modern Greek,Level 3,1,4,3,1,0,0,1,3,0,1,0,0,1,1,1,no
+2019,Languages,Persian,Level 3,1,18,5,13,0,0,5,5,8,0,1,5,7,2,3,no
+2019,Languages,Portuguese,Level 3,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,no
+2019,Languages,Spanish,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,1,1,no
+2019,Languages,Vietnamese,Level 3,1,3,2,1,0,0,2,0,1,0,1,2,0,0,0,no
+2019,Mathematics,Mathematics,Level 1,1,120,62,58,0,0,87,31,2,27,10,83,0,0,0,no
+2019,Mathematics,Mathematics,Level 2,3,3180,1557,1623,0,17,2616,521,26,267,215,1078,925,460,235,no
+2019,Mathematics,Mathematics,Level 3,2,2330,1151,1178,1,242,1532,538,18,67,309,587,705,352,310,no
+2019,Mathematics,Mathematics,Level 4,2,906,546,360,0,2,433,461,10,14,97,218,315,139,123,no
+2019,Mathematics,Preliminary courses,Preliminary,4,105,66,39,0,2,64,38,1,11,23,71,0,0,0,no
+2019,Mixed Field,Building Connections,Level 1,1,72,40,32,0,2,40,27,3,21,4,47,0,0,0,no
+2019,Mixed Field,Career and Life Planning,Level 2,1,3754,1747,2006,1,303,1895,1513,43,495,160,3099,0,0,0,no
+2019,Mixed Field,Learning Through Internship,Level 2,1,45,19,26,0,0,30,15,0,7,1,8,16,8,5,no
+2019,Mixed Field,Pathways to Work,Level 1,1,82,46,36,0,0,65,17,0,0,9,12,0,61,0,no
+2019,Mixed Field,Preliminary courses,Preliminary,4,78,45,33,0,0,39,37,2,2,6,70,0,0,0,no
+2019,Mixed Field,Project Implementation,Level 2,1,510,353,157,0,13,282,209,6,60,40,410,0,0,0,no
+2019,Mixed Field,Student Directed Inquiry,Level 3,1,26,12,14,0,0,1,25,0,3,0,5,11,4,3,no
+2019,Mixed Field,Work Readiness,Level 2,1,358,193,165,0,0,158,192,8,142,39,101,23,23,30,no
+2019,Science,Biology,Level 3,1,888,278,609,1,0,91,785,12,16,74,263,287,129,119,no
+2019,Science,Chemistry,Level 4,1,562,274,287,1,0,1,552,9,9,72,142,102,153,84,no
+2019,Science,Environmental Science,Level 3,1,193,77,116,0,0,53,139,1,8,14,48,83,21,19,no
+2019,Science,Life Sciences,Level 2,1,469,126,343,0,22,352,87,8,33,31,107,159,80,59,no
+2019,Science,Physical Sciences,Level 2,1,228,110,118,0,90,110,24,4,10,12,60,81,41,24,no
+2019,Science,Physical Sciences,Level 3,1,1187,641,546,0,0,1059,123,5,40,174,326,347,158,142,no
+2019,Science,Physics,Level 4,1,321,239,82,0,0,0,318,3,4,23,67,118,58,51,no
+2019,Science,Preliminary courses,Preliminary,4,39,23,16,0,1,24,14,0,11,1,27,0,0,0,no
+2019,TCE standards (assessment only),TCE standards (assessment only),Level 2,4,1511,720,791,0,0,84,1348,79,0,0,1511,0,0,0,no
+2019,Technologies,Agriculture,Level 2,1,33,18,15,0,0,12,20,1,8,4,16,3,2,0,no
+2019,Technologies,Agriculture,Level 3,1,19,16,3,0,0,5,14,0,0,0,5,6,3,5,no
+2019,Technologies,Automotive and Mechanical Technologies,Level 2,1,230,221,9,0,0,112,117,1,25,26,87,67,13,12,no
+2019,Technologies,Computer Applications,Level 1,1,60,36,24,0,0,42,18,0,17,3,40,0,0,0,no
+2019,Technologies,Computer Applications,Level 2,1,284,226,58,0,13,149,114,8,14,35,107,54,0,74,no
+2019,Technologies,Computer Graphics and Design,Level 2,1,250,206,44,0,0,137,111,2,17,34,82,87,15,15,no
+2019,Technologies,Computer Graphics and Design,Level 3,1,168,131,37,0,0,54,114,0,10,22,55,61,14,6,no
+2019,Technologies,Computer Science,Level 3,1,173,155,18,0,0,59,113,1,5,20,46,56,25,21,no
+2019,Technologies,Design and Production,Level 2,1,648,442,206,0,5,326,306,11,36,98,178,203,87,46,no
+2019,Technologies,Electronics,Level 2,1,105,100,5,0,0,62,42,1,9,9,40,24,9,14,no
+2019,Technologies,Electronics,Level 3,1,31,29,2,0,0,6,25,0,3,9,5,7,3,4,no
+2019,Technologies,Engineering Design,Level 2,1,76,68,8,0,0,52,24,0,4,5,30,20,12,5,no
+2019,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,2045,1091,954,0,23,1176,829,17,316,73,1656,0,0,0,no
+2019,Technologies,Food and Hospitality Enterprise,Level 2,1,193,93,100,0,0,105,87,1,18,24,46,71,20,14,no
+2019,Technologies,Food and Nutrition,Level 1,1,176,73,103,0,0,86,86,4,16,20,140,0,0,0,no
+2019,Technologies,Food and Nutrition,Level 2,1,472,207,265,0,9,186,271,6,50,62,109,158,54,39,no
+2019,Technologies,Food and Nutrition,Level 3,1,591,163,428,0,0,118,468,5,14,40,119,264,97,57,no
+2019,Technologies,Housing and Design,Level 3,1,248,134,114,0,0,62,186,0,14,27,67,95,31,14,no
+2019,Technologies,Information Systems and Digital Technologies,Level 3,1,69,65,4,0,0,14,55,0,2,2,24,28,9,4,no
+2019,Technologies,Preliminary courses,Preliminary,4,80,48,32,0,0,51,29,0,2,5,73,0,0,0,no
+2019,Technologies,Technical Graphics,Level 2,1,45,37,8,0,0,19,25,1,2,4,14,16,4,5,no
+2019,Technologies,Technical Graphics,Level 3,1,19,17,2,0,0,7,11,1,1,3,9,5,0,1,no
+2019,Technologies,Workshop Techniques,Level 1,1,149,120,29,0,14,85,44,6,27,11,56,32,0,23,no
+2019,The Arts,Dance,Level 1,1,67,10,57,0,0,39,27,1,2,0,8,26,11,20,no
+2019,The Arts,Dance,Level 2,1,64,4,60,0,4,39,21,0,4,5,17,28,4,6,no
+2019,The Arts,Dance,Level 3,1,72,7,65,0,0,36,35,1,1,4,32,25,5,5,no
+2019,The Arts,Drama and Theatre,Level 2,2,186,89,97,0,10,83,90,3,9,17,44,65,26,25,no
+2019,The Arts,Drama and Theatre,Level 3,2,350,125,225,0,0,183,165,2,0,22,108,139,56,25,no
+2019,The Arts,Media,Level 2,1,198,142,56,0,1,123,73,1,24,17,52,55,26,24,no
+2019,The Arts,Media,Level 3,1,153,99,54,0,0,65,88,0,4,12,54,64,7,12,no
+2019,The Arts,Music,Level 2,5,918,464,454,0,52,469,390,7,29,68,168,178,337,138,no
+2019,The Arts,Music,Level 3,1,112,60,52,0,0,57,54,1,3,31,27,29,13,9,no
+2019,The Arts,Preliminary courses,Preliminary,4,82,43,39,0,3,50,27,2,6,4,72,0,0,0,no
+2019,The Arts,Visual Arts,Level 1,1,56,20,36,0,1,31,23,1,5,12,12,16,6,5,no
+2019,The Arts,Visual Arts,Level 2,2,1094,425,669,0,14,592,474,14,69,144,283,338,138,122,no
+2019,The Arts,Visual Arts,Level 3,3,1219,323,895,1,0,432,774,13,66,43,239,514,265,92,no
+2020,English,English,Level 1,2,188,100,87,1,0,126,60,2,22,11,144,4,3,4,no
+2020,English,English,Level 2,4,2703,1504,1199,0,1,2137,544,21,482,172,967,768,191,123,no
+2020,English,English,Level 3,4,2754,1056,1696,2,2,1715,1026,11,79,99,640,1180,445,311,no
+2020,English,Preliminary courses,Preliminary,4,97,62,35,0,0,55,42,0,3,2,92,0,0,0,no
+2020,Health and Physical Education,Athlete Development,Level 2,1,512,385,127,0,12,328,170,2,29,60,85,175,72,91,no
+2020,Health and Physical Education,Health Studies,Level 3,1,828,242,586,0,0,342,484,2,34,126,163,308,130,67,no
+2020,Health and Physical Education,Outdoor Education,Level 1,1,266,198,68,0,0,119,147,0,23,21,222,0,0,0,no
+2020,Health and Physical Education,Outdoor Education,Level 2,1,750,452,298,0,21,529,197,3,58,51,203,204,99,135,no
+2020,Health and Physical Education,Outdoor Education,Level 3,1,290,165,125,0,0,39,251,0,10,33,101,90,35,21,no
+2020,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,78,31,47,0,0,16,59,3,22,9,47,0,0,0,no
+2020,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,301,89,212,0,0,134,163,4,112,35,68,47,25,14,no
+2020,Health and Physical Education,Preliminary courses,Preliminary,4,52,38,14,0,0,30,22,0,1,4,47,0,0,0,no
+2020,Health and Physical Education,Sport Science,Level 2,1,169,97,72,0,20,89,59,1,17,11,50,55,26,10,no
+2020,Health and Physical Education,Sport Science,Level 3,1,481,226,255,0,0,189,290,2,9,48,127,177,91,29,no
+2020,Health and Physical Education,Sport and Recreation,Level 1,2,987,710,277,0,0,496,483,8,119,67,801,0,0,0,no
+2020,Health and Physical Education,Sport and Recreation,Level 2,1,376,261,115,0,0,198,173,5,27,30,136,117,34,32,no
+2020,Humanities and Social Sciences,Accounting,Level 3,1,182,102,80,0,0,32,150,0,5,14,42,70,31,20,no
+2020,Humanities and Social Sciences,Ancient History,Level 3,1,206,86,119,1,0,93,113,0,19,18,60,64,22,23,no
+2020,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,44,25,19,0,0,16,28,0,1,5,11,16,7,4,no
+2020,Humanities and Social Sciences,Business Studies,Level 2,1,290,180,110,0,10,137,142,1,48,23,70,85,27,37,no
+2020,Humanities and Social Sciences,Business Studies,Level 3,1,310,174,136,0,0,69,241,0,11,18,64,122,65,30,no
+2020,Humanities and Social Sciences,Community Access,Level 1,1,69,21,48,0,0,35,33,1,11,1,57,0,0,0,no
+2020,Humanities and Social Sciences,Community Service Learning,Level 2,1,172,41,131,0,0,71,100,1,41,9,37,38,9,38,no
+2020,Humanities and Social Sciences,Economics,Level 3,1,252,158,94,0,0,17,235,0,7,8,40,113,52,32,no
+2020,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,318,139,179,0,0,296,22,0,20,8,73,124,38,55,no
+2020,Humanities and Social Sciences,Financial Literacy,Level 1,1,624,336,288,0,0,352,247,25,283,86,255,0,0,0,no
+2020,Humanities and Social Sciences,First Nations Studies,Level 2,1,42,15,27,0,10,15,17,0,9,2,13,11,4,3,no
+2020,Humanities and Social Sciences,First Nations Studies,Level 3,1,10,1,9,0,0,0,10,0,0,1,0,4,3,2,no
+2020,Humanities and Social Sciences,Focus on Children,Level 1,1,9,1,8,0,0,6,3,0,0,3,4,1,1,0,no
+2020,Humanities and Social Sciences,Geography,Level 3,1,239,97,142,0,0,34,204,1,7,27,80,77,27,21,no
+2020,Humanities and Social Sciences,History and the Environment,Level 2,1,117,55,62,0,0,50,66,1,26,10,32,30,6,13,no
+2020,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,753,194,558,1,41,516,192,4,97,74,168,209,80,125,no
+2020,Humanities and Social Sciences,Legal Studies,Level 2,1,269,100,169,0,2,154,110,3,37,30,41,86,30,45,no
+2020,Humanities and Social Sciences,Legal Studies,Level 3,1,325,126,199,0,0,70,253,2,15,25,93,125,48,19,no
+2020,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,183,91,92,0,0,116,67,0,6,17,99,0,61,0,no
+2020,Humanities and Social Sciences,Modern History,Level 3,1,328,143,185,0,1,101,223,3,10,21,93,124,43,37,no
+2020,Humanities and Social Sciences,Philosophy,Level 3,1,194,87,107,0,0,25,167,2,3,12,40,87,30,22,no
+2020,Humanities and Social Sciences,Preliminary courses,Preliminary,4,22,16,6,0,0,15,7,0,1,2,19,0,0,0,no
+2020,Humanities and Social Sciences,Psychology,Level 3,1,685,180,505,0,0,170,511,4,17,39,188,237,119,85,no
+2020,Humanities and Social Sciences,Religion in Society,Level 2,1,231,144,87,0,0,222,8,1,8,10,86,71,27,29,no
+2020,Humanities and Social Sciences,Road Safety,Level 1,1,297,138,159,0,17,131,145,4,117,18,162,0,0,0,no
+2020,Humanities and Social Sciences,Road Safety,Level 2,1,165,64,101,0,0,65,96,4,55,13,80,0,7,10,no
+2020,Humanities and Social Sciences,Sociology,Level 3,1,472,116,355,1,0,124,344,4,18,24,130,187,68,45,no
+2020,Humanities and Social Sciences,Studies of Religion,Level 3,1,197,66,131,0,0,141,56,0,2,8,36,90,32,29,no
+2020,Humanities and Social Sciences,Working with Children,Level 2,1,251,10,241,0,0,172,78,1,41,30,59,56,27,38,no
+2020,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,1133,567,565,1,0,681,448,4,62,83,988,0,0,0,no
+2020,Languages,Auslan,Level 3,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,no
+2020,Languages,Chinese,Level 2,1,38,10,27,1,0,24,14,0,0,3,7,4,7,17,no
+2020,Languages,Chinese,Level 3,2,57,23,34,0,0,41,15,1,1,9,6,8,23,10,no
+2020,Languages,Filipino,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,1,1,0,no
+2020,Languages,French,Level 2,1,65,20,45,0,0,32,33,0,2,4,13,17,12,17,no
+2020,Languages,French,Level 3,1,52,17,35,0,0,25,27,0,0,3,13,5,18,13,no
+2020,Languages,German,Level 2,1,36,20,16,0,1,18,16,1,5,3,9,8,5,6,no
+2020,Languages,German,Level 3,1,24,10,14,0,0,10,14,0,2,0,1,8,6,7,no
+2020,Languages,Hindi,Level 3,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,no
+2020,Languages,Italian,Level 2,1,16,0,16,0,9,6,1,0,0,0,4,6,1,5,no
+2020,Languages,Italian,Level 3,1,20,4,16,0,0,5,15,0,0,2,1,6,5,6,no
+2020,Languages,Japanese,Level 2,1,149,80,69,0,2,100,45,2,21,23,19,26,21,39,no
+2020,Languages,Japanese,Level 3,2,85,36,49,0,0,43,42,0,4,10,16,25,15,15,no
+2020,Languages,Korean,Level 3,1,2,0,2,0,0,1,1,0,0,0,0,1,1,0,no
+2020,Languages,Persian,Level 3,1,10,0,10,0,0,3,4,3,0,3,1,3,3,0,no
+2020,Languages,Portuguese,Level 3,1,2,1,1,0,0,1,1,0,0,0,0,0,2,0,no
+2020,Languages,Russian,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,no
+2020,Languages,Spanish,Level 3,1,3,0,3,0,0,0,2,1,0,0,0,1,2,0,no
+2020,Languages,Vietnamese,Level 3,1,4,2,2,0,0,3,1,0,0,2,0,1,1,0,no
+2020,Mathematics,Mathematics,Level 1,1,158,86,71,1,0,103,54,1,25,19,114,0,0,0,no
+2020,Mathematics,Mathematics,Level 2,3,3446,1738,1708,0,35,2784,611,16,526,216,1083,941,435,245,no
+2020,Mathematics,Mathematics,Level 3,2,2229,1045,1184,0,236,1539,445,9,71,200,433,751,375,399,no
+2020,Mathematics,Mathematics,Level 4,2,780,480,300,0,4,391,377,8,6,73,178,270,128,125,no
+2020,Mathematics,Preliminary courses,Preliminary,4,109,63,46,0,0,60,49,0,4,8,97,0,0,0,no
+2020,Mixed Field,Building Connections,Level 1,1,39,22,17,0,0,13,25,1,12,4,23,0,0,0,no
+2020,Mixed Field,Career and Life Planning,Level 2,1,3387,1541,1845,1,0,1861,1494,32,587,157,2643,0,0,0,no
+2020,Mixed Field,Learning Through Internship,Level 2,1,60,25,35,0,1,34,25,0,9,2,25,9,6,9,no
+2020,Mixed Field,Pathways to Work,Level 1,1,129,77,52,0,0,77,52,0,45,13,17,0,54,0,no
+2020,Mixed Field,Preliminary courses,Preliminary,4,87,56,31,0,0,49,38,0,3,8,76,0,0,0,no
+2020,Mixed Field,Project Implementation,Level 2,1,603,441,162,0,20,312,263,8,116,64,423,0,0,0,no
+2020,Mixed Field,Student Directed Inquiry,Level 3,1,25,12,13,0,0,1,24,0,2,0,6,4,6,7,no
+2020,Mixed Field,Work Readiness,Level 2,1,245,125,120,0,0,110,133,2,50,22,112,26,18,17,no
+2020,Science,Biology,Level 3,1,718,209,508,1,0,64,648,6,8,74,191,227,122,96,no
+2020,Science,Chemistry,Level 4,1,517,255,262,0,0,0,512,5,8,84,150,98,99,78,no
+2020,Science,Environmental Science,Level 3,1,248,94,154,0,0,105,141,2,4,15,73,84,36,36,no
+2020,Science,Life Sciences,Level 2,1,517,108,409,0,38,376,100,3,33,42,94,158,110,80,no
+2020,Science,Physical Sciences,Level 2,1,208,118,90,0,109,81,18,0,3,13,40,67,51,34,no
+2020,Science,Physical Sciences,Level 3,1,1094,567,527,0,1,1012,78,3,35,187,366,220,161,125,no
+2020,Science,Physics,Level 4,1,313,235,78,0,0,0,310,3,4,22,84,56,76,71,no
+2020,Science,Preliminary courses,Preliminary,4,52,38,14,0,0,30,22,0,2,2,48,0,0,0,no
+2020,TCE standards (assessment only),TCE standards (assessment only),Level 2,4,1874,920,953,1,0,530,1313,31,0,0,1874,0,0,0,no
+2020,Technologies,Agriculture,Level 2,1,52,33,19,0,0,32,19,1,9,7,17,9,7,3,no
+2020,Technologies,Agriculture,Level 3,1,19,10,9,0,0,4,15,0,0,0,2,5,5,7,no
+2020,Technologies,Automotive and Mechanical Technologies,Level 2,1,283,251,32,0,0,169,113,1,49,26,96,65,32,15,no
+2020,Technologies,Computer Applications,Level 1,1,56,25,30,1,0,19,37,0,5,3,48,0,0,0,no
+2020,Technologies,Computer Applications,Level 2,1,391,302,89,0,20,173,192,6,55,61,144,76,0,55,no
+2020,Technologies,Computer Graphics and Design,Level 2,1,272,233,39,0,0,155,117,0,17,31,110,78,22,14,no
+2020,Technologies,Computer Graphics and Design,Level 3,1,128,103,25,0,0,42,83,3,2,10,50,49,11,6,no
+2020,Technologies,Computer Science,Level 3,1,140,131,9,0,1,49,90,0,2,14,35,48,21,20,no
+2020,Technologies,Design and Production,Level 2,1,733,511,222,0,14,367,348,4,86,91,190,197,110,59,no
+2020,Technologies,Electronics,Level 2,1,122,114,8,0,0,66,55,1,16,18,35,31,11,11,no
+2020,Technologies,Electronics,Level 3,1,34,32,2,0,0,7,27,0,2,11,8,5,3,5,no
+2020,Technologies,Engineering Design,Level 2,1,91,86,5,0,0,56,33,2,8,14,20,32,7,10,no
+2020,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1125,675,450,0,21,612,469,23,299,35,791,0,0,0,no
+2020,Technologies,Food and Hospitality Enterprise,Level 2,1,175,71,104,0,0,113,59,3,31,18,41,46,26,13,no
+2020,Technologies,Food and Nutrition,Level 1,1,227,107,120,0,0,121,102,4,64,34,129,0,0,0,no
+2020,Technologies,Food and Nutrition,Level 2,1,497,202,295,0,3,224,265,5,71,41,80,178,73,54,no
+2020,Technologies,Food and Nutrition,Level 3,1,453,123,330,0,0,77,372,4,8,48,91,186,83,37,no
+2020,Technologies,Housing and Design,Level 3,1,286,150,136,0,0,62,222,2,7,19,109,102,37,12,no
+2020,Technologies,Information Systems and Digital Technologies,Level 3,1,27,26,1,0,0,21,6,0,1,1,14,8,2,1,no
+2020,Technologies,Preliminary courses,Preliminary,4,76,46,30,0,0,43,32,1,0,4,72,0,0,0,no
+2020,Technologies,Technical Graphics,Level 2,1,42,36,6,0,0,26,15,1,2,7,9,12,5,7,no
+2020,Technologies,Technical Graphics,Level 3,1,5,3,2,0,0,0,5,0,0,0,1,3,0,1,no
+2020,Technologies,Workshop Techniques,Level 1,1,132,95,37,0,0,87,44,1,28,17,48,20,0,19,no
+2020,The Arts,Dance,Level 1,1,19,3,16,0,0,12,6,1,0,0,4,4,4,7,no
+2020,The Arts,Dance,Level 2,1,60,6,54,0,8,33,19,0,9,1,6,22,9,13,no
+2020,The Arts,Dance,Level 3,1,62,2,60,0,0,32,29,1,0,5,18,24,10,5,no
+2020,The Arts,Drama and Theatre,Level 2,2,178,80,98,0,16,81,79,2,9,5,46,51,35,32,no
+2020,The Arts,Drama and Theatre,Level 3,2,342,144,198,0,0,171,168,3,4,16,92,142,55,33,no
+2020,The Arts,Media,Level 2,1,166,101,65,0,1,97,66,2,26,23,40,45,17,15,no
+2020,The Arts,Media,Level 3,1,180,112,68,0,0,48,129,3,7,7,53,79,21,13,no
+2020,The Arts,Music,Level 2,5,844,438,406,0,29,440,364,11,44,72,165,167,293,103,no
+2020,The Arts,Music,Level 3,1,115,58,57,0,1,58,54,2,2,20,29,34,9,21,no
+2020,The Arts,Preliminary courses,Preliminary,4,100,51,49,0,0,55,45,0,4,7,89,0,0,0,no
+2020,The Arts,Visual Arts,Level 1,1,65,28,37,0,0,41,23,1,5,9,22,10,10,9,no
+2020,The Arts,Visual Arts,Level 2,2,1150,377,773,0,9,572,558,11,98,133,311,291,156,161,no
+2020,The Arts,Visual Arts,Level 3,3,1151,308,841,2,0,402,743,6,37,49,192,494,288,91,no
+2021,English,English,Level 1,2,168,98,69,1,0,122,44,2,34,21,105,4,4,0,yes
+2021,English,English,Level 2,4,2496,1410,1085,1,6,1957,515,18,451,189,953,584,186,133,yes
+2021,English,English,Level 3,4,2653,1013,1638,2,0,1764,878,11,46,93,570,1193,436,315,no
+2021,English,Preliminary courses,Preliminary,4,88,69,19,0,0,50,38,0,3,7,78,0,0,0,yes
+2021,Health and Physical Education,Athlete Development,Level 2,1,565,436,129,0,8,343,214,0,34,55,115,225,63,73,no
+2021,Health and Physical Education,Health Studies,Level 3,1,727,188,538,1,0,275,450,2,50,123,144,254,106,50,no
+2021,Health and Physical Education,Outdoor Education,Level 1,1,218,146,72,0,0,90,128,0,22,13,183,0,0,0,yes
+2021,Health and Physical Education,Outdoor Education,Level 2,1,779,476,302,1,29,510,237,3,58,62,197,235,116,111,no
+2021,Health and Physical Education,Outdoor Education,Level 3,1,302,158,144,0,0,41,260,1,7,18,73,122,54,28,no
+2021,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,95,44,51,0,0,43,51,1,15,8,72,0,0,0,yes
+2021,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,278,44,234,0,0,114,163,1,73,19,48,71,38,29,no
+2021,Health and Physical Education,Preliminary courses,Preliminary,4,70,58,12,0,0,25,45,0,3,7,60,0,0,0,yes
+2021,Health and Physical Education,Sport Science,Level 2,1,165,102,63,0,18,96,51,0,25,20,38,51,22,9,no
+2021,Health and Physical Education,Sport Science,Level 3,1,402,205,197,0,0,119,279,4,16,38,106,142,69,31,no
+2021,Health and Physical Education,Sport and Recreation,Level 1,2,962,689,273,0,0,426,528,8,118,43,801,0,0,0,yes
+2021,Health and Physical Education,Sport and Recreation,Level 2,1,439,275,164,0,0,255,181,3,29,42,146,130,40,52,no
+2021,Humanities and Social Sciences,Accounting,Level 3,1,133,84,49,0,0,21,112,0,7,16,23,55,18,14,no
+2021,Humanities and Social Sciences,Ancient History,Level 3,1,202,80,121,1,0,66,134,2,10,19,59,67,22,25,no
+2021,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,70,34,36,0,0,19,51,0,4,7,17,26,13,3,no
+2021,Humanities and Social Sciences,Business Studies,Level 2,1,337,175,162,0,22,161,152,2,29,33,89,107,31,48,no
+2021,Humanities and Social Sciences,Business Studies,Level 3,1,369,221,148,0,0,100,268,1,7,42,88,141,60,31,no
+2021,Humanities and Social Sciences,Community Access,Level 1,1,58,21,37,0,0,27,30,1,10,9,39,0,0,0,yes
+2021,Humanities and Social Sciences,Community Service Learning,Level 2,1,277,84,192,1,0,177,99,1,31,12,50,83,34,67,no
+2021,Humanities and Social Sciences,Economics,Level 3,1,264,153,111,0,0,13,251,0,2,14,35,133,48,32,no
+2021,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,86,22,64,0,0,72,14,0,2,3,19,29,14,19,no
+2021,Humanities and Social Sciences,Financial Literacy,Level 1,1,142,76,66,0,0,45,95,2,56,13,73,0,0,0,yes
+2021,Humanities and Social Sciences,First Nations Studies,Level 2,1,51,18,33,0,0,27,24,0,21,4,13,8,2,3,no
+2021,Humanities and Social Sciences,First Nations Studies,Level 3,1,70,15,55,0,0,15,55,0,5,2,15,23,16,9,no
+2021,Humanities and Social Sciences,Focus on Children,Level 1,1,8,0,8,0,0,4,4,0,1,0,3,1,2,1,no
+2021,Humanities and Social Sciences,Geography,Level 3,1,171,71,100,0,0,29,142,0,3,18,53,56,26,15,no
+2021,Humanities and Social Sciences,History and the Environment,Level 2,1,108,53,55,0,0,48,57,3,34,7,30,20,9,8,no
+2021,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,580,179,401,0,34,389,154,3,68,62,119,164,62,105,no
+2021,Humanities and Social Sciences,Legal Studies,Level 2,1,255,97,158,0,3,148,103,1,31,30,35,69,62,28,no
+2021,Humanities and Social Sciences,Legal Studies,Level 3,1,293,120,173,0,0,72,220,1,11,13,69,129,39,32,no
+2021,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,83,38,44,1,0,55,27,1,2,0,29,0,52,0,no
+2021,Humanities and Social Sciences,Modern History,Level 3,1,312,141,171,0,0,94,216,2,15,19,92,120,31,35,no
+2021,Humanities and Social Sciences,Philosophy,Level 3,1,240,101,139,0,0,30,210,0,18,17,53,95,20,37,no
+2021,Humanities and Social Sciences,Preliminary courses,Preliminary,4,60,41,19,0,0,24,35,1,4,8,48,0,0,0,yes
+2021,Humanities and Social Sciences,Psychology,Level 3,1,559,128,431,0,0,134,423,2,9,47,170,182,79,72,no
+2021,Humanities and Social Sciences,Religion in Society,Level 2,1,332,184,148,0,0,318,14,0,17,11,119,93,38,54,no
+2021,Humanities and Social Sciences,Road Safety,Level 1,1,574,266,308,0,0,269,293,12,207,87,280,0,0,0,yes
+2021,Humanities and Social Sciences,Road Safety,Level 2,1,142,74,68,0,0,63,74,5,48,17,68,0,1,8,no
+2021,Humanities and Social Sciences,Sociology,Level 3,1,469,99,370,0,0,120,348,1,10,23,121,195,71,49,no
+2021,Humanities and Social Sciences,Studies of Religion,Level 3,1,191,55,136,0,0,133,58,0,3,8,46,77,23,34,no
+2021,Humanities and Social Sciences,Working with Children,Level 2,1,340,27,313,0,0,186,153,1,32,25,72,100,49,62,no
+2021,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,1281,639,642,0,0,773,506,2,77,117,1087,0,0,0,yes
+2021,Languages,Arabic,Level 3,1,31,9,22,0,0,19,12,0,0,2,0,5,16,8,no
+2021,Languages,Chinese,Level 2,1,19,8,11,0,0,12,7,0,0,3,1,4,4,7,no
+2021,Languages,Chinese,Level 3,2,83,43,40,0,0,48,33,2,1,4,16,22,25,15,no
+2021,Languages,Filipino,Level 3,1,3,1,2,0,0,0,2,1,0,0,1,1,0,1,no
+2021,Languages,French,Level 2,1,45,10,35,0,3,23,19,0,2,1,6,8,11,17,no
+2021,Languages,French,Level 3,1,36,8,28,0,0,25,11,0,0,3,6,8,11,8,no
+2021,Languages,German,Level 2,1,17,5,12,0,1,11,5,0,0,1,3,7,2,4,no
+2021,Languages,German,Level 3,1,12,8,4,0,0,5,7,0,0,1,5,2,1,3,no
+2021,Languages,Hungarian,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,no
+2021,Languages,Italian,Level 2,1,21,0,21,0,13,2,5,0,0,1,3,8,4,5,no
+2021,Languages,Italian,Level 3,1,10,0,10,0,0,2,8,0,0,0,2,1,2,5,no
+2021,Languages,Japanese,Level 2,1,145,71,74,0,0,97,48,0,14,15,25,31,23,37,no
+2021,Languages,Japanese,Level 3,2,64,27,37,0,0,24,39,1,2,3,23,12,12,12,no
+2021,Languages,Korean,Level 3,1,3,1,2,0,0,1,2,0,0,0,1,0,2,0,no
+2021,Languages,Persian,Level 3,1,4,0,4,0,0,2,2,0,0,1,0,1,2,0,no
+2021,Languages,Portuguese,Level 3,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,no
+2021,Languages,Russian,Level 3,1,2,0,2,0,0,0,1,1,0,0,1,0,0,1,no
+2021,Languages,Spanish,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,no
+2021,Languages,Vietnamese,Level 3,1,7,2,5,0,0,4,3,0,0,0,5,1,1,0,no
+2021,Mathematics,Mathematics,Level 1,1,155,97,57,1,0,125,29,1,42,11,102,0,0,0,yes
+2021,Mathematics,Mathematics,Level 2,3,3191,1558,1630,3,10,2598,570,13,490,215,1077,832,377,200,yes
+2021,Mathematics,Mathematics,Level 3,2,2354,1203,1151,0,315,1599,432,7,83,277,516,740,371,367,no
+2021,Mathematics,Mathematics,Level 4,2,834,502,332,0,1,388,438,7,10,66,220,247,165,126,no
+2021,Mathematics,Preliminary courses,Preliminary,4,98,73,25,0,0,52,45,1,4,10,84,0,0,0,yes
+2021,Mixed Field,Building Connections,Level 1,1,36,16,20,0,0,18,17,1,4,5,27,0,0,0,yes
+2021,Mixed Field,Career and Life Planning,Level 2,1,3117,1398,1717,2,0,1770,1310,37,466,187,2464,0,0,0,yes
+2021,Mixed Field,Learning Through Internship,Level 2,1,20,5,15,0,12,7,1,0,1,2,6,6,3,2,no
+2021,Mixed Field,Pathways to Work,Level 1,1,114,60,54,0,0,75,37,2,41,8,13,0,52,0,no
+2021,Mixed Field,Preliminary courses,Preliminary,4,55,40,15,0,0,21,33,1,2,8,45,0,0,0,yes
+2021,Mixed Field,Project Implementation,Level 2,1,656,467,189,0,20,295,335,6,126,62,468,0,0,0,yes
+2021,Mixed Field,Student Directed Inquiry,Level 3,1,20,7,13,0,0,3,17,0,0,0,6,5,4,5,no
+2021,Mixed Field,Work Readiness,Level 2,1,166,80,86,0,0,56,110,0,33,13,78,12,11,19,no
+2021,Science,Biology,Level 3,1,819,214,605,0,0,77,736,6,20,82,210,268,143,96,no
+2021,Science,Chemistry,Level 4,1,503,220,283,0,0,2,495,6,6,58,130,102,125,82,no
+2021,Science,Environmental Science,Level 3,1,169,51,118,0,0,61,107,1,7,18,56,57,16,15,no
+2021,Science,Life Sciences,Level 2,1,562,133,429,0,39,419,101,3,46,25,121,178,131,61,no
+2021,Science,Physical Sciences,Level 2,1,221,118,103,0,148,59,14,0,4,10,36,88,45,38,no
+2021,Science,Physical Sciences,Level 3,1,1106,588,518,0,2,1004,96,4,55,172,310,267,156,146,no
+2021,Science,Physics,Level 4,1,294,234,60,0,1,1,291,1,4,18,65,71,73,63,no
+2021,Science,Preliminary courses,Preliminary,4,59,43,16,0,0,23,36,0,5,7,47,0,0,0,yes
+2021,TCE standards (assessment only),TCE standards (assessment only),Level 2,4,1495,735,760,0,0,87,1400,8,0,0,1495,0,0,0,yes
+2021,Technologies,Agriculture,Level 2,1,53,30,23,0,0,33,20,0,8,2,26,12,5,0,no
+2021,Technologies,Agriculture,Level 3,1,35,21,14,0,0,7,27,1,3,2,9,10,4,7,no
+2021,Technologies,Automotive and Mechanical Technologies,Level 2,1,255,221,34,0,0,137,118,0,61,26,96,48,17,7,no
+2021,Technologies,Computer Applications,Level 1,1,52,29,22,1,0,23,29,0,11,3,38,0,0,0,yes
+2021,Technologies,Computer Applications,Level 2,1,338,281,57,0,20,174,140,4,37,59,115,52,0,75,no
+2021,Technologies,Computer Graphics and Design,Level 2,1,239,181,58,0,2,137,98,2,20,23,84,63,32,17,no
+2021,Technologies,Computer Graphics and Design,Level 3,1,139,107,32,0,0,38,101,0,2,7,60,47,16,7,no
+2021,Technologies,Computer Science,Level 3,1,121,110,11,0,0,49,72,0,3,9,36,39,21,13,no
+2021,Technologies,Design and Production,Level 2,1,754,504,250,0,26,405,320,3,91,80,207,179,105,92,no
+2021,Technologies,Electronics,Level 2,1,102,93,9,0,0,53,48,1,12,13,30,14,11,22,no
+2021,Technologies,Electronics,Level 3,1,20,20,0,0,0,3,17,0,1,3,3,9,2,2,no
+2021,Technologies,Engineering Design,Level 2,1,98,92,6,0,0,64,33,1,10,14,26,32,13,3,no
+2021,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,1019,658,360,1,23,594,390,12,253,47,719,0,0,0,yes
+2021,Technologies,Food and Hospitality Enterprise,Level 2,1,180,65,114,1,0,90,89,1,46,15,38,46,19,16,no
+2021,Technologies,Food and Nutrition,Level 1,1,158,89,69,0,0,73,80,5,24,21,113,0,0,0,yes
+2021,Technologies,Food and Nutrition,Level 2,1,500,222,278,0,6,223,266,5,77,64,105,159,50,45,no
+2021,Technologies,Food and Nutrition,Level 3,1,521,158,363,0,0,88,430,3,10,45,87,236,93,50,no
+2021,Technologies,Housing and Design,Level 3,1,232,120,112,0,0,60,171,1,4,21,80,71,44,12,no
+2021,Technologies,Information Systems and Digital Technologies,Level 3,1,75,70,5,0,0,30,45,0,3,3,31,26,8,4,no
+2021,Technologies,Preliminary courses,Preliminary,4,71,51,20,0,0,37,32,2,1,4,66,0,0,0,yes
+2021,Technologies,Technical Graphics,Level 2,1,50,35,15,0,0,36,14,0,4,4,19,15,4,4,no
+2021,Technologies,Technical Graphics,Level 3,1,12,7,5,0,0,8,4,0,0,0,7,4,1,0,no
+2021,Technologies,Workshop Techniques,Level 1,1,202,174,28,0,0,130,72,0,35,19,76,26,0,46,no
+2021,The Arts,Dance,Level 1,1,46,9,37,0,0,22,23,1,1,2,5,12,9,17,no
+2021,The Arts,Dance,Level 2,1,73,8,65,0,5,43,24,1,15,2,18,19,7,12,no
+2021,The Arts,Dance,Level 3,1,64,4,60,0,0,38,26,0,1,3,17,30,8,5,no
+2021,The Arts,Drama and Theatre,Level 2,2,211,101,110,0,6,103,101,1,3,27,39,69,37,36,no
+2021,The Arts,Drama and Theatre,Level 3,2,289,98,191,0,0,136,150,3,4,9,75,118,58,25,no
+2021,The Arts,Media,Level 2,1,176,127,49,0,0,100,73,3,31,15,36,60,15,19,no
+2021,The Arts,Media,Level 3,1,154,93,61,0,0,55,98,1,12,12,43,66,12,9,no
+2021,The Arts,Music,Level 2,5,726,382,344,0,18,390,312,6,32,62,132,174,232,94,no
+2021,The Arts,Music,Level 3,1,83,46,37,0,0,47,36,0,2,17,25,23,9,7,no
+2021,The Arts,Preliminary courses,Preliminary,4,83,52,31,0,0,40,43,0,3,5,75,0,0,0,yes
+2021,The Arts,Visual Arts,Level 1,1,76,31,45,0,0,36,38,2,8,8,27,8,14,11,no
+2021,The Arts,Visual Arts,Level 2,2,1174,391,782,1,19,551,590,14,97,121,255,344,193,164,no
+2021,The Arts,Visual Arts,Level 3,3,1123,293,830,0,0,397,721,5,36,44,200,479,295,69,no
+2022,English,English,Level 1,2,163,91,72,0,0,123,39,1,33,16,105,6,2,1,yes
+2022,English,English,Level 2,4,2500,1380,1115,5,0,1968,513,19,561,183,814,599,211,132,yes
+2022,English,English,Level 3,4,2650,1089,1556,5,0,1861,782,7,74,94,541,1225,428,288,no
+2022,English,Preliminary courses,Preliminary,4,92,65,27,0,0,59,25,8,7,13,72,0,0,0,yes
+2022,Health and Physical Education,Athlete Development,Level 2,1,661,509,152,0,4,427,229,1,49,71,116,242,82,101,no
+2022,Health and Physical Education,Health Studies,Level 3,1,738,207,531,0,0,260,476,2,42,165,131,256,103,41,no
+2022,Health and Physical Education,Outdoor Education,Level 1,1,267,169,98,0,0,145,121,1,27,18,222,0,0,0,yes
+2022,Health and Physical Education,Outdoor Education,Level 2,1,634,400,234,0,0,451,181,2,60,48,161,172,99,94,no
+2022,Health and Physical Education,Outdoor Education,Level 3,1,301,164,136,1,0,50,250,1,10,25,65,126,49,26,no
+2022,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,135,61,73,1,0,69,66,0,43,19,73,0,0,0,yes
+2022,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,279,64,213,2,0,155,119,5,69,21,58,78,22,31,no
+2022,Health and Physical Education,Preliminary courses,Preliminary,4,63,50,13,0,0,36,26,1,3,4,56,0,0,0,yes
+2022,Health and Physical Education,Sport Science,Level 2,1,160,115,45,0,13,91,55,1,19,20,38,52,19,12,no
+2022,Health and Physical Education,Sport Science,Level 3,1,451,228,223,0,0,131,320,0,15,50,93,172,95,26,no
+2022,Health and Physical Education,Sport and Recreation,Level 1,2,1222,831,391,0,0,553,668,1,139,58,1025,0,0,0,yes
+2022,Health and Physical Education,Sport and Recreation,Level 2,1,442,315,127,0,0,252,189,1,65,40,131,118,40,48,no
+2022,Humanities and Social Sciences,Accounting,Level 3,1,142,84,58,0,0,29,113,0,6,10,39,58,17,12,no
+2022,Humanities and Social Sciences,Ancient History,Level 3,1,196,78,117,1,0,75,120,1,14,19,49,77,17,20,no
+2022,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,28,17,11,0,0,2,26,0,1,2,4,10,9,2,no
+2022,Humanities and Social Sciences,Business Studies,Level 2,1,264,141,123,0,0,136,128,0,35,15,55,76,41,42,no
+2022,Humanities and Social Sciences,Business Studies,Level 3,1,430,247,183,0,0,122,308,0,19,50,108,153,71,29,no
+2022,Humanities and Social Sciences,Civics and Citizenship,Level 1,1,5,2,3,0,0,1,4,0,0,0,0,0,0,0,yes
+2022,Humanities and Social Sciences,Community Service Learning,Level 2,1,386,137,249,0,0,337,48,1,45,10,56,108,78,89,no
+2022,Humanities and Social Sciences,Economics,Level 3,1,236,148,88,0,0,28,207,1,2,17,36,118,36,27,no
+2022,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,91,32,59,0,0,78,12,1,13,3,14,28,14,19,no
+2022,Humanities and Social Sciences,Financial Literacy,Level 1,1,457,202,254,1,0,252,193,12,213,34,210,0,0,0,yes
+2022,Humanities and Social Sciences,First Nations Studies,Level 2,1,69,26,43,0,0,33,36,0,20,5,25,13,4,2,no
+2022,Humanities and Social Sciences,First Nations Studies,Level 3,1,78,23,55,0,0,11,67,0,2,10,22,21,16,7,no
+2022,Humanities and Social Sciences,Focus on Children,Level 1,1,13,2,11,0,0,8,4,1,10,0,0,1,2,0,no
+2022,Humanities and Social Sciences,Geography,Level 3,1,147,71,76,0,0,15,131,1,7,8,48,60,18,6,no
+2022,Humanities and Social Sciences,History and the Environment,Level 2,1,102,54,48,0,0,49,53,0,26,9,19,20,12,16,no
+2022,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,673,184,487,2,5,484,182,2,107,70,135,184,74,103,no
+2022,Humanities and Social Sciences,Legal Studies,Level 2,1,302,117,185,0,0,181,116,5,44,50,45,76,35,52,no
+2022,Humanities and Social Sciences,Legal Studies,Level 3,1,268,79,189,0,0,69,199,0,9,19,49,126,47,18,no
+2022,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,212,90,122,0,0,197,15,0,14,9,92,0,97,0,no
+2022,Humanities and Social Sciences,Modern History,Level 3,1,229,98,130,1,0,76,153,0,6,20,72,85,19,27,no
+2022,Humanities and Social Sciences,Philosophy,Level 3,1,216,85,130,1,0,57,159,0,6,16,38,106,19,31,no
+2022,Humanities and Social Sciences,Preliminary courses,Preliminary,4,39,29,10,0,0,22,17,0,3,4,29,0,0,0,yes
+2022,Humanities and Social Sciences,Psychology,Level 3,1,521,125,393,3,0,159,359,3,21,41,137,186,78,58,no
+2022,Humanities and Social Sciences,Religion in Society,Level 2,1,184,109,75,0,0,173,11,0,11,17,67,53,20,16,no
+2022,Humanities and Social Sciences,Road Safety,Level 1,1,241,117,124,0,0,99,135,7,82,41,118,0,0,0,yes
+2022,Humanities and Social Sciences,Road Safety,Level 2,1,74,32,42,0,0,22,47,5,24,4,35,0,3,8,no
+2022,Humanities and Social Sciences,Sociology,Level 3,1,469,110,356,3,0,176,293,0,18,27,101,210,67,46,no
+2022,Humanities and Social Sciences,Studies of Religion,Level 3,1,155,55,100,0,0,123,32,0,6,7,33,59,23,27,no
+2022,Humanities and Social Sciences,Working with Children,Level 2,1,301,18,283,0,0,199,98,4,55,29,54,61,46,56,no
+2022,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,1028,409,616,3,0,692,332,4,108,63,857,0,0,0,yes
+2022,Languages,Auslan,Level 3,1,3,0,3,0,0,2,1,0,0,0,0,0,0,0,yes
+2022,Languages,Chinese,Level 2,1,13,5,8,0,0,13,0,0,0,2,5,1,3,2,no
+2022,Languages,Chinese,Level 3,2,31,17,14,0,0,19,12,0,0,6,7,3,11,4,no
+2022,Languages,Filipino,Level 3,1,3,1,2,0,0,1,2,0,0,0,0,0,0,0,yes
+2022,Languages,French,Level 2,1,50,18,32,0,7,33,9,1,2,5,6,12,11,14,no
+2022,Languages,French,Level 3,1,36,7,29,0,0,21,15,0,0,0,4,11,13,8,no
+2022,Languages,German,Level 2,1,13,5,8,0,0,11,2,0,1,2,2,5,2,1,no
+2022,Languages,German,Level 3,1,9,5,4,0,0,6,3,0,1,0,2,2,3,1,no
+2022,Languages,Italian,Level 2,1,15,4,11,0,1,7,7,0,1,1,3,3,2,5,no
+2022,Languages,Italian,Level 3,1,19,5,14,0,1,12,6,0,0,0,1,4,6,8,no
+2022,Languages,Japanese,Level 2,1,163,89,74,0,0,102,59,2,21,23,37,33,16,33,no
+2022,Languages,Japanese,Level 3,1,76,37,39,0,0,36,40,0,2,13,21,16,13,11,no
+2022,Languages,Korean,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,0,0,yes
+2022,Languages,Modern Greek,Level 3,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,yes
+2022,Languages,Persian,Level 3,1,4,0,4,0,0,1,3,0,0,0,0,0,0,0,yes
+2022,Languages,Polish,Level 3,1,2,2,0,0,0,0,2,0,0,0,0,0,0,0,yes
+2022,Languages,Spanish,Level 3,1,5,4,1,0,0,1,4,0,0,0,0,0,0,0,yes
+2022,Languages,Tamil,Level 3,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,yes
+2022,Languages,Vietnamese,Level 3,1,3,2,1,0,0,1,2,0,0,0,0,0,0,0,yes
+2022,Mathematics,Mathematics,Level 1,1,125,70,55,0,0,99,26,0,36,4,85,0,0,0,yes
+2022,Mathematics,Mathematics,Level 2,3,3259,1564,1689,6,0,2749,493,17,540,233,1077,843,369,197,yes
+2022,Mathematics,Mathematics,Level 3,2,2316,1159,1154,3,323,1600,384,9,96,255,466,770,374,355,no
+2022,Mathematics,Mathematics,Level 4,2,847,509,338,0,6,395,444,2,9,69,193,321,117,138,no
+2022,Mathematics,Preliminary courses,Preliminary,4,104,68,36,0,0,67,33,4,12,17,75,0,0,0,yes
+2022,Mixed Field,Building Connections,Level 1,1,28,9,19,0,0,17,10,1,10,2,16,0,0,0,yes
+2022,Mixed Field,Career and Life Planning,Level 2,1,3098,1434,1660,4,0,1781,1299,18,460,204,2434,0,0,0,yes
+2022,Mixed Field,Enterprise at Work,Level 2,1,19,13,6,0,0,12,5,2,6,2,8,1,0,2,no
+2022,Mixed Field,Learning Through Internship,Level 2,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,yes
+2022,Mixed Field,Pathways to Work,Level 1,1,91,42,48,1,0,51,39,1,25,10,21,0,35,0,no
+2022,Mixed Field,Preliminary courses,Preliminary,4,71,54,17,0,0,31,37,3,6,7,53,0,0,0,yes
+2022,Mixed Field,Project Implementation,Level 2,1,580,419,160,1,0,302,273,5,110,90,380,0,0,0,yes
+2022,Mixed Field,Student Directed Inquiry,Level 3,1,20,13,7,0,0,0,20,0,1,5,3,8,1,2,no
+2022,Mixed Field,Work Readiness,Level 2,1,200,91,109,0,0,106,93,1,71,12,69,7,23,18,no
+2022,Science,Biology,Level 3,1,737,202,534,1,1,80,652,4,11,107,198,245,100,76,no
+2022,Science,Chemistry,Level 4,1,472,230,242,0,0,3,464,5,12,68,107,88,105,92,no
+2022,Science,Environmental Science,Level 3,1,186,78,108,0,0,72,113,1,6,21,61,61,20,17,no
+2022,Science,Life Sciences,Level 2,1,495,131,363,1,0,406,86,3,52,38,88,169,86,62,no
+2022,Science,Physical Sciences,Level 2,1,85,39,46,0,33,41,11,0,7,4,16,23,18,17,no
+2022,Science,Physical Sciences,Level 3,1,1121,621,498,2,2,1022,93,4,47,169,304,297,156,148,no
+2022,Science,Physics,Level 4,1,294,228,66,0,1,1,290,2,1,19,81,70,62,61,no
+2022,Science,Preliminary courses,Preliminary,4,37,29,8,0,0,15,22,0,3,7,27,0,0,0,yes
+2022,Science,Science (general),Level 1,1,6,5,1,0,0,3,2,1,3,2,0,0,0,1,no
+2022,Science,Science (general),Level 2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,yes
+2022,Technologies,Agriculture,Level 2,1,23,7,16,0,0,14,9,0,7,1,11,3,1,0,no
+2022,Technologies,Agriculture,Level 3,1,20,9,11,0,0,4,16,0,0,7,3,5,4,1,no
+2022,Technologies,Automotive and Mechanical Technologies,Level 2,1,321,267,53,1,0,200,121,0,85,39,111,62,20,4,no
+2022,Technologies,Computer Applications,Level 1,1,36,26,10,0,0,17,19,0,7,4,25,0,0,0,yes
+2022,Technologies,Computer Applications,Level 2,1,241,209,32,0,0,138,98,5,51,46,63,37,0,44,no
+2022,Technologies,Computer Graphics and Design,Level 2,1,250,198,51,1,0,159,88,3,29,19,70,85,26,21,no
+2022,Technologies,Computer Graphics and Design,Level 3,1,130,96,34,0,0,46,84,0,3,12,42,51,14,8,no
+2022,Technologies,Computer Science,Level 3,1,142,125,17,0,0,67,73,2,9,10,46,37,20,20,no
+2022,Technologies,Design and Production,Level 2,1,746,463,282,1,0,419,321,6,110,58,163,207,118,90,no
+2022,Technologies,Electronics,Level 2,1,101,97,4,0,0,74,26,1,8,11,25,17,14,26,no
+2022,Technologies,Electronics,Level 3,1,38,36,2,0,0,7,30,1,1,4,6,14,6,7,no
+2022,Technologies,Engineering Design,Level 2,1,109,100,8,1,0,70,39,0,9,11,25,32,19,13,no
+2022,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,716,459,257,0,0,461,248,7,217,49,450,0,0,0,yes
+2022,Technologies,Food and Hospitality Enterprise,Level 2,1,148,59,89,0,0,85,60,3,19,12,33,45,19,20,no
+2022,Technologies,Food and Nutrition,Level 1,1,194,96,98,0,0,104,89,1,44,11,139,0,0,0,yes
+2022,Technologies,Food and Nutrition,Level 2,1,553,234,319,0,0,260,293,0,124,41,79,176,81,52,no
+2022,Technologies,Food and Nutrition,Level 3,1,540,161,378,1,0,112,427,1,9,46,101,257,85,42,no
+2022,Technologies,Housing and Design,Level 3,1,273,139,134,0,0,77,195,1,9,32,79,105,37,11,no
+2022,Technologies,Information Systems and Digital Technologies,Level 3,1,37,33,4,0,0,15,22,0,0,3,19,13,2,0,no
+2022,Technologies,Preliminary courses,Preliminary,4,45,30,15,0,0,29,16,0,2,0,43,0,0,0,yes
+2022,Technologies,Workshop Techniques,Level 1,1,193,158,34,1,0,111,81,1,39,11,79,30,0,34,no
+2022,The Arts,Dance,Level 1,1,58,9,48,1,0,34,24,0,2,0,1,16,7,32,no
+2022,The Arts,Dance,Level 2,1,38,3,35,0,0,24,13,1,6,0,8,13,7,4,no
+2022,The Arts,Dance,Level 3,1,53,8,45,0,0,28,25,0,0,1,17,21,8,6,no
+2022,The Arts,Drama and Theatre,Level 2,2,183,83,98,2,0,97,85,1,9,21,38,58,26,31,no
+2022,The Arts,Drama and Theatre,Level 3,2,300,112,188,0,0,151,148,1,1,16,81,120,61,21,no
+2022,The Arts,Media,Level 2,1,154,106,48,0,0,86,64,4,15,12,40,53,21,13,no
+2022,The Arts,Media,Level 3,1,132,85,47,0,0,26,104,2,7,16,33,57,12,7,no
+2022,The Arts,Music,Level 2,5,741,377,364,0,7,406,324,4,62,78,134,147,236,84,no
+2022,The Arts,Music,Level 3,1,67,38,29,0,0,38,29,0,1,11,15,21,9,10,no
+2022,The Arts,Preliminary courses,Preliminary,4,66,34,32,0,0,48,18,0,7,9,50,0,0,0,yes
+2022,The Arts,Visual Arts,Level 1,1,75,19,56,0,0,48,23,4,17,9,12,9,16,12,no
+2022,The Arts,Visual Arts,Level 2,2,1241,435,799,7,0,668,561,12,155,135,271,355,179,146,no
+2022,The Arts,Visual Arts,Level 3,3,1127,260,860,7,0,396,724,7,37,42,230,468,274,76,no
+2023,English,English,Level 1,2,110,69,40,1,0,82,27,1,28,10,28,22,11,11,no
+2023,English,English,Level 2,4,2375,1256,1108,11,0,1861,506,8,525,158,794,601,168,129,yes
+2023,English,English,Level 3,4,2767,1057,1700,10,0,1889,873,5,80,99,565,1288,449,286,no
+2023,English,Preliminary courses,Preliminary,4,127,85,42,0,0,85,42,0,23,4,100,0,0,0,yes
+2023,Health and Physical Education,Athlete Development,Level 2,1,629,474,155,0,1,399,229,0,57,63,101,228,64,116,no
+2023,Health and Physical Education,Health Studies,Level 3,1,792,222,569,1,0,289,499,4,55,116,148,291,127,55,no
+2023,Health and Physical Education,Outdoor Education,Level 1,1,383,262,121,0,0,201,182,0,36,25,322,0,0,0,yes
+2023,Health and Physical Education,Outdoor Education,Level 2,1,726,419,305,2,0,525,198,3,72,45,157,193,92,167,no
+2023,Health and Physical Education,Outdoor Education,Level 3,1,289,170,119,0,0,44,244,1,19,34,59,107,46,24,no
+2023,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,142,58,83,1,0,74,67,1,29,22,91,0,0,0,yes
+2023,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,252,60,192,0,0,119,132,1,82,9,35,66,26,34,no
+2023,Health and Physical Education,Preliminary courses,Preliminary,4,69,47,22,0,0,35,34,0,8,8,53,0,0,0,yes
+2023,Health and Physical Education,Sport Science,Level 2,1,143,94,49,0,0,82,61,0,18,15,43,41,20,6,no
+2023,Health and Physical Education,Sport Science,Level 3,1,477,261,215,1,0,162,315,0,17,40,93,212,85,30,no
+2023,Health and Physical Education,Sport and Recreation,Level 1,2,1614,1135,476,3,0,797,816,1,191,95,1328,0,0,0,yes
+2023,Health and Physical Education,Sport and Recreation,Level 2,1,426,276,150,0,0,285,138,3,59,36,144,107,40,40,no
+2023,Humanities and Social Sciences,Accounting,Level 3,1,128,70,58,0,0,29,99,0,3,12,37,39,22,15,no
+2023,Humanities and Social Sciences,Ancient History,Level 3,1,225,98,126,1,0,98,125,2,24,24,62,79,15,21,no
+2023,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,89,42,47,0,0,16,73,0,1,2,19,43,18,6,no
+2023,Humanities and Social Sciences,Business Studies,Level 2,1,359,198,161,0,0,182,176,1,67,25,78,90,44,55,no
+2023,Humanities and Social Sciences,Business Studies,Level 3,1,429,250,179,0,0,128,301,0,13,40,119,174,44,39,no
+2023,Humanities and Social Sciences,Community Service Learning,Level 2,1,224,82,142,0,0,208,16,0,21,4,35,68,32,64,no
+2023,Humanities and Social Sciences,Economics,Level 3,1,258,151,106,1,0,19,237,2,11,14,52,118,36,27,no
+2023,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,25,11,14,0,0,9,15,1,2,6,5,5,5,2,no
+2023,Humanities and Social Sciences,Financial Literacy,Level 1,1,126,49,77,0,0,57,69,0,25,15,86,0,0,0,yes
+2023,Humanities and Social Sciences,First Nations Studies,Level 2,1,69,31,38,0,0,44,25,0,20,5,26,13,2,3,no
+2023,Humanities and Social Sciences,First Nations Studies,Level 3,1,80,26,54,0,0,16,63,1,2,3,25,32,13,5,no
+2023,Humanities and Social Sciences,Focus on Children,Level 1,1,6,1,5,0,0,3,3,0,0,0,3,3,0,0,no
+2023,Humanities and Social Sciences,Geography,Level 3,1,91,42,47,2,0,18,73,0,2,7,36,25,12,9,no
+2023,Humanities and Social Sciences,History and the Environment,Level 2,1,106,59,47,0,0,50,55,1,27,11,22,30,7,9,no
+2023,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,621,176,442,3,0,461,156,4,124,56,105,167,76,93,no
+2023,Humanities and Social Sciences,Legal Studies,Level 2,1,325,120,205,0,0,215,108,2,51,38,60,94,42,40,no
+2023,Humanities and Social Sciences,Legal Studies,Level 3,1,278,92,185,1,0,71,207,0,11,14,62,114,56,21,no
+2023,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,78,32,46,0,0,76,2,0,3,4,39,0,32,0,no
+2023,Humanities and Social Sciences,Modern History,Level 3,1,276,129,145,2,0,92,182,2,15,21,88,99,26,27,no
+2023,Humanities and Social Sciences,Philosophy,Level 3,1,195,81,111,3,0,34,161,0,9,12,43,82,32,17,no
+2023,Humanities and Social Sciences,Preliminary courses,Preliminary,4,23,15,8,0,0,18,5,0,0,2,14,0,0,0,yes
+2023,Humanities and Social Sciences,Psychology,Level 3,1,537,124,410,3,0,144,389,4,22,45,137,181,87,65,no
+2023,Humanities and Social Sciences,Religion in Society,Level 2,1,383,195,187,1,0,366,17,0,26,22,118,135,33,49,no
+2023,Humanities and Social Sciences,Road Safety,Level 1,1,216,99,117,0,0,87,129,0,33,39,144,0,0,0,yes
+2023,Humanities and Social Sciences,Road Safety,Level 2,1,64,31,33,0,0,20,42,2,8,3,49,0,2,2,no
+2023,Humanities and Social Sciences,Sociology,Level 3,1,452,87,364,1,0,158,293,1,24,14,104,194,73,43,no
+2023,Humanities and Social Sciences,Studies of Religion,Level 3,1,181,48,133,0,0,109,71,1,6,11,35,68,29,32,no
+2023,Humanities and Social Sciences,Working with Children,Level 2,1,316,20,292,4,0,191,123,2,59,17,57,85,38,60,no
+2023,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,272,124,147,1,0,232,40,0,44,9,219,0,0,0,yes
+2023,Languages,Auslan,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,yes
+2023,Languages,Chinese,Level 2,1,25,8,16,1,0,18,7,0,2,3,2,4,4,10,no
+2023,Languages,Chinese,Level 3,2,33,14,19,0,0,17,15,1,1,0,5,3,9,15,no
+2023,Languages,Filipino,Level 3,1,9,6,3,0,0,4,4,1,0,0,3,4,1,1,no
+2023,Languages,French,Level 2,1,72,23,49,0,0,38,34,0,3,3,10,15,12,29,no
+2023,Languages,French,Level 3,1,34,10,24,0,0,18,16,0,0,0,3,9,16,6,no
+2023,Languages,German,Level 2,1,17,10,7,0,0,12,5,0,0,1,7,6,2,1,no
+2023,Languages,German,Level 3,1,3,1,2,0,0,1,2,0,0,0,0,0,0,0,yes
+2023,Languages,Hindi,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,0,0,yes
+2023,Languages,Italian,Level 2,1,11,1,10,0,0,6,5,0,1,2,0,1,1,6,no
+2023,Languages,Italian,Level 3,1,8,2,6,0,0,2,6,0,0,1,0,2,1,4,no
+2023,Languages,Japanese,Level 2,1,140,62,78,0,1,82,57,0,8,9,32,29,33,29,no
+2023,Languages,Japanese,Level 3,2,59,29,30,0,0,30,28,1,2,4,21,12,10,8,yes
+2023,Languages,Korean,Level 3,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,yes
+2023,Languages,Nepali,Level 3,1,2,0,2,0,0,1,1,0,0,0,0,0,0,0,yes
+2023,Languages,Persian,Level 3,1,4,1,3,0,0,1,2,1,0,0,0,0,0,0,yes
+2023,Languages,Polish,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,0,0,yes
+2023,Languages,Punjabi,Level 3,1,2,1,1,0,0,2,0,0,0,0,0,0,0,0,yes
+2023,Languages,Spanish,Level 3,1,4,3,1,0,0,2,2,0,0,0,0,0,0,0,yes
+2023,Languages,Tamil,Level 3,1,2,1,1,0,0,2,0,0,0,0,0,0,0,0,yes
+2023,Languages,Vietnamese,Level 3,1,6,3,3,0,0,3,3,0,0,1,4,1,0,0,no
+2023,Mathematics,Mathematics,Level 1,2,111,70,39,2,0,85,25,1,41,5,38,22,5,0,no
+2023,Mathematics,Mathematics,Level 2,4,3332,1563,1754,15,0,2756,570,6,556,230,1100,817,335,294,yes
+2023,Mathematics,Mathematics,Level 3,2,2334,1190,1135,9,316,1677,335,6,69,210,621,738,330,366,no
+2023,Mathematics,Mathematics,Level 4,2,821,525,296,0,10,368,441,2,7,45,212,338,120,99,no
+2023,Mathematics,Preliminary courses,Preliminary,4,125,80,45,0,0,78,47,0,15,9,101,0,0,0,yes
+2023,Mixed Field,Building Connections,Level 1,1,15,3,12,0,0,7,8,0,0,4,11,0,0,0,yes
+2023,Mixed Field,Career and Life Planning,Level 2,1,3098,1449,1636,13,0,1763,1329,6,584,214,2300,0,0,0,yes
+2023,Mixed Field,Enterprise at Work,Level 2,1,25,16,9,0,0,16,9,0,9,6,8,2,0,0,no
+2023,Mixed Field,Learning Through Internship,Level 2,1,18,11,7,0,0,3,15,0,5,4,7,1,1,0,no
+2023,Mixed Field,Pathways to Work,Level 1,1,95,44,50,1,0,51,44,0,32,4,14,0,45,0,no
+2023,Mixed Field,Preliminary courses,Preliminary,4,84,56,28,0,0,36,48,0,7,16,61,0,0,0,yes
+2023,Mixed Field,Project Implementation,Level 2,1,713,448,263,2,0,368,340,5,111,40,562,0,0,0,yes
+2023,Mixed Field,Student Directed Inquiry,Level 3,1,14,3,11,0,0,1,13,0,0,0,5,4,2,3,no
+2023,Mixed Field,Work Readiness,Level 2,1,278,150,127,1,0,136,141,1,76,19,123,23,24,13,no
+2023,Science,Biology,Level 2,1,501,153,347,1,1,392,104,4,47,42,119,166,64,63,no
+2023,Science,Biology,Level 3,1,724,234,485,5,0,90,629,5,28,79,203,253,93,68,no
+2023,Science,Chemistry,Level 4,1,456,236,219,1,0,1,452,3,11,61,86,93,117,88,no
+2023,Science,Environmental Science,Level 3,1,172,57,114,1,0,59,111,2,4,18,54,55,23,18,no
+2023,Science,Physical Sciences,Level 2,1,101,53,48,0,17,70,14,0,12,5,23,22,24,15,no
+2023,Science,Physical Sciences,Level 3,1,1098,587,509,2,3,1009,84,2,61,156,301,298,155,127,no
+2023,Science,Physics,Level 4,1,299,238,61,0,0,0,298,1,5,14,67,82,58,73,no
+2023,Science,Preliminary courses,Preliminary,4,45,24,21,0,0,18,27,0,2,2,41,0,0,0,yes
+2023,Science,Science (general),Level 1,1,13,8,5,0,0,5,8,0,6,2,2,1,2,0,no
+2023,Science,Science (general),Level 2,1,10,7,3,0,6,1,3,0,0,2,1,3,3,1,no
+2023,Science,Science (general),Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,0,0,yes
+2023,Technologies,Agriculture,Level 2,1,73,42,31,0,0,49,24,0,20,8,28,13,4,0,no
+2023,Technologies,Agriculture,Level 3,1,24,17,7,0,0,6,18,0,1,1,7,8,3,4,no
+2023,Technologies,Automotive and Mechanical Technologies,Level 2,1,285,232,52,1,0,199,85,1,71,45,83,58,19,9,no
+2023,Technologies,Computer Applications,Level 2,1,219,174,44,1,0,103,115,1,34,37,60,52,0,36,no
+2023,Technologies,Computer Graphics and Design,Level 2,1,280,205,74,1,0,172,105,3,22,21,75,85,48,29,no
+2023,Technologies,Computer Graphics and Design,Level 3,1,125,93,31,1,0,33,91,1,2,8,41,58,8,8,no
+2023,Technologies,Computer Science,Level 3,1,155,140,13,2,2,57,96,0,7,10,43,54,22,19,no
+2023,Technologies,Design and Production,Level 2,1,774,516,254,4,0,431,340,3,97,71,247,188,102,69,no
+2023,Technologies,Digital Technologies,Level 1,1,36,31,5,0,0,20,15,1,11,4,13,4,1,3,no
+2023,Technologies,Electronics,Level 2,1,134,128,6,0,0,79,54,1,8,16,25,33,20,32,no
+2023,Technologies,Electronics,Level 3,1,37,33,4,0,0,6,31,0,0,8,7,12,3,7,no
+2023,Technologies,Engineering Design,Level 2,1,134,118,15,1,0,84,50,0,24,12,49,28,12,9,no
+2023,Technologies,Engineering Design,Level 3,1,53,46,7,0,0,17,36,0,3,12,9,16,11,2,no
+2023,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,570,352,214,4,0,307,258,5,136,29,405,0,0,0,yes
+2023,Technologies,Food and Hospitality Enterprise,Level 2,1,194,84,110,0,0,112,82,0,44,15,43,57,20,15,no
+2023,Technologies,Food and Nutrition,Level 1,1,188,94,94,0,0,85,103,0,42,10,136,0,0,0,yes
+2023,Technologies,Food and Nutrition,Level 2,1,584,276,305,3,0,294,285,5,87,74,113,188,69,53,no
+2023,Technologies,Food and Nutrition,Level 3,1,473,151,322,0,0,97,373,3,17,45,108,207,61,35,no
+2023,Technologies,Housing and Design,Level 3,1,257,121,136,0,0,77,179,1,9,23,86,95,34,10,no
+2023,Technologies,Information Systems and Digital Technologies,Level 3,1,45,42,3,0,0,21,24,0,2,4,17,17,4,1,no
+2023,Technologies,Preliminary courses,Preliminary,4,49,33,16,0,0,25,24,0,4,1,44,0,0,0,yes
+2023,Technologies,Workshop Techniques,Level 1,1,221,158,62,1,0,149,72,0,43,18,92,34,0,34,no
+2023,The Arts,Arts,Level 1,1,139,41,97,1,0,71,68,0,15,13,24,40,32,15,no
+2023,The Arts,Dance,Level 1,1,2,0,2,0,0,1,1,0,0,0,0,0,0,0,yes
+2023,The Arts,Dance,Level 2,1,42,3,38,1,0,30,12,0,6,2,6,14,9,5,no
+2023,The Arts,Dance,Level 3,1,35,2,33,0,0,16,19,0,0,1,11,13,6,4,no
+2023,The Arts,Drama and Theatre,Level 2,2,223,96,123,4,0,105,114,4,17,20,52,65,37,32,no
+2023,The Arts,Drama and Theatre,Level 3,2,292,108,181,3,0,127,164,1,3,25,77,116,46,25,no
+2023,The Arts,Media,Level 2,1,159,112,46,1,0,73,86,0,15,24,30,58,15,17,no
+2023,The Arts,Media,Level 3,1,157,96,60,1,0,45,110,2,8,20,35,63,18,13,no
+2023,The Arts,Music,Level 2,5,785,400,380,5,0,430,352,3,45,66,133,167,276,98,no
+2023,The Arts,Music,Level 3,1,71,43,27,1,0,42,29,0,4,20,20,19,6,2,no
+2023,The Arts,Preliminary courses,Preliminary,4,59,35,23,1,0,30,29,0,8,2,44,0,0,0,yes
+2023,The Arts,Visual Arts,Level 2,2,1319,384,921,14,0,665,646,8,164,110,252,355,205,233,no
+2023,The Arts,Visual Arts,Level 3,3,1170,286,872,12,0,379,786,5,40,64,215,481,265,105,no
+2024,English,English,Level 1,2,105,55,50,0,0,75,30,0,49,7,22,15,3,9,no
+2024,English,English,Level 2,5,2505,1364,1129,12,0,1951,538,16,547,178,818,601,186,175,yes
+2024,English,English,Level 3,5,2640,949,1677,14,0,1799,838,3,73,75,542,1227,444,279,no
+2024,English,Preliminary courses,Preliminary,4,157,95,62,0,0,118,37,2,26,2,129,0,0,0,yes
+2024,Health and Physical Education,Athlete Development,Level 2,1,592,466,126,0,3,367,222,0,66,54,125,205,62,80,no
+2024,Health and Physical Education,Health Studies,Level 3,1,875,236,637,2,0,361,514,0,46,157,139,313,147,73,no
+2024,Health and Physical Education,Outdoor Education,Level 1,1,460,303,157,0,0,272,187,1,59,29,372,0,0,0,yes
+2024,Health and Physical Education,Outdoor Education,Level 2,1,717,465,251,1,0,498,218,1,72,52,191,213,81,108,no
+2024,Health and Physical Education,Outdoor Education,Level 3,1,327,172,155,0,0,55,272,0,5,30,60,163,47,22,no
+2024,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,152,68,81,3,0,85,65,2,29,20,103,0,0,0,yes
+2024,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,232,47,185,0,0,108,122,2,39,13,39,73,39,29,no
+2024,Health and Physical Education,Preliminary courses,Preliminary,4,80,59,21,0,0,40,39,1,10,3,67,0,0,0,yes
+2024,Health and Physical Education,Sport Science,Level 2,1,231,156,75,0,0,169,62,0,34,23,62,55,44,13,no
+2024,Health and Physical Education,Sport Science,Level 3,1,515,277,238,0,0,113,402,0,11,45,93,208,109,49,no
+2024,Health and Physical Education,Sport and Recreation,Level 1,2,1725,1236,489,0,0,899,817,9,221,97,1407,0,0,0,yes
+2024,Health and Physical Education,Sport and Recreation,Level 2,1,510,350,160,0,0,303,207,0,62,36,172,126,55,59,no
+2024,Humanities and Social Sciences,Accounting,Level 3,1,114,82,32,0,0,24,90,0,3,9,26,35,26,15,no
+2024,Humanities and Social Sciences,Ancient History,Level 3,1,165,71,94,0,0,73,92,0,15,19,46,52,19,14,no
+2024,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,64,33,31,0,0,6,58,0,2,5,16,29,10,2,no
+2024,Humanities and Social Sciences,Business Studies,Level 2,1,389,208,181,0,0,187,201,1,57,30,92,109,42,59,no
+2024,Humanities and Social Sciences,Business Studies,Level 3,1,443,259,184,0,0,120,323,0,9,41,105,174,81,33,no
+2024,Humanities and Social Sciences,Civics and Citizenship,Level 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no
+2024,Humanities and Social Sciences,Community Service Learning,Level 2,1,133,34,99,0,0,109,24,0,8,1,30,42,11,41,no
+2024,Humanities and Social Sciences,Economics,Level 3,1,301,186,115,0,0,32,269,0,6,6,43,150,56,40,no
+2024,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,11,5,6,0,0,5,6,0,4,1,0,4,1,1,no
+2024,Humanities and Social Sciences,Financial Literacy,Level 1,1,1380,693,674,13,0,730,650,0,113,90,1177,0,0,0,yes
+2024,Humanities and Social Sciences,First Nations Studies,Level 2,1,36,12,24,0,0,13,23,0,10,3,12,7,3,1,no
+2024,Humanities and Social Sciences,First Nations Studies,Level 3,1,40,7,32,1,0,11,29,0,2,2,11,11,9,5,no
+2024,Humanities and Social Sciences,Focus on Children,Level 1,1,6,0,6,0,0,3,2,1,1,1,2,2,0,0,no
+2024,Humanities and Social Sciences,Geography,Level 3,1,125,62,63,0,0,25,100,0,5,16,35,36,26,7,no
+2024,Humanities and Social Sciences,History,Level 2,1,144,75,67,2,0,69,74,1,33,11,32,43,15,10,no
+2024,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,632,156,474,2,0,474,157,1,103,55,117,172,77,108,no
+2024,Humanities and Social Sciences,Legal Studies,Level 2,1,315,125,190,0,0,212,102,1,47,33,49,100,34,52,no
+2024,Humanities and Social Sciences,Legal Studies,Level 3,1,264,87,177,0,0,61,203,0,13,21,45,115,45,25,no
+2024,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes
+2024,Humanities and Social Sciences,Modern History,Level 3,1,290,124,165,1,0,120,170,0,12,18,97,103,27,33,no
+2024,Humanities and Social Sciences,Philosophy,Level 3,1,148,52,94,2,0,35,112,1,9,6,25,68,24,16,no
+2024,Humanities and Social Sciences,Preliminary courses,Preliminary,4,18,10,8,0,0,11,7,0,1,3,5,0,0,0,yes
+2024,Humanities and Social Sciences,Psychology,Level 3,1,468,111,354,3,0,103,365,0,17,29,136,152,75,59,no
+2024,Humanities and Social Sciences,Road Safety,Level 1,1,300,156,137,7,0,122,175,3,75,54,171,0,0,0,yes
+2024,Humanities and Social Sciences,Road Safety,Level 2,1,98,46,52,0,0,46,49,3,35,9,36,0,7,11,no
+2024,Humanities and Social Sciences,Sociology,Level 3,1,436,90,346,0,0,146,290,0,15,28,125,141,82,45,no
+2024,Humanities and Social Sciences,Studies of Religion,Level 2,1,538,257,280,1,0,512,26,0,29,36,165,170,74,64,no
+2024,Humanities and Social Sciences,Studies of Religion,Level 3,1,197,64,133,0,0,156,41,0,6,14,38,71,41,27,no
+2024,Humanities and Social Sciences,Working with Children,Level 2,1,377,17,358,2,0,220,156,1,62,22,55,101,55,82,no
+2024,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,281,113,165,3,0,201,72,8,74,15,192,0,0,0,yes
+2024,Languages,Arabic,Level 3,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,yes
+2024,Languages,Chinese,Level 2,1,25,10,15,0,0,17,8,0,2,2,4,4,6,7,no
+2024,Languages,Chinese,Level 3,2,36,12,24,0,0,21,15,0,0,2,8,3,17,6,no
+2024,Languages,Filipino,Level 3,1,5,5,0,0,0,2,3,0,0,0,0,0,0,0,yes
+2024,Languages,French,Level 2,1,71,18,53,0,0,40,31,0,10,9,4,20,13,15,no
+2024,Languages,French,Level 3,1,41,12,29,0,0,22,19,0,0,1,3,6,16,15,no
+2024,Languages,German,Level 2,1,28,9,19,0,0,17,11,0,4,4,6,5,1,8,no
+2024,Languages,German,Level 3,1,13,4,9,0,0,3,10,0,0,2,1,0,2,8,no
+2024,Languages,Hindi,Level 3,1,3,1,2,0,0,1,2,0,0,0,0,0,0,0,yes
+2024,Languages,Italian,Level 2,1,21,1,20,0,6,9,6,0,1,0,4,7,2,7,no
+2024,Languages,Italian,Level 3,1,15,3,12,0,0,8,7,0,0,0,2,3,2,8,no
+2024,Languages,Japanese,Level 2,1,82,38,43,1,0,54,27,1,7,7,13,17,15,23,no
+2024,Languages,Japanese,Level 3,2,62,26,35,1,0,22,37,3,2,9,14,10,13,13,yes
+2024,Languages,Korean,Level 3,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,yes
+2024,Languages,Persian,Level 3,1,4,1,3,0,0,1,3,0,0,0,0,0,0,0,yes
+2024,Languages,Punjabi,Level 3,1,2,1,1,0,0,0,2,0,0,0,0,0,0,0,yes
+2024,Languages,Romanian,Level 3,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,yes
+2024,Languages,Spanish,Level 3,1,4,2,2,0,0,2,2,0,0,0,0,0,0,0,yes
+2024,Languages,Vietnamese,Level 3,1,18,6,12,0,0,10,8,0,2,10,2,3,1,0,no
+2024,Mathematics,Mathematics,Level 1,2,77,38,39,0,0,60,16,1,36,5,15,16,4,1,no
+2024,Mathematics,Mathematics,Level 2,4,3406,1618,1773,15,0,2840,553,13,622,200,1160,848,330,246,yes
+2024,Mathematics,Mathematics,Level 3,2,2258,1071,1181,6,342,1580,331,5,85,168,480,730,405,390,no
+2024,Mathematics,Mathematics,Level 4,2,827,528,296,3,3,382,440,1,16,56,235,290,130,100,no
+2024,Mathematics,Preliminary courses,Preliminary,4,158,96,62,0,0,112,44,2,24,16,118,0,0,0,yes
+2024,Mixed Field,Building Connections,Level 1,1,49,26,21,2,0,25,23,1,14,5,30,0,0,0,yes
+2024,Mixed Field,Career and Life Planning,Level 2,1,1551,755,791,5,0,912,626,13,272,108,1171,0,0,0,yes
+2024,Mixed Field,Enterprise at Work,Level 2,1,31,18,13,0,0,20,11,0,10,2,10,5,1,3,no
+2024,Mixed Field,Learning Through Internship,Level 2,1,12,7,5,0,0,4,8,0,0,1,2,4,5,0,no
+2024,Mixed Field,Pathways to Work,Level 1,1,122,76,46,0,0,68,54,0,46,13,15,0,48,0,no
+2024,Mixed Field,Preliminary courses,Preliminary,4,66,45,21,0,0,22,43,1,4,6,56,0,0,0,yes
+2024,Mixed Field,Project Implementation,Level 2,1,715,412,303,0,0,305,408,2,109,51,555,0,0,0,yes
+2024,Mixed Field,Student Directed Inquiry,Level 3,1,18,6,12,0,0,1,17,0,0,0,4,5,2,7,no
+2024,Mixed Field,Work Readiness,Level 2,1,302,178,124,0,0,164,136,2,71,36,137,30,14,14,no
+2024,Science,Biology,Level 2,1,580,132,444,4,0,470,110,0,35,48,107,194,105,91,no
+2024,Science,Biology,Level 3,1,722,223,498,1,0,102,618,2,17,106,210,191,128,70,no
+2024,Science,Chemistry,Level 4,1,488,238,250,0,0,1,485,2,7,47,107,112,136,79,no
+2024,Science,Environmental Science,Level 3,1,169,63,104,2,0,48,121,0,7,16,58,51,28,9,no
+2024,Science,Physical Sciences,Level 2,1,90,56,33,1,35,43,12,0,2,2,16,35,21,14,no
+2024,Science,Physical Sciences,Level 3,1,1029,548,478,3,4,956,69,0,37,141,264,307,144,136,no
+2024,Science,Physics,Level 4,1,257,203,54,0,0,3,253,1,3,20,69,54,66,45,no
+2024,Science,Preliminary courses,Preliminary,4,43,31,12,0,0,17,25,1,4,3,34,0,0,0,yes
+2024,Science,Science (general),Level 1,1,18,9,8,1,0,11,7,0,9,0,4,5,0,0,no
+2024,Science,Science (general),Level 2,1,3,3,0,0,0,1,2,0,0,0,0,0,0,0,yes
+2024,Science,Science (general),Level 3,1,2,0,2,0,0,1,1,0,0,0,0,0,0,0,yes
+2024,Technologies,Agriculture,Level 2,1,54,28,26,0,0,36,18,0,16,6,20,9,1,2,no
+2024,Technologies,Agriculture,Level 3,1,27,11,16,0,0,13,14,0,4,1,9,7,3,3,no
+2024,Technologies,Automotive and Mechanical Technologies,Level 2,1,367,300,67,0,0,221,145,1,128,44,83,76,27,9,no
+2024,Technologies,Computer Applications,Level 2,1,171,132,39,0,0,79,90,2,32,40,46,30,0,23,no
+2024,Technologies,Computer Graphics and Design,Level 2,1,206,165,39,2,0,126,79,1,27,18,49,66,24,22,no
+2024,Technologies,Computer Graphics and Design,Level 3,1,119,89,27,3,0,20,99,0,5,8,44,44,12,6,no
+2024,Technologies,Computer Science,Level 3,1,123,115,7,1,0,47,75,1,2,13,28,44,22,14,no
+2024,Technologies,Data Science and Digital Solutions,Level 3,1,41,37,4,0,0,13,28,0,0,3,20,12,4,2,no
+2024,Technologies,Design and Production,Level 2,1,845,574,262,9,0,446,399,0,139,116,206,169,115,100,no
+2024,Technologies,Digital Technologies,Level 1,1,34,20,14,0,0,22,9,3,10,6,6,1,3,8,no
+2024,Technologies,Digital Technologies,Level 2,1,80,72,8,0,0,40,38,2,20,2,34,16,5,3,no
+2024,Technologies,Electronics and Advanced Technologies,Level 2,1,110,98,12,0,0,54,55,1,15,13,38,18,10,16,no
+2024,Technologies,Electronics and Advanced Technologies,Level 3,1,27,26,1,0,0,8,19,0,0,3,5,8,6,5,no
+2024,Technologies,Engineering Design,Level 2,1,101,85,15,1,0,59,40,2,15,8,36,25,9,8,no
+2024,Technologies,Engineering Design,Level 3,1,57,51,6,0,0,6,51,0,6,6,16,12,10,7,no
+2024,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,591,346,239,6,0,353,232,6,209,18,364,0,0,0,yes
+2024,Technologies,Food and Hospitality Enterprise,Level 2,1,209,92,116,1,0,95,114,0,47,17,39,52,33,21,no
+2024,Technologies,Food and Nutrition,Level 1,1,224,121,103,0,0,131,93,0,75,22,127,0,0,0,yes
+2024,Technologies,Food and Nutrition,Level 2,1,729,364,363,2,0,362,363,4,144,91,128,205,81,80,no
+2024,Technologies,Food and Nutrition,Level 3,1,542,196,345,1,0,97,445,0,15,56,111,232,79,49,no
+2024,Technologies,Housing and Design,Level 3,1,280,131,149,0,0,70,210,0,6,27,105,100,31,11,no
+2024,Technologies,Preliminary courses,Preliminary,4,82,63,19,0,0,49,32,1,11,9,62,0,0,0,yes
+2024,Technologies,Workshop Techniques,Level 1,1,219,166,53,0,0,130,89,0,56,20,76,22,0,45,no
+2024,The Arts,Arts,Level 1,1,216,70,145,1,0,126,90,0,37,20,39,64,25,31,no
+2024,The Arts,Dance,Level 2,1,58,4,53,1,2,37,18,1,11,4,6,22,6,9,no
+2024,The Arts,Dance,Level 3,1,31,1,30,0,0,19,12,0,0,1,12,8,7,3,no
+2024,The Arts,Drama and Theatre,Level 2,2,208,75,126,7,0,104,103,1,17,21,51,50,30,39,no
+2024,The Arts,Drama and Theatre,Level 3,2,241,82,157,2,0,109,132,0,1,12,79,91,35,23,no
+2024,The Arts,Media,Level 2,1,122,76,44,2,0,63,59,0,20,11,20,51,13,7,no
+2024,The Arts,Media,Level 3,1,122,73,49,0,0,34,88,0,6,21,26,42,14,13,no
+2024,The Arts,Music,Level 2,5,750,375,373,2,0,402,345,3,76,63,125,160,229,97,no
+2024,The Arts,Music,Level 3,1,44,29,15,0,0,20,24,0,2,8,13,15,3,3,no
+2024,The Arts,Preliminary courses,Preliminary,4,38,24,14,0,0,24,14,0,3,2,30,0,0,0,yes
+2024,The Arts,Visual Arts,Level 2,2,1325,370,939,16,0,580,739,6,195,126,278,344,177,205,no
+2024,The Arts,Visual Arts,Level 3,3,1186,287,881,18,0,392,788,6,34,52,244,479,253,124,no
+2025,English,English,Level 1,2,105,56,49,0,0,76,29,0,24,8,30,25,9,9,no
+2025,English,English,Level 2,5,2543,1382,1147,14,0,1998,539,6,458,180,882,650,199,174,no
+2025,English,English,Level 3,5,2751,1058,1681,12,0,1951,796,4,46,100,555,1339,454,257,no
+2025,English,Preliminary courses,Preliminary,4,166,98,68,0,0,107,58,1,23,14,129,0,0,0,no
+2025,Health and Physical Education,Athlete Development,Level 2,1,672,552,120,0,3,427,241,1,79,53,148,238,60,94,no
+2025,Health and Physical Education,Health Studies,Level 3,1,842,225,616,1,0,330,510,2,22,142,126,327,160,65,no
+2025,Health and Physical Education,Outdoor Education,Level 1,1,411,269,142,0,0,178,232,1,33,34,344,0,0,0,no
+2025,Health and Physical Education,Outdoor Education,Level 2,1,752,459,291,2,0,508,244,0,75,50,176,188,117,146,no
+2025,Health and Physical Education,Outdoor Education,Level 3,1,306,163,143,0,0,53,253,0,7,22,69,119,66,23,no
+2025,Health and Physical Education,Personal Health and Wellbeing,Level 1,1,87,37,49,1,0,40,47,0,9,11,67,0,0,0,no
+2025,Health and Physical Education,Personal Health and Wellbeing,Level 2,1,326,61,264,1,0,107,218,1,49,22,44,108,54,49,no
+2025,Health and Physical Education,Preliminary courses,Preliminary,4,94,65,29,0,0,48,44,2,8,6,80,0,0,0,no
+2025,Health and Physical Education,Sport Science,Level 2,1,198,122,76,0,0,144,53,1,13,17,49,63,18,38,no
+2025,Health and Physical Education,Sport Science,Level 3,1,481,240,241,0,0,93,384,4,10,57,113,150,114,37,no
+2025,Health and Physical Education,Sport and Recreation,Level 1,2,1708,1250,456,2,0,759,946,3,218,116,1374,0,0,0,no
+2025,Health and Physical Education,Sport and Recreation,Level 2,1,495,364,131,0,0,296,199,0,77,49,151,111,56,51,no
+2025,Humanities and Social Sciences,Accounting,Level 3,1,117,80,37,0,0,19,98,0,4,6,23,54,19,11,no
+2025,Humanities and Social Sciences,Ancient History,Level 3,1,253,107,145,1,0,110,143,0,14,23,71,83,29,33,no
+2025,Humanities and Social Sciences,Australia in Asia and the Pacific,Level 3,1,58,29,29,0,0,8,50,0,0,1,21,20,12,4,no
+2025,Humanities and Social Sciences,Business Studies,Level 2,1,376,186,189,1,0,179,196,1,52,23,85,115,39,62,no
+2025,Humanities and Social Sciences,Business Studies,Level 3,1,466,248,218,0,0,155,311,0,18,46,149,171,52,30,no
+2025,Humanities and Social Sciences,Community Service Learning,Level 2,1,157,66,90,1,0,149,8,0,32,3,27,39,17,39,no
+2025,Humanities and Social Sciences,Economics,Level 3,1,212,137,75,0,0,22,189,1,2,7,40,88,43,32,no
+2025,Humanities and Social Sciences,Exploring Issues in Society,Level 2,1,31,11,20,0,0,11,20,0,7,2,4,11,5,2,no
+2025,Humanities and Social Sciences,Financial Literacy,Level 1,1,166,67,98,1,0,78,84,4,28,36,102,0,0,0,no
+2025,Humanities and Social Sciences,First Nations Studies,Level 2,1,12,5,7,0,0,7,5,0,1,0,6,3,0,2,no
+2025,Humanities and Social Sciences,First Nations Studies,Level 3,1,44,5,39,0,0,5,39,0,1,4,8,17,10,4,no
+2025,Humanities and Social Sciences,Focus on Children,Level 1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,yes
+2025,Humanities and Social Sciences,Geography,Level 3,1,100,44,56,0,0,23,77,0,2,10,23,35,23,7,no
+2025,Humanities and Social Sciences,History,Level 2,1,209,119,90,0,0,122,86,1,31,26,47,59,19,27,no
+2025,Humanities and Social Sciences,Introduction to Sociology and Psychology,Level 2,1,615,145,468,2,0,418,197,0,83,45,118,174,80,115,no
+2025,Humanities and Social Sciences,Legal Studies,Level 2,1,318,121,196,1,0,195,123,0,42,32,47,84,50,63,no
+2025,Humanities and Social Sciences,Legal Studies,Level 3,1,367,107,258,2,0,95,271,1,8,12,66,148,74,59,no
+2025,Humanities and Social Sciences,Making Moral Decisions,Level 2,1,55,28,27,0,0,37,16,2,5,5,16,0,29,0,no
+2025,Humanities and Social Sciences,Modern History,Level 3,1,249,121,127,1,0,84,165,0,13,14,70,91,26,35,no
+2025,Humanities and Social Sciences,Philosophy,Level 3,1,160,59,99,2,0,41,119,0,8,10,37,63,27,15,no
+2025,Humanities and Social Sciences,Preliminary courses,Preliminary,4,24,14,10,0,0,14,10,0,0,0,14,0,0,0,yes
+2025,Humanities and Social Sciences,Psychology,Level 3,1,602,91,509,2,0,146,455,1,15,45,165,213,105,59,no
+2025,Humanities and Social Sciences,Road Safety,Level 1,1,347,170,176,1,0,118,228,1,73,72,202,0,0,0,no
+2025,Humanities and Social Sciences,Road Safety,Level 2,1,107,51,54,2,0,37,70,0,48,8,31,0,4,16,no
+2025,Humanities and Social Sciences,Sociology,Level 3,1,403,87,315,1,0,137,266,0,12,11,104,180,53,43,no
+2025,Humanities and Social Sciences,Studies of Religion,Level 2,1,536,265,270,1,0,510,26,0,22,20,168,195,62,69,no
+2025,Humanities and Social Sciences,Studies of Religion,Level 3,1,213,77,136,0,0,188,25,0,2,24,67,62,32,26,no
+2025,Humanities and Social Sciences,Working with Children,Level 2,1,438,23,413,2,0,254,184,0,73,27,65,121,64,88,no
+2025,Humanities and Social Sciences,"You, Your Family and the Community",Level 1,1,304,136,166,2,0,242,60,2,66,5,233,0,0,0,no
+2025,Languages,Chinese,Level 2,1,8,4,4,0,0,4,4,0,0,1,1,1,1,4,no
+2025,Languages,Chinese,Level 3,1,22,12,10,0,0,13,9,0,0,0,1,4,10,7,no
+2025,Languages,French,Level 2,1,59,19,40,0,0,36,23,0,9,2,3,10,11,24,no
+2025,Languages,French,Level 3,1,31,8,23,0,0,14,17,0,1,0,2,4,14,10,no
+2025,Languages,German,Level 2,1,22,10,12,0,0,13,9,0,2,0,6,4,2,8,no
+2025,Languages,German,Level 3,1,11,4,7,0,0,9,2,0,0,1,2,1,2,5,no
+2025,Languages,Italian,Level 2,1,14,5,8,1,0,12,2,0,1,2,1,3,2,5,no
+2025,Languages,Italian,Level 3,1,5,1,4,0,0,2,3,0,0,0,0,0,0,0,yes
+2025,Languages,Japanese,Level 2,1,105,57,47,1,0,58,47,0,13,12,13,16,22,29,no
+2025,Languages,Japanese,Level 3,1,53,25,28,0,0,34,19,0,3,3,6,17,17,7,no
+2025,Mathematics,Mathematics,Level 1,2,108,52,56,0,0,71,37,0,22,7,29,38,5,7,no
+2025,Mathematics,Mathematics,Level 2,4,3366,1621,1729,16,0,2857,499,10,508,181,1131,935,323,288,no
+2025,Mathematics,Mathematics,Level 3,2,2393,1195,1191,7,380,1686,326,1,53,196,508,795,388,453,no
+2025,Mathematics,Mathematics,Level 4,2,818,530,284,4,6,366,439,6,6,86,191,296,127,112,no
+2025,Mathematics,Preliminary courses,Preliminary,4,173,105,67,1,0,111,61,1,13,20,140,0,0,0,no
+2025,Mixed Field,Building Connections,Level 1,1,70,36,34,0,0,37,33,0,19,2,49,0,0,0,no
+2025,Mixed Field,Career and Life Planning,Level 2,1,2623,1243,1369,11,0,1462,1156,5,225,193,2205,0,0,0,no
+2025,Mixed Field,Enterprise at Work,Level 2,1,23,17,6,0,0,6,17,0,1,2,11,7,1,1,no
+2025,Mixed Field,Learning Through Internship,Level 2,1,44,25,19,0,0,27,17,0,5,3,18,9,5,4,no
+2025,Mixed Field,Pathways to Work,Level 1,1,113,66,47,0,0,75,38,0,38,7,22,0,46,0,no
+2025,Mixed Field,Preliminary courses,Preliminary,4,92,49,43,0,0,55,37,0,5,6,81,0,0,0,no
+2025,Mixed Field,Project Implementation,Level 2,1,621,363,258,0,0,295,326,0,70,46,505,0,0,0,no
+2025,Mixed Field,Student Directed Inquiry,Level 3,1,21,9,11,1,0,2,19,0,0,0,7,10,2,2,no
+2025,Mixed Field,Work Readiness,Level 2,1,228,117,109,2,0,103,125,0,50,20,110,27,13,8,no
+2025,Science,Biology,Level 2,1,672,168,501,3,0,530,141,1,35,53,116,219,136,113,no
+2025,Science,Biology,Level 3,1,717,212,502,3,0,129,582,6,10,92,199,204,128,84,no
+2025,Science,Chemistry,Level 4,1,436,195,238,3,0,2,429,5,10,43,98,101,111,73,no
+2025,Science,Environmental Science,Level 3,1,179,60,117,2,0,57,120,2,2,11,55,72,20,19,no
+2025,Science,Physical Sciences,Level 2,1,85,43,42,0,33,36,16,0,3,3,18,40,11,10,no
+2025,Science,Physical Sciences,Level 3,1,1105,566,532,7,2,1036,66,1,40,155,321,275,177,137,no
+2025,Science,Physics,Level 4,1,273,219,54,0,0,5,265,3,2,21,70,69,60,51,no
+2025,Science,Preliminary courses,Preliminary,4,33,20,13,0,0,12,21,0,1,1,29,0,0,0,yes
+2025,Science,Science (general),Level 1,1,3,1,2,0,0,1,2,0,0,0,0,0,0,0,yes
+2025,Science,Science (general),Level 2,1,7,4,3,0,0,7,0,0,3,2,2,0,0,0,no
+2025,Technologies,Agriculture,Level 2,1,50,32,18,0,0,26,24,0,17,8,8,8,7,2,no
+2025,Technologies,Agriculture,Level 3,1,24,14,10,0,0,5,19,0,0,3,7,9,4,1,no
+2025,Technologies,Automotive and Mechanical Technologies,Level 2,1,423,365,58,0,0,254,169,0,84,53,158,81,28,19,no
+2025,Technologies,Computer Applications,Level 2,1,163,145,18,0,0,76,87,0,28,34,56,27,0,18,no
+2025,Technologies,Computer Graphics and Design,Level 2,1,190,147,42,1,0,103,87,0,13,23,64,57,13,20,no
+2025,Technologies,Computer Graphics and Design,Level 3,1,121,82,39,0,0,40,80,1,4,6,47,40,17,7,no
+2025,Technologies,Computer Science,Level 3,1,107,90,16,1,0,38,68,1,4,16,25,30,18,14,no
+2025,Technologies,Data Science and Digital Solutions,Level 3,1,15,13,1,1,0,6,9,0,1,1,3,7,2,1,no
+2025,Technologies,Design and Production,Level 2,1,940,594,341,5,0,475,463,2,100,120,228,246,133,113,no
+2025,Technologies,Digital Technologies,Level 1,1,21,11,10,0,0,14,7,0,10,1,3,3,2,2,no
+2025,Technologies,Digital Technologies,Level 2,1,41,34,7,0,0,20,20,1,5,8,9,10,6,3,no
+2025,Technologies,Electronics and Advanced Technologies,Level 2,1,100,94,6,0,0,71,29,0,7,10,25,39,7,12,no
+2025,Technologies,Electronics and Advanced Technologies,Level 3,1,16,14,2,0,0,2,14,0,0,3,3,4,4,2,no
+2025,Technologies,Engineering Design,Level 2,1,108,94,14,0,0,68,40,0,11,12,30,20,15,20,no
+2025,Technologies,Engineering Design,Level 3,1,55,45,9,1,0,13,42,0,1,6,13,13,12,10,no
+2025,Technologies,Essential Skills - Using Computers and the Internet,Level 2,1,567,358,208,1,0,353,211,3,184,29,354,0,0,0,no
+2025,Technologies,Food and Hospitality Enterprise,Level 2,1,204,88,115,1,0,116,87,1,26,39,42,50,28,19,no
+2025,Technologies,Food and Nutrition,Level 1,1,244,145,99,0,0,158,83,3,63,19,162,0,0,0,no
+2025,Technologies,Food and Nutrition,Level 2,1,837,396,440,1,0,363,474,0,116,87,136,281,102,115,no
+2025,Technologies,Food and Nutrition,Level 3,1,590,180,410,0,0,139,451,0,2,33,133,278,101,43,no
+2025,Technologies,Housing and Design,Level 3,1,275,126,149,0,0,59,214,2,6,22,106,83,49,9,no
+2025,Technologies,Preliminary courses,Preliminary,4,102,69,33,0,0,55,44,3,15,9,78,0,0,0,no
+2025,Technologies,Workshop Techniques,Level 1,1,159,121,37,1,0,110,47,2,47,16,42,21,0,33,no
+2025,The Arts,Arts,Level 1,1,217,73,142,2,0,118,97,2,22,14,55,56,34,36,no
+2025,The Arts,Dance,Level 2,1,48,2,45,1,0,28,20,0,7,3,14,14,4,6,no
+2025,The Arts,Dance,Level 3,1,70,4,65,1,0,34,35,1,1,5,21,24,9,10,no
+2025,The Arts,Drama and Theatre,Level 2,2,166,65,99,2,0,76,89,1,9,24,32,46,27,28,no
+2025,The Arts,Drama and Theatre,Level 3,2,248,68,178,2,0,107,141,0,1,12,77,94,48,16,no
+2025,The Arts,Media,Level 2,1,111,62,49,0,0,48,63,0,10,14,26,33,12,16,no
+2025,The Arts,Media,Level 3,1,137,61,76,0,0,40,97,0,6,9,29,64,15,14,no
+2025,The Arts,Music,Level 2,5,756,423,328,5,0,415,338,3,59,61,160,142,237,97,no
+2025,The Arts,Music,Level 3,1,51,31,20,0,0,32,18,1,0,13,16,12,3,7,no
+2025,The Arts,Preliminary courses,Preliminary,4,66,33,33,0,0,34,32,0,8,7,48,0,0,0,yes
+2025,The Arts,Visual Arts,Level 2,2,1216,376,827,13,0,568,646,2,116,109,255,347,195,194,no
+2025,The Arts,Visual Arts,Level 3,3,1047,216,824,7,0,369,678,0,32,48,240,411,225,87,yes

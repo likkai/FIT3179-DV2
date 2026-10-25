@@ -1,0 +1,2424 @@
+year,student_group,subject_type,subject_id,subject_name,unit1,unit2,unit3,unit4,short_course,is_preliminary
+2027,All,General,23,Aboriginal & Torres Strait Islander Studies,82,81,75,75,,yes
+2027,Female,General,23,Aboriginal & Torres Strait Islander Studies,75,74,69,69,,yes
+2027,Male,General,23,Aboriginal & Torres Strait Islander Studies,7,7,6,6,,yes
+2027,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,58,58,55,55,,yes
+2027,All,General,60,Accounting,2651,2604,2598,2598,,yes
+2027,Female,General,60,Accounting,1207,1187,1185,1185,,yes
+2027,Male,General,60,Accounting,1444,1417,1413,1413,,yes
+2027,Indigenous,General,60,Accounting,54,51,49,49,,yes
+2027,All,General,55,Aerospace Systems,221,219,219,219,,yes
+2027,Female,General,55,Aerospace Systems,40,38,38,38,,yes
+2027,Male,General,55,Aerospace Systems,181,181,181,181,,yes
+2027,Indigenous,General,55,Aerospace Systems,6,6,6,6,,yes
+2027,All,General,51,Agricultural Science,431,423,423,423,,yes
+2027,Female,General,51,Agricultural Science,258,254,255,254,,yes
+2027,Male,General,51,Agricultural Science,173,169,168,169,,yes
+2027,Indigenous,General,51,Agricultural Science,23,23,23,23,,yes
+2027,All,General,20,Ancient History,3135,3135,3139,3134,,yes
+2027,Female,General,20,Ancient History,2032,2032,2036,2032,,yes
+2027,Male,General,20,Ancient History,1101,1101,1101,1100,,yes
+2027,Indigenous,General,20,Ancient History,154,154,154,154,,yes
+2027,All,General,42,Biology,16913,16754,16762,16756,,yes
+2027,Female,General,42,Biology,11777,11680,11686,11683,,yes
+2027,Male,General,42,Biology,5133,5071,5073,5070,,yes
+2027,Indigenous,General,42,Biology,655,646,645,645,,yes
+2027,All,General,66,Business,5633,5594,5595,5595,,yes
+2027,Female,General,66,Business,2668,2659,2658,2658,,yes
+2027,Male,General,66,Business,2965,2935,2937,2937,,yes
+2027,Indigenous,General,66,Business,217,214,214,214,,yes
+2027,All,General,40,Chemistry,12712,12608,12607,12606,,yes
+2027,Female,General,40,Chemistry,7203,7139,7141,7140,,yes
+2027,Male,General,40,Chemistry,5506,5466,5463,5463,,yes
+2027,Indigenous,General,40,Chemistry,272,266,266,266,,yes
+2027,All,General,11,Chinese,655,652,650,650,,yes
+2027,Female,General,11,Chinese,306,304,304,304,,yes
+2027,Male,General,11,Chinese,348,347,345,345,,yes
+2027,Indigenous,General,11,Chinese,3,3,3,3,,yes
+2027,All,General,85,Dance,793,786,786,786,,yes
+2027,Female,General,85,Dance,763,756,756,756,,yes
+2027,Male,General,85,Dance,30,30,30,30,,yes
+2027,Indigenous,General,85,Dance,37,36,36,36,,yes
+2027,All,General,48,Design,3476,3461,3460,3459,,yes
+2027,Female,General,48,Design,1754,1746,1745,1744,,yes
+2027,Male,General,48,Design,1722,1715,1715,1715,,yes
+2027,Indigenous,General,48,Design,114,109,109,109,,yes
+2027,All,General,49,Digital Solutions,1594,1595,1594,1594,,yes
+2027,Female,General,49,Digital Solutions,299,302,302,302,,yes
+2027,Male,General,49,Digital Solutions,1294,1292,1291,1291,,yes
+2027,Indigenous,General,49,Digital Solutions,37,37,37,37,,yes
+2027,All,General,88,Drama,2354,2355,2357,2354,,yes
+2027,Female,General,88,Drama,1671,1673,1675,1672,,yes
+2027,Male,General,88,Drama,683,682,682,682,,yes
+2027,Indigenous,General,88,Drama,114,113,113,113,,yes
+2027,All,General,43,Earth & Environmental Science,173,163,163,163,,yes
+2027,Female,General,43,Earth & Environmental Science,77,75,75,75,,yes
+2027,Male,General,43,Earth & Environmental Science,96,88,88,88,,yes
+2027,Indigenous,General,43,Earth & Environmental Science,20,17,17,17,,yes
+2027,All,General,27,Economics,5845,5822,5824,5824,,yes
+2027,Female,General,27,Economics,2370,2366,2368,2368,,yes
+2027,Male,General,27,Economics,3475,3456,3456,3456,,yes
+2027,Indigenous,General,27,Economics,74,72,71,71,,yes
+2027,All,General,74,Engineering,3330,3313,3312,3312,,yes
+2027,Female,General,74,Engineering,632,637,637,637,,yes
+2027,Male,General,74,Engineering,2698,2676,2675,2675,,yes
+2027,Indigenous,General,74,Engineering,45,45,45,45,,yes
+2027,All,General,1,English,33052,32874,32865,32866,,yes
+2027,Female,General,1,English,17669,17581,17579,17580,,yes
+2027,Male,General,1,English,15380,15290,15283,15283,,yes
+2027,Indigenous,General,1,English,1374,1355,1354,1354,,yes
+2027,All,General,3,English as an Additional Language,1313,1314,1313,1313,,yes
+2027,Female,General,3,English as an Additional Language,664,667,666,666,,yes
+2027,Male,General,3,English as an Additional Language,649,647,647,647,,yes
+2027,Indigenous,General,3,English as an Additional Language,13,13,13,13,,yes
+2027,All,General Extension,2,English & Literature Extension,,,25,25,,yes
+2027,Female,General Extension,2,English & Literature Extension,,,19,19,,yes
+2027,Male,General Extension,2,English & Literature Extension,,,6,6,,yes
+2027,All,General,93,"Film, Television & New Media",2333,2347,2347,2347,,yes
+2027,Female,General,93,"Film, Television & New Media",1177,1192,1192,1192,,yes
+2027,Male,General,93,"Film, Television & New Media",1155,1154,1154,1154,,yes
+2027,Indigenous,General,93,"Film, Television & New Media",104,104,104,104,,yes
+2027,All,General,69,Food & Nutrition,977,974,974,974,,yes
+2027,Female,General,69,Food & Nutrition,727,726,726,726,,yes
+2027,Male,General,69,Food & Nutrition,250,248,248,248,,yes
+2027,Indigenous,General,69,Food & Nutrition,43,41,41,41,,yes
+2027,All,General,5,French,897,888,888,888,,yes
+2027,Female,General,5,French,668,662,662,662,,yes
+2027,Male,General,5,French,229,226,226,226,,yes
+2027,Indigenous,General,5,French,4,4,4,4,,yes
+2027,All,General Extension,15,French Extension,,,1,1,,yes
+2027,Female,General Extension,15,French Extension,,,1,1,,yes
+2027,All,General,52,General Mathematics,25185,25172,25131,25131,,yes
+2027,Female,General,52,General Mathematics,13924,13903,13898,13898,,yes
+2027,Male,General,52,General Mathematics,11260,11268,11232,11232,,yes
+2027,Indigenous,General,52,General Mathematics,1313,1292,1290,1290,,yes
+2027,All,General,24,Geography,3007,3026,3026,3024,,yes
+2027,Female,General,24,Geography,1596,1596,1597,1595,,yes
+2027,Male,General,24,Geography,1410,1429,1428,1428,,yes
+2027,Indigenous,General,24,Geography,110,103,103,103,,yes
+2027,All,General,6,German,402,400,400,400,,yes
+2027,Female,General,6,German,267,267,267,267,,yes
+2027,Male,General,6,German,135,133,133,133,,yes
+2027,Indigenous,General,6,German,5,5,5,5,,yes
+2027,All,General,67,Health,2911,2891,2882,2882,,yes
+2027,Female,General,67,Health,2344,2337,2335,2335,,yes
+2027,Male,General,67,Health,567,554,547,547,,yes
+2027,Indigenous,General,67,Health,123,122,120,120,,yes
+2027,All,General,8,Italian,176,175,175,175,,yes
+2027,Female,General,8,Italian,135,135,135,135,,yes
+2027,Male,General,8,Italian,41,40,40,40,,yes
+2027,Indigenous,General,8,Italian,2,2,2,2,,yes
+2027,All,General,9,Japanese,1440,1423,1423,1423,,yes
+2027,Female,General,9,Japanese,849,844,845,845,,yes
+2027,Male,General,9,Japanese,591,579,578,578,,yes
+2027,Indigenous,General,9,Japanese,38,36,35,35,,yes
+2027,All,General,29,Legal Studies,6887,6818,6829,6824,,yes
+2027,Female,General,29,Legal Studies,4675,4630,4637,4634,,yes
+2027,Male,General,29,Legal Studies,2211,2187,2191,2189,,yes
+2027,Indigenous,General,29,Legal Studies,317,310,312,312,,yes
+2027,All,General,26,Literature,9502,9468,9468,9468,,yes
+2027,Female,General,26,Literature,6631,6618,6621,6621,,yes
+2027,Male,General,26,Literature,2865,2844,2841,2841,,yes
+2027,Indigenous,General,26,Literature,251,249,247,247,,yes
+2027,All,General,47,Marine Science,1125,1109,1112,1112,,yes
+2027,Female,General,47,Marine Science,699,687,690,690,,yes
+2027,Male,General,47,Marine Science,426,422,422,422,,yes
+2027,Indigenous,General,47,Marine Science,55,54,54,54,,yes
+2027,All,General,53,Mathematical Methods,18175,17790,17790,17790,,yes
+2027,Female,General,53,Mathematical Methods,8688,8503,8509,8509,,yes
+2027,Male,General,53,Mathematical Methods,9481,9281,9275,9275,,yes
+2027,Indigenous,General,53,Mathematical Methods,321,310,309,309,,yes
+2027,All,General,21,Modern History,5975,5959,5959,5954,,yes
+2027,Female,General,21,Modern History,3626,3616,3621,3614,,yes
+2027,Male,General,21,Modern History,2349,2343,2338,2340,,yes
+2027,Indigenous,General,21,Modern History,253,247,247,247,,yes
+2027,All,General,91,Music,2216,2209,2206,2204,,yes
+2027,Female,General,91,Music,1124,1117,1114,1113,,yes
+2027,Male,General,91,Music,1090,1090,1090,1089,,yes
+2027,Indigenous,General,91,Music,94,91,91,91,,yes
+2027,All,General Extension,94,Music Extension — Performance,,,1,1,,yes
+2027,Female,General Extension,94,Music Extension — Performance,,,1,1,,yes
+2027,All,General,33,Philosophy & Reason,1343,1333,1333,1333,,yes
+2027,Female,General,33,Philosophy & Reason,874,863,863,863,,yes
+2027,Male,General,33,Philosophy & Reason,468,469,469,469,,yes
+2027,Indigenous,General,33,Philosophy & Reason,34,32,32,32,,yes
+2027,All,General,68,Physical Education,6582,6548,6545,6541,,yes
+2027,Female,General,68,Physical Education,2866,2855,2856,2852,,yes
+2027,Male,General,68,Physical Education,3715,3692,3688,3688,,yes
+2027,Indigenous,General,68,Physical Education,331,327,329,326,,yes
+2027,All,General,41,Physics,11295,11193,11199,11193,,yes
+2027,Female,General,41,Physics,3947,3919,3922,3920,,yes
+2027,Male,General,41,Physics,7347,7273,7276,7272,,yes
+2027,Indigenous,General,41,Physics,185,181,182,181,,yes
+2027,All,General,79,Psychology,8545,8440,8435,8435,,yes
+2027,Female,General,79,Psychology,6582,6500,6495,6495,,yes
+2027,Male,General,79,Psychology,1960,1937,1937,1937,,yes
+2027,Indigenous,General,79,Psychology,307,301,300,300,,yes
+2027,All,General,18,Spanish,378,377,377,377,,yes
+2027,Female,General,18,Spanish,242,241,241,241,,yes
+2027,Male,General,18,Spanish,136,136,136,136,,yes
+2027,Indigenous,General,18,Spanish,12,12,12,12,,yes
+2027,All,General,54,Specialist Mathematics,6722,6684,6683,6682,,yes
+2027,Female,General,54,Specialist Mathematics,2757,2736,2740,2739,,yes
+2027,Male,General,54,Specialist Mathematics,3964,3947,3942,3942,,yes
+2027,Indigenous,General,54,Specialist Mathematics,76,75,75,75,,yes
+2027,All,General,86,Study of Religion,5041,5010,5009,5008,,yes
+2027,Female,General,86,Study of Religion,3045,3022,3023,3023,,yes
+2027,Male,General,86,Study of Religion,1995,1987,1985,1984,,yes
+2027,Indigenous,General,86,Study of Religion,134,132,132,132,,yes
+2027,All,General,80,Visual Art,4363,4339,4339,4335,,yes
+2027,Female,General,80,Visual Art,3521,3507,3504,3503,,yes
+2027,Male,General,80,Visual Art,841,831,834,831,,yes
+2027,Indigenous,General,80,Visual Art,267,260,259,260,,yes
+2027,All,Applied,6400,Agricultural Practices,1170,1169,1161,1161,,yes
+2027,Female,Applied,6400,Agricultural Practices,507,509,505,505,,yes
+2027,Male,Applied,6400,Agricultural Practices,663,660,656,656,,yes
+2027,Indigenous,Applied,6400,Agricultural Practices,218,217,212,212,,yes
+2027,All,Applied,6401,Aquatic Practices,4379,4371,4370,4370,,yes
+2027,Female,Applied,6401,Aquatic Practices,1613,1624,1625,1625,,yes
+2027,Male,Applied,6401,Aquatic Practices,2766,2747,2745,2745,,yes
+2027,Indigenous,Applied,6401,Aquatic Practices,692,684,683,683,,yes
+2027,All,Applied,6410,Arts in Practice,508,506,500,500,,yes
+2027,Female,Applied,6410,Arts in Practice,346,346,347,347,,yes
+2027,Male,Applied,6410,Arts in Practice,159,157,150,150,,yes
+2027,Indigenous,Applied,6410,Arts in Practice,73,73,73,73,,yes
+2027,All,Applied,6416,Building & Construction Skills,2254,2240,2236,2236,,yes
+2027,Female,Applied,6416,Building & Construction Skills,294,292,293,293,,yes
+2027,Male,Applied,6416,Building & Construction Skills,1960,1948,1943,1943,,yes
+2027,Indigenous,Applied,6416,Building & Construction Skills,243,239,239,239,,yes
+2027,All,Applied,6402,Business Studies,2207,2154,2066,2066,,yes
+2027,Female,Applied,6402,Business Studies,970,953,905,905,,yes
+2027,Male,Applied,6402,Business Studies,1235,1199,1159,1159,,yes
+2027,Indigenous,Applied,6402,Business Studies,183,179,164,164,,yes
+2027,All,Applied,6411,Dance in Practice,325,324,324,324,,yes
+2027,Female,Applied,6411,Dance in Practice,299,298,298,298,,yes
+2027,Male,Applied,6411,Dance in Practice,26,26,26,26,,yes
+2027,Indigenous,Applied,6411,Dance in Practice,41,41,41,41,,yes
+2027,All,Applied,6412,Drama in Practice,647,638,636,636,,yes
+2027,Female,Applied,6412,Drama in Practice,423,413,411,411,,yes
+2027,Male,Applied,6412,Drama in Practice,223,224,224,224,,yes
+2027,Indigenous,Applied,6412,Drama in Practice,69,66,66,66,,yes
+2027,All,Applied,6403,Early Childhood Studies,1904,1883,1882,1882,,yes
+2027,Female,Applied,6403,Early Childhood Studies,1788,1769,1768,1768,,yes
+2027,Male,Applied,6403,Early Childhood Studies,116,114,114,114,,yes
+2027,Indigenous,Applied,6403,Early Childhood Studies,307,305,303,303,,yes
+2027,All,Applied,6417,Engineering Skills,2585,2574,2574,2574,,yes
+2027,Female,Applied,6417,Engineering Skills,307,305,305,305,,yes
+2027,Male,Applied,6417,Engineering Skills,2278,2269,2269,2269,,yes
+2027,Indigenous,Applied,6417,Engineering Skills,300,297,297,297,,yes
+2027,All,Applied,6121,Essential English,21061,20986,20882,20880,,yes
+2027,Female,Applied,6121,Essential English,8001,7964,7926,7926,,yes
+2027,Male,Applied,6121,Essential English,13047,13009,12943,12941,,yes
+2027,Indigenous,Applied,6121,Essential English,2865,2838,2810,2810,,yes
+2027,All,Applied,6140,Essential Mathematics,20381,20374,20238,20235,,yes
+2027,Female,Applied,6140,Essential Mathematics,9461,9458,9388,9387,,yes
+2027,Male,Applied,6140,Essential Mathematics,10903,10899,10833,10831,,yes
+2027,Indigenous,Applied,6140,Essential Mathematics,2793,2774,2737,2737,,yes
+2027,All,Applied,6404,Fashion,773,766,763,763,,yes
+2027,Female,Applied,6404,Fashion,728,719,716,716,,yes
+2027,Male,Applied,6404,Fashion,45,47,47,47,,yes
+2027,Indigenous,Applied,6404,Fashion,58,58,58,58,,yes
+2027,All,Applied,6418,Furnishing Skills,4568,4543,4534,4532,,yes
+2027,Female,Applied,6418,Furnishing Skills,841,835,834,834,,yes
+2027,Male,Applied,6418,Furnishing Skills,3727,3708,3700,3698,,yes
+2027,Indigenous,Applied,6418,Furnishing Skills,547,537,532,532,,yes
+2027,All,Applied,6405,Hospitality Practices,4669,4639,4615,4615,,yes
+2027,Female,Applied,6405,Hospitality Practices,2671,2651,2636,2636,,yes
+2027,Male,Applied,6405,Hospitality Practices,1997,1987,1978,1978,,yes
+2027,Indigenous,Applied,6405,Hospitality Practices,661,654,645,645,,yes
+2027,All,Applied,6419,Industrial Graphics Skills,1290,1279,1277,1277,,yes
+2027,Female,Applied,6419,Industrial Graphics Skills,213,215,214,214,,yes
+2027,Male,Applied,6419,Industrial Graphics Skills,1077,1064,1063,1063,,yes
+2027,Indigenous,Applied,6419,Industrial Graphics Skills,107,106,106,106,,yes
+2027,All,Applied,6420,Industrial Technology Skills,2956,2951,2923,2923,,yes
+2027,Female,Applied,6420,Industrial Technology Skills,425,435,427,427,,yes
+2027,Male,Applied,6420,Industrial Technology Skills,2531,2516,2496,2496,,yes
+2027,Indigenous,Applied,6420,Industrial Technology Skills,259,262,256,256,,yes
+2027,All,Applied,6406,Information & Communication Technology,859,851,836,836,,yes
+2027,Female,Applied,6406,Information & Communication Technology,178,181,178,178,,yes
+2027,Male,Applied,6406,Information & Communication Technology,680,669,657,657,,yes
+2027,Indigenous,Applied,6406,Information & Communication Technology,81,80,80,80,,yes
+2027,All,Applied,6413,Media Arts in Practice,1498,1492,1495,1495,,yes
+2027,Female,Applied,6413,Media Arts in Practice,750,742,743,743,,yes
+2027,Male,Applied,6413,Media Arts in Practice,743,745,747,747,,yes
+2027,Indigenous,Applied,6413,Media Arts in Practice,185,184,184,184,,yes
+2027,All,Applied,6414,Music in Practice,1225,1209,1202,1202,,yes
+2027,Female,Applied,6414,Music in Practice,512,514,513,513,,yes
+2027,Male,Applied,6414,Music in Practice,712,694,688,688,,yes
+2027,Indigenous,Applied,6414,Music in Practice,155,152,150,150,,yes
+2027,All,Applied,6408,Religion & Ethics,8722,8795,8978,8977,,yes
+2027,Female,Applied,6408,Religion & Ethics,4072,4092,4135,4134,,yes
+2027,Male,Applied,6408,Religion & Ethics,4649,4702,4842,4842,,yes
+2027,Indigenous,Applied,6408,Religion & Ethics,555,559,576,576,,yes
+2027,All,Applied,6421,Science in Practice,3258,3234,3140,3139,,yes
+2027,Female,Applied,6421,Science in Practice,1490,1480,1423,1423,,yes
+2027,Male,Applied,6421,Science in Practice,1762,1748,1711,1710,,yes
+2027,Indigenous,Applied,6421,Science in Practice,369,365,347,347,,yes
+2027,All,Applied,6409,Social & Community Studies,5541,5502,5418,5417,,yes
+2027,Female,Applied,6409,Social & Community Studies,3056,3038,3003,3002,,yes
+2027,Male,Applied,6409,Social & Community Studies,2471,2450,2402,2402,,yes
+2027,Indigenous,Applied,6409,Social & Community Studies,761,753,733,732,,yes
+2027,All,Applied,6407,Sport & Recreation,11149,11133,11098,11097,,yes
+2027,Female,Applied,6407,Sport & Recreation,3034,3040,3029,3029,,yes
+2027,Male,Applied,6407,Sport & Recreation,8114,8092,8068,8067,,yes
+2027,Indigenous,Applied,6407,Sport & Recreation,1482,1467,1457,1457,,yes
+2027,All,Applied,6422,Tourism,2375,2310,2282,2282,,yes
+2027,Female,Applied,6422,Tourism,1478,1441,1422,1422,,yes
+2027,Male,Applied,6422,Tourism,897,869,860,860,,yes
+2027,Indigenous,Applied,6422,Tourism,225,217,215,215,,yes
+2027,All,Applied,6415,Visual Arts in Practice,5453,5446,5042,5041,,yes
+2027,Female,Applied,6415,Visual Arts in Practice,3788,3789,3582,3582,,yes
+2027,Male,Applied,6415,Visual Arts in Practice,1651,1643,1455,1454,,yes
+2027,Indigenous,Applied,6415,Visual Arts in Practice,937,933,851,851,,yes
+2027,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,11,yes
+2027,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,7,yes
+2027,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,4,yes
+2027,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,3,yes
+2027,All,Short Courses,6099,Career Education,,,,,147,yes
+2027,Female,Short Courses,6099,Career Education,,,,,82,yes
+2027,Male,Short Courses,6099,Career Education,,,,,65,yes
+2027,Indigenous,Short Courses,6099,Career Education,,,,,11,yes
+2027,All,Short Courses,6095,Literacy,,,,,322,yes
+2027,Female,Short Courses,6095,Literacy,,,,,74,yes
+2027,Male,Short Courses,6095,Literacy,,,,,248,yes
+2027,Indigenous,Short Courses,6095,Literacy,,,,,71,yes
+2027,All,Short Courses,6096,Numeracy,,,,,212,yes
+2027,Female,Short Courses,6096,Numeracy,,,,,52,yes
+2027,Male,Short Courses,6096,Numeracy,,,,,160,yes
+2027,Indigenous,Short Courses,6096,Numeracy,,,,,58,yes
+2026,All,General,23,Aboriginal & Torres Strait Islander Studies,96,97,92,89,,yes
+2026,Female,General,23,Aboriginal & Torres Strait Islander Studies,79,76,71,69,,yes
+2026,Male,General,23,Aboriginal & Torres Strait Islander Studies,17,21,21,20,,yes
+2026,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,67,63,59,57,,yes
+2026,All,General,60,Accounting,2725,2486,2243,2200,,yes
+2026,Female,General,60,Accounting,1238,1118,1001,978,,yes
+2026,Male,General,60,Accounting,1487,1368,1242,1222,,yes
+2026,Indigenous,General,60,Accounting,57,47,39,39,,yes
+2026,All,General,55,Aerospace Systems,210,192,181,179,,yes
+2026,Female,General,55,Aerospace Systems,33,30,29,27,,yes
+2026,Male,General,55,Aerospace Systems,177,162,152,152,,yes
+2026,Indigenous,General,55,Aerospace Systems,4,3,3,3,,yes
+2026,All,General,51,Agricultural Science,434,405,365,359,,yes
+2026,Female,General,51,Agricultural Science,274,255,234,231,,yes
+2026,Male,General,51,Agricultural Science,160,150,131,128,,yes
+2026,Indigenous,General,51,Agricultural Science,28,20,15,15,,yes
+2026,All,General,20,Ancient History,3333,3187,2997,2929,,yes
+2026,Female,General,20,Ancient History,2163,2074,1947,1908,,yes
+2026,Male,General,20,Ancient History,1167,1111,1048,1019,,yes
+2026,Indigenous,General,20,Ancient History,182,159,135,129,,yes
+2026,All,General,42,Biology,16690,15302,13929,13731,,yes
+2026,Female,General,42,Biology,11595,10610,9626,9490,,yes
+2026,Male,General,42,Biology,5092,4689,4300,4238,,yes
+2026,Indigenous,General,42,Biology,614,508,416,411,,yes
+2026,All,General,66,Business,5687,5321,4924,4818,,yes
+2026,Female,General,66,Business,2764,2575,2387,2331,,yes
+2026,Male,General,66,Business,2923,2746,2537,2487,,yes
+2026,Indigenous,General,66,Business,193,157,131,126,,yes
+2026,All,General,40,Chemistry,11771,10954,9895,9783,,yes
+2026,Female,General,40,Chemistry,6485,5962,5333,5265,,yes
+2026,Male,General,40,Chemistry,5284,4990,4561,4517,,yes
+2026,Indigenous,General,40,Chemistry,282,219,182,180,,yes
+2026,All,General,11,Chinese,673,666,602,577,,yes
+2026,Female,General,11,Chinese,333,325,292,280,,yes
+2026,Male,General,11,Chinese,340,341,310,297,,yes
+2026,Indigenous,General,11,Chinese,6,6,5,5,,yes
+2026,All,General Extension,56,Chinese Extension,,,50,50,,yes
+2026,Female,General Extension,56,Chinese Extension,,,20,20,,yes
+2026,Male,General Extension,56,Chinese Extension,,,30,30,,yes
+2026,All,General,85,Dance,795,749,704,683,,yes
+2026,Female,General,85,Dance,771,724,680,660,,yes
+2026,Male,General,85,Dance,24,25,24,23,,yes
+2026,Indigenous,General,85,Dance,39,30,28,27,,yes
+2026,All,General,48,Design,3570,3351,3146,3068,,yes
+2026,Female,General,48,Design,1868,1786,1703,1666,,yes
+2026,Male,General,48,Design,1701,1564,1442,1401,,yes
+2026,Indigenous,General,48,Design,99,88,84,79,,yes
+2026,All,General,49,Digital Solutions,1581,1505,1408,1381,,yes
+2026,Female,General,49,Digital Solutions,295,281,260,257,,yes
+2026,Male,General,49,Digital Solutions,1286,1224,1148,1124,,yes
+2026,Indigenous,General,49,Digital Solutions,25,27,28,28,,yes
+2026,All,General,88,Drama,2321,2241,2101,2064,,yes
+2026,Female,General,88,Drama,1601,1537,1454,1430,,yes
+2026,Male,General,88,Drama,718,702,645,632,,yes
+2026,Indigenous,General,88,Drama,134,120,115,111,,yes
+2026,All,General,43,Earth & Environmental Science,250,232,214,212,,yes
+2026,Female,General,43,Earth & Environmental Science,104,90,79,78,,yes
+2026,Male,General,43,Earth & Environmental Science,146,142,135,134,,yes
+2026,Indigenous,General,43,Earth & Environmental Science,20,14,12,12,,yes
+2026,All,General,27,Economics,5096,4964,4799,4708,,yes
+2026,Female,General,27,Economics,2074,2036,1962,1918,,yes
+2026,Male,General,27,Economics,3022,2928,2837,2790,,yes
+2026,Indigenous,General,27,Economics,53,48,44,42,,yes
+2026,All,General,74,Engineering,2799,2636,2516,2495,,yes
+2026,Female,General,74,Engineering,483,456,433,428,,yes
+2026,Male,General,74,Engineering,2315,2179,2082,2066,,yes
+2026,Indigenous,General,74,Engineering,44,35,32,31,,yes
+2026,All,General,1,English,32635,30737,28726,28330,,yes
+2026,Female,General,1,English,17387,16466,15514,15282,,yes
+2026,Male,General,1,English,15240,14263,13204,13040,,yes
+2026,Indigenous,General,1,English,1365,1183,1009,984,,yes
+2026,All,General,3,English as an Additional Language,1121,1111,1042,1018,,yes
+2026,Female,General,3,English as an Additional Language,576,574,535,522,,yes
+2026,Male,General,3,English as an Additional Language,545,537,507,496,,yes
+2026,Indigenous,General,3,English as an Additional Language,5,5,6,6,,yes
+2026,All,General Extension,2,English & Literature Extension,,,1026,1003,,yes
+2026,Female,General Extension,2,English & Literature Extension,,,774,757,,yes
+2026,Male,General Extension,2,English & Literature Extension,,,252,246,,yes
+2026,Indigenous,General Extension,2,English & Literature Extension,,,10,10,,yes
+2026,All,General,93,"Film, Television & New Media",2371,2342,2189,2143,,yes
+2026,Female,General,93,"Film, Television & New Media",1151,1146,1068,1042,,yes
+2026,Male,General,93,"Film, Television & New Media",1217,1193,1118,1098,,yes
+2026,Indigenous,General,93,"Film, Television & New Media",98,89,81,79,,yes
+2026,All,General,69,Food & Nutrition,859,773,722,700,,yes
+2026,Female,General,69,Food & Nutrition,619,574,543,529,,yes
+2026,Male,General,69,Food & Nutrition,240,199,179,171,,yes
+2026,Indigenous,General,69,Food & Nutrition,29,23,19,17,,yes
+2026,All,General,5,French,796,783,755,746,,yes
+2026,Female,General,5,French,568,565,541,536,,yes
+2026,Male,General,5,French,228,218,214,210,,yes
+2026,Indigenous,General,5,French,7,7,6,6,,yes
+2026,All,General Extension,15,French Extension,,,71,71,,yes
+2026,Female,General Extension,15,French Extension,,,56,56,,yes
+2026,Male,General Extension,15,French Extension,,,15,15,,yes
+2026,Indigenous,General Extension,15,French Extension,,,1,1,,yes
+2026,All,General,52,General Mathematics,24351,23637,22107,21699,,yes
+2026,Female,General,52,General Mathematics,13526,13037,12267,12051,,yes
+2026,Male,General,52,General Mathematics,10819,10594,9833,9641,,yes
+2026,Indigenous,General,52,General Mathematics,1200,984,799,785,,yes
+2026,All,General,24,Geography,2942,2910,2849,2786,,yes
+2026,Female,General,24,Geography,1675,1645,1597,1557,,yes
+2026,Male,General,24,Geography,1267,1265,1252,1229,,yes
+2026,Indigenous,General,24,Geography,114,89,75,73,,yes
+2026,All,General,6,German,338,323,315,308,,yes
+2026,Female,General,6,German,218,208,203,200,,yes
+2026,Male,General,6,German,119,114,111,108,,yes
+2026,Indigenous,General,6,German,5,4,3,3,,yes
+2026,All,General Extension,16,German Extension,,,47,47,,yes
+2026,Female,General Extension,16,German Extension,,,38,38,,yes
+2026,Male,General Extension,16,German Extension,,,9,9,,yes
+2026,All,General,67,Health,2745,2563,2393,2363,,yes
+2026,Female,General,67,Health,2202,2059,1926,1905,,yes
+2026,Male,General,67,Health,542,503,466,457,,yes
+2026,Indigenous,General,67,Health,149,122,111,108,,yes
+2026,All,General,8,Italian,193,178,159,158,,yes
+2026,Female,General,8,Italian,154,143,126,125,,yes
+2026,Male,General,8,Italian,38,35,33,33,,yes
+2026,Indigenous,General,8,Italian,2,2,0,0,,yes
+2026,All,General,9,Japanese,1521,1447,1381,1355,,yes
+2026,Female,General,9,Japanese,935,891,849,833,,yes
+2026,Male,General,9,Japanese,586,556,532,522,,yes
+2026,Indigenous,General,9,Japanese,33,26,25,24,,yes
+2026,All,General,29,Legal Studies,6444,5876,5258,5153,,yes
+2026,Female,General,29,Legal Studies,4250,3895,3484,3411,,yes
+2026,Male,General,29,Legal Studies,2191,1978,1771,1739,,yes
+2026,Indigenous,General,29,Legal Studies,277,220,187,183,,yes
+2026,All,General,26,Literature,7943,7795,7578,7525,,yes
+2026,Female,General,26,Literature,5553,5454,5294,5256,,yes
+2026,Male,General,26,Literature,2382,2333,2276,2261,,yes
+2026,Indigenous,General,26,Literature,184,175,167,165,,yes
+2026,All,General,47,Marine Science,1235,1139,1043,1013,,yes
+2026,Female,General,47,Marine Science,758,697,636,620,,yes
+2026,Male,General,47,Marine Science,477,442,407,393,,yes
+2026,Indigenous,General,47,Marine Science,63,54,49,47,,yes
+2026,All,General,53,Mathematical Methods,17246,15213,13587,13494,,yes
+2026,Female,General,53,Mathematical Methods,8062,7078,6316,6268,,yes
+2026,Male,General,53,Mathematical Methods,9178,8129,7267,7222,,yes
+2026,Indigenous,General,53,Mathematical Methods,306,241,207,206,,yes
+2026,All,General,21,Modern History,6062,5890,5659,5569,,yes
+2026,Female,General,21,Modern History,3632,3536,3393,3337,,yes
+2026,Male,General,21,Modern History,2425,2348,2261,2227,,yes
+2026,Indigenous,General,21,Modern History,266,227,209,205,,yes
+2026,All,General,91,Music,2248,2197,2095,2077,,yes
+2026,Female,General,91,Music,1119,1092,1048,1040,,yes
+2026,Male,General,91,Music,1126,1102,1044,1034,,yes
+2026,Indigenous,General,91,Music,86,74,70,70,,yes
+2026,All,General Extension,94,Music Extension — Composition,,,172,172,,yes
+2026,Female,General Extension,94,Music Extension — Composition,,,57,57,,yes
+2026,Male,General Extension,94,Music Extension — Composition,,,114,114,,yes
+2026,Indigenous,General Extension,94,Music Extension — Composition,,,5,5,,yes
+2026,All,General Extension,94,Music Extension — Musicology,,,8,8,,yes
+2026,Female,General Extension,94,Music Extension — Musicology,,,4,4,,yes
+2026,Male,General Extension,94,Music Extension — Musicology,,,4,4,,yes
+2026,All,General Extension,94,Music Extension — Performance,,,483,477,,yes
+2026,Female,General Extension,94,Music Extension — Performance,,,246,243,,yes
+2026,Male,General Extension,94,Music Extension — Performance,,,236,233,,yes
+2026,Indigenous,General Extension,94,Music Extension — Performance,,,14,13,,yes
+2026,All,General,33,Philosophy & Reason,1084,1005,960,942,,yes
+2026,Female,General,33,Philosophy & Reason,646,591,558,549,,yes
+2026,Male,General,33,Philosophy & Reason,436,412,399,390,,yes
+2026,Indigenous,General,33,Philosophy & Reason,28,25,26,25,,yes
+2026,All,General,68,Physical Education,6299,5991,5549,5461,,yes
+2026,Female,General,68,Physical Education,2686,2565,2419,2387,,yes
+2026,Male,General,68,Physical Education,3613,3426,3130,3074,,yes
+2026,Indigenous,General,68,Physical Education,301,281,231,226,,yes
+2026,All,General,41,Physics,10775,10138,9425,9333,,yes
+2026,Female,General,41,Physics,3605,3390,3158,3126,,yes
+2026,Male,General,41,Physics,7165,6743,6262,6202,,yes
+2026,Indigenous,General,41,Physics,209,178,150,148,,yes
+2026,All,General,79,Psychology,7229,6637,6034,5893,,yes
+2026,Female,General,79,Psychology,5520,5066,4613,4505,,yes
+2026,Male,General,79,Psychology,1708,1570,1420,1387,,yes
+2026,Indigenous,General,79,Psychology,257,226,203,194,,yes
+2026,All,General,18,Spanish,405,379,355,351,,yes
+2026,Female,General,18,Spanish,244,229,209,207,,yes
+2026,Male,General,18,Spanish,161,150,146,144,,yes
+2026,Indigenous,General,18,Spanish,3,2,1,1,,yes
+2026,All,General,54,Specialist Mathematics,6110,5816,5479,5436,,yes
+2026,Female,General,54,Specialist Mathematics,2426,2313,2163,2145,,yes
+2026,Male,General,54,Specialist Mathematics,3682,3501,3314,3289,,yes
+2026,Indigenous,General,54,Specialist Mathematics,82,74,64,62,,yes
+2026,All,General,86,Study of Religion,4696,4420,4197,4170,,yes
+2026,Female,General,86,Study of Religion,2792,2639,2508,2491,,yes
+2026,Male,General,86,Study of Religion,1900,1777,1685,1675,,yes
+2026,Indigenous,General,86,Study of Religion,130,109,90,89,,yes
+2026,All,General,80,Visual Art,4319,4108,3738,3649,,yes
+2026,Female,General,80,Visual Art,3501,3332,3058,2984,,yes
+2026,Male,General,80,Visual Art,814,772,677,662,,yes
+2026,Indigenous,General,80,Visual Art,253,232,201,196,,yes
+2026,All,Applied,6400,Agricultural Practices,1198,1141,1053,1035,,yes
+2026,Female,Applied,6400,Agricultural Practices,510,484,452,444,,yes
+2026,Male,Applied,6400,Agricultural Practices,688,657,601,591,,yes
+2026,Indigenous,Applied,6400,Agricultural Practices,176,156,123,119,,yes
+2026,All,Applied,6401,Aquatic Practices,4098,3910,3655,3544,,yes
+2026,Female,Applied,6401,Aquatic Practices,1570,1523,1466,1427,,yes
+2026,Male,Applied,6401,Aquatic Practices,2528,2387,2189,2117,,yes
+2026,Indigenous,Applied,6401,Aquatic Practices,697,650,595,575,,yes
+2026,All,Applied,6410,Arts in Practice,516,478,465,460,,yes
+2026,Female,Applied,6410,Arts in Practice,372,344,336,334,,yes
+2026,Male,Applied,6410,Arts in Practice,144,133,128,125,,yes
+2026,Indigenous,Applied,6410,Arts in Practice,73,66,64,63,,yes
+2026,All,Applied,6416,Building & Construction Skills,2396,2226,2009,1943,,yes
+2026,Female,Applied,6416,Building & Construction Skills,380,364,333,324,,yes
+2026,Male,Applied,6416,Building & Construction Skills,2016,1862,1676,1619,,yes
+2026,Indigenous,Applied,6416,Building & Construction Skills,262,229,194,186,,yes
+2026,All,Applied,6402,Business Studies,1791,1821,1731,1682,,yes
+2026,Female,Applied,6402,Business Studies,811,822,785,760,,yes
+2026,Male,Applied,6402,Business Studies,979,998,945,921,,yes
+2026,Indigenous,Applied,6402,Business Studies,159,160,159,153,,yes
+2026,All,Applied,6411,Dance in Practice,403,382,353,343,,yes
+2026,Female,Applied,6411,Dance in Practice,377,349,321,312,,yes
+2026,Male,Applied,6411,Dance in Practice,26,33,32,31,,yes
+2026,Indigenous,Applied,6411,Dance in Practice,45,34,25,25,,yes
+2026,All,Applied,6412,Drama in Practice,650,656,620,611,,yes
+2026,Female,Applied,6412,Drama in Practice,409,416,403,397,,yes
+2026,Male,Applied,6412,Drama in Practice,241,240,217,214,,yes
+2026,Indigenous,Applied,6412,Drama in Practice,72,68,61,58,,yes
+2026,All,Applied,6403,Early Childhood Studies,1971,1830,1708,1645,,yes
+2026,Female,Applied,6403,Early Childhood Studies,1807,1663,1549,1498,,yes
+2026,Male,Applied,6403,Early Childhood Studies,164,167,159,147,,yes
+2026,Indigenous,Applied,6403,Early Childhood Studies,328,289,258,250,,yes
+2026,All,Applied,6417,Engineering Skills,2467,2236,1926,1864,,yes
+2026,Female,Applied,6417,Engineering Skills,357,318,268,260,,yes
+2026,Male,Applied,6417,Engineering Skills,2110,1918,1658,1604,,yes
+2026,Indigenous,Applied,6417,Engineering Skills,253,226,192,190,,yes
+2026,All,Applied,6121,Essential English,21443,20969,20425,19987,,yes
+2026,Female,Applied,6121,Essential English,8260,8185,8228,8067,,yes
+2026,Male,Applied,6121,Essential English,13156,12763,12179,11902,,yes
+2026,Indigenous,Applied,6121,Essential English,2845,2557,2363,2313,,yes
+2026,All,Applied,6140,Essential Mathematics,20979,20923,20780,20342,,yes
+2026,Female,Applied,6140,Essential Mathematics,9721,9870,9943,9756,,yes
+2026,Male,Applied,6140,Essential Mathematics,11226,11027,10814,10563,,yes
+2026,Indigenous,Applied,6140,Essential Mathematics,2852,2653,2446,2394,,yes
+2026,All,Applied,6404,Fashion,852,768,660,643,,yes
+2026,Female,Applied,6404,Fashion,795,713,612,596,,yes
+2026,Male,Applied,6404,Fashion,55,54,46,45,,yes
+2026,Indigenous,Applied,6404,Fashion,79,62,52,51,,yes
+2026,All,Applied,6418,Furnishing Skills,4119,3907,3497,3397,,yes
+2026,Female,Applied,6418,Furnishing Skills,837,793,709,696,,yes
+2026,Male,Applied,6418,Furnishing Skills,3282,3114,2788,2701,,yes
+2026,Indigenous,Applied,6418,Furnishing Skills,494,423,375,364,,yes
+2026,All,Applied,6405,Hospitality Practices,4406,4314,4035,3881,,yes
+2026,Female,Applied,6405,Hospitality Practices,2570,2508,2357,2281,,yes
+2026,Male,Applied,6405,Hospitality Practices,1833,1802,1674,1596,,yes
+2026,Indigenous,Applied,6405,Hospitality Practices,580,523,471,453,,yes
+2026,All,Applied,6419,Industrial Graphics Skills,1404,1296,1091,1053,,yes
+2026,Female,Applied,6419,Industrial Graphics Skills,260,247,209,204,,yes
+2026,Male,Applied,6419,Industrial Graphics Skills,1144,1049,882,849,,yes
+2026,Indigenous,Applied,6419,Industrial Graphics Skills,112,95,76,71,,yes
+2026,All,Applied,6420,Industrial Technology Skills,3002,2800,2547,2486,,yes
+2026,Female,Applied,6420,Industrial Technology Skills,453,434,401,389,,yes
+2026,Male,Applied,6420,Industrial Technology Skills,2549,2366,2146,2097,,yes
+2026,Indigenous,Applied,6420,Industrial Technology Skills,288,247,201,196,,yes
+2026,All,Applied,6406,Information & Communication Technology,927,861,767,746,,yes
+2026,Female,Applied,6406,Information & Communication Technology,188,176,157,153,,yes
+2026,Male,Applied,6406,Information & Communication Technology,739,685,610,593,,yes
+2026,Indigenous,Applied,6406,Information & Communication Technology,82,76,61,60,,yes
+2026,All,Applied,6413,Media Arts in Practice,1519,1529,1445,1416,,yes
+2026,Female,Applied,6413,Media Arts in Practice,715,740,720,704,,yes
+2026,Male,Applied,6413,Media Arts in Practice,802,787,725,712,,yes
+2026,Indigenous,Applied,6413,Media Arts in Practice,162,144,125,122,,yes
+2026,All,Applied,6414,Music in Practice,1061,1034,959,936,,yes
+2026,Female,Applied,6414,Music in Practice,431,420,404,394,,yes
+2026,Male,Applied,6414,Music in Practice,627,611,553,540,,yes
+2026,Indigenous,Applied,6414,Music in Practice,138,126,112,108,,yes
+2026,All,Applied,6408,Religion & Ethics,9321,8980,8380,8292,,yes
+2026,Female,Applied,6408,Religion & Ethics,4248,4195,3935,3898,,yes
+2026,Male,Applied,6408,Religion & Ethics,5070,4782,4442,4391,,yes
+2026,Indigenous,Applied,6408,Religion & Ethics,534,523,497,494,,yes
+2026,All,Applied,6421,Science in Practice,3055,3070,2868,2799,,yes
+2026,Female,Applied,6421,Science in Practice,1315,1328,1279,1246,,yes
+2026,Male,Applied,6421,Science in Practice,1734,1734,1584,1548,,yes
+2026,Indigenous,Applied,6421,Science in Practice,338,310,266,261,,yes
+2026,All,Applied,6409,Social & Community Studies,4998,5015,4883,4761,,yes
+2026,Female,Applied,6409,Social & Community Studies,2876,2873,2823,2748,,yes
+2026,Male,Applied,6409,Social & Community Studies,2107,2128,2048,2001,,yes
+2026,Indigenous,Applied,6409,Social & Community Studies,635,585,553,536,,yes
+2026,All,Applied,6407,Sport & Recreation,10861,10550,9888,9654,,yes
+2026,Female,Applied,6407,Sport & Recreation,2885,2867,2776,2702,,yes
+2026,Male,Applied,6407,Sport & Recreation,7974,7682,7111,6951,,yes
+2026,Indigenous,Applied,6407,Sport & Recreation,1370,1229,1130,1104,,yes
+2026,All,Applied,6422,Tourism,2298,2251,2117,2038,,yes
+2026,Female,Applied,6422,Tourism,1489,1460,1376,1333,,yes
+2026,Male,Applied,6422,Tourism,808,790,740,704,,yes
+2026,Indigenous,Applied,6422,Tourism,269,248,231,220,,yes
+2026,All,Applied,6415,Visual Arts in Practice,4863,4863,4696,4596,,yes
+2026,Female,Applied,6415,Visual Arts in Practice,3291,3330,3235,3168,,yes
+2026,Male,Applied,6415,Visual Arts in Practice,1559,1520,1448,1415,,yes
+2026,Indigenous,Applied,6415,Visual Arts in Practice,849,768,697,678,,yes
+2026,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,20,yes
+2026,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,12,yes
+2026,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,8,yes
+2026,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,9,yes
+2026,All,Short Courses,6099,Career Education,,,,,8296,yes
+2026,Female,Short Courses,6099,Career Education,,,,,4132,yes
+2026,Male,Short Courses,6099,Career Education,,,,,4161,yes
+2026,Indigenous,Short Courses,6099,Career Education,,,,,926,yes
+2026,All,Short Courses,6095,Literacy,,,,,4274,yes
+2026,Female,Short Courses,6095,Literacy,,,,,1732,yes
+2026,Male,Short Courses,6095,Literacy,,,,,2527,yes
+2026,Indigenous,Short Courses,6095,Literacy,,,,,627,yes
+2026,All,Short Courses,6096,Numeracy,,,,,5322,yes
+2026,Female,Short Courses,6096,Numeracy,,,,,2336,yes
+2026,Male,Short Courses,6096,Numeracy,,,,,2972,yes
+2026,Indigenous,Short Courses,6096,Numeracy,,,,,749,yes
+2025,All,General,23,Aboriginal & Torres Strait Islander Studies,127,113,100,93,,no
+2025,Female,General,23,Aboriginal & Torres Strait Islander Studies,97,87,78,71,,no
+2025,Male,General,23,Aboriginal & Torres Strait Islander Studies,30,26,22,22,,no
+2025,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,75,68,54,50,,no
+2025,All,General,60,Accounting,2704,2587,2366,2282,,no
+2025,Female,General,60,Accounting,1187,1128,1030,995,,no
+2025,Male,General,60,Accounting,1517,1459,1336,1287,,no
+2025,Indigenous,General,60,Accounting,45,38,30,30,,no
+2025,All,General,55,Aerospace Systems,130,125,116,111,,no
+2025,Female,General,55,Aerospace Systems,16,20,19,18,,no
+2025,Male,General,55,Aerospace Systems,114,105,97,93,,no
+2025,Indigenous,General,55,Aerospace Systems,3,4,3,3,,no
+2025,All,General,51,Agricultural Science,407,391,399,388,,no
+2025,Female,General,51,Agricultural Science,255,241,245,238,,no
+2025,Male,General,51,Agricultural Science,152,150,154,150,,no
+2025,Indigenous,General,51,Agricultural Science,27,20,22,22,,no
+2025,All,General,20,Ancient History,3386,3129,3014,2850,,no
+2025,Female,General,20,Ancient History,2157,1984,1912,1820,,no
+2025,Male,General,20,Ancient History,1228,1144,1101,1029,,no
+2025,Indigenous,General,20,Ancient History,172,144,144,125,,no
+2025,All,General,42,Biology,16911,15717,14576,14125,,no
+2025,Female,General,42,Biology,11481,10654,9879,9550,,no
+2025,Male,General,42,Biology,5423,5056,4692,4570,,no
+2025,Indigenous,General,42,Biology,627,548,502,471,,no
+2025,All,General,66,Business,5693,5328,5037,4828,,no
+2025,Female,General,66,Business,2758,2560,2447,2348,,no
+2025,Male,General,66,Business,2934,2767,2588,2479,,no
+2025,Indigenous,General,66,Business,191,151,136,125,,no
+2025,All,General,40,Chemistry,11392,10509,9543,9379,,no
+2025,Female,General,40,Chemistry,6222,5708,5148,5044,,no
+2025,Male,General,40,Chemistry,5166,4797,4392,4332,,no
+2025,Indigenous,General,40,Chemistry,257,213,181,177,,no
+2025,All,General,11,Chinese,577,578,572,558,,no
+2025,Female,General,11,Chinese,296,301,293,281,,no
+2025,Male,General,11,Chinese,281,277,279,277,,no
+2025,Indigenous,General,11,Chinese,5,4,4,4,,no
+2025,All,General Extension,56,Chinese Extension,,,50,48,,no
+2025,Female,General Extension,56,Chinese Extension,,,19,18,,no
+2025,Male,General Extension,56,Chinese Extension,,,31,30,,no
+2025,All,General,85,Dance,933,878,815,791,,no
+2025,Female,General,85,Dance,903,849,788,765,,no
+2025,Male,General,85,Dance,30,29,27,26,,no
+2025,Indigenous,General,85,Dance,44,41,38,37,,no
+2025,All,General,48,Design,3804,3629,3430,3253,,no
+2025,Female,General,48,Design,1890,1844,1759,1682,,no
+2025,Male,General,48,Design,1911,1782,1669,1569,,no
+2025,Indigenous,General,48,Design,113,102,95,81,,no
+2025,All,General,49,Digital Solutions,1941,1824,1672,1624,,no
+2025,Female,General,49,Digital Solutions,347,324,299,292,,no
+2025,Male,General,49,Digital Solutions,1594,1500,1373,1332,,no
+2025,Indigenous,General,49,Digital Solutions,26,19,18,17,,no
+2025,All,General,88,Drama,2463,2371,2267,2194,,no
+2025,Female,General,88,Drama,1703,1627,1548,1492,,no
+2025,Male,General,88,Drama,759,743,718,701,,no
+2025,Indigenous,General,88,Drama,95,90,84,81,,no
+2025,All,General,43,Earth & Environmental Science,335,316,290,287,,no
+2025,Female,General,43,Earth & Environmental Science,135,133,120,118,,no
+2025,Male,General,43,Earth & Environmental Science,200,183,170,169,,no
+2025,Indigenous,General,43,Earth & Environmental Science,24,21,18,16,,no
+2025,All,General,27,Economics,4476,4358,4214,4112,,no
+2025,Female,General,27,Economics,1655,1603,1540,1496,,no
+2025,Male,General,27,Economics,2821,2755,2674,2616,,no
+2025,Indigenous,General,27,Economics,60,52,41,40,,no
+2025,All,General,74,Engineering,2390,2213,2086,2040,,no
+2025,Female,General,74,Engineering,420,397,377,368,,no
+2025,Male,General,74,Engineering,1970,1816,1709,1672,,no
+2025,Indigenous,General,74,Engineering,40,31,23,20,,no
+2025,All,General,1,English,32629,30514,28439,27822,,no
+2025,Female,General,1,English,17760,16713,15684,15339,,no
+2025,Male,General,1,English,14858,13788,12745,12473,,no
+2025,Indigenous,General,1,English,1354,1133,990,945,,no
+2025,All,General,3,English as an Additional Language,1135,1093,1034,1006,,no
+2025,Female,General,3,English as an Additional Language,529,511,482,471,,no
+2025,Male,General,3,English as an Additional Language,606,582,552,535,,no
+2025,Indigenous,General,3,English as an Additional Language,10,7,6,6,,no
+2025,All,General Extension,2,English & Literature Extension,,,870,854,,no
+2025,Female,General Extension,2,English & Literature Extension,,,645,637,,no
+2025,Male,General Extension,2,English & Literature Extension,,,224,216,,no
+2025,Indigenous,General Extension,2,English & Literature Extension,,,12,11,,no
+2025,All,General,93,"Film, Television & New Media",2534,2431,2315,2217,,no
+2025,Female,General,93,"Film, Television & New Media",1278,1225,1166,1112,,no
+2025,Male,General,93,"Film, Television & New Media",1252,1203,1147,1104,,no
+2025,Indigenous,General,93,"Film, Television & New Media",96,94,86,78,,no
+2025,All,General,69,Food & Nutrition,970,876,763,735,,no
+2025,Female,General,69,Food & Nutrition,727,683,605,586,,no
+2025,Male,General,69,Food & Nutrition,243,193,158,149,,no
+2025,Indigenous,General,69,Food & Nutrition,38,28,27,24,,no
+2025,All,General,5,French,706,682,681,674,,no
+2025,Female,General,5,French,526,507,505,502,,no
+2025,Male,General,5,French,179,174,175,171,,no
+2025,Indigenous,General,5,French,4,2,2,2,,no
+2025,All,General Extension,15,French Extension,,,56,53,,no
+2025,Female,General Extension,15,French Extension,,,44,42,,no
+2025,Male,General Extension,15,French Extension,,,12,11,,no
+2025,All,General,52,General Mathematics,24378,23316,22092,21381,,no
+2025,Female,General,52,General Mathematics,13392,12757,12186,11819,,no
+2025,Male,General,52,General Mathematics,10977,10551,9900,9556,,no
+2025,Indigenous,General,52,General Mathematics,1143,966,843,784,,no
+2025,All,General,24,Geography,3172,3125,3161,2993,,no
+2025,Female,General,24,Geography,1840,1812,1811,1713,,no
+2025,Male,General,24,Geography,1332,1313,1350,1280,,no
+2025,Indigenous,General,24,Geography,108,104,97,92,,no
+2025,All,General,6,German,373,360,338,334,,no
+2025,Female,General,6,German,251,239,222,219,,no
+2025,Male,General,6,German,122,121,116,115,,no
+2025,Indigenous,General,6,German,2,2,2,2,,no
+2025,All,General Extension,16,German Extension,,,54,52,,no
+2025,Female,General Extension,16,German Extension,,,34,34,,no
+2025,Male,General Extension,16,German Extension,,,20,18,,no
+2025,Indigenous,General Extension,16,German Extension,,,1,1,,no
+2025,All,General,67,Health,2694,2470,2303,2227,,no
+2025,Female,General,67,Health,2132,1963,1835,1781,,no
+2025,Male,General,67,Health,562,507,468,446,,no
+2025,Indigenous,General,67,Health,141,110,97,88,,no
+2025,All,General,8,Italian,185,173,158,157,,no
+2025,Female,General,8,Italian,138,129,119,118,,no
+2025,Male,General,8,Italian,47,44,39,39,,no
+2025,Indigenous,General,8,Italian,1,1,1,1,,no
+2025,All,General,9,Japanese,1489,1385,1294,1268,,no
+2025,Female,General,9,Japanese,888,825,765,745,,no
+2025,Male,General,9,Japanese,600,560,529,523,,no
+2025,Indigenous,General,9,Japanese,31,26,24,21,,no
+2025,All,General,29,Legal Studies,5812,5349,5042,4761,,no
+2025,Female,General,29,Legal Studies,3900,3571,3401,3211,,no
+2025,Male,General,29,Legal Studies,1911,1777,1640,1549,,no
+2025,Indigenous,General,29,Legal Studies,250,211,206,176,,no
+2025,All,General,26,Literature,6880,6635,6459,6381,,no
+2025,Female,General,26,Literature,4711,4519,4410,4349,,no
+2025,Male,General,26,Literature,2162,2112,2045,2028,,no
+2025,Indigenous,General,26,Literature,150,139,126,123,,no
+2025,All,General,47,Marine Science,1185,1112,1002,971,,no
+2025,Female,General,47,Marine Science,774,720,643,624,,no
+2025,Male,General,47,Marine Science,410,391,359,347,,no
+2025,Indigenous,General,47,Marine Science,60,53,51,49,,no
+2025,All,General,53,Mathematical Methods,16414,14503,12832,12666,,no
+2025,Female,General,53,Mathematical Methods,7737,6795,5985,5909,,no
+2025,Male,General,53,Mathematical Methods,8673,7705,6845,6755,,no
+2025,Indigenous,General,53,Mathematical Methods,317,241,188,188,,no
+2025,All,General,21,Modern History,6044,5819,5774,5546,,no
+2025,Female,General,21,Modern History,3559,3449,3415,3300,,no
+2025,Male,General,21,Modern History,2482,2368,2357,2244,,no
+2025,Indigenous,General,21,Modern History,214,202,202,190,,no
+2025,All,General,91,Music,2275,2249,2201,2136,,no
+2025,Female,General,91,Music,1181,1166,1142,1110,,no
+2025,Male,General,91,Music,1094,1083,1059,1026,,no
+2025,Indigenous,General,91,Music,70,69,66,63,,no
+2025,All,General Extension,94,Music Extension (Composition),,,161,159,,no
+2025,Female,General Extension,94,Music Extension (Composition),,,58,56,,no
+2025,Male,General Extension,94,Music Extension (Composition),,,103,103,,no
+2025,Indigenous,General Extension,94,Music Extension (Composition),,,4,4,,no
+2025,All,General Extension,94,Music Extension (Musicology),,,8,8,,no
+2025,Female,General Extension,94,Music Extension (Musicology),,,5,5,,no
+2025,Male,General Extension,94,Music Extension (Musicology),,,3,3,,no
+2025,All,General Extension,94,Music Extension (Performance),,,497,487,,no
+2025,Female,General Extension,94,Music Extension (Performance),,,269,260,,no
+2025,Male,General Extension,94,Music Extension (Performance),,,228,227,,no
+2025,Indigenous,General Extension,94,Music Extension (Performance),,,11,11,,no
+2025,All,General,33,Philosophy & Reason,902,847,807,775,,no
+2025,Female,General,33,Philosophy & Reason,557,518,484,459,,no
+2025,Male,General,33,Philosophy & Reason,343,327,322,315,,no
+2025,Indigenous,General,33,Philosophy & Reason,20,17,17,15,,no
+2025,All,General,68,Physical Education,6419,6105,5854,5565,,no
+2025,Female,General,68,Physical Education,2705,2594,2474,2365,,no
+2025,Male,General,68,Physical Education,3714,3511,3380,3200,,no
+2025,Indigenous,General,68,Physical Education,306,269,260,233,,no
+2025,All,General,41,Physics,9576,9108,8686,8453,,no
+2025,Female,General,41,Physics,3095,2960,2828,2754,,no
+2025,Male,General,41,Physics,6479,6147,5857,5698,,no
+2025,Indigenous,General,41,Physics,194,178,160,152,,no
+2025,All,General,79,Psychology,7210,6679,6166,5956,,no
+2025,Female,General,79,Psychology,5453,5060,4689,4531,,no
+2025,Male,General,79,Psychology,1753,1616,1475,1423,,no
+2025,Indigenous,General,79,Psychology,289,246,206,197,,no
+2025,All,General,18,Spanish,280,273,267,255,,no
+2025,Female,General,18,Spanish,162,157,152,148,,no
+2025,Male,General,18,Spanish,118,116,115,107,,no
+2025,Indigenous,General,18,Spanish,1,1,1,1,,no
+2025,All,General,54,Specialist Mathematics,5299,5062,4838,4758,,no
+2025,Female,General,54,Specialist Mathematics,2112,2009,1924,1883,,no
+2025,Male,General,54,Specialist Mathematics,3186,3052,2913,2874,,no
+2025,Indigenous,General,54,Specialist Mathematics,67,58,54,51,,no
+2025,All,General,86,Study of Religion,4437,4180,4013,3973,,no
+2025,Female,General,86,Study of Religion,2625,2460,2357,2336,,no
+2025,Male,General,86,Study of Religion,1810,1718,1654,1635,,no
+2025,Indigenous,General,86,Study of Religion,82,75,68,66,,no
+2025,All,General,80,Visual Art,4223,4005,3808,3595,,no
+2025,Female,General,80,Visual Art,3332,3173,3035,2869,,no
+2025,Male,General,80,Visual Art,886,828,770,723,,no
+2025,Indigenous,General,80,Visual Art,243,213,207,186,,no
+2025,All,Applied,6400,Agricultural Practices,1139,1063,890,842,,no
+2025,Female,Applied,6400,Agricultural Practices,484,460,397,380,,no
+2025,Male,Applied,6400,Agricultural Practices,655,603,493,462,,no
+2025,Indigenous,Applied,6400,Agricultural Practices,151,131,112,104,,no
+2025,All,Applied,6401,Aquatic Practices,4249,4052,3747,3522,,no
+2025,Female,Applied,6401,Aquatic Practices,1688,1620,1553,1466,,no
+2025,Male,Applied,6401,Aquatic Practices,2561,2432,2194,2056,,no
+2025,Indigenous,Applied,6401,Aquatic Practices,653,600,548,501,,no
+2025,All,Applied,6410,Arts in Practice,454,467,395,376,,no
+2025,Female,Applied,6410,Arts in Practice,335,337,285,274,,no
+2025,Male,Applied,6410,Arts in Practice,116,128,107,99,,no
+2025,Indigenous,Applied,6410,Arts in Practice,62,58,45,40,,no
+2025,All,Applied,6416,Building & Construction Skills,2485,2304,2063,1931,,no
+2025,Female,Applied,6416,Building & Construction Skills,375,355,311,293,,no
+2025,Male,Applied,6416,Building & Construction Skills,2110,1949,1752,1638,,no
+2025,Indigenous,Applied,6416,Building & Construction Skills,283,243,215,197,,no
+2025,All,Applied,6402,Business Studies,1844,1844,1680,1546,,no
+2025,Female,Applied,6402,Business Studies,853,870,796,738,,no
+2025,Male,Applied,6402,Business Studies,985,970,880,805,,no
+2025,Indigenous,Applied,6402,Business Studies,158,138,112,93,,no
+2025,All,Applied,6411,Dance in Practice,413,384,363,351,,no
+2025,Female,Applied,6411,Dance in Practice,384,351,338,328,,no
+2025,Male,Applied,6411,Dance in Practice,29,33,25,23,,no
+2025,Indigenous,Applied,6411,Dance in Practice,53,43,39,37,,no
+2025,All,Applied,6412,Drama in Practice,586,580,532,499,,no
+2025,Female,Applied,6412,Drama in Practice,386,381,348,323,,no
+2025,Male,Applied,6412,Drama in Practice,199,198,184,176,,no
+2025,Indigenous,Applied,6412,Drama in Practice,58,53,46,39,,no
+2025,All,Applied,6403,Early Childhood Studies,1791,1728,1610,1489,,no
+2025,Female,Applied,6403,Early Childhood Studies,1685,1614,1515,1400,,no
+2025,Male,Applied,6403,Early Childhood Studies,104,113,94,88,,no
+2025,Indigenous,Applied,6403,Early Childhood Studies,294,248,217,191,,no
+2025,All,Applied,6417,Engineering Skills,2588,2431,2139,1995,,no
+2025,Female,Applied,6417,Engineering Skills,369,335,300,280,,no
+2025,Male,Applied,6417,Engineering Skills,2219,2096,1839,1715,,no
+2025,Indigenous,Applied,6417,Engineering Skills,335,288,249,230,,no
+2025,All,Applied,6121,Essential English,21740,21691,21209,20082,,no
+2025,Female,Applied,6121,Essential English,8613,8733,8789,8326,,no
+2025,Male,Applied,6121,Essential English,13100,12930,12395,11732,,no
+2025,Indigenous,Applied,6121,Essential English,2776,2569,2332,2158,,no
+2025,All,Applied,6140,Essential Mathematics,21238,21634,21099,19821,,no
+2025,Female,Applied,6140,Essential Mathematics,9931,10307,10192,9613,,no
+2025,Male,Applied,6140,Essential Mathematics,11274,11294,10881,10182,,no
+2025,Indigenous,Applied,6140,Essential Mathematics,2808,2633,2345,2140,,no
+2025,All,Applied,6404,Fashion,774,750,699,653,,no
+2025,Female,Applied,6404,Fashion,700,687,646,605,,no
+2025,Male,Applied,6404,Fashion,73,63,53,48,,no
+2025,Indigenous,Applied,6404,Fashion,76,66,62,58,,no
+2025,All,Applied,6418,Furnishing Skills,4096,3868,3400,3157,,no
+2025,Female,Applied,6418,Furnishing Skills,797,759,686,638,,no
+2025,Male,Applied,6418,Furnishing Skills,3299,3109,2714,2519,,no
+2025,Indigenous,Applied,6418,Furnishing Skills,521,440,382,348,,no
+2025,All,Applied,6405,Hospitality Practices,4188,4107,3738,3470,,no
+2025,Female,Applied,6405,Hospitality Practices,2522,2490,2285,2134,,no
+2025,Male,Applied,6405,Hospitality Practices,1663,1615,1451,1334,,no
+2025,Indigenous,Applied,6405,Hospitality Practices,569,519,446,406,,no
+2025,All,Applied,6419,Industrial Graphics Skills,1435,1353,1222,1131,,no
+2025,Female,Applied,6419,Industrial Graphics Skills,251,244,224,211,,no
+2025,Male,Applied,6419,Industrial Graphics Skills,1184,1109,998,920,,no
+2025,Indigenous,Applied,6419,Industrial Graphics Skills,133,110,91,83,,no
+2025,All,Applied,6420,Industrial Technology Skills,3042,2885,2576,2450,,no
+2025,Female,Applied,6420,Industrial Technology Skills,439,414,355,332,,no
+2025,Male,Applied,6420,Industrial Technology Skills,2603,2471,2221,2118,,no
+2025,Indigenous,Applied,6420,Industrial Technology Skills,303,267,216,191,,no
+2025,All,Applied,6406,Information and Communication Technology,14,14,14,14,,no
+2025,Female,Applied,6406,Information and Communication Technology,2,2,2,2,,no
+2025,Male,Applied,6406,Information and Communication Technology,12,12,12,12,,no
+2025,All,Applied,6406,Information & Communication Technology,1207,1127,993,941,,no
+2025,Female,Applied,6406,Information & Communication Technology,251,246,208,194,,no
+2025,Male,Applied,6406,Information & Communication Technology,956,881,784,746,,no
+2025,Indigenous,Applied,6406,Information & Communication Technology,135,113,92,84,,no
+2025,All,Applied,6413,Media Arts in Practice,1545,1482,1372,1285,,no
+2025,Female,Applied,6413,Media Arts in Practice,779,763,702,655,,no
+2025,Male,Applied,6413,Media Arts in Practice,764,716,669,629,,no
+2025,Indigenous,Applied,6413,Media Arts in Practice,195,167,144,134,,no
+2025,All,Applied,6414,Music in Practice,970,969,884,831,,no
+2025,Female,Applied,6414,Music in Practice,421,418,384,360,,no
+2025,Male,Applied,6414,Music in Practice,548,550,500,471,,no
+2025,Indigenous,Applied,6414,Music in Practice,131,125,110,98,,no
+2025,All,Applied,6408,Religion & Ethics,9262,8842,8201,8049,,no
+2025,Female,Applied,6408,Religion & Ethics,4325,4189,4008,3941,,no
+2025,Male,Applied,6408,Religion & Ethics,4930,4647,4187,4102,,no
+2025,Indigenous,Applied,6408,Religion & Ethics,532,497,418,399,,no
+2025,All,Applied,6421,Science in Practice,3093,3096,2877,2686,,no
+2025,Female,Applied,6421,Science in Practice,1397,1441,1358,1271,,no
+2025,Male,Applied,6421,Science in Practice,1686,1648,1513,1409,,no
+2025,Indigenous,Applied,6421,Science in Practice,348,311,253,229,,no
+2025,All,Applied,6409,Social & Community Studies,5058,5083,4794,4406,,no
+2025,Female,Applied,6409,Social & Community Studies,2913,2939,2748,2539,,no
+2025,Male,Applied,6409,Social & Community Studies,2125,2125,2029,1851,,no
+2025,Indigenous,Applied,6409,Social & Community Studies,654,599,514,458,,no
+2025,All,Applied,6407,Sport and Recreation,42,42,41,41,,no
+2025,Female,Applied,6407,Sport and Recreation,12,12,12,12,,no
+2025,Male,Applied,6407,Sport and Recreation,30,30,29,29,,no
+2025,All,Applied,6407,Sport & Recreation,10585,10359,9549,8997,,no
+2025,Female,Applied,6407,Sport & Recreation,2980,2941,2741,2579,,no
+2025,Male,Applied,6407,Sport & Recreation,7603,7417,6806,6416,,no
+2025,Indigenous,Applied,6407,Sport & Recreation,1401,1253,1101,1008,,no
+2025,All,Applied,6422,Tourism,2210,2221,2047,1907,,no
+2025,Female,Applied,6422,Tourism,1449,1485,1364,1282,,no
+2025,Male,Applied,6422,Tourism,761,736,683,625,,no
+2025,Indigenous,Applied,6422,Tourism,235,223,171,153,,no
+2025,All,Applied,6415,Visual Arts in Practice,5022,5044,4759,4491,,no
+2025,Female,Applied,6415,Visual Arts in Practice,3530,3557,3402,3222,,no
+2025,Male,Applied,6415,Visual Arts in Practice,1469,1464,1339,1256,,no
+2025,Indigenous,Applied,6415,Visual Arts in Practice,799,733,660,597,,no
+2025,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,38,no
+2025,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,27,no
+2025,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,11,no
+2025,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,24,no
+2025,All,Short Courses,6099,Career Education,,,,,8492,no
+2025,Female,Short Courses,6099,Career Education,,,,,4158,no
+2025,Male,Short Courses,6099,Career Education,,,,,4325,no
+2025,Indigenous,Short Courses,6099,Career Education,,,,,934,no
+2025,All,Short Courses,6095,Literacy,,,,,6109,no
+2025,Female,Short Courses,6095,Literacy,,,,,2337,no
+2025,Male,Short Courses,6095,Literacy,,,,,3758,no
+2025,Indigenous,Short Courses,6095,Literacy,,,,,1039,no
+2025,All,Short Courses,6096,Numeracy,,,,,8509,no
+2025,Female,Short Courses,6096,Numeracy,,,,,3877,no
+2025,Male,Short Courses,6096,Numeracy,,,,,4619,no
+2025,Indigenous,Short Courses,6096,Numeracy,,,,,1331,no
+2024,All,General,23,Aboriginal & Torres Strait Islander Studies,88,73,67,62,,no
+2024,Female,General,23,Aboriginal & Torres Strait Islander Studies,58,51,45,41,,no
+2024,Male,General,23,Aboriginal & Torres Strait Islander Studies,30,22,22,21,,no
+2024,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,68,56,48,44,,no
+2024,All,General,60,Accounting,2554,2395,2196,2114,,no
+2024,Female,General,60,Accounting,1139,1081,984,944,,no
+2024,Male,General,60,Accounting,1414,1313,1211,1169,,no
+2024,Indigenous,General,60,Accounting,49,40,38,37,,no
+2024,All,General,55,Aerospace Systems,144,132,115,108,,no
+2024,Female,General,55,Aerospace Systems,14,12,12,12,,no
+2024,Male,General,55,Aerospace Systems,130,120,103,96,,no
+2024,Indigenous,General,55,Aerospace Systems,3,2,2,2,,no
+2024,All,General,51,Agricultural Science,540,491,462,452,,no
+2024,Female,General,51,Agricultural Science,316,278,255,251,,no
+2024,Male,General,51,Agricultural Science,224,213,207,201,,no
+2024,Indigenous,General,51,Agricultural Science,36,33,28,27,,no
+2024,All,General,20,Ancient History,3603,3397,3124,2978,,no
+2024,Female,General,20,Ancient History,2283,2163,1992,1898,,no
+2024,Male,General,20,Ancient History,1318,1232,1130,1078,,no
+2024,Indigenous,General,20,Ancient History,172,140,125,114,,no
+2024,All,General,42,Biology,16825,15489,14283,13883,,no
+2024,Female,General,42,Biology,11165,10257,9454,9177,,no
+2024,Male,General,42,Biology,5654,5228,4825,4702,,no
+2024,Indigenous,General,42,Biology,591,510,429,396,,no
+2024,All,General,66,Business,5370,5052,4682,4484,,no
+2024,Female,General,66,Business,2614,2480,2313,2220,,no
+2024,Male,General,66,Business,2756,2572,2369,2264,,no
+2024,Indigenous,General,66,Business,181,156,138,128,,no
+2024,All,General,40,Chemistry,10590,9800,8978,8785,,no
+2024,Female,General,40,Chemistry,5620,5168,4701,4590,,no
+2024,Male,General,40,Chemistry,4967,4630,4276,4194,,no
+2024,Indigenous,General,40,Chemistry,235,195,165,159,,no
+2024,All,General,11,Chinese,519,499,500,484,,no
+2024,Female,General,11,Chinese,270,259,257,247,,no
+2024,Male,General,11,Chinese,249,240,243,237,,no
+2024,Indigenous,General,11,Chinese,4,4,4,4,,no
+2024,All,General Extension,56,Chinese Extension,,,40,40,,no
+2024,Female,General Extension,56,Chinese Extension,,,19,19,,no
+2024,Male,General Extension,56,Chinese Extension,,,21,21,,no
+2024,All,General,85,Dance,833,778,735,703,,no
+2024,Female,General,85,Dance,799,747,699,670,,no
+2024,Male,General,85,Dance,34,31,36,33,,no
+2024,Indigenous,General,85,Dance,35,30,30,28,,no
+2024,All,General,48,Design,3921,3715,3451,3293,,no
+2024,Female,General,48,Design,1900,1851,1766,1697,,no
+2024,Male,General,48,Design,2019,1861,1683,1594,,no
+2024,Indigenous,General,48,Design,100,94,81,73,,no
+2024,All,General,49,Digital Solutions,2006,1809,1620,1551,,no
+2024,Female,General,49,Digital Solutions,336,302,273,263,,no
+2024,Male,General,49,Digital Solutions,1670,1507,1347,1288,,no
+2024,Indigenous,General,49,Digital Solutions,42,29,26,25,,no
+2024,All,General,88,Drama,2947,2766,2581,2490,,no
+2024,Female,General,88,Drama,1985,1852,1729,1673,,no
+2024,Male,General,88,Drama,959,911,849,814,,no
+2024,Indigenous,General,88,Drama,135,113,100,95,,no
+2024,All,General,43,Earth & Environmental Science,351,348,327,318,,no
+2024,Female,General,43,Earth & Environmental Science,148,151,141,135,,no
+2024,Male,General,43,Earth & Environmental Science,203,197,186,183,,no
+2024,Indigenous,General,43,Earth & Environmental Science,16,20,17,16,,no
+2024,All,General,27,Economics,3929,3851,3720,3641,,no
+2024,Female,General,27,Economics,1419,1375,1317,1283,,no
+2024,Male,General,27,Economics,2510,2476,2403,2358,,no
+2024,Indigenous,General,27,Economics,53,50,46,45,,no
+2024,All,General,74,Engineering,2109,1977,1861,1816,,no
+2024,Female,General,74,Engineering,326,301,278,268,,no
+2024,Male,General,74,Engineering,1783,1676,1583,1548,,no
+2024,Indigenous,General,74,Engineering,47,39,34,31,,no
+2024,All,General,1,English,32258,29998,28008,27415,,no
+2024,Female,General,1,English,17303,16120,15173,14856,,no
+2024,Male,General,1,English,14938,13863,12821,12546,,no
+2024,Indigenous,General,1,English,1259,1056,918,867,,no
+2024,All,General,3,English as an Additional Language,738,731,700,671,,no
+2024,Female,General,3,English as an Additional Language,369,366,354,340,,no
+2024,Male,General,3,English as an Additional Language,369,365,346,331,,no
+2024,Indigenous,General,3,English as an Additional Language,6,5,4,4,,no
+2024,All,General Extension,2,English & Literature Extension,,,827,783,,no
+2024,Female,General Extension,2,English & Literature Extension,,,631,597,,no
+2024,Male,General Extension,2,English & Literature Extension,,,195,185,,no
+2024,Indigenous,General Extension,2,English & Literature Extension,,,14,13,,no
+2024,All,General,93,"Film, Television & New Media",2791,2690,2541,2433,,no
+2024,Female,General,93,"Film, Television & New Media",1301,1250,1182,1131,,no
+2024,Male,General,93,"Film, Television & New Media",1489,1439,1359,1302,,no
+2024,Indigenous,General,93,"Film, Television & New Media",109,96,84,79,,no
+2024,All,General,69,Food & Nutrition,1021,892,821,782,,no
+2024,Female,General,69,Food & Nutrition,746,653,616,589,,no
+2024,Male,General,69,Food & Nutrition,275,239,205,193,,no
+2024,Indigenous,General,69,Food & Nutrition,55,38,32,28,,no
+2024,All,General,5,French,698,698,680,673,,no
+2024,Female,General,5,French,502,500,483,478,,no
+2024,Male,General,5,French,196,198,197,195,,no
+2024,Indigenous,General,5,French,8,8,6,6,,no
+2024,All,General Extension,15,French Extension,,,44,44,,no
+2024,Female,General Extension,15,French Extension,,,35,35,,no
+2024,Male,General Extension,15,French Extension,,,9,9,,no
+2024,All,General,52,General Mathematics,23404,22361,21278,20597,,no
+2024,Female,General,52,General Mathematics,12732,12039,11543,11183,,no
+2024,Male,General,52,General Mathematics,10661,10312,9725,9404,,no
+2024,Indigenous,General,52,General Mathematics,1084,886,775,730,,no
+2024,All,General,24,Geography,3040,2976,2862,2739,,no
+2024,Female,General,24,Geography,1703,1663,1600,1529,,no
+2024,Male,General,24,Geography,1337,1313,1262,1210,,no
+2024,Indigenous,General,24,Geography,131,109,108,97,,no
+2024,All,General,6,German,281,277,263,257,,no
+2024,Female,General,6,German,192,187,176,171,,no
+2024,Male,General,6,German,89,90,87,86,,no
+2024,Indigenous,General,6,German,3,2,1,1,,no
+2024,All,General Extension,16,German Extension,,,46,45,,no
+2024,Female,General Extension,16,German Extension,,,33,33,,no
+2024,Male,General Extension,16,German Extension,,,13,12,,no
+2024,All,General,67,Health,2835,2600,2354,2248,,no
+2024,Female,General,67,Health,2250,2086,1913,1837,,no
+2024,Male,General,67,Health,585,514,441,411,,no
+2024,Indigenous,General,67,Health,125,108,95,88,,no
+2024,All,General,8,Italian,143,134,127,122,,no
+2024,Female,General,8,Italian,105,99,95,91,,no
+2024,Male,General,8,Italian,38,35,32,31,,no
+2024,Indigenous,General,8,Italian,4,3,2,2,,no
+2024,All,General,9,Japanese,1395,1305,1226,1199,,no
+2024,Female,General,9,Japanese,844,792,740,726,,no
+2024,Male,General,9,Japanese,550,513,486,473,,no
+2024,Indigenous,General,9,Japanese,33,29,25,24,,no
+2024,All,General,29,Legal Studies,6136,5467,4884,4642,,no
+2024,Female,General,29,Legal Studies,4100,3613,3222,3060,,no
+2024,Male,General,29,Legal Studies,2035,1853,1661,1581,,no
+2024,Indigenous,General,29,Legal Studies,265,218,182,163,,no
+2024,All,General,26,Literature,6017,5733,5535,5465,,no
+2024,Female,General,26,Literature,4186,3970,3837,3785,,no
+2024,Male,General,26,Literature,1828,1760,1695,1677,,no
+2024,Indigenous,General,26,Literature,137,123,111,109,,no
+2024,All,General,47,Marine Science,1171,1081,977,937,,no
+2024,Female,General,47,Marine Science,694,637,586,559,,no
+2024,Male,General,47,Marine Science,477,444,391,378,,no
+2024,Indigenous,General,47,Marine Science,62,51,44,42,,no
+2024,All,General,53,Mathematical Methods,15199,13418,11721,11572,,no
+2024,Female,General,53,Mathematical Methods,7062,6177,5375,5299,,no
+2024,Male,General,53,Mathematical Methods,8136,7240,6346,6273,,no
+2024,Indigenous,General,53,Mathematical Methods,295,227,181,178,,no
+2024,All,General,21,Modern History,6235,5926,5587,5421,,no
+2024,Female,General,21,Modern History,3644,3446,3249,3155,,no
+2024,Male,General,21,Modern History,2583,2472,2333,2261,,no
+2024,Indigenous,General,21,Modern History,235,202,175,166,,no
+2024,All,General,91,Music,2399,2356,2248,2170,,no
+2024,Female,General,91,Music,1203,1189,1147,1105,,no
+2024,Male,General,91,Music,1195,1165,1100,1064,,no
+2024,Indigenous,General,91,Music,82,75,68,66,,no
+2024,All,General Extension,94,Music Extension (Composition),,,190,188,,no
+2024,Female,General Extension,94,Music Extension (Composition),,,74,73,,no
+2024,Male,General Extension,94,Music Extension (Composition),,,116,115,,no
+2024,Indigenous,General Extension,94,Music Extension (Composition),,,2,2,,no
+2024,All,General Extension,94,Music Extension (Musicology),,,8,8,,no
+2024,Female,General Extension,94,Music Extension (Musicology),,,6,6,,no
+2024,Male,General Extension,94,Music Extension (Musicology),,,2,2,,no
+2024,All,General Extension,94,Music Extension (Performance),,,457,453,,no
+2024,Female,General Extension,94,Music Extension (Performance),,,249,246,,no
+2024,Male,General Extension,94,Music Extension (Performance),,,208,207,,no
+2024,Indigenous,General Extension,94,Music Extension (Performance),,,11,11,,no
+2024,All,General,33,Philosophy & Reason,833,795,742,711,,no
+2024,Female,General,33,Philosophy & Reason,493,456,431,409,,no
+2024,Male,General,33,Philosophy & Reason,339,337,309,300,,no
+2024,Indigenous,General,33,Philosophy & Reason,17,17,15,14,,no
+2024,All,General,68,Physical Education,6774,6350,5827,5584,,no
+2024,Female,General,68,Physical Education,2928,2733,2520,2422,,no
+2024,Male,General,68,Physical Education,3846,3617,3307,3162,,no
+2024,Indigenous,General,68,Physical Education,289,239,211,204,,no
+2024,All,General,41,Physics,8630,8159,7596,7489,,no
+2024,Female,General,41,Physics,2638,2471,2292,2255,,no
+2024,Male,General,41,Physics,5992,5688,5304,5234,,no
+2024,Indigenous,General,41,Physics,172,151,126,123,,no
+2024,All,General,79,Psychology,6576,6009,5490,5286,,no
+2024,Female,General,79,Psychology,4781,4329,3974,3825,,no
+2024,Male,General,79,Psychology,1788,1675,1511,1456,,no
+2024,Indigenous,General,79,Psychology,247,197,175,162,,no
+2024,All,General,18,Spanish,249,237,236,220,,no
+2024,Female,General,18,Spanish,170,160,154,141,,no
+2024,Male,General,18,Spanish,79,77,82,79,,no
+2024,Indigenous,General,18,Spanish,2,1,1,1,,no
+2024,All,General,54,Specialist Mathematics,4593,4355,4143,4085,,no
+2024,Female,General,54,Specialist Mathematics,1763,1673,1598,1565,,no
+2024,Male,General,54,Specialist Mathematics,2830,2682,2545,2520,,no
+2024,Indigenous,General,54,Specialist Mathematics,67,59,51,49,,no
+2024,All,General,86,Study of Religion,4278,3995,3811,3771,,no
+2024,Female,General,86,Study of Religion,2447,2293,2200,2177,,no
+2024,Male,General,86,Study of Religion,1829,1700,1609,1592,,no
+2024,Indigenous,General,86,Study of Religion,117,106,93,89,,no
+2024,All,General,80,Visual Art,4638,4343,3965,3802,,no
+2024,Female,General,80,Visual Art,3659,3454,3182,3063,,no
+2024,Male,General,80,Visual Art,974,884,779,735,,no
+2024,Indigenous,General,80,Visual Art,240,206,175,165,,no
+2024,All,Applied,6400,Agricultural Practices,1118,1065,947,898,,no
+2024,Female,Applied,6400,Agricultural Practices,471,469,428,407,,no
+2024,Male,Applied,6400,Agricultural Practices,647,596,519,491,,no
+2024,Indigenous,Applied,6400,Agricultural Practices,177,156,124,115,,no
+2024,All,Applied,6401,Aquatic Practices,4034,3846,3558,3312,,no
+2024,Female,Applied,6401,Aquatic Practices,1486,1425,1374,1284,,no
+2024,Male,Applied,6401,Aquatic Practices,2547,2420,2183,2027,,no
+2024,Indigenous,Applied,6401,Aquatic Practices,642,572,507,468,,no
+2024,All,Applied,6410,Arts in Practice,389,377,371,348,,no
+2024,Female,Applied,6410,Arts in Practice,264,250,246,229,,no
+2024,Male,Applied,6410,Arts in Practice,125,127,125,119,,no
+2024,Indigenous,Applied,6410,Arts in Practice,69,64,47,44,,no
+2024,All,Applied,6416,Building and Construction Skills,2558,2367,2101,1938,,no
+2024,Female,Applied,6416,Building and Construction Skills,342,322,297,275,,no
+2024,Male,Applied,6416,Building and Construction Skills,2216,2045,1804,1663,,no
+2024,Indigenous,Applied,6416,Building and Construction Skills,269,239,201,176,,no
+2024,All,Applied,6402,Business Studies,1714,1665,1489,1366,,no
+2024,Female,Applied,6402,Business Studies,857,835,721,668,,no
+2024,Male,Applied,6402,Business Studies,853,825,764,695,,no
+2024,Indigenous,Applied,6402,Business Studies,155,143,123,106,,no
+2024,All,Applied,6411,Dance in Practice,450,421,394,367,,no
+2024,Female,Applied,6411,Dance in Practice,409,384,365,338,,no
+2024,Male,Applied,6411,Dance in Practice,41,37,29,29,,no
+2024,Indigenous,Applied,6411,Dance in Practice,55,48,46,39,,no
+2024,All,Applied,6412,Drama in Practice,838,806,724,666,,no
+2024,Female,Applied,6412,Drama in Practice,537,511,471,434,,no
+2024,Male,Applied,6412,Drama in Practice,300,294,253,232,,no
+2024,Indigenous,Applied,6412,Drama in Practice,91,81,75,62,,no
+2024,All,Applied,6403,Early Childhood Studies,1797,1663,1484,1363,,no
+2024,Female,Applied,6403,Early Childhood Studies,1667,1539,1361,1252,,no
+2024,Male,Applied,6403,Early Childhood Studies,130,124,123,111,,no
+2024,Indigenous,Applied,6403,Early Childhood Studies,264,246,194,170,,no
+2024,All,Applied,6417,Engineering Skills,2658,2438,2127,2006,,no
+2024,Female,Applied,6417,Engineering Skills,341,323,265,244,,no
+2024,Male,Applied,6417,Engineering Skills,2316,2114,1861,1761,,no
+2024,Indigenous,Applied,6417,Engineering Skills,336,289,228,209,,no
+2024,All,Applied,6121,Essential English,21659,21296,20610,19444,,no
+2024,Female,Applied,6121,Essential English,8528,8615,8550,8050,,no
+2024,Male,Applied,6121,Essential English,13110,12662,12044,11382,,no
+2024,Indigenous,Applied,6121,Essential English,2711,2476,2231,2052,,no
+2024,All,Applied,6140,Essential Mathematics,21323,21257,20472,19243,,no
+2024,Female,Applied,6140,Essential Mathematics,10013,10238,9986,9381,,no
+2024,Male,Applied,6140,Essential Mathematics,11287,10993,10467,9846,,no
+2024,Indigenous,Applied,6140,Essential Mathematics,2733,2552,2238,2058,,no
+2024,All,Applied,6404,Fashion,777,727,667,629,,no
+2024,Female,Applied,6404,Fashion,716,671,615,581,,no
+2024,Male,Applied,6404,Fashion,61,56,52,48,,no
+2024,Indigenous,Applied,6404,Fashion,71,56,47,42,,no
+2024,All,Applied,6418,Furnishing Skills,3937,3694,3299,3095,,no
+2024,Female,Applied,6418,Furnishing Skills,789,762,677,628,,no
+2024,Male,Applied,6418,Furnishing Skills,3148,2932,2622,2467,,no
+2024,Indigenous,Applied,6418,Furnishing Skills,488,423,368,333,,no
+2024,All,Applied,6405,Hospitality Practices,3998,3871,3555,3317,,no
+2024,Female,Applied,6405,Hospitality Practices,2406,2359,2174,2053,,no
+2024,Male,Applied,6405,Hospitality Practices,1592,1512,1381,1264,,no
+2024,Indigenous,Applied,6405,Hospitality Practices,553,496,442,391,,no
+2024,All,Applied,6419,Industrial Graphics Skills,1641,1502,1308,1233,,no
+2024,Female,Applied,6419,Industrial Graphics Skills,266,248,232,217,,no
+2024,Male,Applied,6419,Industrial Graphics Skills,1375,1254,1076,1016,,no
+2024,Indigenous,Applied,6419,Industrial Graphics Skills,145,116,81,71,,no
+2024,All,Applied,6420,Industrial Technology Skills,3321,3168,2822,2682,,no
+2024,Female,Applied,6420,Industrial Technology Skills,473,461,395,364,,no
+2024,Male,Applied,6420,Industrial Technology Skills,2847,2706,2427,2318,,no
+2024,Indigenous,Applied,6420,Industrial Technology Skills,317,288,237,220,,no
+2024,All,Applied,6406,Information and Communication Technology,1422,1359,1189,1116,,no
+2024,Female,Applied,6406,Information and Communication Technology,296,292,259,234,,no
+2024,Male,Applied,6406,Information and Communication Technology,1124,1066,930,882,,no
+2024,Indigenous,Applied,6406,Information and Communication Technology,137,132,107,97,,no
+2024,All,Applied,6413,Media Arts in Practice,1716,1689,1548,1453,,no
+2024,Female,Applied,6413,Media Arts in Practice,832,813,737,691,,no
+2024,Male,Applied,6413,Media Arts in Practice,874,870,805,758,,no
+2024,Indigenous,Applied,6413,Media Arts in Practice,199,190,148,132,,no
+2024,All,Applied,6414,Music in Practice,878,856,793,738,,no
+2024,Female,Applied,6414,Music in Practice,422,407,363,334,,no
+2024,Male,Applied,6414,Music in Practice,455,448,430,404,,no
+2024,Indigenous,Applied,6414,Music in Practice,101,95,88,82,,no
+2024,All,Applied,6408,Religion and Ethics,8913,8550,8189,7983,,no
+2024,Female,Applied,6408,Religion and Ethics,4431,4171,3987,3887,,no
+2024,Male,Applied,6408,Religion and Ethics,4479,4378,4201,4095,,no
+2024,Indigenous,Applied,6408,Religion and Ethics,512,489,447,433,,no
+2024,All,Applied,6421,Science in Practice,2813,2875,2742,2568,,no
+2024,Female,Applied,6421,Science in Practice,1267,1323,1256,1174,,no
+2024,Male,Applied,6421,Science in Practice,1541,1547,1483,1391,,no
+2024,Indigenous,Applied,6421,Science in Practice,341,318,272,249,,no
+2024,All,Applied,6409,Social and Community Studies,5048,4997,4673,4281,,no
+2024,Female,Applied,6409,Social and Community Studies,2975,2996,2806,2570,,no
+2024,Male,Applied,6409,Social and Community Studies,2056,1985,1852,1700,,no
+2024,Indigenous,Applied,6409,Social and Community Studies,686,642,551,487,,no
+2024,All,Applied,6407,Sport and Recreation,9926,9540,8941,8428,,no
+2024,Female,Applied,6407,Sport and Recreation,2847,2784,2612,2458,,no
+2024,Male,Applied,6407,Sport and Recreation,7078,6756,6329,5970,,no
+2024,Indigenous,Applied,6407,Sport and Recreation,1308,1186,1051,980,,no
+2024,All,Applied,6422,Tourism,1771,1702,1612,1481,,no
+2024,Female,Applied,6422,Tourism,1162,1135,1079,993,,no
+2024,Male,Applied,6422,Tourism,608,566,533,488,,no
+2024,Indigenous,Applied,6422,Tourism,197,191,176,164,,no
+2024,All,Applied,6415,Visual Arts in Practice,4921,4898,4594,4305,,no
+2024,Female,Applied,6415,Visual Arts in Practice,3414,3455,3289,3099,,no
+2024,Male,Applied,6415,Visual Arts in Practice,1498,1434,1296,1200,,no
+2024,Indigenous,Applied,6415,Visual Arts in Practice,716,662,602,553,,no
+2024,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,12,no
+2024,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,9,no
+2024,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,3,no
+2024,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,4,no
+2024,All,Short Courses,6099,Career Education,,,,,9291,no
+2024,Female,Short Courses,6099,Career Education,,,,,4528,no
+2024,Male,Short Courses,6099,Career Education,,,,,4757,no
+2024,Indigenous,Short Courses,6099,Career Education,,,,,911,no
+2024,All,Short Courses,6095,Literacy,,,,,5342,no
+2024,Female,Short Courses,6095,Literacy,,,,,2024,no
+2024,Male,Short Courses,6095,Literacy,,,,,3293,no
+2024,Indigenous,Short Courses,6095,Literacy,,,,,883,no
+2024,All,Short Courses,6096,Numeracy,,,,,7175,no
+2024,Female,Short Courses,6096,Numeracy,,,,,3265,no
+2024,Male,Short Courses,6096,Numeracy,,,,,3882,no
+2024,Indigenous,Short Courses,6096,Numeracy,,,,,1178,no
+2023,All,General,23,Aboriginal & Torres Strait Islander Studies,64,66,63,54,,no
+2023,Female,General,23,Aboriginal & Torres Strait Islander Studies,43,43,44,37,,no
+2023,Male,General,23,Aboriginal & Torres Strait Islander Studies,21,23,19,17,,no
+2023,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,34,31,28,24,,no
+2023,All,General,60,Accounting,2820,2661,2405,2299,,no
+2023,Female,General,60,Accounting,1308,1219,1086,1045,,no
+2023,Male,General,60,Accounting,1512,1442,1319,1254,,no
+2023,Indigenous,General,60,Accounting,55,31,23,21,,no
+2023,All,General,55,Aerospace Systems,86,86,84,80,,no
+2023,Female,General,55,Aerospace Systems,11,12,13,13,,no
+2023,Male,General,55,Aerospace Systems,75,74,71,67,,no
+2023,Indigenous,General,55,Aerospace Systems,1,1,1,1,,no
+2023,All,General,51,Agricultural Science,481,466,468,442,,no
+2023,Female,General,51,Agricultural Science,292,281,274,263,,no
+2023,Male,General,51,Agricultural Science,189,185,194,179,,no
+2023,Indigenous,General,51,Agricultural Science,16,16,20,17,,no
+2023,All,General,20,Ancient History,3214,3023,2851,2710,,no
+2023,Female,General,20,Ancient History,2082,1961,1835,1754,,no
+2023,Male,General,20,Ancient History,1131,1061,1015,956,,no
+2023,Indigenous,General,20,Ancient History,142,115,100,91,,no
+2023,All,General,42,Biology,16697,15404,14235,13804,,no
+2023,Female,General,42,Biology,11161,10234,9452,9159,,no
+2023,Male,General,42,Biology,5526,5163,4778,4641,,no
+2023,Indigenous,General,42,Biology,544,455,404,367,,no
+2023,All,General,66,Business,5859,5483,5044,4809,,no
+2023,Female,General,66,Business,2920,2733,2507,2387,,no
+2023,Male,General,66,Business,2937,2749,2535,2421,,no
+2023,Indigenous,General,66,Business,178,145,126,116,,no
+2023,All,General,40,Chemistry,10762,9865,8937,8763,,no
+2023,Female,General,40,Chemistry,5759,5237,4686,4586,,no
+2023,Male,General,40,Chemistry,5000,4627,4250,4176,,no
+2023,Indigenous,General,40,Chemistry,233,193,151,145,,no
+2023,All,General,11,Chinese,599,575,531,509,,no
+2023,Female,General,11,Chinese,313,303,283,270,,no
+2023,Male,General,11,Chinese,286,272,248,239,,no
+2023,Indigenous,General,11,Chinese,1,1,1,1,,no
+2023,All,General Extension,56,Chinese Extension,,,33,31,,no
+2023,Female,General Extension,56,Chinese Extension,,,19,19,,no
+2023,Male,General Extension,56,Chinese Extension,,,14,12,,no
+2023,All,General,85,Dance,900,843,785,762,,no
+2023,Female,General,85,Dance,862,806,755,733,,no
+2023,Male,General,85,Dance,38,37,30,29,,no
+2023,Indigenous,General,85,Dance,25,21,17,15,,no
+2023,All,General,48,Design,3697,3504,3225,3041,,no
+2023,Female,General,48,Design,1724,1669,1582,1510,,no
+2023,Male,General,48,Design,1971,1833,1641,1529,,no
+2023,Indigenous,General,48,Design,90,79,73,65,,no
+2023,All,General,49,Digital Solutions,2045,1876,1671,1597,,no
+2023,Female,General,49,Digital Solutions,359,334,282,273,,no
+2023,Male,General,49,Digital Solutions,1686,1542,1389,1324,,no
+2023,Indigenous,General,49,Digital Solutions,27,24,21,20,,no
+2023,All,General,88,Drama,2906,2770,2628,2514,,no
+2023,Female,General,88,Drama,1980,1882,1788,1712,,no
+2023,Male,General,88,Drama,924,886,837,800,,no
+2023,Indigenous,General,88,Drama,108,92,85,74,,no
+2023,All,General,43,Earth & Environmental Science,367,336,305,297,,no
+2023,Female,General,43,Earth & Environmental Science,190,167,138,134,,no
+2023,Male,General,43,Earth & Environmental Science,177,169,167,163,,no
+2023,Indigenous,General,43,Earth & Environmental Science,18,14,14,12,,no
+2023,All,General,27,Economics,3118,3091,2990,2923,,no
+2023,Female,General,27,Economics,1112,1088,1021,996,,no
+2023,Male,General,27,Economics,2006,2003,1969,1927,,no
+2023,Indigenous,General,27,Economics,29,26,25,24,,no
+2023,All,General,74,Engineering,1930,1777,1656,1606,,no
+2023,Female,General,74,Engineering,256,248,237,227,,no
+2023,Male,General,74,Engineering,1674,1529,1419,1379,,no
+2023,Indigenous,General,74,Engineering,25,19,19,15,,no
+2023,All,General,1,English,32162,29727,27432,26779,,no
+2023,Female,General,1,English,17709,16451,15255,14874,,no
+2023,Male,General,1,English,14436,13262,12168,11896,,no
+2023,Indigenous,General,1,English,1119,924,787,735,,no
+2023,All,General,3,English as an Additional Language,755,733,669,640,,no
+2023,Female,General,3,English as an Additional Language,361,351,327,312,,no
+2023,Male,General,3,English as an Additional Language,394,382,342,328,,no
+2023,Indigenous,General,3,English as an Additional Language,19,13,6,6,,no
+2023,All,General Extension,2,English & Literature Extension,,,731,710,,no
+2023,Female,General Extension,2,English & Literature Extension,,,563,546,,no
+2023,Male,General Extension,2,English & Literature Extension,,,167,163,,no
+2023,Indigenous,General Extension,2,English & Literature Extension,,,6,4,,no
+2023,All,General,93,"Film, Television & New Media",2854,2654,2465,2360,,no
+2023,Female,General,93,"Film, Television & New Media",1340,1244,1159,1110,,no
+2023,Male,General,93,"Film, Television & New Media",1512,1410,1306,1250,,no
+2023,Indigenous,General,93,"Film, Television & New Media",99,84,71,64,,no
+2023,All,General,69,Food & Nutrition,1133,1024,883,830,,no
+2023,Female,General,69,Food & Nutrition,853,772,684,647,,no
+2023,Male,General,69,Food & Nutrition,280,252,199,183,,no
+2023,Indigenous,General,69,Food & Nutrition,78,58,45,37,,no
+2023,All,General,5,French,612,602,577,569,,no
+2023,Female,General,5,French,461,457,437,431,,no
+2023,Male,General,5,French,151,145,140,138,,no
+2023,Indigenous,General,5,French,7,7,6,6,,no
+2023,All,General Extension,15,French Extension,,,27,26,,no
+2023,Female,General Extension,15,French Extension,,,23,23,,no
+2023,Male,General Extension,15,French Extension,,,4,3,,no
+2023,All,General,52,General Mathematics,23311,22255,20926,20225,,no
+2023,Female,General,52,General Mathematics,12919,12222,11576,11198,,no
+2023,Male,General,52,General Mathematics,10381,10024,9343,9021,,no
+2023,Indigenous,General,52,General Mathematics,987,817,664,618,,no
+2023,All,General,24,Geography,2844,2750,2732,2591,,no
+2023,Female,General,24,Geography,1680,1602,1577,1508,,no
+2023,Male,General,24,Geography,1162,1147,1155,1083,,no
+2023,Indigenous,General,24,Geography,103,93,101,96,,no
+2023,All,General,6,German,337,321,310,301,,no
+2023,Female,General,6,German,221,210,198,190,,no
+2023,Male,General,6,German,116,111,112,111,,no
+2023,All,General Extension,16,German Extension,,,44,42,,no
+2023,Female,General Extension,16,German Extension,,,28,26,,no
+2023,Male,General Extension,16,German Extension,,,16,16,,no
+2023,All,General,67,Health,2916,2598,2324,2245,,no
+2023,Female,General,67,Health,2282,2061,1846,1791,,no
+2023,Male,General,67,Health,633,535,476,453,,no
+2023,Indigenous,General,67,Health,144,116,98,91,,no
+2023,All,General,8,Italian,129,125,124,120,,no
+2023,Female,General,8,Italian,107,103,103,100,,no
+2023,Male,General,8,Italian,22,22,21,20,,no
+2023,Indigenous,General,8,Italian,3,3,3,3,,no
+2023,All,General,9,Japanese,1519,1421,1317,1282,,no
+2023,Female,General,9,Japanese,957,898,842,814,,no
+2023,Male,General,9,Japanese,562,523,475,468,,no
+2023,Indigenous,General,9,Japanese,42,36,33,31,,no
+2023,All,General,29,Legal Studies,6006,5540,5091,4809,,no
+2023,Female,General,29,Legal Studies,4091,3773,3500,3290,,no
+2023,Male,General,29,Legal Studies,1914,1765,1590,1517,,no
+2023,Indigenous,General,29,Legal Studies,236,209,199,172,,no
+2023,All,General,26,Literature,5168,4967,4741,4679,,no
+2023,Female,General,26,Literature,3620,3475,3330,3286,,no
+2023,Male,General,26,Literature,1545,1490,1409,1391,,no
+2023,Indigenous,General,26,Literature,134,115,98,96,,no
+2023,All,General,47,Marine Science,1124,1059,938,901,,no
+2023,Female,General,47,Marine Science,704,666,585,561,,no
+2023,Male,General,47,Marine Science,419,393,353,340,,no
+2023,Indigenous,General,47,Marine Science,55,52,44,43,,no
+2023,All,General,53,Mathematical Methods,14680,12877,11057,10945,,no
+2023,Female,General,53,Mathematical Methods,6967,6093,5141,5083,,no
+2023,Male,General,53,Mathematical Methods,7710,6782,5916,5862,,no
+2023,Indigenous,General,53,Mathematical Methods,262,191,150,147,,no
+2023,All,General,21,Modern History,5778,5575,5420,5222,,no
+2023,Female,General,21,Modern History,3511,3400,3309,3193,,no
+2023,Male,General,21,Modern History,2264,2173,2110,2028,,no
+2023,Indigenous,General,21,Modern History,189,172,184,162,,no
+2023,All,General,91,Music,2348,2297,2237,2161,,no
+2023,Female,General,91,Music,1205,1175,1156,1117,,no
+2023,Male,General,91,Music,1143,1122,1081,1044,,no
+2023,Indigenous,General,91,Music,62,61,58,58,,no
+2023,All,General Extension,94,Music Extension (Composition),,,176,170,,no
+2023,Female,General Extension,94,Music Extension (Composition),,,62,62,,no
+2023,Male,General Extension,94,Music Extension (Composition),,,114,108,,no
+2023,Indigenous,General Extension,94,Music Extension (Composition),,,1,1,,no
+2023,All,General Extension,94,Music Extension (Musicology),,,12,11,,no
+2023,Female,General Extension,94,Music Extension (Musicology),,,9,9,,no
+2023,Male,General Extension,94,Music Extension (Musicology),,,3,2,,no
+2023,All,General Extension,94,Music Extension (Performance),,,573,555,,no
+2023,Female,General Extension,94,Music Extension (Performance),,,331,319,,no
+2023,Male,General Extension,94,Music Extension (Performance),,,242,236,,no
+2023,Indigenous,General Extension,94,Music Extension (Performance),,,15,14,,no
+2023,All,General,33,Philosophy & Reason,818,759,705,672,,no
+2023,Female,General,33,Philosophy & Reason,496,452,421,395,,no
+2023,Male,General,33,Philosophy & Reason,320,305,282,275,,no
+2023,Indigenous,General,33,Philosophy & Reason,19,13,12,12,,no
+2023,All,General,68,Physical Education,6806,6394,5952,5677,,no
+2023,Female,General,68,Physical Education,2912,2737,2550,2434,,no
+2023,Male,General,68,Physical Education,3894,3657,3402,3242,,no
+2023,Indigenous,General,68,Physical Education,275,247,216,188,,no
+2023,All,General,41,Physics,7837,7437,7149,6943,,no
+2023,Female,General,41,Physics,2378,2271,2191,2129,,no
+2023,Male,General,41,Physics,5458,5166,4958,4814,,no
+2023,Indigenous,General,41,Physics,128,117,127,112,,no
+2023,All,General,79,Psychology,6265,5823,5237,5022,,no
+2023,Female,General,79,Psychology,4582,4242,3794,3645,,no
+2023,Male,General,79,Psychology,1679,1578,1440,1374,,no
+2023,Indigenous,General,79,Psychology,199,159,140,133,,no
+2023,All,General,18,Spanish,246,233,218,216,,no
+2023,Female,General,18,Spanish,162,155,147,145,,no
+2023,Male,General,18,Spanish,84,78,71,71,,no
+2023,Indigenous,General,18,Spanish,1,1,1,1,,no
+2023,All,General,54,Specialist Mathematics,4226,3956,3728,3640,,no
+2023,Female,General,54,Specialist Mathematics,1564,1462,1362,1330,,no
+2023,Male,General,54,Specialist Mathematics,2662,2494,2366,2310,,no
+2023,Indigenous,General,54,Specialist Mathematics,53,44,39,35,,no
+2023,All,General,86,Study of Religion,4018,3770,3574,3539,,no
+2023,Female,General,86,Study of Religion,2407,2284,2161,2141,,no
+2023,Male,General,86,Study of Religion,1611,1486,1413,1398,,no
+2023,Indigenous,General,86,Study of Religion,77,64,58,57,,no
+2023,All,General,80,Visual Art,4525,4280,3968,3786,,no
+2023,Female,General,80,Visual Art,3523,3352,3125,2991,,no
+2023,Male,General,80,Visual Art,996,922,838,790,,no
+2023,Indigenous,General,80,Visual Art,216,175,160,151,,no
+2023,All,Applied,6400,Agricultural Practices,1007,924,791,737,,no
+2023,Female,Applied,6400,Agricultural Practices,468,448,405,385,,no
+2023,Male,Applied,6400,Agricultural Practices,539,476,386,352,,no
+2023,Indigenous,Applied,6400,Agricultural Practices,186,159,123,113,,no
+2023,All,Applied,6401,Aquatic Practices,3890,3699,3299,3080,,no
+2023,Female,Applied,6401,Aquatic Practices,1491,1474,1360,1281,,no
+2023,Male,Applied,6401,Aquatic Practices,2399,2225,1939,1799,,no
+2023,Indigenous,Applied,6401,Aquatic Practices,633,552,485,436,,no
+2023,All,Applied,6410,Arts in Practice,323,325,299,275,,no
+2023,Female,Applied,6410,Arts in Practice,213,203,180,166,,no
+2023,Male,Applied,6410,Arts in Practice,109,121,118,108,,no
+2023,Indigenous,Applied,6410,Arts in Practice,32,31,24,23,,no
+2023,All,Applied,6416,Building and Construction Skills,2519,2284,2029,1882,,no
+2023,Female,Applied,6416,Building and Construction Skills,362,325,288,258,,no
+2023,Male,Applied,6416,Building and Construction Skills,2157,1959,1741,1624,,no
+2023,Indigenous,Applied,6416,Building and Construction Skills,266,227,195,179,,no
+2023,All,Applied,6402,Business Studies,1772,1736,1526,1429,,no
+2023,Female,Applied,6402,Business Studies,867,869,786,738,,no
+2023,Male,Applied,6402,Business Studies,902,864,739,690,,no
+2023,Indigenous,Applied,6402,Business Studies,165,163,128,119,,no
+2023,All,Applied,6411,Dance in Practice,384,341,329,315,,no
+2023,Female,Applied,6411,Dance in Practice,357,319,306,292,,no
+2023,Male,Applied,6411,Dance in Practice,27,22,23,23,,no
+2023,Indigenous,Applied,6411,Dance in Practice,44,37,31,30,,no
+2023,All,Applied,6412,Drama in Practice,885,813,738,686,,no
+2023,Female,Applied,6412,Drama in Practice,530,501,461,432,,no
+2023,Male,Applied,6412,Drama in Practice,353,311,275,252,,no
+2023,Indigenous,Applied,6412,Drama in Practice,93,79,58,52,,no
+2023,All,Applied,6403,Early Childhood Studies,1842,1677,1513,1383,,no
+2023,Female,Applied,6403,Early Childhood Studies,1715,1554,1410,1291,,no
+2023,Male,Applied,6403,Early Childhood Studies,127,123,103,92,,no
+2023,Indigenous,Applied,6403,Early Childhood Studies,279,238,214,181,,no
+2023,All,Applied,6417,Engineering Skills,2712,2468,2033,1873,,no
+2023,Female,Applied,6417,Engineering Skills,317,274,219,197,,no
+2023,Male,Applied,6417,Engineering Skills,2395,2194,1814,1676,,no
+2023,Indigenous,Applied,6417,Engineering Skills,316,260,203,184,,no
+2023,All,Applied,6121,Essential English,20931,20572,19832,18613,,no
+2023,Female,Applied,6121,Essential English,8206,8190,8296,7812,,no
+2023,Male,Applied,6121,Essential English,12708,12366,11528,10794,,no
+2023,Indigenous,Applied,6121,Essential English,2538,2328,2037,1851,,no
+2023,All,Applied,6140,Essential Mathematics,20135,20024,19306,18139,,no
+2023,Female,Applied,6140,Essential Mathematics,9282,9484,9446,8910,,no
+2023,Male,Applied,6140,Essential Mathematics,10832,10519,9851,9221,,no
+2023,Indigenous,Applied,6140,Essential Mathematics,2506,2313,2019,1843,,no
+2023,All,Applied,6404,Fashion,832,780,682,653,,no
+2023,Female,Applied,6404,Fashion,782,737,645,618,,no
+2023,Male,Applied,6404,Fashion,50,43,37,35,,no
+2023,Indigenous,Applied,6404,Fashion,43,38,32,30,,no
+2023,All,Applied,6418,Furnishing Skills,3735,3457,2987,2766,,no
+2023,Female,Applied,6418,Furnishing Skills,718,667,617,572,,no
+2023,Male,Applied,6418,Furnishing Skills,3017,2790,2369,2193,,no
+2023,Indigenous,Applied,6418,Furnishing Skills,421,370,308,277,,no
+2023,All,Applied,6405,Hospitality Practices,3855,3626,3244,2997,,no
+2023,Female,Applied,6405,Hospitality Practices,2416,2290,2117,1968,,no
+2023,Male,Applied,6405,Hospitality Practices,1439,1336,1127,1029,,no
+2023,Indigenous,Applied,6405,Hospitality Practices,487,439,346,307,,no
+2023,All,Applied,6419,Industrial Graphics Skills,1644,1510,1239,1152,,no
+2023,Female,Applied,6419,Industrial Graphics Skills,220,194,177,166,,no
+2023,Male,Applied,6419,Industrial Graphics Skills,1424,1316,1062,986,,no
+2023,Indigenous,Applied,6419,Industrial Graphics Skills,118,99,73,65,,no
+2023,All,Applied,6420,Industrial Technology Skills,3409,3187,2800,2624,,no
+2023,Female,Applied,6420,Industrial Technology Skills,469,442,391,365,,no
+2023,Male,Applied,6420,Industrial Technology Skills,2940,2745,2409,2259,,no
+2023,Indigenous,Applied,6420,Industrial Technology Skills,330,305,249,229,,no
+2023,All,Applied,6406,Information and Communication Technology,1475,1415,1273,1181,,no
+2023,Female,Applied,6406,Information and Communication Technology,342,326,305,279,,no
+2023,Male,Applied,6406,Information and Communication Technology,1132,1088,967,901,,no
+2023,Indigenous,Applied,6406,Information and Communication Technology,159,138,110,100,,no
+2023,All,Applied,6413,Media Arts in Practice,1543,1476,1311,1229,,no
+2023,Female,Applied,6413,Media Arts in Practice,734,705,622,584,,no
+2023,Male,Applied,6413,Media Arts in Practice,800,762,687,643,,no
+2023,Indigenous,Applied,6413,Media Arts in Practice,157,140,118,107,,no
+2023,All,Applied,6414,Music in Practice,953,897,814,760,,no
+2023,Female,Applied,6414,Music in Practice,400,357,336,313,,no
+2023,Male,Applied,6414,Music in Practice,553,540,478,447,,no
+2023,Indigenous,Applied,6414,Music in Practice,91,78,62,56,,no
+2023,All,Applied,6408,Religion and Ethics,8587,8239,7773,7597,,no
+2023,Female,Applied,6408,Religion and Ethics,4315,4011,3756,3675,,no
+2023,Male,Applied,6408,Religion and Ethics,4268,4224,4014,3919,,no
+2023,Indigenous,Applied,6408,Religion and Ethics,446,425,392,383,,no
+2023,All,Applied,6421,Science in Practice,2928,2878,2738,2542,,no
+2023,Female,Applied,6421,Science in Practice,1309,1313,1276,1180,,no
+2023,Male,Applied,6421,Science in Practice,1617,1563,1461,1361,,no
+2023,Indigenous,Applied,6421,Science in Practice,319,319,267,240,,no
+2023,All,Applied,6409,Social and Community Studies,4481,4340,3965,3706,,no
+2023,Female,Applied,6409,Social and Community Studies,2560,2520,2330,2178,,no
+2023,Male,Applied,6409,Social and Community Studies,1908,1807,1627,1520,,no
+2023,Indigenous,Applied,6409,Social and Community Studies,562,514,407,374,,no
+2023,All,Applied,6407,Sport and Recreation,9496,9183,8376,7899,,no
+2023,Female,Applied,6407,Sport and Recreation,2749,2713,2589,2470,,no
+2023,Male,Applied,6407,Sport and Recreation,6746,6470,5787,5429,,no
+2023,Indigenous,Applied,6407,Sport and Recreation,1237,1144,1014,932,,no
+2023,All,Applied,6422,Tourism,1868,1811,1672,1526,,no
+2023,Female,Applied,6422,Tourism,1211,1180,1117,1025,,no
+2023,Male,Applied,6422,Tourism,657,631,555,501,,no
+2023,Indigenous,Applied,6422,Tourism,191,173,151,136,,no
+2023,All,Applied,6415,Visual Arts in Practice,4850,4769,4484,4217,,no
+2023,Female,Applied,6415,Visual Arts in Practice,3298,3271,3106,2927,,no
+2023,Male,Applied,6415,Visual Arts in Practice,1544,1490,1371,1284,,no
+2023,Indigenous,Applied,6415,Visual Arts in Practice,717,651,586,541,,no
+2023,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,34,no
+2023,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,22,no
+2023,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,12,no
+2023,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,13,no
+2023,All,Short Courses,6099,Career Education,,,,,8788,no
+2023,Female,Short Courses,6099,Career Education,,,,,4318,no
+2023,Male,Short Courses,6099,Career Education,,,,,4465,no
+2023,Indigenous,Short Courses,6099,Career Education,,,,,785,no
+2023,All,Short Courses,6095,Literacy,,,,,5774,no
+2023,Female,Short Courses,6095,Literacy,,,,,2182,no
+2023,Male,Short Courses,6095,Literacy,,,,,3579,no
+2023,Indigenous,Short Courses,6095,Literacy,,,,,992,no
+2023,All,Short Courses,6096,Numeracy,,,,,7194,no
+2023,Female,Short Courses,6096,Numeracy,,,,,3082,no
+2023,Male,Short Courses,6096,Numeracy,,,,,4091,no
+2023,Indigenous,Short Courses,6096,Numeracy,,,,,1144,no
+2022,All,General,23,Aboriginal & Torres Strait Islander Studies,73,64,58,45,,no
+2022,Female,General,23,Aboriginal & Torres Strait Islander Studies,52,48,49,38,,no
+2022,Male,General,23,Aboriginal & Torres Strait Islander Studies,21,16,9,7,,no
+2022,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,37,31,27,21,,no
+2022,All,General,60,Accounting,2654,2491,2221,2106,,no
+2022,Female,General,60,Accounting,1239,1148,1020,972,,no
+2022,Male,General,60,Accounting,1415,1342,1201,1134,,no
+2022,Indigenous,General,60,Accounting,73,58,45,43,,no
+2022,All,General,55,Aerospace Systems,160,131,114,113,,no
+2022,Female,General,55,Aerospace Systems,29,19,15,16,,no
+2022,Male,General,55,Aerospace Systems,131,112,99,97,,no
+2022,Indigenous,General,55,Aerospace Systems,2,0,0,0,,no
+2022,All,General,51,Agricultural Science,516,490,445,430,,no
+2022,Female,General,51,Agricultural Science,310,296,271,263,,no
+2022,Male,General,51,Agricultural Science,206,194,174,167,,no
+2022,Indigenous,General,51,Agricultural Science,10,8,6,5,,no
+2022,All,General,20,Ancient History,2919,2701,2529,2401,,no
+2022,Female,General,20,Ancient History,1886,1744,1618,1544,,no
+2022,Male,General,20,Ancient History,1032,956,910,856,,no
+2022,Indigenous,General,20,Ancient History,126,105,89,81,,no
+2022,All,General,42,Biology,16666,15453,14091,13649,,no
+2022,Female,General,42,Biology,11196,10331,9446,9152,,no
+2022,Male,General,42,Biology,5463,5116,4641,4494,,no
+2022,Indigenous,General,42,Biology,568,479,400,360,,no
+2022,All,General,66,Business,5892,5589,5115,4889,,no
+2022,Female,General,66,Business,3081,2899,2663,2560,,no
+2022,Male,General,66,Business,2811,2690,2452,2329,,no
+2022,Indigenous,General,66,Business,156,130,121,107,,no
+2022,All,General,40,Chemistry,10478,9654,8723,8517,,no
+2022,Female,General,40,Chemistry,5598,5111,4579,4470,,no
+2022,Male,General,40,Chemistry,4877,4541,4142,4045,,no
+2022,Indigenous,General,40,Chemistry,226,183,150,144,,no
+2022,All,General,11,Chinese,808,786,697,666,,no
+2022,Female,General,11,Chinese,398,392,356,346,,no
+2022,Male,General,11,Chinese,410,394,341,320,,no
+2022,Indigenous,General,11,Chinese,3,3,3,3,,no
+2022,All,General Extension,56,Chinese Extension,,,59,57,,no
+2022,Female,General Extension,56,Chinese Extension,,,29,29,,no
+2022,Male,General Extension,56,Chinese Extension,,,30,28,,no
+2022,All,General,85,Dance,1032,937,875,842,,no
+2022,Female,General,85,Dance,984,894,837,806,,no
+2022,Male,General,85,Dance,48,43,38,36,,no
+2022,Indigenous,General,85,Dance,49,41,31,31,,no
+2022,All,General,48,Design,4004,3745,3335,3151,,no
+2022,Female,General,48,Design,1745,1682,1535,1451,,no
+2022,Male,General,48,Design,2259,2063,1800,1700,,no
+2022,Indigenous,General,48,Design,103,93,77,73,,no
+2022,All,General,49,Digital Solutions,2134,1917,1694,1592,,no
+2022,Female,General,49,Digital Solutions,350,320,279,272,,no
+2022,Male,General,49,Digital Solutions,1783,1597,1415,1320,,no
+2022,Indigenous,General,49,Digital Solutions,37,30,21,20,,no
+2022,All,General,88,Drama,3074,2921,2691,2588,,no
+2022,Female,General,88,Drama,2061,1953,1804,1736,,no
+2022,Male,General,88,Drama,1009,964,882,848,,no
+2022,Indigenous,General,88,Drama,119,108,87,77,,no
+2022,All,General,43,Earth & Environmental Science,341,327,311,304,,no
+2022,Female,General,43,Earth & Environmental Science,158,144,138,136,,no
+2022,Male,General,43,Earth & Environmental Science,183,183,173,168,,no
+2022,Indigenous,General,43,Earth & Environmental Science,15,10,10,10,,no
+2022,All,General,27,Economics,2686,2674,2602,2534,,no
+2022,Female,General,27,Economics,943,932,920,890,,no
+2022,Male,General,27,Economics,1743,1741,1681,1643,,no
+2022,Indigenous,General,27,Economics,41,36,33,31,,no
+2022,All,General,74,Engineering,1621,1493,1388,1341,,no
+2022,Female,General,74,Engineering,212,189,181,175,,no
+2022,Male,General,74,Engineering,1409,1304,1207,1166,,no
+2022,Indigenous,General,74,Engineering,24,18,18,17,,no
+2022,All,General,1,English,32110,29802,27442,26766,,no
+2022,Female,General,1,English,17928,16684,15467,15085,,no
+2022,Male,General,1,English,14169,13109,11968,11674,,no
+2022,Indigenous,General,1,English,1108,920,782,734,,no
+2022,All,General,3,English as an Additional Language,882,868,767,718,,no
+2022,Female,General,3,English as an Additional Language,451,450,411,386,,no
+2022,Male,General,3,English as an Additional Language,431,418,356,332,,no
+2022,Indigenous,General,3,English as an Additional Language,14,13,8,8,,no
+2022,All,General Extension,2,English & Literature Extension,,,746,718,,no
+2022,Female,General Extension,2,English & Literature Extension,,,555,534,,no
+2022,Male,General Extension,2,English & Literature Extension,,,189,182,,no
+2022,Indigenous,General Extension,2,English & Literature Extension,,,10,8,,no
+2022,All,General,93,"Film, Television & New Media",2953,2794,2564,2451,,no
+2022,Female,General,93,"Film, Television & New Media",1329,1271,1161,1116,,no
+2022,Male,General,93,"Film, Television & New Media",1621,1520,1401,1333,,no
+2022,Indigenous,General,93,"Film, Television & New Media",101,94,80,76,,no
+2022,All,General,69,Food & Nutrition,1261,1102,955,907,,no
+2022,Female,General,69,Food & Nutrition,991,886,793,757,,no
+2022,Male,General,69,Food & Nutrition,270,216,162,150,,no
+2022,Indigenous,General,69,Food & Nutrition,61,48,45,41,,no
+2022,All,General,5,French,689,659,630,617,,no
+2022,Female,General,5,French,500,477,454,445,,no
+2022,Male,General,5,French,189,182,176,172,,no
+2022,Indigenous,General,5,French,3,2,2,2,,no
+2022,All,General Extension,15,French Extension,,,35,35,,no
+2022,Female,General Extension,15,French Extension,,,30,30,,no
+2022,Male,General Extension,15,French Extension,,,5,5,,no
+2022,All,General,52,General Mathematics,23435,22439,21237,20459,,no
+2022,Female,General,52,General Mathematics,13097,12449,11815,11424,,no
+2022,Male,General,52,General Mathematics,10328,9982,9415,9029,,no
+2022,Indigenous,General,52,General Mathematics,1031,840,712,651,,no
+2022,All,General,24,Geography,3214,3104,2954,2824,,no
+2022,Female,General,24,Geography,1895,1830,1726,1649,,no
+2022,Male,General,24,Geography,1319,1274,1228,1175,,no
+2022,Indigenous,General,24,Geography,97,88,83,74,,no
+2022,All,General,6,German,302,292,268,261,,no
+2022,Female,General,6,German,196,186,174,170,,no
+2022,Male,General,6,German,106,106,94,91,,no
+2022,Indigenous,General,6,German,4,3,2,2,,no
+2022,All,General Extension,16,German Extension,,,37,37,,no
+2022,Female,General Extension,16,German Extension,,,26,26,,no
+2022,Male,General Extension,16,German Extension,,,11,11,,no
+2022,All,General,67,Health,2972,2721,2463,2373,,no
+2022,Female,General,67,Health,2330,2158,1997,1934,,no
+2022,Male,General,67,Health,641,562,465,438,,no
+2022,Indigenous,General,67,Health,145,125,112,103,,no
+2022,All,General,8,Italian,126,117,111,110,,no
+2022,Female,General,8,Italian,95,87,82,81,,no
+2022,Male,General,8,Italian,31,30,29,29,,no
+2022,Indigenous,General,8,Italian,2,2,2,2,,no
+2022,All,General,9,Japanese,1528,1441,1333,1273,,no
+2022,Female,General,9,Japanese,902,848,781,748,,no
+2022,Male,General,9,Japanese,626,593,552,525,,no
+2022,Indigenous,General,9,Japanese,36,33,27,26,,no
+2022,All,General,29,Legal Studies,6187,5465,4827,4602,,no
+2022,Female,General,29,Legal Studies,4230,3726,3274,3121,,no
+2022,Male,General,29,Legal Studies,1955,1737,1551,1479,,no
+2022,Indigenous,General,29,Legal Studies,257,198,157,142,,no
+2022,All,General,26,Literature,3930,3773,3656,3580,,no
+2022,Female,General,26,Literature,2672,2549,2479,2432,,no
+2022,Male,General,26,Literature,1253,1218,1171,1143,,no
+2022,Indigenous,General,26,Literature,79,69,67,62,,no
+2022,All,General,47,Marine Science,898,860,780,743,,no
+2022,Female,General,47,Marine Science,536,499,460,439,,no
+2022,Male,General,47,Marine Science,361,360,319,303,,no
+2022,Indigenous,General,47,Marine Science,49,50,45,44,,no
+2022,All,General,53,Mathematical Methods,13975,12144,10404,10228,,no
+2022,Female,General,53,Mathematical Methods,6608,5699,4863,4786,,no
+2022,Male,General,53,Mathematical Methods,7363,6443,5539,5440,,no
+2022,Indigenous,General,53,Mathematical Methods,232,166,126,123,,no
+2022,All,General,21,Modern History,5899,5642,5319,5123,,no
+2022,Female,General,21,Modern History,3524,3374,3190,3080,,no
+2022,Male,General,21,Modern History,2373,2266,2128,2042,,no
+2022,Indigenous,General,21,Modern History,193,163,144,131,,no
+2022,All,General,91,Music,2608,2533,2368,2295,,no
+2022,Female,General,91,Music,1362,1324,1255,1216,,no
+2022,Male,General,91,Music,1242,1205,1109,1075,,no
+2022,Indigenous,General,91,Music,75,68,58,57,,no
+2022,All,General Extension,94,Music Extension (Composition),,,225,218,,no
+2022,Female,General Extension,94,Music Extension (Composition),,,92,87,,no
+2022,Male,General Extension,94,Music Extension (Composition),,,133,131,,no
+2022,Indigenous,General Extension,94,Music Extension (Composition),,,5,4,,no
+2022,All,General Extension,94,Music Extension (Musicology),,,8,8,,no
+2022,Female,General Extension,94,Music Extension (Musicology),,,4,4,,no
+2022,Male,General Extension,94,Music Extension (Musicology),,,4,4,,no
+2022,Indigenous,General Extension,94,Music Extension (Musicology),,,1,1,,no
+2022,All,General Extension,94,Music Extension (Performance),,,547,535,,no
+2022,Female,General Extension,94,Music Extension (Performance),,,313,307,,no
+2022,Male,General Extension,94,Music Extension (Performance),,,233,227,,no
+2022,Indigenous,General Extension,94,Music Extension (Performance),,,11,11,,no
+2022,All,General,33,Philosophy & Reason,670,637,607,580,,no
+2022,Female,General,33,Philosophy & Reason,379,357,335,319,,no
+2022,Male,General,33,Philosophy & Reason,290,280,272,261,,no
+2022,Indigenous,General,33,Philosophy & Reason,17,13,11,9,,no
+2022,All,General,68,Physical Education,7155,6758,6123,5869,,no
+2022,Female,General,68,Physical Education,3320,3106,2826,2714,,no
+2022,Male,General,68,Physical Education,3835,3652,3297,3155,,no
+2022,Indigenous,General,68,Physical Education,320,280,234,221,,no
+2022,All,General,41,Physics,7504,7137,6618,6474,,no
+2022,Female,General,41,Physics,2217,2115,1953,1912,,no
+2022,Male,General,41,Physics,5286,5022,4665,4562,,no
+2022,Indigenous,General,41,Physics,119,100,86,82,,no
+2022,All,General,79,Psychology,5327,4918,4445,4244,,no
+2022,Female,General,79,Psychology,3877,3569,3224,3082,,no
+2022,Male,General,79,Psychology,1446,1347,1219,1160,,no
+2022,Indigenous,General,79,Psychology,151,119,99,90,,no
+2022,All,General,18,Spanish,206,196,188,185,,no
+2022,Female,General,18,Spanish,117,106,100,100,,no
+2022,Male,General,18,Spanish,89,90,88,85,,no
+2022,Indigenous,General,18,Spanish,2,2,2,2,,no
+2022,All,General,54,Specialist Mathematics,3754,3529,3267,3210,,no
+2022,Female,General,54,Specialist Mathematics,1385,1298,1192,1166,,no
+2022,Male,General,54,Specialist Mathematics,2368,2231,2075,2044,,no
+2022,Indigenous,General,54,Specialist Mathematics,38,33,31,30,,no
+2022,All,General,86,Study of Religion,3777,3491,3321,3285,,no
+2022,Female,General,86,Study of Religion,2184,2023,1931,1906,,no
+2022,Male,General,86,Study of Religion,1591,1466,1388,1377,,no
+2022,Indigenous,General,86,Study of Religion,89,76,70,69,,no
+2022,All,General,80,Visual Art,4289,4049,3613,3433,,no
+2022,Female,General,80,Visual Art,3382,3210,2883,2744,,no
+2022,Male,General,80,Visual Art,900,835,725,684,,no
+2022,Indigenous,General,80,Visual Art,169,140,117,104,,no
+2022,All,Applied,6400,Agricultural Practices,1019,963,811,738,,no
+2022,Female,Applied,6400,Agricultural Practices,434,412,359,331,,no
+2022,Male,Applied,6400,Agricultural Practices,585,551,452,407,,no
+2022,Indigenous,Applied,6400,Agricultural Practices,150,139,112,97,,no
+2022,All,Applied,6401,Aquatic Practices,3593,3391,3083,2840,,no
+2022,Female,Applied,6401,Aquatic Practices,1310,1273,1196,1099,,no
+2022,Male,Applied,6401,Aquatic Practices,2283,2117,1887,1741,,no
+2022,Indigenous,Applied,6401,Aquatic Practices,592,518,461,427,,no
+2022,All,Applied,6410,Arts in Practice,252,229,184,174,,no
+2022,Female,Applied,6410,Arts in Practice,157,140,109,102,,no
+2022,Male,Applied,6410,Arts in Practice,95,89,74,71,,no
+2022,Indigenous,Applied,6410,Arts in Practice,44,36,22,19,,no
+2022,All,Applied,6416,Building and Construction Skills,2376,2164,1895,1767,,no
+2022,Female,Applied,6416,Building and Construction Skills,292,283,250,232,,no
+2022,Male,Applied,6416,Building and Construction Skills,2084,1881,1645,1535,,no
+2022,Indigenous,Applied,6416,Building and Construction Skills,226,195,156,138,,no
+2022,All,Applied,6402,Business Studies,1747,1728,1463,1357,,no
+2022,Female,Applied,6402,Business Studies,864,858,732,686,,no
+2022,Male,Applied,6402,Business Studies,881,867,731,671,,no
+2022,Indigenous,Applied,6402,Business Studies,139,133,99,86,,no
+2022,All,Applied,6411,Dance in Practice,408,378,338,318,,no
+2022,Female,Applied,6411,Dance in Practice,359,331,294,277,,no
+2022,Male,Applied,6411,Dance in Practice,49,47,44,41,,no
+2022,Indigenous,Applied,6411,Dance in Practice,45,33,27,24,,no
+2022,All,Applied,6412,Drama in Practice,733,700,671,628,,no
+2022,Female,Applied,6412,Drama in Practice,437,420,410,381,,no
+2022,Male,Applied,6412,Drama in Practice,291,275,258,244,,no
+2022,Indigenous,Applied,6412,Drama in Practice,84,79,69,63,,no
+2022,All,Applied,6403,Early Childhood Studies,1826,1661,1505,1368,,no
+2022,Female,Applied,6403,Early Childhood Studies,1721,1559,1415,1290,,no
+2022,Male,Applied,6403,Early Childhood Studies,104,101,89,78,,no
+2022,Indigenous,Applied,6403,Early Childhood Studies,279,239,209,181,,no
+2022,All,Applied,6417,Engineering Skills,2786,2479,2079,1925,,no
+2022,Female,Applied,6417,Engineering Skills,324,279,231,215,,no
+2022,Male,Applied,6417,Engineering Skills,2462,2200,1848,1710,,no
+2022,Indigenous,Applied,6417,Engineering Skills,302,253,195,175,,no
+2022,All,Applied,6121,Essential English,20591,20260,19303,17997,,no
+2022,Female,Applied,6121,Essential English,8018,8071,8030,7518,,no
+2022,Male,Applied,6121,Essential English,12564,12179,11265,10471,,no
+2022,Indigenous,Applied,6121,Essential English,2430,2195,1926,1729,,no
+2022,All,Applied,6140,Essential Mathematics,19283,19458,18417,17170,,no
+2022,Female,Applied,6140,Essential Mathematics,8777,9051,8793,8232,,no
+2022,Male,Applied,6140,Essential Mathematics,10496,10397,9617,8933,,no
+2022,Indigenous,Applied,6140,Essential Mathematics,2324,2157,1883,1684,,no
+2022,All,Applied,6404,Fashion,706,654,566,527,,no
+2022,Female,Applied,6404,Fashion,657,608,533,495,,no
+2022,Male,Applied,6404,Fashion,48,45,33,32,,no
+2022,Indigenous,Applied,6404,Fashion,46,44,31,28,,no
+2022,All,Applied,6418,Furnishing Skills,3521,3258,2752,2553,,no
+2022,Female,Applied,6418,Furnishing Skills,648,611,532,477,,no
+2022,Male,Applied,6418,Furnishing Skills,2873,2647,2220,2076,,no
+2022,Indigenous,Applied,6418,Furnishing Skills,415,349,271,239,,no
+2022,All,Applied,6405,Hospitality Practices,3974,3817,3437,3179,,no
+2022,Female,Applied,6405,Hospitality Practices,2516,2434,2256,2099,,no
+2022,Male,Applied,6405,Hospitality Practices,1457,1382,1180,1079,,no
+2022,Indigenous,Applied,6405,Hospitality Practices,473,437,386,341,,no
+2022,All,Applied,6419,Industrial Graphics Skills,1671,1528,1270,1206,,no
+2022,Female,Applied,6419,Industrial Graphics Skills,243,219,180,170,,no
+2022,Male,Applied,6419,Industrial Graphics Skills,1427,1309,1090,1036,,no
+2022,Indigenous,Applied,6419,Industrial Graphics Skills,151,126,96,86,,no
+2022,All,Applied,6420,Industrial Technology Skills,3572,3376,2975,2791,,no
+2022,Female,Applied,6420,Industrial Technology Skills,456,454,400,368,,no
+2022,Male,Applied,6420,Industrial Technology Skills,3116,2922,2575,2423,,no
+2022,Indigenous,Applied,6420,Industrial Technology Skills,319,267,224,204,,no
+2022,All,Applied,6406,Information and Communication Technology,1664,1626,1445,1346,,no
+2022,Female,Applied,6406,Information and Communication Technology,396,382,332,312,,no
+2022,Male,Applied,6406,Information and Communication Technology,1268,1244,1113,1034,,no
+2022,Indigenous,Applied,6406,Information and Communication Technology,173,163,124,112,,no
+2022,All,Applied,6413,Media Arts in Practice,1496,1432,1282,1199,,no
+2022,Female,Applied,6413,Media Arts in Practice,702,668,587,541,,no
+2022,Male,Applied,6413,Media Arts in Practice,790,762,694,657,,no
+2022,Indigenous,Applied,6413,Media Arts in Practice,154,132,110,98,,no
+2022,All,Applied,6414,Music in Practice,1051,1005,862,798,,no
+2022,Female,Applied,6414,Music in Practice,459,431,373,343,,no
+2022,Male,Applied,6414,Music in Practice,589,571,486,452,,no
+2022,Indigenous,Applied,6414,Music in Practice,139,117,92,81,,no
+2022,All,Applied,6408,Religion and Ethics,7836,7538,7142,6941,,no
+2022,Female,Applied,6408,Religion and Ethics,3979,3705,3530,3444,,no
+2022,Male,Applied,6408,Religion and Ethics,3853,3830,3609,3494,,no
+2022,Indigenous,Applied,6408,Religion and Ethics,414,407,372,350,,no
+2022,All,Applied,6421,Science in Practice,2742,2724,2518,2342,,no
+2022,Female,Applied,6421,Science in Practice,1212,1224,1157,1081,,no
+2022,Male,Applied,6421,Science in Practice,1529,1498,1361,1261,,no
+2022,Indigenous,Applied,6421,Science in Practice,305,290,245,222,,no
+2022,All,Applied,6409,Social and Community Studies,4171,4105,3715,3400,,no
+2022,Female,Applied,6409,Social and Community Studies,2430,2413,2205,2039,,no
+2022,Male,Applied,6409,Social and Community Studies,1734,1685,1502,1353,,no
+2022,Indigenous,Applied,6409,Social and Community Studies,535,475,399,350,,no
+2022,All,Applied,6407,Sport and Recreation,9124,8924,8140,7621,,no
+2022,Female,Applied,6407,Sport and Recreation,2777,2762,2576,2401,,no
+2022,Male,Applied,6407,Sport and Recreation,6347,6161,5564,5220,,no
+2022,Indigenous,Applied,6407,Sport and Recreation,1188,1090,932,834,,no
+2022,All,Applied,6422,Tourism,1841,1725,1590,1432,,no
+2022,Female,Applied,6422,Tourism,1200,1147,1077,986,,no
+2022,Male,Applied,6422,Tourism,640,578,513,446,,no
+2022,Indigenous,Applied,6422,Tourism,228,191,167,146,,no
+2022,All,Applied,6415,Visual Arts in Practice,4664,4665,4296,3983,,no
+2022,Female,Applied,6415,Visual Arts in Practice,3225,3258,3048,2843,,no
+2022,Male,Applied,6415,Visual Arts in Practice,1431,1398,1241,1133,,no
+2022,Indigenous,Applied,6415,Visual Arts in Practice,610,578,508,445,,no
+2022,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,40,no
+2022,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,20,no
+2022,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,20,no
+2022,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,37,no
+2022,All,Short Courses,6099,Career Education,,,,,7357,no
+2022,Female,Short Courses,6099,Career Education,,,,,3707,no
+2022,Male,Short Courses,6099,Career Education,,,,,3647,no
+2022,Indigenous,Short Courses,6099,Career Education,,,,,789,no
+2022,All,Short Courses,6095,Literacy,,,,,5047,no
+2022,Female,Short Courses,6095,Literacy,,,,,1896,no
+2022,Male,Short Courses,6095,Literacy,,,,,3146,no
+2022,Indigenous,Short Courses,6095,Literacy,,,,,916,no
+2022,All,Short Courses,6096,Numeracy,,,,,5954,no
+2022,Female,Short Courses,6096,Numeracy,,,,,2580,no
+2022,Male,Short Courses,6096,Numeracy,,,,,3365,no
+2022,Indigenous,Short Courses,6096,Numeracy,,,,,953,no
+2021,All,General,23,Aboriginal & Torres Strait Islander Studies,56,42,41,40,,no
+2021,Female,General,23,Aboriginal & Torres Strait Islander Studies,45,35,35,34,,no
+2021,Male,General,23,Aboriginal & Torres Strait Islander Studies,11,7,6,6,,no
+2021,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,29,21,19,19,,no
+2021,All,General,60,Accounting,2834,2614,2284,2169,,no
+2021,Female,General,60,Accounting,1390,1290,1111,1051,,no
+2021,Male,General,60,Accounting,1444,1324,1173,1118,,no
+2021,Indigenous,General,60,Accounting,58,53,44,38,,no
+2021,All,General,55,Aerospace Systems,191,172,145,142,,no
+2021,Female,General,55,Aerospace Systems,27,22,21,20,,no
+2021,Male,General,55,Aerospace Systems,164,150,124,122,,no
+2021,Indigenous,General,55,Aerospace Systems,5,3,2,2,,no
+2021,All,General,51,Agricultural Science,494,459,437,414,,no
+2021,Female,General,51,Agricultural Science,311,291,276,261,,no
+2021,Male,General,51,Agricultural Science,183,168,161,153,,no
+2021,Indigenous,General,51,Agricultural Science,16,14,12,10,,no
+2021,All,General,20,Ancient History,2978,2855,2679,2524,,no
+2021,Female,General,20,Ancient History,1947,1865,1751,1643,,no
+2021,Male,General,20,Ancient History,1030,989,927,880,,no
+2021,Indigenous,General,20,Ancient History,125,106,96,88,,no
+2021,All,General,42,Biology,16503,15347,14079,13637,,no
+2021,Female,General,42,Biology,11115,10314,9432,9133,,no
+2021,Male,General,42,Biology,5384,5029,4643,4500,,no
+2021,Indigenous,General,42,Biology,479,411,354,325,,no
+2021,All,General,66,Business,5526,5265,4753,4522,,no
+2021,Female,General,66,Business,2919,2791,2512,2381,,no
+2021,Male,General,66,Business,2606,2474,2241,2141,,no
+2021,Indigenous,General,66,Business,132,118,102,89,,no
+2021,All,General,40,Chemistry,10384,9520,8455,8269,,no
+2021,Female,General,40,Chemistry,5628,5102,4469,4356,,no
+2021,Male,General,40,Chemistry,4753,4416,3985,3912,,no
+2021,Indigenous,General,40,Chemistry,215,179,147,137,,no
+2021,All,General,11,Chinese,868,835,737,706,,no
+2021,Female,General,11,Chinese,461,436,381,368,,no
+2021,Male,General,11,Chinese,407,399,356,338,,no
+2021,Indigenous,General,11,Chinese,5,5,5,4,,no
+2021,All,General Extension,56,Chinese Extension,,,66,58,,no
+2021,Female,General Extension,56,Chinese Extension,,,31,29,,no
+2021,Male,General Extension,56,Chinese Extension,,,35,29,,no
+2021,All,General,85,Dance,1113,1047,997,944,,no
+2021,Female,General,85,Dance,1062,1001,954,908,,no
+2021,Male,General,85,Dance,51,46,43,36,,no
+2021,Indigenous,General,85,Dance,39,34,28,24,,no
+2021,All,General,48,Design,4115,3978,3613,3412,,no
+2021,Female,General,48,Design,1621,1608,1498,1425,,no
+2021,Male,General,48,Design,2491,2367,2111,1983,,no
+2021,Indigenous,General,48,Design,116,115,107,97,,no
+2021,All,General,49,Digital Solutions,2329,2134,1856,1760,,no
+2021,Female,General,49,Digital Solutions,361,332,298,284,,no
+2021,Male,General,49,Digital Solutions,1968,1802,1558,1476,,no
+2021,Indigenous,General,49,Digital Solutions,57,45,36,35,,no
+2021,All,General,88,Drama,3765,3603,3390,3229,,no
+2021,Female,General,88,Drama,2530,2417,2283,2175,,no
+2021,Male,General,88,Drama,1234,1185,1106,1054,,no
+2021,Indigenous,General,88,Drama,116,104,99,83,,no
+2021,All,General,43,Earth & Environmental Science,389,384,351,339,,no
+2021,Female,General,43,Earth & Environmental Science,177,175,159,152,,no
+2021,Male,General,43,Earth & Environmental Science,212,209,192,187,,no
+2021,Indigenous,General,43,Earth & Environmental Science,8,10,7,5,,no
+2021,All,General,27,Economics,2729,2627,2480,2433,,no
+2021,Female,General,27,Economics,992,946,874,852,,no
+2021,Male,General,27,Economics,1737,1681,1606,1581,,no
+2021,Indigenous,General,27,Economics,26,24,24,22,,no
+2021,All,General,74,Engineering,1681,1552,1407,1376,,no
+2021,Female,General,74,Engineering,182,166,141,138,,no
+2021,Male,General,74,Engineering,1499,1386,1266,1238,,no
+2021,Indigenous,General,74,Engineering,36,33,22,22,,no
+2021,All,General,1,English,32479,30384,27912,27223,,no
+2021,Female,General,1,English,18248,17140,15867,15468,,no
+2021,Male,General,1,English,14221,13235,12035,11745,,no
+2021,Indigenous,General,1,English,1042,889,775,732,,no
+2021,All,General,3,English as an Additional Language,834,814,730,697,,no
+2021,Female,General,3,English as an Additional Language,400,389,352,341,,no
+2021,Male,General,3,English as an Additional Language,434,425,378,356,,no
+2021,Indigenous,General,3,English as an Additional Language,17,13,12,12,,no
+2021,All,General Extension,2,English & Literature Extension,,,681,644,,no
+2021,Female,General Extension,2,English & Literature Extension,,,502,476,,no
+2021,Male,General Extension,2,English & Literature Extension,,,179,168,,no
+2021,Indigenous,General Extension,2,English & Literature Extension,,,9,9,,no
+2021,All,General,93,"Film, Television & New Media",3195,3102,2857,2715,,no
+2021,Female,General,93,"Film, Television & New Media",1504,1449,1327,1257,,no
+2021,Male,General,93,"Film, Television & New Media",1690,1651,1529,1457,,no
+2021,Indigenous,General,93,"Film, Television & New Media",108,98,91,82,,no
+2021,All,General,69,Food & Nutrition,1363,1237,1072,993,,no
+2021,Female,General,69,Food & Nutrition,1114,1032,890,826,,no
+2021,Male,General,69,Food & Nutrition,249,205,182,167,,no
+2021,Indigenous,General,69,Food & Nutrition,61,56,45,39,,no
+2021,All,General,5,French,648,610,590,580,,no
+2021,Female,General,5,French,487,459,440,430,,no
+2021,Male,General,5,French,161,151,150,150,,no
+2021,Indigenous,General,5,French,2,2,2,2,,no
+2021,All,General Extension,15,French Extension,,,30,28,,no
+2021,Female,General Extension,15,French Extension,,,25,23,,no
+2021,Male,General Extension,15,French Extension,,,5,5,,no
+2021,All,General,52,General Mathematics,22988,22280,21298,20544,,no
+2021,Female,General,52,General Mathematics,12891,12392,11931,11517,,no
+2021,Male,General,52,General Mathematics,10088,9879,9359,9019,,no
+2021,Indigenous,General,52,General Mathematics,899,789,688,640,,no
+2021,All,General,24,Geography,3655,3545,3384,3201,,no
+2021,Female,General,24,Geography,2107,2034,1916,1821,,no
+2021,Male,General,24,Geography,1548,1511,1468,1380,,no
+2021,Indigenous,General,24,Geography,110,100,95,88,,no
+2021,All,General,6,German,338,325,290,287,,no
+2021,Female,General,6,German,223,216,193,190,,no
+2021,Male,General,6,German,115,109,97,97,,no
+2021,Indigenous,General,6,German,5,5,6,5,,no
+2021,All,General Extension,16,German Extension,,,71,67,,no
+2021,Female,General Extension,16,German Extension,,,38,35,,no
+2021,Male,General Extension,16,German Extension,,,33,32,,no
+2021,All,General,67,Health,2755,2532,2276,2175,,no
+2021,Female,General,67,Health,2244,2096,1905,1824,,no
+2021,Male,General,67,Health,511,436,371,351,,no
+2021,Indigenous,General,67,Health,98,90,70,63,,no
+2021,All,General,8,Italian,175,168,154,148,,no
+2021,Female,General,8,Italian,129,126,117,113,,no
+2021,Male,General,8,Italian,46,42,37,35,,no
+2021,Indigenous,General,8,Italian,2,1,1,1,,no
+2021,All,General,9,Japanese,1520,1417,1342,1290,,no
+2021,Female,General,9,Japanese,957,895,839,803,,no
+2021,Male,General,9,Japanese,561,520,501,485,,no
+2021,Indigenous,General,9,Japanese,43,35,30,30,,no
+2021,All,General,29,Legal Studies,6465,5786,5196,4877,,no
+2021,Female,General,29,Legal Studies,4375,3913,3503,3288,,no
+2021,Male,General,29,Legal Studies,2088,1872,1692,1588,,no
+2021,Indigenous,General,29,Legal Studies,237,193,172,153,,no
+2021,All,General,26,Literature,3316,3182,3059,3001,,no
+2021,Female,General,26,Literature,2291,2184,2099,2053,,no
+2021,Male,General,26,Literature,1022,995,958,946,,no
+2021,Indigenous,General,26,Literature,63,51,47,44,,no
+2021,All,General,47,Marine Science,1013,980,852,808,,no
+2021,Female,General,47,Marine Science,610,593,519,493,,no
+2021,Male,General,47,Marine Science,402,386,332,314,,no
+2021,Indigenous,General,47,Marine Science,47,49,42,41,,no
+2021,All,General,53,Mathematical Methods,13846,12059,9989,9879,,no
+2021,Female,General,53,Mathematical Methods,6593,5697,4618,4568,,no
+2021,Male,General,53,Mathematical Methods,7250,6360,5369,5309,,no
+2021,Indigenous,General,53,Mathematical Methods,226,176,124,119,,no
+2021,All,General,21,Modern History,5666,5437,5228,5006,,no
+2021,Female,General,21,Modern History,3357,3207,3099,2966,,no
+2021,Male,General,21,Modern History,2307,2228,2125,2036,,no
+2021,Indigenous,General,21,Modern History,175,153,155,135,,no
+2021,All,General,91,Music,2680,2577,2450,2373,,no
+2021,Female,General,91,Music,1455,1387,1304,1258,,no
+2021,Male,General,91,Music,1223,1188,1144,1113,,no
+2021,Indigenous,General,91,Music,62,52,49,48,,no
+2021,All,General Extension,94,Music Extension (Composition),,,237,234,,no
+2021,Female,General Extension,94,Music Extension (Composition),,,103,103,,no
+2021,Male,General Extension,94,Music Extension (Composition),,,134,131,,no
+2021,Indigenous,General Extension,94,Music Extension (Composition),,,4,4,,no
+2021,All,General Extension,94,Music Extension (Musicology),,,12,12,,no
+2021,Female,General Extension,94,Music Extension (Musicology),,,7,7,,no
+2021,Male,General Extension,94,Music Extension (Musicology),,,5,5,,no
+2021,All,General Extension,94,Music Extension (Performance),,,648,636,,no
+2021,Female,General Extension,94,Music Extension (Performance),,,374,365,,no
+2021,Male,General Extension,94,Music Extension (Performance),,,272,269,,no
+2021,Indigenous,General Extension,94,Music Extension (Performance),,,6,6,,no
+2021,All,General,33,Philosophy & Reason,749,693,617,588,,no
+2021,Female,General,33,Philosophy & Reason,453,416,364,345,,no
+2021,Male,General,33,Philosophy & Reason,295,274,252,242,,no
+2021,Indigenous,General,33,Philosophy & Reason,10,7,7,5,,no
+2021,All,General,68,Physical Education,7444,7001,6437,6160,,no
+2021,Female,General,68,Physical Education,3485,3278,3012,2882,,no
+2021,Male,General,68,Physical Education,3959,3723,3425,3278,,no
+2021,Indigenous,General,68,Physical Education,306,247,223,211,,no
+2021,All,General,41,Physics,7010,6637,6243,6091,,no
+2021,Female,General,41,Physics,2091,1958,1836,1786,,no
+2021,Male,General,41,Physics,4919,4679,4407,4305,,no
+2021,Indigenous,General,41,Physics,112,100,97,86,,no
+2021,All,General,79,Psychology,4492,4232,3859,3698,,no
+2021,Female,General,79,Psychology,3137,2947,2704,2585,,no
+2021,Male,General,79,Psychology,1354,1283,1154,1112,,no
+2021,Indigenous,General,79,Psychology,124,110,100,89,,no
+2021,All,General,18,Spanish,277,266,255,248,,no
+2021,Female,General,18,Spanish,190,179,172,165,,no
+2021,Male,General,18,Spanish,87,87,83,83,,no
+2021,Indigenous,General,18,Spanish,4,3,3,3,,no
+2021,All,General,54,Specialist Mathematics,3719,3469,3160,3094,,no
+2021,Female,General,54,Specialist Mathematics,1423,1311,1183,1152,,no
+2021,Male,General,54,Specialist Mathematics,2296,2158,1977,1942,,no
+2021,Indigenous,General,54,Specialist Mathematics,40,34,33,30,,no
+2021,All,General,86,Study of Religion,3705,3419,3289,3252,,no
+2021,Female,General,86,Study of Religion,2215,2055,1969,1950,,no
+2021,Male,General,86,Study of Religion,1489,1363,1319,1301,,no
+2021,Indigenous,General,86,Study of Religion,80,70,68,65,,no
+2021,All,General,80,Visual Art,4705,4447,4042,3828,,no
+2021,Female,General,80,Visual Art,3628,3458,3168,3005,,no
+2021,Male,General,80,Visual Art,1072,985,868,817,,no
+2021,Indigenous,General,80,Visual Art,196,181,164,150,,no
+2021,All,Applied,6400,Agricultural Practices,986,972,800,743,,no
+2021,Female,Applied,6400,Agricultural Practices,401,408,369,350,,no
+2021,Male,Applied,6400,Agricultural Practices,585,564,431,393,,no
+2021,Indigenous,Applied,6400,Agricultural Practices,164,152,100,90,,no
+2021,All,Applied,6401,Aquatic Practices,3097,2949,2662,2479,,no
+2021,Female,Applied,6401,Aquatic Practices,1144,1110,1029,967,,no
+2021,Male,Applied,6401,Aquatic Practices,1952,1839,1633,1512,,no
+2021,Indigenous,Applied,6401,Aquatic Practices,518,450,392,360,,no
+2021,All,Applied,6410,Arts in Practice,291,257,216,200,,no
+2021,Female,Applied,6410,Arts in Practice,153,133,128,118,,no
+2021,Male,Applied,6410,Arts in Practice,138,124,88,82,,no
+2021,Indigenous,Applied,6410,Arts in Practice,59,45,27,24,,no
+2021,All,Applied,6416,Building and Construction Skills,2297,2148,1888,1756,,no
+2021,Female,Applied,6416,Building and Construction Skills,242,242,220,208,,no
+2021,Male,Applied,6416,Building and Construction Skills,2055,1906,1668,1548,,no
+2021,Indigenous,Applied,6416,Building and Construction Skills,263,247,197,177,,no
+2021,All,Applied,6402,Business Studies,1466,1451,1331,1247,,no
+2021,Female,Applied,6402,Business Studies,707,706,643,598,,no
+2021,Male,Applied,6402,Business Studies,758,745,688,649,,no
+2021,Indigenous,Applied,6402,Business Studies,120,109,96,91,,no
+2021,All,Applied,6411,Dance in Practice,404,382,330,312,,no
+2021,Female,Applied,6411,Dance in Practice,369,354,308,291,,no
+2021,Male,Applied,6411,Dance in Practice,34,27,22,21,,no
+2021,Indigenous,Applied,6411,Dance in Practice,40,37,26,22,,no
+2021,All,Applied,6412,Drama in Practice,733,711,651,618,,no
+2021,Female,Applied,6412,Drama in Practice,442,429,394,374,,no
+2021,Male,Applied,6412,Drama in Practice,291,282,257,244,,no
+2021,Indigenous,Applied,6412,Drama in Practice,88,78,54,50,,no
+2021,All,Applied,6403,Early Childhood Studies,1722,1620,1443,1307,,no
+2021,Female,Applied,6403,Early Childhood Studies,1600,1511,1346,1222,,no
+2021,Male,Applied,6403,Early Childhood Studies,121,109,97,85,,no
+2021,Indigenous,Applied,6403,Early Childhood Studies,264,223,183,153,,no
+2021,All,Applied,6417,Engineering Skills,2754,2558,2187,2059,,no
+2021,Female,Applied,6417,Engineering Skills,251,225,205,189,,no
+2021,Male,Applied,6417,Engineering Skills,2503,2333,1982,1870,,no
+2021,Indigenous,Applied,6417,Engineering Skills,333,289,235,210,,no
+2021,All,Applied,6121,Essential English,19951,20060,19384,18140,,no
+2021,Female,Applied,6121,Essential English,7625,7846,7888,7417,,no
+2021,Male,Applied,6121,Essential English,12319,12211,11494,10721,,no
+2021,Indigenous,Applied,6121,Essential English,2339,2174,1843,1658,,no
+2021,All,Applied,6140,Essential Mathematics,18892,19053,18290,17033,,no
+2021,Female,Applied,6140,Essential Mathematics,8408,8647,8508,7987,,no
+2021,Male,Applied,6140,Essential Mathematics,10478,10402,9778,9042,,no
+2021,Indigenous,Applied,6140,Essential Mathematics,2292,2098,1736,1564,,no
+2021,All,Applied,6404,Fashion,602,575,524,482,,no
+2021,Female,Applied,6404,Fashion,562,533,482,449,,no
+2021,Male,Applied,6404,Fashion,39,41,41,32,,no
+2021,Indigenous,Applied,6404,Fashion,55,46,34,27,,no
+2021,All,Applied,6418,Furnishing Skills,3541,3379,2932,2722,,no
+2021,Female,Applied,6418,Furnishing Skills,553,540,489,447,,no
+2021,Male,Applied,6418,Furnishing Skills,2988,2839,2443,2275,,no
+2021,Indigenous,Applied,6418,Furnishing Skills,409,383,323,286,,no
+2021,All,Applied,6405,Hospitality Practices,3769,3687,3357,3077,,no
+2021,Female,Applied,6405,Hospitality Practices,2361,2352,2175,1997,,no
+2021,Male,Applied,6405,Hospitality Practices,1406,1332,1180,1078,,no
+2021,Indigenous,Applied,6405,Hospitality Practices,446,416,362,313,,no
+2021,All,Applied,6419,Industrial Graphics Skills,1673,1613,1369,1279,,no
+2021,Female,Applied,6419,Industrial Graphics Skills,199,196,161,154,,no
+2021,Male,Applied,6419,Industrial Graphics Skills,1473,1417,1208,1125,,no
+2021,Indigenous,Applied,6419,Industrial Graphics Skills,136,120,95,86,,no
+2021,All,Applied,6420,Industrial Technology Skills,3345,3250,2808,2643,,no
+2021,Female,Applied,6420,Industrial Technology Skills,365,360,294,280,,no
+2021,Male,Applied,6420,Industrial Technology Skills,2980,2889,2514,2363,,no
+2021,Indigenous,Applied,6420,Industrial Technology Skills,277,252,207,183,,no
+2021,All,Applied,6406,Information and Communication Technology,1704,1695,1556,1474,,no
+2021,Female,Applied,6406,Information and Communication Technology,413,412,397,376,,no
+2021,Male,Applied,6406,Information and Communication Technology,1291,1283,1159,1098,,no
+2021,Indigenous,Applied,6406,Information and Communication Technology,172,160,150,136,,no
+2021,All,Applied,6413,Media Arts in Practice,1369,1377,1246,1169,,no
+2021,Female,Applied,6413,Media Arts in Practice,642,644,584,544,,no
+2021,Male,Applied,6413,Media Arts in Practice,727,733,662,625,,no
+2021,Indigenous,Applied,6413,Media Arts in Practice,104,104,85,77,,no
+2021,All,Applied,6414,Music in Practice,935,910,787,739,,no
+2021,Female,Applied,6414,Music in Practice,434,428,365,345,,no
+2021,Male,Applied,6414,Music in Practice,500,481,422,394,,no
+2021,Indigenous,Applied,6414,Music in Practice,108,93,77,71,,no
+2021,All,Applied,6408,Religion and Ethics,7276,7303,6788,6615,,no
+2021,Female,Applied,6408,Religion and Ethics,3671,3764,3499,3419,,no
+2021,Male,Applied,6408,Religion and Ethics,3605,3539,3289,3196,,no
+2021,Indigenous,Applied,6408,Religion and Ethics,422,415,366,352,,no
+2021,All,Applied,6421,Science in Practice,2481,2510,2338,2167,,no
+2021,Female,Applied,6421,Science in Practice,1087,1115,1021,942,,no
+2021,Male,Applied,6421,Science in Practice,1391,1393,1315,1223,,no
+2021,Indigenous,Applied,6421,Science in Practice,242,224,199,173,,no
+2021,All,Applied,6409,Social and Community Studies,4081,3983,3526,3220,,no
+2021,Female,Applied,6409,Social and Community Studies,2331,2289,2056,1893,,no
+2021,Male,Applied,6409,Social and Community Studies,1743,1691,1469,1325,,no
+2021,Indigenous,Applied,6409,Social and Community Studies,507,468,396,338,,no
+2021,All,Applied,6407,Sport and Recreation,8648,8521,7872,7340,,no
+2021,Female,Applied,6407,Sport and Recreation,2629,2685,2494,2347,,no
+2021,Male,Applied,6407,Sport and Recreation,6016,5835,5378,4993,,no
+2021,Indigenous,Applied,6407,Sport and Recreation,1158,1067,908,815,,no
+2021,All,Applied,6422,Tourism,2019,1950,1756,1622,,no
+2021,Female,Applied,6422,Tourism,1410,1369,1245,1164,,no
+2021,Male,Applied,6422,Tourism,609,581,511,458,,no
+2021,Indigenous,Applied,6422,Tourism,204,187,140,130,,no
+2021,All,Applied,6415,Visual Arts in Practice,4585,4574,4231,3950,,no
+2021,Female,Applied,6415,Visual Arts in Practice,3097,3121,2965,2786,,no
+2021,Male,Applied,6415,Visual Arts in Practice,1482,1449,1263,1160,,no
+2021,Indigenous,Applied,6415,Visual Arts in Practice,698,646,533,476,,no
+2021,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,5,no
+2021,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,5,no
+2021,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,5,no
+2021,All,Short Courses,6099,Career Education,,,,,6780,no
+2021,Female,Short Courses,6099,Career Education,,,,,3387,no
+2021,Male,Short Courses,6099,Career Education,,,,,3388,no
+2021,Indigenous,Short Courses,6099,Career Education,,,,,684,no
+2021,All,Short Courses,6095,Literacy,,,,,3804,no
+2021,Female,Short Courses,6095,Literacy,,,,,1267,no
+2021,Male,Short Courses,6095,Literacy,,,,,2531,no
+2021,Indigenous,Short Courses,6095,Literacy,,,,,525,no
+2021,All,Short Courses,6096,Numeracy,,,,,4299,no
+2021,Female,Short Courses,6096,Numeracy,,,,,1763,no
+2021,Male,Short Courses,6096,Numeracy,,,,,2531,no
+2021,Indigenous,Short Courses,6096,Numeracy,,,,,626,no
+2020,All,General,23,Aboriginal & Torres Strait Islander Studies,42,45,45,44,,no
+2020,Female,General,23,Aboriginal & Torres Strait Islander Studies,31,33,35,35,,no
+2020,Male,General,23,Aboriginal & Torres Strait Islander Studies,11,12,10,9,,no
+2020,Indigenous,General,23,Aboriginal & Torres Strait Islander Studies,26,25,21,21,,no
+2020,All,General,60,Accounting,2819,2552,2218,2143,,no
+2020,Female,General,60,Accounting,1341,1205,1049,1011,,no
+2020,Male,General,60,Accounting,1478,1347,1169,1132,,no
+2020,Indigenous,General,60,Accounting,73,57,43,42,,no
+2020,All,General,55,Aerospace Systems,175,170,159,157,,no
+2020,Female,General,55,Aerospace Systems,23,22,23,23,,no
+2020,Male,General,55,Aerospace Systems,152,148,136,134,,no
+2020,Indigenous,General,55,Aerospace Systems,5,5,4,4,,no
+2020,All,General,51,Agricultural Science,576,531,498,480,,no
+2020,Female,General,51,Agricultural Science,346,315,293,283,,no
+2020,Male,General,51,Agricultural Science,230,216,205,197,,no
+2020,Indigenous,General,51,Agricultural Science,33,25,20,15,,no
+2020,All,General,20,Ancient History,3098,2874,2649,2578,,no
+2020,Female,General,20,Ancient History,1995,1852,1705,1665,,no
+2020,Male,General,20,Ancient History,1103,1022,944,913,,no
+2020,Indigenous,General,20,Ancient History,131,97,76,75,,no
+2020,All,General,42,Biology,16198,14852,13394,13146,,no
+2020,Female,General,42,Biology,10887,9964,8982,8826,,no
+2020,Male,General,42,Biology,5307,4885,4409,4317,,no
+2020,Indigenous,General,42,Biology,548,433,359,350,,no
+2020,All,General,66,Business,5840,5416,4857,4713,,no
+2020,Female,General,66,Business,3063,2859,2561,2485,,no
+2020,Male,General,66,Business,2776,2556,2295,2227,,no
+2020,Indigenous,General,66,Business,173,139,120,114,,no
+2020,All,General,40,Chemistry,10380,9319,8229,8104,,no
+2020,Female,General,40,Chemistry,5740,5114,4505,4433,,no
+2020,Male,General,40,Chemistry,4637,4203,3722,3669,,no
+2020,Indigenous,General,40,Chemistry,226,182,148,144,,no
+2020,All,General,11,Chinese,798,785,673,621,,no
+2020,Female,General,11,Chinese,402,398,346,328,,no
+2020,Male,General,11,Chinese,396,387,327,293,,no
+2020,Indigenous,General,11,Chinese,7,7,5,5,,no
+2020,All,General Extension,56,Chinese Extension,,,47,46,,no
+2020,Female,General Extension,56,Chinese Extension,,,24,23,,no
+2020,Male,General Extension,56,Chinese Extension,,,23,23,,no
+2020,Indigenous,General Extension,56,Chinese Extension,,,1,1,,no
+2020,All,General,85,Dance,1316,1202,1104,1067,,no
+2020,Female,General,85,Dance,1258,1147,1051,1016,,no
+2020,Male,General,85,Dance,58,55,53,51,,no
+2020,Indigenous,General,85,Dance,59,50,41,36,,no
+2020,All,General,48,Design,4341,4122,3769,3667,,no
+2020,Female,General,48,Design,1649,1609,1503,1469,,no
+2020,Male,General,48,Design,2691,2512,2265,2197,,no
+2020,Indigenous,General,48,Design,100,96,88,84,,no
+2020,All,General,49,Digital Solutions,2536,2294,2003,1929,,no
+2020,Female,General,49,Digital Solutions,456,413,367,354,,no
+2020,Male,General,49,Digital Solutions,2079,1880,1636,1575,,no
+2020,Indigenous,General,49,Digital Solutions,45,36,30,28,,no
+2020,All,General,88,Drama,4203,4029,3672,3576,,no
+2020,Female,General,88,Drama,2900,2755,2518,2453,,no
+2020,Male,General,88,Drama,1303,1274,1154,1123,,no
+2020,Indigenous,General,88,Drama,166,155,126,121,,no
+2020,All,General,43,Earth & Environmental Science,360,368,335,323,,no
+2020,Female,General,43,Earth & Environmental Science,188,187,166,159,,no
+2020,Male,General,43,Earth & Environmental Science,172,181,169,164,,no
+2020,Indigenous,General,43,Earth & Environmental Science,13,11,8,7,,no
+2020,All,General,27,Economics,2471,2408,2242,2209,,no
+2020,Female,General,27,Economics,846,817,718,705,,no
+2020,Male,General,27,Economics,1625,1591,1524,1504,,no
+2020,Indigenous,General,27,Economics,31,25,21,21,,no
+2020,All,General,74,Engineering,1584,1431,1279,1255,,no
+2020,Female,General,74,Engineering,180,160,140,137,,no
+2020,Male,General,74,Engineering,1404,1271,1139,1118,,no
+2020,Indigenous,General,74,Engineering,13,10,8,8,,no
+2020,All,General,1,English,32439,29961,27357,26817,,no
+2020,Female,General,1,English,18196,16874,15542,15244,,no
+2020,Male,General,1,English,14237,13082,11810,11568,,no
+2020,Indigenous,General,1,English,1157,940,771,748,,no
+2020,All,General,3,English as an Additional Language,880,869,705,662,,no
+2020,Female,General,3,English as an Additional Language,471,465,396,372,,no
+2020,Male,General,3,English as an Additional Language,409,404,309,290,,no
+2020,Indigenous,General,3,English as an Additional Language,30,27,22,20,,no
+2020,All,General Extension,2,English & Literature Extension,,,614,604,,no
+2020,Female,General Extension,2,English & Literature Extension,,,467,459,,no
+2020,Male,General Extension,2,English & Literature Extension,,,147,145,,no
+2020,Indigenous,General Extension,2,English & Literature Extension,,,7,7,,no
+2020,All,General,93,"Film, Television & New Media",3200,3009,2702,2610,,no
+2020,Female,General,93,"Film, Television & New Media",1465,1379,1236,1196,,no
+2020,Male,General,93,"Film, Television & New Media",1735,1630,1466,1414,,no
+2020,Indigenous,General,93,"Film, Television & New Media",128,110,90,85,,no
+2020,All,General,69,Food & Nutrition,1618,1433,1226,1183,,no
+2020,Female,General,69,Food & Nutrition,1263,1116,989,956,,no
+2020,Male,General,69,Food & Nutrition,355,317,237,227,,no
+2020,Indigenous,General,69,Food & Nutrition,73,60,44,42,,no
+2020,All,General,5,French,716,680,652,632,,no
+2020,Female,General,5,French,564,536,510,493,,no
+2020,Male,General,5,French,152,144,142,139,,no
+2020,Indigenous,General,5,French,7,7,6,6,,no
+2020,All,General Extension,15,French Extension,,,20,20,,no
+2020,Female,General Extension,15,French Extension,,,18,18,,no
+2020,Male,General Extension,15,French Extension,,,2,2,,no
+2020,All,General,52,General Mathematics,21532,21200,20238,19747,,no
+2020,Female,General,52,General Mathematics,12080,11840,11398,11146,,no
+2020,Male,General,52,General Mathematics,9451,9358,8838,8599,,no
+2020,Indigenous,General,52,General Mathematics,1003,794,662,643,,no
+2020,All,General,24,Geography,2954,2851,2649,2563,,no
+2020,Female,General,24,Geography,1817,1766,1649,1599,,no
+2020,Male,General,24,Geography,1137,1085,1000,964,,no
+2020,Indigenous,General,24,Geography,100,87,76,70,,no
+2020,All,General,6,German,356,349,326,320,,no
+2020,Female,General,6,German,249,242,225,220,,no
+2020,Male,General,6,German,107,107,101,100,,no
+2020,Indigenous,General,6,German,2,2,2,2,,no
+2020,All,General Extension,16,German Extension,,,37,36,,no
+2020,Female,General Extension,16,German Extension,,,30,29,,no
+2020,Male,General Extension,16,German Extension,,,7,7,,no
+2020,All,General,67,Health,2991,2674,2339,2274,,no
+2020,Female,General,67,Health,2387,2151,1882,1833,,no
+2020,Male,General,67,Health,604,523,457,441,,no
+2020,Indigenous,General,67,Health,154,121,102,97,,no
+2020,All,General,8,Italian,162,154,137,134,,no
+2020,Female,General,8,Italian,120,114,99,99,,no
+2020,Male,General,8,Italian,42,40,38,35,,no
+2020,Indigenous,General,8,Italian,4,4,3,3,,no
+2020,All,General,9,Japanese,1680,1547,1412,1381,,no
+2020,Female,General,9,Japanese,1112,1036,943,918,,no
+2020,Male,General,9,Japanese,568,511,469,463,,no
+2020,Indigenous,General,9,Japanese,40,35,30,29,,no
+2020,All,General,29,Legal Studies,6482,5805,5025,4839,,no
+2020,Female,General,29,Legal Studies,4287,3833,3277,3153,,no
+2020,Male,General,29,Legal Studies,2195,1972,1748,1686,,no
+2020,Indigenous,General,29,Legal Studies,254,194,154,148,,no
+2020,All,General,26,Literature,2938,2832,2739,2705,,no
+2020,Female,General,26,Literature,2027,1924,1848,1824,,no
+2020,Male,General,26,Literature,911,908,891,881,,no
+2020,Indigenous,General,26,Literature,58,55,54,51,,no
+2020,All,General,47,Marine Science,1127,1019,898,854,,no
+2020,Female,General,47,Marine Science,692,633,550,529,,no
+2020,Male,General,47,Marine Science,435,386,348,325,,no
+2020,Indigenous,General,47,Marine Science,84,68,54,52,,no
+2020,All,General,53,Mathematical Methods,15282,12502,10097,9988,,no
+2020,Female,General,53,Mathematical Methods,7396,5966,4760,4712,,no
+2020,Male,General,53,Mathematical Methods,7883,6534,5335,5274,,no
+2020,Indigenous,General,53,Mathematical Methods,290,196,139,139,,no
+2020,All,General,21,Modern History,5243,5013,4694,4579,,no
+2020,Female,General,21,Modern History,3139,3018,2804,2729,,no
+2020,Male,General,21,Modern History,2103,1994,1889,1849,,no
+2020,Indigenous,General,21,Modern History,159,129,112,106,,no
+2020,All,General,91,Music,2808,2723,2527,2471,,no
+2020,Female,General,91,Music,1532,1489,1371,1349,,no
+2020,Male,General,91,Music,1276,1234,1156,1122,,no
+2020,Indigenous,General,91,Music,80,76,56,54,,no
+2020,All,General Extension,94,Music Extension (Composition),,,196,191,,no
+2020,Female,General Extension,94,Music Extension (Composition),,,93,91,,no
+2020,Male,General Extension,94,Music Extension (Composition),,,103,100,,no
+2020,Indigenous,General Extension,94,Music Extension (Composition),,,4,4,,no
+2020,All,General Extension,94,Music Extension (Musicology),,,21,21,,no
+2020,Female,General Extension,94,Music Extension (Musicology),,,19,19,,no
+2020,Male,General Extension,94,Music Extension (Musicology),,,2,2,,no
+2020,All,General Extension,94,Music Extension (Performance),,,594,587,,no
+2020,Female,General Extension,94,Music Extension (Performance),,,332,329,,no
+2020,Male,General Extension,94,Music Extension (Performance),,,262,258,,no
+2020,Indigenous,General Extension,94,Music Extension (Performance),,,12,12,,no
+2020,All,General,33,Philosophy & Reason,596,553,506,492,,no
+2020,Female,General,33,Philosophy & Reason,377,338,302,294,,no
+2020,Male,General,33,Philosophy & Reason,219,215,204,198,,no
+2020,Indigenous,General,33,Philosophy & Reason,18,17,17,17,,no
+2020,All,General,68,Physical Education,8135,7557,6755,6559,,no
+2020,Female,General,68,Physical Education,3754,3516,3174,3096,,no
+2020,Male,General,68,Physical Education,4381,4041,3581,3463,,no
+2020,Indigenous,General,68,Physical Education,431,344,277,261,,no
+2020,All,General,41,Physics,7099,6581,5919,5817,,no
+2020,Female,General,41,Physics,2073,1910,1707,1676,,no
+2020,Male,General,41,Physics,5025,4670,4211,4140,,no
+2020,Indigenous,General,41,Physics,121,107,86,82,,no
+2020,All,General,79,Psychology,3693,3385,3010,2948,,no
+2020,Female,General,79,Psychology,2653,2433,2151,2108,,no
+2020,Male,General,79,Psychology,1039,951,858,839,,no
+2020,Indigenous,General,79,Psychology,100,82,66,64,,no
+2020,All,General,18,Spanish,280,263,253,247,,no
+2020,Female,General,18,Spanish,179,168,157,154,,no
+2020,Male,General,18,Spanish,101,95,96,93,,no
+2020,Indigenous,General,18,Spanish,4,4,4,4,,no
+2020,All,General,54,Specialist Mathematics,4152,3747,3301,3249,,no
+2020,Female,General,54,Specialist Mathematics,1505,1349,1167,1143,,no
+2020,Male,General,54,Specialist Mathematics,2646,2397,2134,2106,,no
+2020,Indigenous,General,54,Specialist Mathematics,55,45,39,38,,no
+2020,All,General,86,Study of Religion,3874,3594,3404,3371,,no
+2020,Female,General,86,Study of Religion,2245,2087,2012,1994,,no
+2020,Male,General,86,Study of Religion,1629,1507,1392,1377,,no
+2020,Indigenous,General,86,Study of Religion,84,71,64,63,,no
+2020,All,General,80,Visual Art,4967,4731,4177,4014,,no
+2020,Female,General,80,Visual Art,3852,3676,3293,3164,,no
+2020,Male,General,80,Visual Art,1113,1053,883,849,,no
+2020,Indigenous,General,80,Visual Art,232,199,151,144,,no
+2020,All,Applied,6400,Agricultural Practices,816,778,704,666,,no
+2020,Female,Applied,6400,Agricultural Practices,359,348,317,298,,no
+2020,Male,Applied,6400,Agricultural Practices,457,430,387,368,,no
+2020,Indigenous,Applied,6400,Agricultural Practices,131,105,84,80,,no
+2020,All,Applied,6401,Aquatic Practices,2629,2558,2377,2251,,no
+2020,Female,Applied,6401,Aquatic Practices,944,943,894,855,,no
+2020,Male,Applied,6401,Aquatic Practices,1684,1614,1482,1395,,no
+2020,Indigenous,Applied,6401,Aquatic Practices,427,394,347,322,,no
+2020,All,Applied,6410,Arts in Practice,316,294,257,247,,no
+2020,Female,Applied,6410,Arts in Practice,175,170,146,141,,no
+2020,Male,Applied,6410,Arts in Practice,141,124,111,106,,no
+2020,Indigenous,Applied,6410,Arts in Practice,70,55,47,43,,no
+2020,All,Applied,6416,Building and Construction Skills,2022,1922,1765,1696,,no
+2020,Female,Applied,6416,Building and Construction Skills,249,248,238,227,,no
+2020,Male,Applied,6416,Building and Construction Skills,1773,1674,1527,1469,,no
+2020,Indigenous,Applied,6416,Building and Construction Skills,227,194,171,158,,no
+2020,All,Applied,6402,Business Studies,1211,1175,1111,1072,,no
+2020,Female,Applied,6402,Business Studies,576,571,559,541,,no
+2020,Male,Applied,6402,Business Studies,632,601,550,529,,no
+2020,Indigenous,Applied,6402,Business Studies,91,68,56,51,,no
+2020,All,Applied,6411,Dance in Practice,427,403,357,345,,no
+2020,Female,Applied,6411,Dance in Practice,388,370,328,317,,no
+2020,Male,Applied,6411,Dance in Practice,39,33,29,28,,no
+2020,Indigenous,Applied,6411,Dance in Practice,40,40,32,30,,no
+2020,All,Applied,6412,Drama in Practice,573,573,549,532,,no
+2020,Female,Applied,6412,Drama in Practice,327,324,319,309,,no
+2020,Male,Applied,6412,Drama in Practice,246,249,230,223,,no
+2020,Indigenous,Applied,6412,Drama in Practice,59,56,44,42,,no
+2020,All,Applied,6403,Early Childhood Studies,1595,1466,1288,1229,,no
+2020,Female,Applied,6403,Early Childhood Studies,1509,1384,1220,1167,,no
+2020,Male,Applied,6403,Early Childhood Studies,86,82,68,62,,no
+2020,Indigenous,Applied,6403,Early Childhood Studies,251,213,172,161,,no
+2020,All,Applied,6417,Engineering Skills,2440,2288,1983,1893,,no
+2020,Female,Applied,6417,Engineering Skills,207,201,176,171,,no
+2020,Male,Applied,6417,Engineering Skills,2233,2087,1807,1722,,no
+2020,Indigenous,Applied,6417,Engineering Skills,301,250,195,180,,no
+2020,All,Applied,6121,Essential English,17544,17677,17528,16909,,no
+2020,Female,Applied,6121,Essential English,6574,6837,7087,6853,,no
+2020,Male,Applied,6121,Essential English,10966,10835,10437,10052,,no
+2020,Indigenous,Applied,6121,Essential English,2142,1974,1753,1666,,no
+2020,All,Applied,6140,Essential Mathematics,16144,16833,16652,16054,,no
+2020,Female,Applied,6140,Essential Mathematics,7130,7689,7771,7520,,no
+2020,Male,Applied,6140,Essential Mathematics,9008,9138,8876,8529,,no
+2020,Indigenous,Applied,6140,Essential Mathematics,2069,1958,1683,1595,,no
+2020,All,Applied,6404,Fashion,635,605,536,515,,no
+2020,Female,Applied,6404,Fashion,595,568,505,486,,no
+2020,Male,Applied,6404,Fashion,40,37,31,29,,no
+2020,Indigenous,Applied,6404,Fashion,57,52,44,43,,no
+2020,All,Applied,6418,Furnishing Skills,3339,3162,2792,2692,,no
+2020,Female,Applied,6418,Furnishing Skills,503,482,436,426,,no
+2020,Male,Applied,6418,Furnishing Skills,2836,2680,2356,2266,,no
+2020,Indigenous,Applied,6418,Furnishing Skills,392,354,286,273,,no
+2020,All,Applied,6405,Hospitality Practices,3404,3282,3024,2872,,no
+2020,Female,Applied,6405,Hospitality Practices,2200,2147,1999,1906,,no
+2020,Male,Applied,6405,Hospitality Practices,1204,1135,1025,966,,no
+2020,Indigenous,Applied,6405,Hospitality Practices,491,423,361,342,,no
+2020,All,Applied,6419,Industrial Graphics Skills,1527,1444,1235,1173,,no
+2020,Female,Applied,6419,Industrial Graphics Skills,201,192,173,165,,no
+2020,Male,Applied,6419,Industrial Graphics Skills,1326,1252,1062,1008,,no
+2020,Indigenous,Applied,6419,Industrial Graphics Skills,161,134,104,98,,no
+2020,All,Applied,6420,Industrial Technology Skills,2946,2822,2419,2336,,no
+2020,Female,Applied,6420,Industrial Technology Skills,351,344,300,290,,no
+2020,Male,Applied,6420,Industrial Technology Skills,2595,2478,2119,2046,,no
+2020,Indigenous,Applied,6420,Industrial Technology Skills,244,202,176,163,,no
+2020,All,Applied,6406,Information and Communication Technology,1717,1706,1521,1470,,no
+2020,Female,Applied,6406,Information and Communication Technology,459,460,406,392,,no
+2020,Male,Applied,6406,Information and Communication Technology,1258,1246,1115,1078,,no
+2020,Indigenous,Applied,6406,Information and Communication Technology,185,167,130,122,,no
+2020,All,Applied,6413,Media Arts in Practice,1206,1213,1141,1095,,no
+2020,Female,Applied,6413,Media Arts in Practice,553,553,522,500,,no
+2020,Male,Applied,6413,Media Arts in Practice,653,659,618,594,,no
+2020,Indigenous,Applied,6413,Media Arts in Practice,123,105,93,90,,no
+2020,All,Applied,6414,Music in Practice,701,684,572,551,,no
+2020,Female,Applied,6414,Music in Practice,341,326,272,264,,no
+2020,Male,Applied,6414,Music in Practice,359,357,299,286,,no
+2020,Indigenous,Applied,6414,Music in Practice,89,74,64,61,,no
+2020,All,Applied,6408,Religion and Ethics,6692,6709,6288,6198,,no
+2020,Female,Applied,6408,Religion and Ethics,3433,3398,3189,3145,,no
+2020,Male,Applied,6408,Religion and Ethics,3259,3311,3099,3053,,no
+2020,Indigenous,Applied,6408,Religion and Ethics,353,329,306,293,,no
+2020,All,Applied,6421,Science in Practice,2057,2149,2029,1939,,no
+2020,Female,Applied,6421,Science in Practice,867,912,901,864,,no
+2020,Male,Applied,6421,Science in Practice,1190,1237,1128,1075,,no
+2020,Indigenous,Applied,6421,Science in Practice,222,214,191,177,,no
+2020,All,Applied,6409,Social and Community Studies,2849,2939,2706,2557,,no
+2020,Female,Applied,6409,Social and Community Studies,1703,1763,1656,1576,,no
+2020,Male,Applied,6409,Social and Community Studies,1142,1172,1047,978,,no
+2020,Indigenous,Applied,6409,Social and Community Studies,339,305,278,256,,no
+2020,All,Applied,6407,Sport and Recreation,7776,7659,7183,6907,,no
+2020,Female,Applied,6407,Sport and Recreation,2410,2414,2264,2185,,no
+2020,Male,Applied,6407,Sport and Recreation,5366,5245,4919,4722,,no
+2020,Indigenous,Applied,6407,Sport and Recreation,1040,928,816,777,,no
+2020,All,Applied,6422,Tourism,1707,1733,1614,1546,,no
+2020,Female,Applied,6422,Tourism,1218,1242,1149,1103,,no
+2020,Male,Applied,6422,Tourism,489,491,465,443,,no
+2020,Indigenous,Applied,6422,Tourism,212,185,150,138,,no
+2020,All,Applied,6415,Visual Arts in Practice,3862,3917,3668,3518,,no
+2020,Female,Applied,6415,Visual Arts in Practice,2538,2623,2516,2424,,no
+2020,Male,Applied,6415,Visual Arts in Practice,1319,1289,1148,1090,,no
+2020,Indigenous,Applied,6415,Visual Arts in Practice,596,557,494,467,,no
+2020,All,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,13,no
+2020,Female,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,8,no
+2020,Male,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,5,no
+2020,Indigenous,Short Courses,97,Aboriginal & Torres Strait Islander Languages,,,,,13,no
+2020,All,Short Courses,6099,Career Education,,,,,5848,no
+2020,Female,Short Courses,6099,Career Education,,,,,2887,no
+2020,Male,Short Courses,6099,Career Education,,,,,2961,no
+2020,Indigenous,Short Courses,6099,Career Education,,,,,660,no
+2020,All,Short Courses,6095,Literacy,,,,,2621,no
+2020,Female,Short Courses,6095,Literacy,,,,,875,no
+2020,Male,Short Courses,6095,Literacy,,,,,1744,no
+2020,Indigenous,Short Courses,6095,Literacy,,,,,387,no
+2020,All,Short Courses,6096,Numeracy,,,,,3002,no
+2020,Female,Short Courses,6096,Numeracy,,,,,1146,no
+2020,Male,Short Courses,6096,Numeracy,,,,,1854,no
+2020,Indigenous,Short Courses,6096,Numeracy,,,,,405,no

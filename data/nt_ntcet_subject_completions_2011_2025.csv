@@ -1,0 +1,1960 @@
+year,stage,learning_area,subject,government,non_government,total_completions
+2011,Stage 1,Arts,Creative Arts,291,60,351
+2011,Stage 1,Arts,Dance,135,33,168
+2011,Stage 1,Arts,Drama,180,61,241
+2011,Stage 1,Arts,Music,292,81,373
+2011,Stage 1,Arts,Visual Arts,873,207,1080
+2011,Stage 1,"Business, Enterprise and Technology",Accounting,115,29,144
+2011,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,313,157,470
+2011,Stage 1,"Business, Enterprise and Technology",Design and Technology,481,131,612
+2011,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,263,30,293
+2011,Stage 1,"Business, Enterprise and Technology",Information Technology,108,52,160
+2011,Stage 1,"Business, Enterprise and Technology",Workplace Practices,103,75,178
+2011,Stage 1,Cross-disciplinary,Community Studies,174,19,193
+2011,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,45,0,45
+2011,Stage 1,Cross-disciplinary,Integrated Learning,464,202,666
+2011,Stage 1,Cross-disciplinary,Personal Learning Plan,1709,841,2550
+2011,Stage 1,English,English,2514,878,3392
+2011,Stage 1,English,Literacy for Work and Community Life,317,86,403
+2011,Stage 1,Health and Physical Education,Child Studies,234,1,235
+2011,Stage 1,Health and Physical Education,Food and Hospitality,412,155,567
+2011,Stage 1,Health and Physical Education,Health,218,60,278
+2011,Stage 1,Health and Physical Education,Outdoor Education,197,168,365
+2011,Stage 1,Health and Physical Education,Physical Education,937,268,1205
+2011,Stage 1,Humanities and Social Sciences,Aboriginal Studies,40,0,40
+2011,Stage 1,Humanities and Social Sciences,Ancient Studies,73,0,73
+2011,Stage 1,Humanities and Social Sciences,Economics,54,45,99
+2011,Stage 1,Humanities and Social Sciences,Geography,96,69,165
+2011,Stage 1,Humanities and Social Sciences,History,186,144,330
+2011,Stage 1,Humanities and Social Sciences,Legal Studies,187,133,320
+2011,Stage 1,Humanities and Social Sciences,Media Studies,124,98,222
+2011,Stage 1,Humanities and Social Sciences,Philosophy,30,11,41
+2011,Stage 1,Humanities and Social Sciences,Religion Studies,1,289,290
+2011,Stage 1,Humanities and Social Sciences,Society and Culture,18,9,27
+2011,Stage 1,Humanities and Social Sciences,Tourism,0,9,9
+2011,Stage 1,Humanities and Social Sciences,Women's Studies,13,0,13
+2011,Stage 1,Languages,Australian Languages,29,0,29
+2011,Stage 1,Languages,Chinese,74,0,74
+2011,Stage 1,Languages,French,20,3,23
+2011,Stage 1,Languages,German,1,2,3
+2011,Stage 1,Languages,Indonesian,132,14,146
+2011,Stage 1,Languages,Italian,32,10,42
+2011,Stage 1,Languages,Japanese,137,14,151
+2011,Stage 1,Languages,Modern Greek,14,0,14
+2011,Stage 1,Languages,Spanish,55,0,55
+2011,Stage 1,Mathematics,Mathematics,2299,857,3156
+2011,Stage 1,Mathematics,Numeracy for Work and Community Life,432,163,595
+2011,Stage 1,Other subjects,Additional Status,70,32,102
+2011,Stage 1,Other subjects,Australian Air Force Cadets,3,3,6
+2011,Stage 1,Other subjects,Australian Army Cadets,1,1,2
+2011,Stage 1,Other subjects,Australian Music Examinations Board,4,2,6
+2011,Stage 1,Other subjects,Cecchetti Ballet Australia Inc,0,1,1
+2011,Stage 1,Other subjects,Duke of Edinburgh's Award,30,32,62
+2011,Stage 1,Other subjects,Literacy,55,16,71
+2011,Stage 1,Other subjects,Numeracy,42,14,56
+2011,Stage 1,Other subjects,Royal Life Saving Society Australia,5,5,10
+2011,Stage 1,Other subjects,Sport Skills and Management,2,0,2
+2011,Stage 1,Other subjects,Work Skills and Career Development,3,0,3
+2011,Stage 1,Sciences,Biology,538,252,790
+2011,Stage 1,Sciences,Chemistry,479,160,639
+2011,Stage 1,Sciences,Nutrition,155,41,196
+2011,Stage 1,Sciences,Physics,357,166,523
+2011,Stage 1,Sciences,Psychology,329,188,517
+2011,Stage 1,Sciences,Scientific Studies,326,63,389
+2011,Stage 1,Self-directed Community Learning Programs,Independent Living,1,0,1
+2011,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,0,1,1
+2011,Stage 1,Self-directed Community Learning Programs,Self Development,2,1,3
+2011,Stage 2,Arts,Creative Arts,36,14,50
+2011,Stage 2,Arts,Dance,53,7,60
+2011,Stage 2,Arts,Drama,57,25,82
+2011,Stage 2,Arts,Music,110,48,158
+2011,Stage 2,Arts,Visual Arts,144,46,190
+2011,Stage 2,"Business, Enterprise and Technology",Accounting,40,18,58
+2011,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,83,34,117
+2011,Stage 2,"Business, Enterprise and Technology",Design and Technology,110,41,151
+2011,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,54,17,71
+2011,Stage 2,"Business, Enterprise and Technology",Information Technology,12,8,20
+2011,Stage 2,"Business, Enterprise and Technology",Workplace Practices,80,28,108
+2011,Stage 2,Cross-disciplinary,Community Studies,122,41,163
+2011,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,7,0,7
+2011,Stage 2,Cross-disciplinary,Integrated Learning,135,47,182
+2011,Stage 2,Cross-disciplinary,Research Project,2,20,22
+2011,Stage 2,English,English,851,326,1177
+2011,Stage 2,Health and Physical Education,Child Studies,70,0,70
+2011,Stage 2,Health and Physical Education,Food and Hospitality,100,24,124
+2011,Stage 2,Health and Physical Education,Health,78,20,98
+2011,Stage 2,Health and Physical Education,Outdoor Education,33,5,38
+2011,Stage 2,Health and Physical Education,Physical Education,110,57,167
+2011,Stage 2,Humanities and Social Sciences,Aboriginal Studies,18,0,18
+2011,Stage 2,Humanities and Social Sciences,Australian History,3,0,3
+2011,Stage 2,Humanities and Social Sciences,Classical Studies,18,0,18
+2011,Stage 2,Humanities and Social Sciences,Economics,20,7,27
+2011,Stage 2,Humanities and Social Sciences,Geography,11,9,20
+2011,Stage 2,Humanities and Social Sciences,Legal Studies,56,14,70
+2011,Stage 2,Humanities and Social Sciences,Media Studies,51,19,70
+2011,Stage 2,Humanities and Social Sciences,Modern History,76,39,115
+2011,Stage 2,Humanities and Social Sciences,Philosophy,4,0,4
+2011,Stage 2,Humanities and Social Sciences,Religion Studies,0,60,60
+2011,Stage 2,Humanities and Social Sciences,Society and Culture,53,0,53
+2011,Stage 2,Humanities and Social Sciences,Tourism,6,2,8
+2011,Stage 2,Humanities and Social Sciences,Women's Studies,6,0,6
+2011,Stage 2,Languages,Chinese,14,0,14
+2011,Stage 2,Languages,Filipino,8,0,8
+2011,Stage 2,Languages,French,4,1,5
+2011,Stage 2,Languages,German,0,2,2
+2011,Stage 2,Languages,Indonesian,21,9,30
+2011,Stage 2,Languages,Italian,10,0,10
+2011,Stage 2,Languages,Japanese,20,5,25
+2011,Stage 2,Languages,Modern Greek,4,0,4
+2011,Stage 2,Languages,Second Language Learning,1,0,1
+2011,Stage 2,Languages,Spanish,10,1,11
+2011,Stage 2,Languages,Vietnamese,7,0,7
+2011,Stage 2,Mathematics,Mathematics,667,290,957
+2011,Stage 2,Other subjects,Australian Music Examinations Board,1,1,2
+2011,Stage 2,Other subjects,Royal Life Saving Society Australia,1,0,1
+2011,Stage 2,Sciences,Biology,128,83,211
+2011,Stage 2,Sciences,Chemistry,138,39,177
+2011,Stage 2,Sciences,Nutrition,42,11,53
+2011,Stage 2,Sciences,Physics,91,39,130
+2011,Stage 2,Sciences,Psychology,103,40,143
+2011,Stage 2,Sciences,Scientific Studies,66,10,76
+2012,Stage 1,Arts,Creative Arts,306,88,394
+2012,Stage 1,Arts,Dance,150,58,208
+2012,Stage 1,Arts,Drama,120,85,205
+2012,Stage 1,Arts,Music,240,73,313
+2012,Stage 1,Arts,Visual Arts,773,251,1024
+2012,Stage 1,"Business, Enterprise and Technology",Accounting,119,42,161
+2012,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,310,137,447
+2012,Stage 1,"Business, Enterprise and Technology",Design and Technology,541,211,752
+2012,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,292,31,323
+2012,Stage 1,"Business, Enterprise and Technology",Information Technology,62,68,130
+2012,Stage 1,"Business, Enterprise and Technology",Workplace Practices,150,49,199
+2012,Stage 1,Cross-disciplinary,Community Studies,180,28,208
+2012,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,34,0,34
+2012,Stage 1,Cross-disciplinary,Integrated Learning,461,153,614
+2012,Stage 1,Cross-disciplinary,Personal Learning Plan,1798,781,2579
+2012,Stage 1,English,English,2307,1037,3344
+2012,Stage 1,English,Literacy for Work and Community Life,375,80,455
+2012,Stage 1,Health and Physical Education,Child Studies,292,1,293
+2012,Stage 1,Health and Physical Education,Food and Hospitality,399,113,512
+2012,Stage 1,Health and Physical Education,Health,239,28,267
+2012,Stage 1,Health and Physical Education,Outdoor Education,177,150,327
+2012,Stage 1,Health and Physical Education,Physical Education,1085,294,1379
+2012,Stage 1,Humanities and Social Sciences,Aboriginal Studies,41,25,66
+2012,Stage 1,Humanities and Social Sciences,Ancient Studies,45,0,45
+2012,Stage 1,Humanities and Social Sciences,Economics,55,42,97
+2012,Stage 1,Humanities and Social Sciences,Geography,73,117,190
+2012,Stage 1,Humanities and Social Sciences,History,167,189,356
+2012,Stage 1,Humanities and Social Sciences,Legal Studies,124,140,264
+2012,Stage 1,Humanities and Social Sciences,Media Studies,105,68,173
+2012,Stage 1,Humanities and Social Sciences,Philosophy,18,22,40
+2012,Stage 1,Humanities and Social Sciences,Religion Studies,0,276,276
+2012,Stage 1,Humanities and Social Sciences,Society and Culture,52,14,66
+2012,Stage 1,Humanities and Social Sciences,Tourism,29,17,46
+2012,Stage 1,Humanities and Social Sciences,Women's Studies,17,0,17
+2012,Stage 1,Languages,Australian Languages,2,0,2
+2012,Stage 1,Languages,Chinese,74,0,74
+2012,Stage 1,Languages,French,10,16,26
+2012,Stage 1,Languages,German,1,4,5
+2012,Stage 1,Languages,Indonesian,116,28,144
+2012,Stage 1,Languages,Italian,43,0,43
+2012,Stage 1,Languages,Japanese,107,16,123
+2012,Stage 1,Languages,Modern Greek,28,0,28
+2012,Stage 1,Languages,Spanish,34,8,42
+2012,Stage 1,Mathematics,Mathematics,1971,977,2948
+2012,Stage 1,Mathematics,Numeracy for Work and Community Life,536,140,676
+2012,Stage 1,Other subjects,Additional Status,66,30,96
+2012,Stage 1,Other subjects,Australian Air Force Cadets,6,0,6
+2012,Stage 1,Other subjects,Australian Army Cadets,5,0,5
+2012,Stage 1,Other subjects,Australian Music Examinations Board,1,1,2
+2012,Stage 1,Other subjects,Duke of Edinburgh's Award,20,37,57
+2012,Stage 1,Other subjects,Literacy,46,18,64
+2012,Stage 1,Other subjects,Numeracy,39,15,54
+2012,Stage 1,Other subjects,Royal Life Saving Society Australia,7,3,10
+2012,Stage 1,Other subjects,SA State Emergency Service,1,0,1
+2012,Stage 1,Other subjects,Sport Skills and Management,3,0,3
+2012,Stage 1,Other subjects,St. John Ambulance Australia Cadets,3,2,5
+2012,Stage 1,Other subjects,STV One and All Sailing Program,0,1,1
+2012,Stage 1,Other subjects,Work Skills and Career Development,3,0,3
+2012,Stage 1,Sciences,Agriculture,36,0,36
+2012,Stage 1,Sciences,Biology,512,281,793
+2012,Stage 1,Sciences,Chemistry,434,216,650
+2012,Stage 1,Sciences,Nutrition,117,45,162
+2012,Stage 1,Sciences,Physics,345,238,583
+2012,Stage 1,Sciences,Psychology,372,204,576
+2012,Stage 1,Sciences,Scientific Studies,244,24,268
+2012,Stage 1,Self-directed Community Learning Programs,Community Development,0,1,1
+2012,Stage 1,Self-directed Community Learning Programs,Performance,0,1,1
+2012,Stage 1,Self-directed Community Learning Programs,Self Development,2,1,3
+2012,Stage 1,Self-directed Community Learning Programs,Volunteering,2,0,2
+2012,Stage 2,Arts,Creative Arts,60,22,82
+2012,Stage 2,Arts,Dance,36,14,50
+2012,Stage 2,Arts,Drama,44,18,62
+2012,Stage 2,Arts,Music,58,43,101
+2012,Stage 2,Arts,Visual Arts,147,58,205
+2012,Stage 2,"Business, Enterprise and Technology",Accounting,35,8,43
+2012,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,97,47,144
+2012,Stage 2,"Business, Enterprise and Technology",Design and Technology,112,32,144
+2012,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,83,9,92
+2012,Stage 2,"Business, Enterprise and Technology",Information Technology,18,8,26
+2012,Stage 2,"Business, Enterprise and Technology",Workplace Practices,88,27,115
+2012,Stage 2,Cross-disciplinary,Community Studies,125,56,181
+2012,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,0,1,1
+2012,Stage 2,Cross-disciplinary,Integrated Learning,209,39,248
+2012,Stage 2,Cross-disciplinary,Research Project,4,45,49
+2012,Stage 2,English,English,854,348,1202
+2012,Stage 2,Health and Physical Education,Child Studies,52,0,52
+2012,Stage 2,Health and Physical Education,Food and Hospitality,102,12,114
+2012,Stage 2,Health and Physical Education,Health,105,9,114
+2012,Stage 2,Health and Physical Education,Outdoor Education,36,21,57
+2012,Stage 2,Health and Physical Education,Physical Education,67,54,121
+2012,Stage 2,Humanities and Social Sciences,Aboriginal Studies,26,1,27
+2012,Stage 2,Humanities and Social Sciences,Australian History,2,14,16
+2012,Stage 2,Humanities and Social Sciences,Classical Studies,16,3,19
+2012,Stage 2,Humanities and Social Sciences,Economics,28,10,38
+2012,Stage 2,Humanities and Social Sciences,Geography,21,12,33
+2012,Stage 2,Humanities and Social Sciences,Legal Studies,47,37,84
+2012,Stage 2,Humanities and Social Sciences,Media Studies,17,40,57
+2012,Stage 2,Humanities and Social Sciences,Modern History,29,36,65
+2012,Stage 2,Humanities and Social Sciences,Philosophy,5,0,5
+2012,Stage 2,Humanities and Social Sciences,Religion Studies,0,79,79
+2012,Stage 2,Humanities and Social Sciences,Society and Culture,13,1,14
+2012,Stage 2,Humanities and Social Sciences,Tourism,0,3,3
+2012,Stage 2,Humanities and Social Sciences,Women's Studies,13,0,13
+2012,Stage 2,Languages,Arabic,1,0,1
+2012,Stage 2,Languages,Chinese,36,0,36
+2012,Stage 2,Languages,Filipino,17,0,17
+2012,Stage 2,Languages,French,8,2,10
+2012,Stage 2,Languages,Hindi,1,0,1
+2012,Stage 2,Languages,Indonesian,18,8,26
+2012,Stage 2,Languages,Italian,9,3,12
+2012,Stage 2,Languages,Japanese,26,5,31
+2012,Stage 2,Languages,Korean,1,0,1
+2012,Stage 2,Languages,Modern Greek,9,0,9
+2012,Stage 2,Languages,Portuguese,1,0,1
+2012,Stage 2,Languages,Second Language Learning,7,0,7
+2012,Stage 2,Languages,Spanish,29,5,34
+2012,Stage 2,Languages,Vietnamese,6,0,6
+2012,Stage 2,Mathematics,Mathematics,621,271,892
+2012,Stage 2,Other subjects,Australian Air Force Cadets,4,0,4
+2012,Stage 2,Other subjects,Australian Music Examinations Board,3,4,7
+2012,Stage 2,Other subjects,Royal Life Saving Society Australia,3,1,4
+2012,Stage 2,Sciences,Biology,152,69,221
+2012,Stage 2,Sciences,Chemistry,146,44,190
+2012,Stage 2,Sciences,Nutrition,57,13,70
+2012,Stage 2,Sciences,Physics,107,45,152
+2012,Stage 2,Sciences,Psychology,112,61,173
+2012,Stage 2,Sciences,Scientific Studies,55,4,59
+2013,Stage 1,Arts,Creative Arts,351,80,431
+2013,Stage 1,Arts,Dance,183,54,237
+2013,Stage 1,Arts,Drama,157,40,197
+2013,Stage 1,Arts,Music,273,88,361
+2013,Stage 1,Arts,Visual Arts,789,163,952
+2013,Stage 1,"Business, Enterprise and Technology",Accounting,134,23,157
+2013,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,316,145,461
+2013,Stage 1,"Business, Enterprise and Technology",Design and Technology,593,164,757
+2013,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,174,25,199
+2013,Stage 1,"Business, Enterprise and Technology",Information Technology,127,19,146
+2013,Stage 1,"Business, Enterprise and Technology",Workplace Practices,145,90,235
+2013,Stage 1,Cross-disciplinary,Community Studies,172,26,198
+2013,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,24,0,24
+2013,Stage 1,Cross-disciplinary,Integrated Learning,493,216,709
+2013,Stage 1,Cross-disciplinary,Personal Learning Plan,1614,767,2381
+2013,Stage 1,English,English,2536,1005,3541
+2013,Stage 1,English,Literacy for Work and Community Life,308,121,429
+2013,Stage 1,Health and Physical Education,Child Studies,228,17,245
+2013,Stage 1,Health and Physical Education,Food and Hospitality,411,133,544
+2013,Stage 1,Health and Physical Education,Health,230,0,230
+2013,Stage 1,Health and Physical Education,Outdoor Education,205,218,423
+2013,Stage 1,Health and Physical Education,Physical Education,990,333,1323
+2013,Stage 1,Humanities and Social Sciences,Aboriginal Studies,30,46,76
+2013,Stage 1,Humanities and Social Sciences,Ancient Studies,80,7,87
+2013,Stage 1,Humanities and Social Sciences,Economics,51,35,86
+2013,Stage 1,Humanities and Social Sciences,Geography,113,114,227
+2013,Stage 1,Humanities and Social Sciences,History,230,204,434
+2013,Stage 1,Humanities and Social Sciences,Legal Studies,176,124,300
+2013,Stage 1,Humanities and Social Sciences,Media Studies,110,69,179
+2013,Stage 1,Humanities and Social Sciences,Philosophy,17,0,17
+2013,Stage 1,Humanities and Social Sciences,Religion Studies,12,134,146
+2013,Stage 1,Humanities and Social Sciences,Society and Culture,110,3,113
+2013,Stage 1,Humanities and Social Sciences,Tourism,27,25,52
+2013,Stage 1,Humanities and Social Sciences,Women's Studies,25,0,25
+2013,Stage 1,Languages,Chinese,68,0,68
+2013,Stage 1,Languages,French,14,4,18
+2013,Stage 1,Languages,German,0,10,10
+2013,Stage 1,Languages,Indonesian,150,16,166
+2013,Stage 1,Languages,Italian,41,9,50
+2013,Stage 1,Languages,Japanese,146,17,163
+2013,Stage 1,Languages,Modern Greek,12,0,12
+2013,Stage 1,Languages,Spanish,72,6,78
+2013,Stage 1,Mathematics,Mathematics,1933,902,2835
+2013,Stage 1,Mathematics,Numeracy for Work and Community Life,754,232,986
+2013,Stage 1,Other subjects,Additional Status,65,32,97
+2013,Stage 1,Other subjects,Australian Air Force Cadets,2,0,2
+2013,Stage 1,Other subjects,Australian Army Cadets,3,2,5
+2013,Stage 1,Other subjects,Australian Music Examinations Board,1,2,3
+2013,Stage 1,Other subjects,Cecchetti Ballet Australia Inc,2,0,2
+2013,Stage 1,Other subjects,Duke of Edinburgh's Award,18,39,57
+2013,Stage 1,Other subjects,Guides Australia,1,1,2
+2013,Stage 1,Other subjects,Literacy,43,20,63
+2013,Stage 1,Other subjects,Numeracy,41,20,61
+2013,Stage 1,Other subjects,Operation Flinders,1,0,1
+2013,Stage 1,Other subjects,Royal Life Saving Society Australia,3,6,9
+2013,Stage 1,Other subjects,SA Country Fire Service,1,0,1
+2013,Stage 1,Other subjects,Sport Skills and Management,1,1,2
+2013,Stage 1,Other subjects,St. John Ambulance Australia Cadets,1,0,1
+2013,Stage 1,Other subjects,Work Skills and Career Development,6,1,7
+2013,Stage 1,Sciences,Biology,486,335,821
+2013,Stage 1,Sciences,Chemistry,458,236,694
+2013,Stage 1,Sciences,Nutrition,148,54,202
+2013,Stage 1,Sciences,Physics,401,201,602
+2013,Stage 1,Sciences,Psychology,354,262,616
+2013,Stage 1,Sciences,Scientific Studies,135,37,172
+2013,Stage 1,Self-directed Community Learning Programs,Independent Living,0,1,1
+2013,Stage 1,Self-directed Community Learning Programs,Performance,2,0,2
+2013,Stage 1,Self-directed Community Learning Programs,Self Development,5,1,6
+2013,Stage 1,Self-directed Community Learning Programs,Volunteering,1,2,3
+2013,Stage 2,Arts,Creative Arts,60,29,89
+2013,Stage 2,Arts,Dance,41,13,54
+2013,Stage 2,Arts,Drama,42,14,56
+2013,Stage 2,Arts,Music,83,41,124
+2013,Stage 2,Arts,Visual Arts,122,72,194
+2013,Stage 2,"Business, Enterprise and Technology",Accounting,59,7,66
+2013,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,116,49,165
+2013,Stage 2,"Business, Enterprise and Technology",Design and Technology,97,51,148
+2013,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,52,19,71
+2013,Stage 2,"Business, Enterprise and Technology",Information Technology,7,8,15
+2013,Stage 2,"Business, Enterprise and Technology",Workplace Practices,102,70,172
+2013,Stage 2,Cross-disciplinary,Community Studies,134,31,165
+2013,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,9,0,9
+2013,Stage 2,Cross-disciplinary,Integrated Learning,187,62,249
+2013,Stage 2,Cross-disciplinary,Research Project,5,33,38
+2013,Stage 2,English,English,801,435,1236
+2013,Stage 2,Health and Physical Education,Child Studies,94,9,103
+2013,Stage 2,Health and Physical Education,Food and Hospitality,94,33,127
+2013,Stage 2,Health and Physical Education,Health,121,0,121
+2013,Stage 2,Health and Physical Education,Outdoor Education,56,33,89
+2013,Stage 2,Health and Physical Education,Physical Education,74,72,146
+2013,Stage 2,Humanities and Social Sciences,Aboriginal Studies,12,5,17
+2013,Stage 2,Humanities and Social Sciences,Australian History,7,6,13
+2013,Stage 2,Humanities and Social Sciences,Classical Studies,12,0,12
+2013,Stage 2,Humanities and Social Sciences,Economics,11,10,21
+2013,Stage 2,Humanities and Social Sciences,Geography,4,26,30
+2013,Stage 2,Humanities and Social Sciences,Legal Studies,33,46,79
+2013,Stage 2,Humanities and Social Sciences,Media Studies,21,22,43
+2013,Stage 2,Humanities and Social Sciences,Modern History,21,54,75
+2013,Stage 2,Humanities and Social Sciences,Philosophy,5,0,5
+2013,Stage 2,Humanities and Social Sciences,Religion Studies,0,59,59
+2013,Stage 2,Humanities and Social Sciences,Society and Culture,32,7,39
+2013,Stage 2,Humanities and Social Sciences,Tourism,8,8,16
+2013,Stage 2,Humanities and Social Sciences,Women's Studies,12,0,12
+2013,Stage 2,Languages,Chinese,33,0,33
+2013,Stage 2,Languages,French,1,8,9
+2013,Stage 2,Languages,German,1,2,3
+2013,Stage 2,Languages,Indonesian,29,14,43
+2013,Stage 2,Languages,Italian,8,0,8
+2013,Stage 2,Languages,Japanese,15,1,16
+2013,Stage 2,Languages,Modern Greek,6,0,6
+2013,Stage 2,Languages,Spanish,2,0,2
+2013,Stage 2,Mathematics,Mathematics,554,332,886
+2013,Stage 2,Other subjects,Australian Music Examinations Board,0,4,4
+2013,Stage 2,Other subjects,Duke of Edinburgh's Award,0,2,2
+2013,Stage 2,Other subjects,Guides Australia,2,2,4
+2013,Stage 2,Other subjects,Royal Life Saving Society Australia,0,1,1
+2013,Stage 2,Sciences,Agriculture,11,0,11
+2013,Stage 2,Sciences,Biology,160,85,245
+2013,Stage 2,Sciences,Chemistry,130,62,192
+2013,Stage 2,Sciences,Nutrition,66,5,71
+2013,Stage 2,Sciences,Physics,101,71,172
+2013,Stage 2,Sciences,Psychology,101,57,158
+2013,Stage 2,Sciences,Scientific Studies,62,1,63
+2014,Stage 1,Arts,Creative Arts,441,51,492
+2014,Stage 1,Arts,Dance,118,23,141
+2014,Stage 1,Arts,Drama,123,97,220
+2014,Stage 1,Arts,Music,211,92,303
+2014,Stage 1,Arts,Visual Arts,751,155,906
+2014,Stage 1,"Business, Enterprise and Technology",Accounting,96,29,125
+2014,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,268,184,452
+2014,Stage 1,"Business, Enterprise and Technology",Design and Technology,562,176,738
+2014,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,204,0,204
+2014,Stage 1,"Business, Enterprise and Technology",Information Technology,98,20,118
+2014,Stage 1,"Business, Enterprise and Technology",Workplace Practices,202,66,268
+2014,Stage 1,Cross-disciplinary,Community Studies,193,47,240
+2014,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,2,0,2
+2014,Stage 1,Cross-disciplinary,Integrated Learning,663,182,845
+2014,Stage 1,Cross-disciplinary,Personal Learning Plan,1594,721,2315
+2014,Stage 1,Cross-disciplinary,Research Practices,45,0,45
+2014,Stage 1,English,English,2373,1103,3476
+2014,Stage 1,English,Literacy for Work and Community Life,351,127,478
+2014,Stage 1,Health and Physical Education,Child Studies,223,1,224
+2014,Stage 1,Health and Physical Education,Food and Hospitality,437,148,585
+2014,Stage 1,Health and Physical Education,Health,155,36,191
+2014,Stage 1,Health and Physical Education,Outdoor Education,175,167,342
+2014,Stage 1,Health and Physical Education,Physical Education,935,369,1304
+2014,Stage 1,Humanities and Social Sciences,Aboriginal Studies,36,32,68
+2014,Stage 1,Humanities and Social Sciences,Ancient Studies,90,6,96
+2014,Stage 1,Humanities and Social Sciences,Economics,18,38,56
+2014,Stage 1,Humanities and Social Sciences,Geography,135,101,236
+2014,Stage 1,Humanities and Social Sciences,History,274,189,463
+2014,Stage 1,Humanities and Social Sciences,Legal Studies,151,140,291
+2014,Stage 1,Humanities and Social Sciences,Media Studies,93,78,171
+2014,Stage 1,Humanities and Social Sciences,Philosophy,6,23,29
+2014,Stage 1,Humanities and Social Sciences,Religion Studies,0,157,157
+2014,Stage 1,Humanities and Social Sciences,Society and Culture,96,106,202
+2014,Stage 1,Humanities and Social Sciences,Tourism,9,31,40
+2014,Stage 1,Humanities and Social Sciences,Women's Studies,26,0,26
+2014,Stage 1,Languages,Chinese,45,0,45
+2014,Stage 1,Languages,French,0,11,11
+2014,Stage 1,Languages,German,2,11,13
+2014,Stage 1,Languages,Indonesian,82,35,117
+2014,Stage 1,Languages,Italian,40,6,46
+2014,Stage 1,Languages,Japanese,92,29,121
+2014,Stage 1,Languages,Modern Greek,22,0,22
+2014,Stage 1,Languages,Spanish,120,11,131
+2014,Stage 1,Mathematics,Mathematics,1843,1003,2846
+2014,Stage 1,Mathematics,Numeracy for Work and Community Life,803,273,1076
+2014,Stage 1,Other subjects,Additional Status,39,11,50
+2014,Stage 1,Other subjects,Australian Air Force Cadets,6,2,8
+2014,Stage 1,Other subjects,Australian Army Cadets,1,0,1
+2014,Stage 1,Other subjects,Australian Music Examinations Board,0,2,2
+2014,Stage 1,Other subjects,Duke of Edinburgh's Award,21,45,66
+2014,Stage 1,Other subjects,Guides Australia,1,0,1
+2014,Stage 1,Other subjects,Literacy,33,10,43
+2014,Stage 1,Other subjects,Numeracy,32,8,40
+2014,Stage 1,Other subjects,Royal Life Saving Society Australia,5,6,11
+2014,Stage 1,Other subjects,Sport Skills and Management,0,4,4
+2014,Stage 1,Other subjects,Work Skills and Career Development,1,3,4
+2014,Stage 1,Sciences,Biology,524,328,852
+2014,Stage 1,Sciences,Chemistry,485,256,741
+2014,Stage 1,Sciences,Nutrition,122,52,174
+2014,Stage 1,Sciences,Physics,370,262,632
+2014,Stage 1,Sciences,Psychology,348,270,618
+2014,Stage 1,Sciences,Scientific Studies,200,90,290
+2014,Stage 1,Self-directed Community Learning Programs,Community Development,0,3,3
+2014,Stage 1,Self-directed Community Learning Programs,Independent Living,0,1,1
+2014,Stage 1,Self-directed Community Learning Programs,Performance,1,1,2
+2014,Stage 1,Self-directed Community Learning Programs,Self Development,1,3,4
+2014,Stage 2,Arts,Creative Arts,111,13,124
+2014,Stage 2,Arts,Dance,49,20,69
+2014,Stage 2,Arts,Drama,45,17,62
+2014,Stage 2,Arts,Music,118,32,150
+2014,Stage 2,Arts,Visual Arts,134,46,180
+2014,Stage 2,"Business, Enterprise and Technology",Accounting,47,19,66
+2014,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,108,65,173
+2014,Stage 2,"Business, Enterprise and Technology",Design and Technology,107,53,160
+2014,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,42,13,55
+2014,Stage 2,"Business, Enterprise and Technology",Information Technology,34,4,38
+2014,Stage 2,"Business, Enterprise and Technology",Workplace Practices,94,58,152
+2014,Stage 2,Cross-disciplinary,Community Studies,140,37,177
+2014,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,0,2,2
+2014,Stage 2,Cross-disciplinary,Integrated Learning,235,85,320
+2014,Stage 2,Cross-disciplinary,Research Project,3,19,22
+2014,Stage 2,English,English,862,439,1301
+2014,Stage 2,Health and Physical Education,Child Studies,65,1,66
+2014,Stage 2,Health and Physical Education,Food and Hospitality,58,28,86
+2014,Stage 2,Health and Physical Education,Health,78,7,85
+2014,Stage 2,Health and Physical Education,Outdoor Education,41,51,92
+2014,Stage 2,Health and Physical Education,Physical Education,75,89,164
+2014,Stage 2,Humanities and Social Sciences,Aboriginal Studies,12,7,19
+2014,Stage 2,Humanities and Social Sciences,Australian History,2,12,14
+2014,Stage 2,Humanities and Social Sciences,Classical Studies,15,5,20
+2014,Stage 2,Humanities and Social Sciences,Economics,13,4,17
+2014,Stage 2,Humanities and Social Sciences,Geography,29,20,49
+2014,Stage 2,Humanities and Social Sciences,Legal Studies,34,34,68
+2014,Stage 2,Humanities and Social Sciences,Media Studies,31,17,48
+2014,Stage 2,Humanities and Social Sciences,Modern History,35,38,73
+2014,Stage 2,Humanities and Social Sciences,Philosophy,4,0,4
+2014,Stage 2,Humanities and Social Sciences,Religion Studies,0,57,57
+2014,Stage 2,Humanities and Social Sciences,Society and Culture,45,39,84
+2014,Stage 2,Humanities and Social Sciences,Tourism,13,0,13
+2014,Stage 2,Humanities and Social Sciences,Women's Studies,9,0,9
+2014,Stage 2,Languages,Chinese,26,0,26
+2014,Stage 2,Languages,French,3,2,5
+2014,Stage 2,Languages,German,0,2,2
+2014,Stage 2,Languages,Indonesian,51,4,55
+2014,Stage 2,Languages,Italian,8,2,10
+2014,Stage 2,Languages,Japanese,39,4,43
+2014,Stage 2,Languages,Modern Greek,3,0,3
+2014,Stage 2,Languages,Spanish,24,0,24
+2014,Stage 2,Mathematics,Mathematics,545,321,866
+2014,Stage 2,Other subjects,Australian Music Examinations Board,1,0,1
+2014,Stage 2,Other subjects,Guides Australia,2,0,2
+2014,Stage 2,Other subjects,Royal Life Saving Society Australia,2,0,2
+2014,Stage 2,Other subjects,VET Status,1,0,1
+2014,Stage 2,Sciences,Biology,139,105,244
+2014,Stage 2,Sciences,Chemistry,140,61,201
+2014,Stage 2,Sciences,Nutrition,58,11,69
+2014,Stage 2,Sciences,Physics,107,67,174
+2014,Stage 2,Sciences,Psychology,85,89,174
+2014,Stage 2,Sciences,Scientific Studies,74,29,103
+2015,Stage 1,Arts,Creative Arts,393,49,442
+2015,Stage 1,Arts,Dance,141,63,204
+2015,Stage 1,Arts,Drama,181,100,281
+2015,Stage 1,Arts,Music,187,81,268
+2015,Stage 1,Arts,Visual Arts,554,193,747
+2015,Stage 1,"Business, Enterprise and Technology",Accounting,59,41,100
+2015,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,337,214,551
+2015,Stage 1,"Business, Enterprise and Technology",Design and Technology,623,113,736
+2015,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,62,13,75
+2015,Stage 1,"Business, Enterprise and Technology",Information Technology,75,17,92
+2015,Stage 1,"Business, Enterprise and Technology",Workplace Practices,87,121,208
+2015,Stage 1,Cross-disciplinary,Community Studies,219,17,236
+2015,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,10,0,10
+2015,Stage 1,Cross-disciplinary,Integrated Learning,722,182,904
+2015,Stage 1,Cross-disciplinary,Personal Learning Plan,1612,764,2376
+2015,Stage 1,Cross-disciplinary,Research Practices,74,87,161
+2015,Stage 1,English,English,2332,1044,3376
+2015,Stage 1,English,Literacy for Work and Community Life,396,110,506
+2015,Stage 1,Health and Physical Education,Child Studies,223,0,223
+2015,Stage 1,Health and Physical Education,Food and Hospitality,461,130,591
+2015,Stage 1,Health and Physical Education,Health,201,85,286
+2015,Stage 1,Health and Physical Education,Outdoor Education,312,232,544
+2015,Stage 1,Health and Physical Education,Physical Education,937,360,1297
+2015,Stage 1,Humanities and Social Sciences,Aboriginal Studies,33,0,33
+2015,Stage 1,Humanities and Social Sciences,Ancient Studies,37,18,55
+2015,Stage 1,Humanities and Social Sciences,Economics,31,23,54
+2015,Stage 1,Humanities and Social Sciences,Geography,54,68,122
+2015,Stage 1,Humanities and Social Sciences,History,184,171,355
+2015,Stage 1,Humanities and Social Sciences,Legal Studies,196,128,324
+2015,Stage 1,Humanities and Social Sciences,Media Studies,38,64,102
+2015,Stage 1,Humanities and Social Sciences,Philosophy,0,15,15
+2015,Stage 1,Humanities and Social Sciences,Religion Studies,1,134,135
+2015,Stage 1,Humanities and Social Sciences,Society and Culture,93,178,271
+2015,Stage 1,Humanities and Social Sciences,Tourism,6,18,24
+2015,Stage 1,Humanities and Social Sciences,Women's Studies,23,0,23
+2015,Stage 1,Languages,Chinese,58,0,58
+2015,Stage 1,Languages,French,0,4,4
+2015,Stage 1,Languages,German,0,8,8
+2015,Stage 1,Languages,Indonesian,75,25,100
+2015,Stage 1,Languages,Italian,46,0,46
+2015,Stage 1,Languages,Japanese,82,17,99
+2015,Stage 1,Languages,Modern Greek,16,0,16
+2015,Stage 1,Languages,Spanish,68,20,88
+2015,Stage 1,Mathematics,Mathematics,1826,984,2810
+2015,Stage 1,Mathematics,Numeracy for Work and Community Life,825,230,1055
+2015,Stage 1,Other subjects,Additional Status,36,13,49
+2015,Stage 1,Other subjects,Australian Air Force Cadets,4,1,5
+2015,Stage 1,Other subjects,Australian Army Cadets,4,2,6
+2015,Stage 1,Other subjects,Duke of Edinburgh's Award,18,27,45
+2015,Stage 1,Other subjects,Guides Australia,0,1,1
+2015,Stage 1,Other subjects,Literacy,35,12,47
+2015,Stage 1,Other subjects,Numeracy,34,10,44
+2015,Stage 1,Other subjects,Operation Flinders,3,0,3
+2015,Stage 1,Other subjects,Royal Life Saving Society Australia,3,0,3
+2015,Stage 1,Other subjects,Sport Skills and Management,1,1,2
+2015,Stage 1,Other subjects,Work Skills and Career Development,1,1,2
+2015,Stage 1,Sciences,Agriculture,1,0,1
+2015,Stage 1,Sciences,Biology,476,352,828
+2015,Stage 1,Sciences,Chemistry,460,287,747
+2015,Stage 1,Sciences,Nutrition,131,19,150
+2015,Stage 1,Sciences,Physics,348,189,537
+2015,Stage 1,Sciences,Psychology,304,252,556
+2015,Stage 1,Sciences,Scientific Studies,103,52,155
+2015,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,1,0,1
+2015,Stage 1,Self-directed Community Learning Programs,Self Development,0,1,1
+2015,Stage 2,Arts,Creative Arts,117,31,148
+2015,Stage 2,Arts,Dance,40,7,47
+2015,Stage 2,Arts,Drama,30,34,64
+2015,Stage 2,Arts,Music,79,68,147
+2015,Stage 2,Arts,Visual Arts,98,58,156
+2015,Stage 2,"Business, Enterprise and Technology",Accounting,33,25,58
+2015,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,138,90,228
+2015,Stage 2,"Business, Enterprise and Technology",Design and Technology,175,77,252
+2015,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,29,20,49
+2015,Stage 2,"Business, Enterprise and Technology",Information Technology,25,9,34
+2015,Stage 2,"Business, Enterprise and Technology",Workplace Practices,76,96,172
+2015,Stage 2,Cross-disciplinary,Community Studies,173,46,219
+2015,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,1,10,11
+2015,Stage 2,Cross-disciplinary,Integrated Learning,256,111,367
+2015,Stage 2,Cross-disciplinary,Research Project,131,47,178
+2015,Stage 2,English,English,776,490,1266
+2015,Stage 2,Health and Physical Education,Child Studies,58,1,59
+2015,Stage 2,Health and Physical Education,Food and Hospitality,41,36,77
+2015,Stage 2,Health and Physical Education,Health,126,60,186
+2015,Stage 2,Health and Physical Education,Outdoor Education,56,62,118
+2015,Stage 2,Health and Physical Education,Physical Education,73,90,163
+2015,Stage 2,Humanities and Social Sciences,Aboriginal Studies,27,0,27
+2015,Stage 2,Humanities and Social Sciences,Australian History,2,1,3
+2015,Stage 2,Humanities and Social Sciences,Classical Studies,24,0,24
+2015,Stage 2,Humanities and Social Sciences,Economics,0,9,9
+2015,Stage 2,Humanities and Social Sciences,Geography,24,17,41
+2015,Stage 2,Humanities and Social Sciences,Legal Studies,31,33,64
+2015,Stage 2,Humanities and Social Sciences,Media Studies,19,30,49
+2015,Stage 2,Humanities and Social Sciences,Modern History,62,54,116
+2015,Stage 2,Humanities and Social Sciences,Philosophy,0,8,8
+2015,Stage 2,Humanities and Social Sciences,Religion Studies,0,23,23
+2015,Stage 2,Humanities and Social Sciences,Society and Culture,54,78,132
+2015,Stage 2,Humanities and Social Sciences,Tourism,12,3,15
+2015,Stage 2,Humanities and Social Sciences,Women's Studies,27,0,27
+2015,Stage 2,Languages,Chinese,16,0,16
+2015,Stage 2,Languages,French,0,6,6
+2015,Stage 2,Languages,German,0,3,3
+2015,Stage 2,Languages,Indonesian,15,15,30
+2015,Stage 2,Languages,Italian,13,0,13
+2015,Stage 2,Languages,Japanese,28,4,32
+2015,Stage 2,Languages,Modern Greek,10,0,10
+2015,Stage 2,Languages,Spanish,22,4,26
+2015,Stage 2,Mathematics,Mathematics,460,375,835
+2015,Stage 2,Other subjects,Australian Music Examinations Board,1,0,1
+2015,Stage 2,Other subjects,Duke of Edinburgh's Award,2,4,6
+2015,Stage 2,Other subjects,Guides Australia,0,1,1
+2015,Stage 2,Other subjects,Royal Life Saving Society Australia,1,0,1
+2015,Stage 2,Sciences,Biology,129,117,246
+2015,Stage 2,Sciences,Chemistry,135,84,219
+2015,Stage 2,Sciences,Nutrition,50,13,63
+2015,Stage 2,Sciences,Physics,108,75,183
+2015,Stage 2,Sciences,Psychology,94,102,196
+2015,Stage 2,Sciences,Scientific Studies,72,30,102
+2016,Stage 1,Arts,Creative Arts,434,92,526
+2016,Stage 1,Arts,Dance,143,34,177
+2016,Stage 1,Arts,Drama,184,66,250
+2016,Stage 1,Arts,Music,180,63,243
+2016,Stage 1,Arts,Visual Arts,467,102,569
+2016,Stage 1,"Business, Enterprise and Technology",Accounting,87,28,115
+2016,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,383,148,531
+2016,Stage 1,"Business, Enterprise and Technology",Design and Technology,466,208,674
+2016,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,109,16,125
+2016,Stage 1,"Business, Enterprise and Technology",Information Technology,132,11,143
+2016,Stage 1,"Business, Enterprise and Technology",Workplace Practices,125,158,283
+2016,Stage 1,Cross-disciplinary,Community Studies,163,26,189
+2016,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,0,1,1
+2016,Stage 1,Cross-disciplinary,Integrated Learning,817,158,975
+2016,Stage 1,Cross-disciplinary,Personal Learning Plan,1419,744,2163
+2016,Stage 1,Cross-disciplinary,Research Practices,44,69,113
+2016,Stage 1,English,English,2588,1104,3692
+2016,Stage 1,Health and Physical Education,Child Studies,188,11,199
+2016,Stage 1,Health and Physical Education,Food and Hospitality,332,138,470
+2016,Stage 1,Health and Physical Education,Health,254,87,341
+2016,Stage 1,Health and Physical Education,Outdoor Education,257,207,464
+2016,Stage 1,Health and Physical Education,Physical Education,764,313,1077
+2016,Stage 1,Humanities and Social Sciences,Aboriginal Studies,38,0,38
+2016,Stage 1,Humanities and Social Sciences,Ancient Studies,90,3,93
+2016,Stage 1,Humanities and Social Sciences,Australian and International Politics,68,0,68
+2016,Stage 1,Humanities and Social Sciences,Economics,13,24,37
+2016,Stage 1,Humanities and Social Sciences,Geography,98,40,138
+2016,Stage 1,Humanities and Social Sciences,History,242,141,383
+2016,Stage 1,Humanities and Social Sciences,Legal Studies,167,110,277
+2016,Stage 1,Humanities and Social Sciences,Media Studies,119,54,173
+2016,Stage 1,Humanities and Social Sciences,Philosophy,0,14,14
+2016,Stage 1,Humanities and Social Sciences,Religion Studies,1,104,105
+2016,Stage 1,Humanities and Social Sciences,Society and Culture,114,73,187
+2016,Stage 1,Humanities and Social Sciences,Tourism,10,0,10
+2016,Stage 1,Humanities and Social Sciences,Women's Studies,50,0,50
+2016,Stage 1,Languages,Chinese,59,0,59
+2016,Stage 1,Languages,Filipino,12,0,12
+2016,Stage 1,Languages,French,57,9,66
+2016,Stage 1,Languages,German,0,6,6
+2016,Stage 1,Languages,Indonesian,66,14,80
+2016,Stage 1,Languages,Italian,29,24,53
+2016,Stage 1,Languages,Japanese,122,24,146
+2016,Stage 1,Languages,Modern Greek,21,0,21
+2016,Stage 1,Languages,Spanish,69,1,70
+2016,Stage 1,Mathematics,Mathematics,2647,1158,3805
+2016,Stage 1,Other subjects,Additional Status,39,18,57
+2016,Stage 1,Other subjects,Australian Air Force Cadets,1,2,3
+2016,Stage 1,Other subjects,Australian Army Cadets,5,4,9
+2016,Stage 1,Other subjects,Australian Music Examinations Board,2,0,2
+2016,Stage 1,Other subjects,Duke of Edinburgh's Award,187,140,327
+2016,Stage 1,Other subjects,Guides Australia,0,1,1
+2016,Stage 1,Other subjects,Literacy,36,15,51
+2016,Stage 1,Other subjects,Numeracy,29,12,41
+2016,Stage 1,Other subjects,Royal Life Saving Society Australia,3,16,19
+2016,Stage 1,Other subjects,Sport Skills and Management,0,1,1
+2016,Stage 1,Other subjects,Work Skills and Career Development,0,3,3
+2016,Stage 1,Sciences,Biology,677,309,986
+2016,Stage 1,Sciences,Chemistry,467,357,824
+2016,Stage 1,Sciences,Nutrition,161,54,215
+2016,Stage 1,Sciences,Physics,309,242,551
+2016,Stage 1,Sciences,Psychology,321,201,522
+2016,Stage 1,Sciences,Scientific Studies,150,62,212
+2016,Stage 1,Self-directed Community Learning Programs,Self Development,0,1,1
+2016,Stage 2,Arts,Creative Arts,80,30,110
+2016,Stage 2,Arts,Dance,42,11,53
+2016,Stage 2,Arts,Drama,37,47,84
+2016,Stage 2,Arts,Music,87,46,133
+2016,Stage 2,Arts,Visual Arts,101,62,163
+2016,Stage 2,"Business, Enterprise and Technology",Accounting,41,21,62
+2016,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,121,71,192
+2016,Stage 2,"Business, Enterprise and Technology",Design and Technology,136,57,193
+2016,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,20,15,35
+2016,Stage 2,"Business, Enterprise and Technology",Information Technology,16,8,24
+2016,Stage 2,"Business, Enterprise and Technology",Workplace Practices,78,44,122
+2016,Stage 2,Cross-disciplinary,Community Studies,313,47,360
+2016,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,1,6,7
+2016,Stage 2,Cross-disciplinary,Integrated Learning,350,104,454
+2016,Stage 2,Cross-disciplinary,Research Project,118,19,137
+2016,Stage 2,English,English,776,455,1231
+2016,Stage 2,Health and Physical Education,Child Studies,52,10,62
+2016,Stage 2,Health and Physical Education,Food and Hospitality,32,29,61
+2016,Stage 2,Health and Physical Education,Health,120,44,164
+2016,Stage 2,Health and Physical Education,Outdoor Education,78,65,143
+2016,Stage 2,Health and Physical Education,Physical Education,93,97,190
+2016,Stage 2,Humanities and Social Sciences,Aboriginal Studies,12,0,12
+2016,Stage 2,Humanities and Social Sciences,Australian History,4,6,10
+2016,Stage 2,Humanities and Social Sciences,Classical Studies,17,6,23
+2016,Stage 2,Humanities and Social Sciences,Economics,25,10,35
+2016,Stage 2,Humanities and Social Sciences,Geography,23,12,35
+2016,Stage 2,Humanities and Social Sciences,Legal Studies,45,27,72
+2016,Stage 2,Humanities and Social Sciences,Media Studies,22,22,44
+2016,Stage 2,Humanities and Social Sciences,Modern History,31,53,84
+2016,Stage 2,Humanities and Social Sciences,Philosophy,0,6,6
+2016,Stage 2,Humanities and Social Sciences,Religion Studies,0,118,118
+2016,Stage 2,Humanities and Social Sciences,Society and Culture,56,24,80
+2016,Stage 2,Humanities and Social Sciences,Tourism,5,3,8
+2016,Stage 2,Humanities and Social Sciences,Women's Studies,24,0,24
+2016,Stage 2,Languages,Chinese,19,0,19
+2016,Stage 2,Languages,French,0,3,3
+2016,Stage 2,Languages,German,0,2,2
+2016,Stage 2,Languages,Indonesian,18,12,30
+2016,Stage 2,Languages,Italian,12,0,12
+2016,Stage 2,Languages,Japanese,21,5,26
+2016,Stage 2,Languages,Modern Greek,4,0,4
+2016,Stage 2,Languages,Spanish,24,5,29
+2016,Stage 2,Mathematics,Mathematics,504,363,867
+2016,Stage 2,Other subjects,Australian Music Examinations Board,2,1,3
+2016,Stage 2,Other subjects,Duke of Edinburgh's Award,2,6,8
+2016,Stage 2,Other subjects,Guides Australia,0,1,1
+2016,Stage 2,Other subjects,Royal Life Saving Society Australia,1,1,2
+2016,Stage 2,Sciences,Biology,141,110,251
+2016,Stage 2,Sciences,Chemistry,131,85,216
+2016,Stage 2,Sciences,Geology,1,0,1
+2016,Stage 2,Sciences,Nutrition,65,34,99
+2016,Stage 2,Sciences,Physics,91,69,160
+2016,Stage 2,Sciences,Psychology,85,93,178
+2016,Stage 2,Sciences,Scientific Studies,117,31,148
+2017,Stage 1,Arts,Creative Arts,416,87,503
+2017,Stage 1,Arts,Dance,96,40,136
+2017,Stage 1,Arts,Drama,88,72,160
+2017,Stage 1,Arts,Music,163,92,255
+2017,Stage 1,Arts,Visual Arts,581,176,757
+2017,Stage 1,"Business, Enterprise and Technology",Accounting,120,28,148
+2017,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,306,167,473
+2017,Stage 1,"Business, Enterprise and Technology",Design and Technology,424,150,574
+2017,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,85,9,94
+2017,Stage 1,"Business, Enterprise and Technology",Information Technology,85,20,105
+2017,Stage 1,"Business, Enterprise and Technology",Workplace Practices,123,83,206
+2017,Stage 1,Cross-disciplinary,Community Studies,138,49,187
+2017,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,5,0,5
+2017,Stage 1,Cross-disciplinary,Integrated Learning,700,154,854
+2017,Stage 1,Cross-disciplinary,Personal Learning Plan,1465,723,2188
+2017,Stage 1,Cross-disciplinary,Research Practices,55,137,192
+2017,Stage 1,English,English,2584,1132,3716
+2017,Stage 1,Health and Physical Education,Child Studies,234,34,268
+2017,Stage 1,Health and Physical Education,Food and Hospitality,349,124,473
+2017,Stage 1,Health and Physical Education,Health,269,99,368
+2017,Stage 1,Health and Physical Education,Outdoor Education,222,155,377
+2017,Stage 1,Health and Physical Education,Physical Education,784,310,1094
+2017,Stage 1,Humanities and Social Sciences,Aboriginal Studies,40,6,46
+2017,Stage 1,Humanities and Social Sciences,Ancient Studies,116,0,116
+2017,Stage 1,Humanities and Social Sciences,Economics,4,26,30
+2017,Stage 1,Humanities and Social Sciences,Geography,43,53,96
+2017,Stage 1,Humanities and Social Sciences,Legal Studies,185,93,278
+2017,Stage 1,Humanities and Social Sciences,Media Studies,68,72,140
+2017,Stage 1,Humanities and Social Sciences,Modern History,166,90,256
+2017,Stage 1,Humanities and Social Sciences,Religion Studies,1,142,143
+2017,Stage 1,Humanities and Social Sciences,Society and Culture,89,85,174
+2017,Stage 1,Humanities and Social Sciences,Tourism,13,0,13
+2017,Stage 1,Humanities and Social Sciences,Women's Studies,52,0,52
+2017,Stage 1,Languages,Chinese,38,0,38
+2017,Stage 1,Languages,Filipino,21,0,21
+2017,Stage 1,Languages,French,38,13,51
+2017,Stage 1,Languages,German,0,6,6
+2017,Stage 1,Languages,Hungarian,1,0,1
+2017,Stage 1,Languages,Indonesian,79,44,123
+2017,Stage 1,Languages,Italian,30,17,47
+2017,Stage 1,Languages,Japanese,132,45,177
+2017,Stage 1,Languages,Modern Greek,29,0,29
+2017,Stage 1,Languages,Spanish,112,1,113
+2017,Stage 1,Mathematics,Mathematics,2603,1148,3751
+2017,Stage 1,Other subjects,Additional Status,37,15,52
+2017,Stage 1,Other subjects,Australian Air Force Cadets,1,0,1
+2017,Stage 1,Other subjects,Australian Army Cadets,1,0,1
+2017,Stage 1,Other subjects,Australian Music Examinations Board,1,2,3
+2017,Stage 1,Other subjects,Cecchetti Ballet Australia Inc,2,1,3
+2017,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,1,0,1
+2017,Stage 1,Other subjects,Duke of Edinburgh's Award,181,128,309
+2017,Stage 1,Other subjects,Literacy,31,13,44
+2017,Stage 1,Other subjects,Numeracy,28,12,40
+2017,Stage 1,Other subjects,Royal Life Saving Society Australia,6,2,8
+2017,Stage 1,Other subjects,Scouts Australia,1,0,1
+2017,Stage 1,Other subjects,Sport Skills and Management,2,1,3
+2017,Stage 1,Other subjects,The Equestrian Federation of Australia,2,0,2
+2017,Stage 1,Other subjects,Trinity College London,0,1,1
+2017,Stage 1,Other subjects,Work Skills and Career Development,1,3,4
+2017,Stage 1,Sciences,Biology,509,425,934
+2017,Stage 1,Sciences,Chemistry,460,301,761
+2017,Stage 1,Sciences,Earth and Environmental Science,20,0,20
+2017,Stage 1,Sciences,Nutrition,68,72,140
+2017,Stage 1,Sciences,Physics,342,200,542
+2017,Stage 1,Sciences,Psychology,349,244,593
+2017,Stage 1,Sciences,Scientific Studies,227,50,277
+2017,Stage 1,Self-directed Community Learning Programs,Performance,0,1,1
+2017,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,1,0,1
+2017,Stage 1,Self-directed Community Learning Programs,Self Development,2,1,3
+2017,Stage 1,Self-directed Community Learning Programs,Volunteering,0,3,3
+2017,Stage 2,Arts,Creative Arts,117,29,146
+2017,Stage 2,Arts,Dance,27,2,29
+2017,Stage 2,Arts,Drama,47,18,65
+2017,Stage 2,Arts,Music,95,44,139
+2017,Stage 2,Arts,Visual Arts,71,23,94
+2017,Stage 2,"Business, Enterprise and Technology",Accounting,35,18,53
+2017,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,126,50,176
+2017,Stage 2,"Business, Enterprise and Technology",Design and Technology,170,55,225
+2017,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,32,14,46
+2017,Stage 2,"Business, Enterprise and Technology",Information Technology,36,5,41
+2017,Stage 2,"Business, Enterprise and Technology",Workplace Practices,67,58,125
+2017,Stage 2,Cross-disciplinary,Community Studies,252,42,294
+2017,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,6,1,7
+2017,Stage 2,Cross-disciplinary,Integrated Learning,229,174,403
+2017,Stage 2,Cross-disciplinary,Research Project,103,27,130
+2017,Stage 2,English,English,848,464,1312
+2017,Stage 2,Health and Physical Education,Child Studies,57,14,71
+2017,Stage 2,Health and Physical Education,Food and Hospitality,34,26,60
+2017,Stage 2,Health and Physical Education,Health,121,75,196
+2017,Stage 2,Health and Physical Education,Outdoor Education,71,55,126
+2017,Stage 2,Health and Physical Education,Physical Education,137,101,238
+2017,Stage 2,Humanities and Social Sciences,Aboriginal Studies,12,0,12
+2017,Stage 2,Humanities and Social Sciences,Australian History,0,5,5
+2017,Stage 2,Humanities and Social Sciences,Australian and International Politics,24,0,24
+2017,Stage 2,Humanities and Social Sciences,Classical Studies,23,0,23
+2017,Stage 2,Humanities and Social Sciences,Economics,11,12,23
+2017,Stage 2,Humanities and Social Sciences,Geography,13,16,29
+2017,Stage 2,Humanities and Social Sciences,Legal Studies,45,32,77
+2017,Stage 2,Humanities and Social Sciences,Media Studies,34,26,60
+2017,Stage 2,Humanities and Social Sciences,Modern History,50,59,109
+2017,Stage 2,Humanities and Social Sciences,Philosophy,0,6,6
+2017,Stage 2,Humanities and Social Sciences,Religion Studies,0,9,9
+2017,Stage 2,Humanities and Social Sciences,Society and Culture,73,29,102
+2017,Stage 2,Humanities and Social Sciences,Women's Studies,29,0,29
+2017,Stage 2,Languages,Chinese,29,0,29
+2017,Stage 2,Languages,Filipino,11,0,11
+2017,Stage 2,Languages,French,12,4,16
+2017,Stage 2,Languages,German,0,2,2
+2017,Stage 2,Languages,Hungarian,1,0,1
+2017,Stage 2,Languages,Indonesian,25,10,35
+2017,Stage 2,Languages,Italian,8,5,13
+2017,Stage 2,Languages,Japanese,32,5,37
+2017,Stage 2,Languages,Modern Greek,6,0,6
+2017,Stage 2,Languages,Spanish,26,4,30
+2017,Stage 2,Mathematics,Mathematics,580,412,992
+2017,Stage 2,Other subjects,Additional Status,2,1,3
+2017,Stage 2,Other subjects,Australian Music Examinations Board,2,2,4
+2017,Stage 2,Other subjects,Duke of Edinburgh's Award,5,9,14
+2017,Stage 2,Other subjects,Royal Life Saving Society Australia,2,0,2
+2017,Stage 2,Other subjects,Scouts Australia,1,0,1
+2017,Stage 2,Other subjects,Trinity College London,0,1,1
+2017,Stage 2,Sciences,Biology,182,108,290
+2017,Stage 2,Sciences,Chemistry,145,103,248
+2017,Stage 2,Sciences,Nutrition,63,24,87
+2017,Stage 2,Sciences,Physics,79,61,140
+2017,Stage 2,Sciences,Psychology,95,82,177
+2017,Stage 2,Sciences,Scientific Studies,117,27,144
+2018,Stage 1,Arts,Creative Arts,355,69,424
+2018,Stage 1,Arts,Dance,138,18,156
+2018,Stage 1,Arts,Drama,126,59,185
+2018,Stage 1,Arts,Music,190,57,247
+2018,Stage 1,Arts,Visual Arts,595,145,740
+2018,Stage 1,"Business, Enterprise and Technology",Accounting,122,24,146
+2018,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,334,191,525
+2018,Stage 1,"Business, Enterprise and Technology",Design and Technology,453,92,545
+2018,Stage 1,"Business, Enterprise and Technology",Digital Technologies,77,37,114
+2018,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,137,4,141
+2018,Stage 1,"Business, Enterprise and Technology",Workplace Practices,162,63,225
+2018,Stage 1,Cross-disciplinary,Community Studies,108,22,130
+2018,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,269,15,284
+2018,Stage 1,Cross-disciplinary,Integrated Learning,1063,102,1165
+2018,Stage 1,Cross-disciplinary,Personal Learning Plan,1534,801,2335
+2018,Stage 1,Cross-disciplinary,Research Practices,65,193,258
+2018,Stage 1,English,English,2599,1141,3740
+2018,Stage 1,Health and Physical Education,Child Studies,225,21,246
+2018,Stage 1,Health and Physical Education,Food and Hospitality,385,152,537
+2018,Stage 1,Health and Physical Education,Health,295,110,405
+2018,Stage 1,Health and Physical Education,Outdoor Education,397,180,577
+2018,Stage 1,Health and Physical Education,Physical Education,737,280,1017
+2018,Stage 1,Humanities and Social Sciences,Aboriginal Studies,45,0,45
+2018,Stage 1,Humanities and Social Sciences,Ancient Studies,118,0,118
+2018,Stage 1,Humanities and Social Sciences,Australian and International Politics,16,0,16
+2018,Stage 1,Humanities and Social Sciences,Economics,30,24,54
+2018,Stage 1,Humanities and Social Sciences,Geography,38,30,68
+2018,Stage 1,Humanities and Social Sciences,Legal Studies,185,91,276
+2018,Stage 1,Humanities and Social Sciences,Media Studies,45,79,124
+2018,Stage 1,Humanities and Social Sciences,Modern History,154,150,304
+2018,Stage 1,Humanities and Social Sciences,Philosophy,0,37,37
+2018,Stage 1,Humanities and Social Sciences,Religion Studies,0,130,130
+2018,Stage 1,Humanities and Social Sciences,Society and Culture,42,0,42
+2018,Stage 1,Humanities and Social Sciences,Women's Studies,58,0,58
+2018,Stage 1,Languages,Chinese,46,0,46
+2018,Stage 1,Languages,Filipino,13,0,13
+2018,Stage 1,Languages,French,23,9,32
+2018,Stage 1,Languages,German,4,15,19
+2018,Stage 1,Languages,Indonesian,85,14,99
+2018,Stage 1,Languages,Italian,36,4,40
+2018,Stage 1,Languages,Japanese,116,19,135
+2018,Stage 1,Languages,Modern Greek,17,0,17
+2018,Stage 1,Languages,Spanish,108,1,109
+2018,Stage 1,Mathematics,Mathematics,2582,1285,3867
+2018,Stage 1,Other subjects,Additional Status,32,9,41
+2018,Stage 1,Other subjects,Australian Air Force Cadets,1,0,1
+2018,Stage 1,Other subjects,Australian Army Cadets,1,0,1
+2018,Stage 1,Other subjects,Australian Business Week,1,0,1
+2018,Stage 1,Other subjects,Australian Music Examinations Board,0,1,1
+2018,Stage 1,Other subjects,Duke of Edinburgh's Award,192,130,322
+2018,Stage 1,Other subjects,Literacy,24,9,33
+2018,Stage 1,Other subjects,Numeracy,23,4,27
+2018,Stage 1,Other subjects,Operation Flinders,15,0,15
+2018,Stage 1,Other subjects,Royal Life Saving Society Australia,6,4,10
+2018,Stage 1,Other subjects,Sport Skills and Management,1,2,3
+2018,Stage 1,Other subjects,St. John Ambulance Australia Cadets,1,0,1
+2018,Stage 1,Other subjects,Work Skills and Career Development,6,3,9
+2018,Stage 1,Sciences,Biology,501,424,925
+2018,Stage 1,Sciences,Chemistry,441,321,762
+2018,Stage 1,Sciences,Earth and Environmental Science,44,3,47
+2018,Stage 1,Sciences,Nutrition,25,68,93
+2018,Stage 1,Sciences,Physics,285,243,528
+2018,Stage 1,Sciences,Psychology,319,276,595
+2018,Stage 1,Sciences,Scientific Studies,493,48,541
+2018,Stage 1,Self-directed Community Learning Programs,Community Development,2,0,2
+2018,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,0,1,1
+2018,Stage 1,Self-directed Community Learning Programs,Self Development,2,2,4
+2018,Stage 1,Self-directed Community Learning Programs,Volunteering,0,1,1
+2018,Stage 2,Arts,Creative Arts,104,30,134
+2018,Stage 2,Arts,Dance,29,6,35
+2018,Stage 2,Arts,Drama,25,29,54
+2018,Stage 2,Arts,Music,107,50,157
+2018,Stage 2,Arts,Visual Arts,111,47,158
+2018,Stage 2,"Business, Enterprise and Technology",Accounting,40,18,58
+2018,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,107,74,181
+2018,Stage 2,"Business, Enterprise and Technology",Design and Technology,120,49,169
+2018,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,33,10,43
+2018,Stage 2,"Business, Enterprise and Technology",Information Technology,9,9,18
+2018,Stage 2,"Business, Enterprise and Technology",Workplace Practices,46,56,102
+2018,Stage 2,Cross-disciplinary,Community Studies,330,58,388
+2018,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,5,15,20
+2018,Stage 2,Cross-disciplinary,Integrated Learning,180,164,344
+2018,Stage 2,Cross-disciplinary,Research Project,80,47,127
+2018,Stage 2,English,English,793,442,1235
+2018,Stage 2,Health and Physical Education,Child Studies,51,1,52
+2018,Stage 2,Health and Physical Education,Food and Hospitality,20,29,49
+2018,Stage 2,Health and Physical Education,Health,119,57,176
+2018,Stage 2,Health and Physical Education,Outdoor Education,46,48,94
+2018,Stage 2,Health and Physical Education,Physical Education,95,88,183
+2018,Stage 2,Humanities and Social Sciences,Aboriginal Studies,21,1,22
+2018,Stage 2,Humanities and Social Sciences,Ancient Studies,34,0,34
+2018,Stage 2,Humanities and Social Sciences,Economics,1,10,11
+2018,Stage 2,Humanities and Social Sciences,Geography,3,18,21
+2018,Stage 2,Humanities and Social Sciences,Legal Studies,45,36,81
+2018,Stage 2,Humanities and Social Sciences,Media Studies,21,37,58
+2018,Stage 2,Humanities and Social Sciences,Modern History,29,44,73
+2018,Stage 2,Humanities and Social Sciences,Philosophy,0,2,2
+2018,Stage 2,Humanities and Social Sciences,Religion Studies,0,15,15
+2018,Stage 2,Humanities and Social Sciences,Society and Culture,77,14,91
+2018,Stage 2,Humanities and Social Sciences,Women's Studies,20,0,20
+2018,Stage 2,Languages,Chinese,4,0,4
+2018,Stage 2,Languages,Filipino,7,0,7
+2018,Stage 2,Languages,French,9,4,13
+2018,Stage 2,Languages,Hungarian,1,0,1
+2018,Stage 2,Languages,Indonesian,31,19,50
+2018,Stage 2,Languages,Italian,10,1,11
+2018,Stage 2,Languages,Japanese,24,13,37
+2018,Stage 2,Languages,Modern Greek,11,0,11
+2018,Stage 2,Languages,Spanish,19,0,19
+2018,Stage 2,Mathematics,Mathematics,560,400,960
+2018,Stage 2,Other subjects,Additional Status,1,0,1
+2018,Stage 2,Other subjects,Australian Music Examinations Board,0,2,2
+2018,Stage 2,Other subjects,Cecchetti Ballet Australia Inc,1,0,1
+2018,Stage 2,Other subjects,Duke of Edinburgh's Award,2,4,6
+2018,Stage 2,Other subjects,Royal Life Saving Society Australia,1,0,1
+2018,Stage 2,Other subjects,Trinity College London,0,1,1
+2018,Stage 2,Sciences,Biology,150,117,267
+2018,Stage 2,Sciences,Chemistry,121,85,206
+2018,Stage 2,Sciences,Earth and Environmental Science,23,0,23
+2018,Stage 2,Sciences,Nutrition,40,26,66
+2018,Stage 2,Sciences,Physics,90,56,146
+2018,Stage 2,Sciences,Psychology,96,95,191
+2018,Stage 2,Sciences,Scientific Studies,123,3,126
+2019,Stage 1,Arts,Creative Arts,459,73,532
+2019,Stage 1,Arts,Dance,122,38,160
+2019,Stage 1,Arts,Drama,137,76,213
+2019,Stage 1,Arts,Music,185,81,266
+2019,Stage 1,Arts,Visual Arts,673,182,855
+2019,Stage 1,"Business, Enterprise and Technology",Accounting,100,26,126
+2019,Stage 1,"Business, Enterprise and Technology",Business Innovation,0,62,62
+2019,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,241,105,346
+2019,Stage 1,"Business, Enterprise and Technology",Design and Technology,556,163,719
+2019,Stage 1,"Business, Enterprise and Technology",Digital Technologies,160,40,200
+2019,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,82,0,82
+2019,Stage 1,"Business, Enterprise and Technology",Workplace Practices,196,45,241
+2019,Stage 1,Cross-disciplinary,Community Studies,168,14,182
+2019,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,447,8,455
+2019,Stage 1,Cross-disciplinary,Integrated Learning,1215,268,1483
+2019,Stage 1,Cross-disciplinary,Personal Learning Plan,1620,559,2179
+2019,Stage 1,Cross-disciplinary,Research Practices,71,140,211
+2019,Stage 1,English,English,2954,1097,4051
+2019,Stage 1,Health and Physical Education,Child Studies,205,7,212
+2019,Stage 1,Health and Physical Education,Food and Hospitality,414,131,545
+2019,Stage 1,Health and Physical Education,Health,420,121,541
+2019,Stage 1,Health and Physical Education,Outdoor Education,305,135,440
+2019,Stage 1,Health and Physical Education,Physical Education,622,274,896
+2019,Stage 1,Humanities and Social Sciences,Aboriginal Studies,55,0,55
+2019,Stage 1,Humanities and Social Sciences,Ancient Studies,115,0,115
+2019,Stage 1,Humanities and Social Sciences,Economics,4,21,25
+2019,Stage 1,Humanities and Social Sciences,Geography,55,44,99
+2019,Stage 1,Humanities and Social Sciences,Legal Studies,164,179,343
+2019,Stage 1,Humanities and Social Sciences,Media Studies,37,73,110
+2019,Stage 1,Humanities and Social Sciences,Modern History,170,148,318
+2019,Stage 1,Humanities and Social Sciences,Philosophy,0,36,36
+2019,Stage 1,Humanities and Social Sciences,Religion Studies,0,162,162
+2019,Stage 1,Humanities and Social Sciences,Society and Culture,166,0,166
+2019,Stage 1,Humanities and Social Sciences,Women's Studies,38,0,38
+2019,Stage 1,Languages,Australian Languages,0,1,1
+2019,Stage 1,Languages,Chinese,60,13,73
+2019,Stage 1,Languages,Filipino,8,0,8
+2019,Stage 1,Languages,French,27,8,35
+2019,Stage 1,Languages,German,0,14,14
+2019,Stage 1,Languages,Hungarian,1,0,1
+2019,Stage 1,Languages,Indonesian,87,22,109
+2019,Stage 1,Languages,Italian,32,0,32
+2019,Stage 1,Languages,Japanese,149,18,167
+2019,Stage 1,Languages,Modern Greek,11,0,11
+2019,Stage 1,Languages,Spanish,73,2,75
+2019,Stage 1,Mathematics,Mathematics,2811,1167,3978
+2019,Stage 1,Other subjects,Additional Status,42,9,51
+2019,Stage 1,Other subjects,Australian Air Force Cadets,0,3,3
+2019,Stage 1,Other subjects,Australian Army Cadets,2,9,11
+2019,Stage 1,Other subjects,Duke of Edinburgh's Award,286,105,391
+2019,Stage 1,Other subjects,Literacy,33,8,41
+2019,Stage 1,Other subjects,Numeracy,28,5,33
+2019,Stage 1,Other subjects,Royal Life Saving Society Australia,11,3,14
+2019,Stage 1,Other subjects,South Australian National Football League (SANFL),0,1,1
+2019,Stage 1,Other subjects,Sport Skills and Management,2,5,7
+2019,Stage 1,Other subjects,St. John Ambulance Australia Cadets,0,3,3
+2019,Stage 1,Other subjects,Work Skills and Career Development,10,2,12
+2019,Stage 1,Sciences,Agriculture,0,26,26
+2019,Stage 1,Sciences,Biology,455,329,784
+2019,Stage 1,Sciences,Chemistry,519,228,747
+2019,Stage 1,Sciences,Earth and Environmental Science,40,1,41
+2019,Stage 1,Sciences,Nutrition,16,72,88
+2019,Stage 1,Sciences,Physics,349,198,547
+2019,Stage 1,Sciences,Psychology,300,291,591
+2019,Stage 1,Sciences,Scientific Studies,501,56,557
+2019,Stage 1,Self-directed Community Learning Programs,Community Development,7,1,8
+2019,Stage 1,Self-directed Community Learning Programs,Independent Living,4,0,4
+2019,Stage 1,Self-directed Community Learning Programs,Self Development,2,1,3
+2019,Stage 1,Self-directed Community Learning Programs,Volunteering,4,4,8
+2019,Stage 2,Arts,Creative Arts,101,41,142
+2019,Stage 2,Arts,Dance,34,4,38
+2019,Stage 2,Arts,Drama,27,25,52
+2019,Stage 2,Arts,Music,54,26,80
+2019,Stage 2,Arts,Visual Arts,96,45,141
+2019,Stage 2,"Business, Enterprise and Technology",Accounting,52,35,87
+2019,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,65,79,144
+2019,Stage 2,"Business, Enterprise and Technology",Design and Technology,105,31,136
+2019,Stage 2,"Business, Enterprise and Technology",Digital Technologies,9,10,19
+2019,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,36,10,46
+2019,Stage 2,"Business, Enterprise and Technology",Workplace Practices,37,56,93
+2019,Stage 2,Cross-disciplinary,Community Studies,585,66,651
+2019,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,13,0,13
+2019,Stage 2,Cross-disciplinary,Integrated Learning,201,150,351
+2019,Stage 2,Cross-disciplinary,Research Project,76,46,122
+2019,Stage 2,English,English,797,501,1298
+2019,Stage 2,Health and Physical Education,Child Studies,39,5,44
+2019,Stage 2,Health and Physical Education,Food and Hospitality,29,28,57
+2019,Stage 2,Health and Physical Education,Health,92,62,154
+2019,Stage 2,Health and Physical Education,Outdoor Education,60,42,102
+2019,Stage 2,Health and Physical Education,Physical Education,82,91,173
+2019,Stage 2,Humanities and Social Sciences,Aboriginal Studies,7,0,7
+2019,Stage 2,Humanities and Social Sciences,Ancient Studies,32,13,45
+2019,Stage 2,Humanities and Social Sciences,Economics,10,6,16
+2019,Stage 2,Humanities and Social Sciences,Geography,15,10,25
+2019,Stage 2,Humanities and Social Sciences,Legal Studies,41,20,61
+2019,Stage 2,Humanities and Social Sciences,Media Studies,25,27,52
+2019,Stage 2,Humanities and Social Sciences,Modern History,50,52,102
+2019,Stage 2,Humanities and Social Sciences,Philosophy,0,18,18
+2019,Stage 2,Humanities and Social Sciences,Religion Studies,0,45,45
+2019,Stage 2,Humanities and Social Sciences,Society and Culture,52,10,62
+2019,Stage 2,Humanities and Social Sciences,Women's Studies,53,0,53
+2019,Stage 2,Languages,Chinese,14,0,14
+2019,Stage 2,Languages,Filipino,13,0,13
+2019,Stage 2,Languages,French,7,2,9
+2019,Stage 2,Languages,German,1,5,6
+2019,Stage 2,Languages,Indonesian,35,7,42
+2019,Stage 2,Languages,Italian,5,0,5
+2019,Stage 2,Languages,Japanese,34,6,40
+2019,Stage 2,Languages,Korean,4,0,4
+2019,Stage 2,Languages,Language and Culture,2,0,2
+2019,Stage 2,Languages,Malay,1,0,1
+2019,Stage 2,Languages,Modern Greek,6,0,6
+2019,Stage 2,Languages,Russian,2,0,2
+2019,Stage 2,Languages,Sinhala,1,0,1
+2019,Stage 2,Languages,Spanish,19,0,19
+2019,Stage 2,Mathematics,Mathematics,559,468,1027
+2019,Stage 2,Other subjects,Australian Music Examinations Board,2,1,3
+2019,Stage 2,Other subjects,Duke of Edinburgh's Award,3,13,16
+2019,Stage 2,Other subjects,Royal Life Saving Society Australia,3,1,4
+2019,Stage 2,Other subjects,Trinity College London,0,1,1
+2019,Stage 2,Sciences,Biology,137,120,257
+2019,Stage 2,Sciences,Chemistry,127,84,211
+2019,Stage 2,Sciences,Earth and Environmental Science,18,1,19
+2019,Stage 2,Sciences,Nutrition,39,22,61
+2019,Stage 2,Sciences,Physics,85,67,152
+2019,Stage 2,Sciences,Psychology,95,118,213
+2019,Stage 2,Sciences,Scientific Studies,64,11,75
+2020,Stage 1,Arts,Creative Arts,332,17,349
+2020,Stage 1,Arts,Dance,56,8,64
+2020,Stage 1,Arts,Drama,156,46,202
+2020,Stage 1,Arts,Music,173,101,274
+2020,Stage 1,Arts,Visual Arts,609,136,745
+2020,Stage 1,"Business, Enterprise and Technology",Accounting,88,28,116
+2020,Stage 1,"Business, Enterprise and Technology",Business Innovation,203,134,337
+2020,Stage 1,"Business, Enterprise and Technology",Business and Enterprise,2,2,4
+2020,Stage 1,"Business, Enterprise and Technology",Design and Technology,551,217,768
+2020,Stage 1,"Business, Enterprise and Technology",Digital Technologies,180,54,234
+2020,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,140,1,141
+2020,Stage 1,"Business, Enterprise and Technology",Workplace Practices,145,43,188
+2020,Stage 1,Cross-disciplinary,Community Studies,130,11,141
+2020,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,406,0,406
+2020,Stage 1,Cross-disciplinary,Integrated Learning,1340,282,1622
+2020,Stage 1,Cross-disciplinary,Personal Learning Plan,1406,721,2127
+2020,Stage 1,Cross-disciplinary,Research Practices,51,103,154
+2020,Stage 1,English,English,2715,1112,3827
+2020,Stage 1,Health and Physical Education,Child Studies,306,37,343
+2020,Stage 1,Health and Physical Education,Food and Hospitality,422,137,559
+2020,Stage 1,Health and Physical Education,Health,409,55,464
+2020,Stage 1,Health and Physical Education,Outdoor Education,272,124,396
+2020,Stage 1,Health and Physical Education,Physical Education,632,249,881
+2020,Stage 1,Humanities and Social Sciences,Aboriginal Studies,66,0,66
+2020,Stage 1,Humanities and Social Sciences,Ancient Studies,122,9,131
+2020,Stage 1,Humanities and Social Sciences,Economics,13,16,29
+2020,Stage 1,Humanities and Social Sciences,Geography,76,51,127
+2020,Stage 1,Humanities and Social Sciences,Legal Studies,166,118,284
+2020,Stage 1,Humanities and Social Sciences,Media Studies,15,43,58
+2020,Stage 1,Humanities and Social Sciences,Modern History,134,140,274
+2020,Stage 1,Humanities and Social Sciences,Philosophy,2,23,25
+2020,Stage 1,Humanities and Social Sciences,Religion Studies,0,191,191
+2020,Stage 1,Humanities and Social Sciences,Society and Culture,77,1,78
+2020,Stage 1,Humanities and Social Sciences,Tourism,58,0,58
+2020,Stage 1,Humanities and Social Sciences,Women's Studies,43,0,43
+2020,Stage 1,Languages,Chinese,38,1,39
+2020,Stage 1,Languages,Filipino,7,0,7
+2020,Stage 1,Languages,French,21,0,21
+2020,Stage 1,Languages,German,0,4,4
+2020,Stage 1,Languages,Hungarian,1,0,1
+2020,Stage 1,Languages,Indonesian,61,11,72
+2020,Stage 1,Languages,Italian,34,0,34
+2020,Stage 1,Languages,Japanese,106,15,121
+2020,Stage 1,Languages,Modern Greek,12,0,12
+2020,Stage 1,Languages,Russian,2,0,2
+2020,Stage 1,Languages,Spanish,43,0,43
+2020,Stage 1,Mathematics,Mathematics,2682,1134,3816
+2020,Stage 1,Other subjects,Additional Status,41,5,46
+2020,Stage 1,Other subjects,Australian Air Force Cadets,2,1,3
+2020,Stage 1,Other subjects,Australian Army Cadets,2,2,4
+2020,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,0,2,2
+2020,Stage 1,Other subjects,Development Netball NT,1,13,14
+2020,Stage 1,Other subjects,Duke of Edinburgh's Award,212,69,281
+2020,Stage 1,Other subjects,Literacy,27,4,31
+2020,Stage 1,Other subjects,Numeracy,28,5,33
+2020,Stage 1,Other subjects,Royal Life Saving Society Australia,6,5,11
+2020,Stage 1,Other subjects,SA Country Fire Service,0,1,1
+2020,Stage 1,Other subjects,Sport Skills and Management,5,1,6
+2020,Stage 1,Other subjects,The Equestrian Federation of Australia,0,2,2
+2020,Stage 1,Other subjects,Work Skills and Career Development,26,0,26
+2020,Stage 1,Sciences,Agriculture,0,32,32
+2020,Stage 1,Sciences,Biology,472,379,851
+2020,Stage 1,Sciences,Chemistry,483,246,729
+2020,Stage 1,Sciences,Earth and Environmental Science,30,1,31
+2020,Stage 1,Sciences,Nutrition,37,77,114
+2020,Stage 1,Sciences,Physics,368,175,543
+2020,Stage 1,Sciences,Psychology,394,295,689
+2020,Stage 1,Sciences,Scientific Studies,475,117,592
+2020,Stage 1,Self-directed Community Learning Programs,Community Development,4,0,4
+2020,Stage 1,Self-directed Community Learning Programs,Independent Living,2,0,2
+2020,Stage 1,Self-directed Community Learning Programs,Performance,3,3,6
+2020,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,4,0,4
+2020,Stage 1,Self-directed Community Learning Programs,Self Development,15,1,16
+2020,Stage 1,Self-directed Community Learning Programs,Volunteering,1,4,5
+2020,Stage 2,Arts,Creative Arts,162,56,218
+2020,Stage 2,Arts,Dance,41,8,49
+2020,Stage 2,Arts,Drama,20,21,41
+2020,Stage 2,Arts,Music,35,42,77
+2020,Stage 2,Arts,Visual Arts,87,43,130
+2020,Stage 2,"Business, Enterprise and Technology",Accounting,47,20,67
+2020,Stage 2,"Business, Enterprise and Technology",Business Innovation,48,28,76
+2020,Stage 2,"Business, Enterprise and Technology",Business and Enterprise,54,32,86
+2020,Stage 2,"Business, Enterprise and Technology",Design and Technology,139,53,192
+2020,Stage 2,"Business, Enterprise and Technology",Digital Technologies,32,5,37
+2020,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,24,0,24
+2020,Stage 2,"Business, Enterprise and Technology",Workplace Practices,71,51,122
+2020,Stage 2,Cross-disciplinary,Community Studies,710,114,824
+2020,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,13,0,13
+2020,Stage 2,Cross-disciplinary,Integrated Learning,222,244,466
+2020,Stage 2,Cross-disciplinary,Research Project,105,87,192
+2020,Stage 2,English,English,839,472,1311
+2020,Stage 2,Health and Physical Education,Child Studies,45,24,69
+2020,Stage 2,Health and Physical Education,Food and Hospitality,38,34,72
+2020,Stage 2,Health and Physical Education,Health,176,40,216
+2020,Stage 2,Health and Physical Education,Outdoor Education,52,44,96
+2020,Stage 2,Health and Physical Education,Physical Education,53,71,124
+2020,Stage 2,Humanities and Social Sciences,Aboriginal Studies,41,0,41
+2020,Stage 2,Humanities and Social Sciences,Ancient Studies,53,0,53
+2020,Stage 2,Humanities and Social Sciences,Economics,1,12,13
+2020,Stage 2,Humanities and Social Sciences,Geography,10,8,18
+2020,Stage 2,Humanities and Social Sciences,Legal Studies,45,54,99
+2020,Stage 2,Humanities and Social Sciences,Media Studies,21,22,43
+2020,Stage 2,Humanities and Social Sciences,Modern History,67,42,109
+2020,Stage 2,Humanities and Social Sciences,Philosophy,0,14,14
+2020,Stage 2,Humanities and Social Sciences,Religion Studies,0,31,31
+2020,Stage 2,Humanities and Social Sciences,Society and Culture,67,6,73
+2020,Stage 2,Humanities and Social Sciences,Women's Studies,32,0,32
+2020,Stage 2,Languages,Australian Languages,17,0,17
+2020,Stage 2,Languages,Chinese,29,3,32
+2020,Stage 2,Languages,Filipino,12,0,12
+2020,Stage 2,Languages,French,10,3,13
+2020,Stage 2,Languages,German,3,6,9
+2020,Stage 2,Languages,Hindi,4,0,4
+2020,Stage 2,Languages,Hungarian,2,0,2
+2020,Stage 2,Languages,Indonesian,22,7,29
+2020,Stage 2,Languages,Italian,10,0,10
+2020,Stage 2,Languages,Japanese,34,7,41
+2020,Stage 2,Languages,Korean,1,0,1
+2020,Stage 2,Languages,Malay,1,0,1
+2020,Stage 2,Languages,Modern Greek,6,0,6
+2020,Stage 2,Languages,Portuguese,2,0,2
+2020,Stage 2,Languages,Russian,2,1,3
+2020,Stage 2,Languages,Sinhala,4,1,5
+2020,Stage 2,Languages,Spanish,15,1,16
+2020,Stage 2,Languages,Tamil,3,0,3
+2020,Stage 2,Mathematics,Mathematics,613,407,1020
+2020,Stage 2,Other subjects,Australian Air Force Cadets,0,1,1
+2020,Stage 2,Other subjects,Australian Music Examinations Board,0,1,1
+2020,Stage 2,Other subjects,Commonwealth Society of Teachers of Dancing,0,1,1
+2020,Stage 2,Other subjects,Duke of Edinburgh's Award,7,5,12
+2020,Stage 2,Other subjects,Higher Ed TAS subject,0,1,1
+2020,Stage 2,Other subjects,Royal Life Saving Society Australia,1,1,2
+2020,Stage 2,Other subjects,VET Status,2,0,2
+2020,Stage 2,Sciences,Agriculture,0,10,10
+2020,Stage 2,Sciences,Biology,126,102,228
+2020,Stage 2,Sciences,Chemistry,152,46,198
+2020,Stage 2,Sciences,Earth and Environmental Science,16,0,16
+2020,Stage 2,Sciences,Nutrition,39,28,67
+2020,Stage 2,Sciences,Physics,91,54,145
+2020,Stage 2,Sciences,Psychology,110,116,226
+2020,Stage 2,Sciences,Scientific Studies,55,5,60
+2021,Stage 1,Arts,Creative Arts,264,87,351
+2021,Stage 1,Arts,Dance,144,6,150
+2021,Stage 1,Arts,Drama,69,46,115
+2021,Stage 1,Arts,Music,146,51,197
+2021,Stage 1,Arts,Visual Arts,596,140,736
+2021,Stage 1,"Business, Enterprise and Technology",Accounting,84,26,110
+2021,Stage 1,"Business, Enterprise and Technology",Business Innovation,192,128,320
+2021,Stage 1,"Business, Enterprise and Technology",Design and Technology,431,221,652
+2021,Stage 1,"Business, Enterprise and Technology","Design, Technology and Engineering",23,0,23
+2021,Stage 1,"Business, Enterprise and Technology",Digital Technologies,154,29,183
+2021,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,65,0,65
+2021,Stage 1,"Business, Enterprise and Technology",Workplace Practices,94,38,132
+2021,Stage 1,Cross-disciplinary,Community Studies,157,61,218
+2021,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,390,2,392
+2021,Stage 1,Cross-disciplinary,Integrated Learning,1781,324,2105
+2021,Stage 1,Cross-disciplinary,Personal Learning Plan,1451,640,2091
+2021,Stage 1,Cross-disciplinary,Research Practices,15,70,85
+2021,Stage 1,English,English,2754,1113,3867
+2021,Stage 1,Health and Physical Education,Child Studies,232,37,269
+2021,Stage 1,Health and Physical Education,Food and Hospitality,324,158,482
+2021,Stage 1,Health and Physical Education,Health and Wellbeing,394,68,462
+2021,Stage 1,Health and Physical Education,Outdoor Education,282,127,409
+2021,Stage 1,Health and Physical Education,Physical Education,683,231,914
+2021,Stage 1,Humanities and Social Sciences,Aboriginal Studies,52,0,52
+2021,Stage 1,Humanities and Social Sciences,Ancient Studies,119,16,135
+2021,Stage 1,Humanities and Social Sciences,Economics,10,22,32
+2021,Stage 1,Humanities and Social Sciences,Geography,99,35,134
+2021,Stage 1,Humanities and Social Sciences,Legal Studies,194,81,275
+2021,Stage 1,Humanities and Social Sciences,Media Studies,24,53,77
+2021,Stage 1,Humanities and Social Sciences,Modern History,185,135,320
+2021,Stage 1,Humanities and Social Sciences,Philosophy,0,34,34
+2021,Stage 1,Humanities and Social Sciences,Religion Studies,0,274,274
+2021,Stage 1,Humanities and Social Sciences,Society and Culture,49,17,66
+2021,Stage 1,Humanities and Social Sciences,Tourism,70,0,70
+2021,Stage 1,Humanities and Social Sciences,Women's Studies,29,0,29
+2021,Stage 1,Languages,Chinese,46,0,46
+2021,Stage 1,Languages,French,43,7,50
+2021,Stage 1,Languages,German,0,19,19
+2021,Stage 1,Languages,Indonesian,56,32,88
+2021,Stage 1,Languages,Italian,54,0,54
+2021,Stage 1,Languages,Japanese,134,19,153
+2021,Stage 1,Languages,Modern Greek,18,0,18
+2021,Stage 1,Languages,Spanish,71,0,71
+2021,Stage 1,Mathematics,Mathematics,2499,1100,3599
+2021,Stage 1,Other subjects,Additional Status,27,4,31
+2021,Stage 1,Other subjects,Australian Air Force Cadets,4,2,6
+2021,Stage 1,Other subjects,Australian Army Cadets,8,6,14
+2021,Stage 1,Other subjects,Australian Music Examinations Board,0,4,4
+2021,Stage 1,Other subjects,Development Netball NT,0,7,7
+2021,Stage 1,Other subjects,Duke of Edinburgh's Award,260,77,337
+2021,Stage 1,Other subjects,Literacy,23,2,25
+2021,Stage 1,Other subjects,Numeracy,23,2,25
+2021,Stage 1,Other subjects,Royal Life Saving Society Australia,10,5,15
+2021,Stage 1,Other subjects,Sport Skills and Management,7,2,9
+2021,Stage 1,Other subjects,St. John Ambulance Australia Cadets,2,3,5
+2021,Stage 1,Other subjects,Trinity College London,0,1,1
+2021,Stage 1,Other subjects,Work Skills and Career Development,28,4,32
+2021,Stage 1,Sciences,Agriculture,15,37,52
+2021,Stage 1,Sciences,Biology,451,313,764
+2021,Stage 1,Sciences,Chemistry,349,223,572
+2021,Stage 1,Sciences,Earth and Environmental Science,35,0,35
+2021,Stage 1,Sciences,Nutrition,25,43,68
+2021,Stage 1,Sciences,Physics,295,163,458
+2021,Stage 1,Sciences,Psychology,301,254,555
+2021,Stage 1,Sciences,Scientific Studies,367,70,437
+2021,Stage 1,Self-directed Community Learning Programs,Community Development,3,0,3
+2021,Stage 1,Self-directed Community Learning Programs,Independent Living,4,0,4
+2021,Stage 1,Self-directed Community Learning Programs,Performance,5,4,9
+2021,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,3,0,3
+2021,Stage 1,Self-directed Community Learning Programs,Self Development,9,1,10
+2021,Stage 1,Self-directed Community Learning Programs,Volunteering,4,7,11
+2021,Stage 2,Arts,Creative Arts,84,22,106
+2021,Stage 2,Arts,Dance,14,3,17
+2021,Stage 2,Arts,Drama,25,24,49
+2021,Stage 2,Arts,Music,58,28,86
+2021,Stage 2,Arts,Visual Arts,69,38,107
+2021,Stage 2,"Business, Enterprise and Technology",Accounting,35,18,53
+2021,Stage 2,"Business, Enterprise and Technology",Business Innovation,65,74,139
+2021,Stage 2,"Business, Enterprise and Technology",Design and Technology,108,41,149
+2021,Stage 2,"Business, Enterprise and Technology",Digital Technologies,28,14,42
+2021,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,21,0,21
+2021,Stage 2,"Business, Enterprise and Technology",Workplace Practices,35,58,93
+2021,Stage 2,Cross-disciplinary,Community Studies,650,127,777
+2021,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,11,0,11
+2021,Stage 2,Cross-disciplinary,Integrated Learning,236,199,435
+2021,Stage 2,Cross-disciplinary,Research Project,74,29,103
+2021,Stage 2,English,English,761,445,1206
+2021,Stage 2,Health and Physical Education,Child Studies,71,55,126
+2021,Stage 2,Health and Physical Education,Food and Hospitality,35,46,81
+2021,Stage 2,Health and Physical Education,Health and Wellbeing,123,28,151
+2021,Stage 2,Health and Physical Education,Outdoor Education,47,40,87
+2021,Stage 2,Health and Physical Education,Physical Education,64,66,130
+2021,Stage 2,Humanities and Social Sciences,Aboriginal Studies,32,0,32
+2021,Stage 2,Humanities and Social Sciences,Ancient Studies,56,0,56
+2021,Stage 2,Humanities and Social Sciences,Economics,7,19,26
+2021,Stage 2,Humanities and Social Sciences,Geography,15,10,25
+2021,Stage 2,Humanities and Social Sciences,Legal Studies,35,33,68
+2021,Stage 2,Humanities and Social Sciences,Media Studies,0,19,19
+2021,Stage 2,Humanities and Social Sciences,Modern History,59,26,85
+2021,Stage 2,Humanities and Social Sciences,Philosophy,9,8,17
+2021,Stage 2,Humanities and Social Sciences,"Politics, Power and People",15,0,15
+2021,Stage 2,Humanities and Social Sciences,Religion Studies,0,44,44
+2021,Stage 2,Humanities and Social Sciences,Society and Culture,47,5,52
+2021,Stage 2,Humanities and Social Sciences,Women's Studies,19,0,19
+2021,Stage 2,Languages,Chinese,15,0,15
+2021,Stage 2,Languages,Filipino,1,0,1
+2021,Stage 2,Languages,French,1,0,1
+2021,Stage 2,Languages,German,0,2,2
+2021,Stage 2,Languages,Hungarian,1,0,1
+2021,Stage 2,Languages,Indonesian,19,4,23
+2021,Stage 2,Languages,Italian,10,1,11
+2021,Stage 2,Languages,Japanese,24,4,28
+2021,Stage 2,Languages,Korean,3,0,3
+2021,Stage 2,Languages,Language and Culture,1,0,1
+2021,Stage 2,Languages,Modern Greek,3,0,3
+2021,Stage 2,Languages,Portuguese,2,0,2
+2021,Stage 2,Languages,Punjabi,2,0,2
+2021,Stage 2,Languages,Russian,1,0,1
+2021,Stage 2,Languages,Sinhala,3,0,3
+2021,Stage 2,Languages,Spanish,11,0,11
+2021,Stage 2,Languages,Swedish,1,0,1
+2021,Stage 2,Languages,Vietnamese,1,0,1
+2021,Stage 2,Mathematics,Mathematics,596,353,949
+2021,Stage 2,Other subjects,Australian Army Cadets,2,1,3
+2021,Stage 2,Other subjects,Australian Music Examinations Board,1,3,4
+2021,Stage 2,Other subjects,Duke of Edinburgh's Award,3,11,14
+2021,Stage 2,Other subjects,Interstate/Overseas TAS Subject,0,1,1
+2021,Stage 2,Other subjects,Royal Life Saving Society Australia,1,2,3
+2021,Stage 2,Sciences,Agriculture,0,6,6
+2021,Stage 2,Sciences,Biology,138,127,265
+2021,Stage 2,Sciences,Chemistry,152,85,237
+2021,Stage 2,Sciences,Earth and Environmental Science,6,0,6
+2021,Stage 2,Sciences,Nutrition,32,33,65
+2021,Stage 2,Sciences,Physics,100,55,155
+2021,Stage 2,Sciences,Psychology,108,111,219
+2021,Stage 2,Sciences,Scientific Studies,50,8,58
+2022,Stage 1,Arts,Creative Arts,302,98,400
+2022,Stage 1,Arts,Dance,96,13,109
+2022,Stage 1,Arts,Drama,55,40,95
+2022,Stage 1,Arts,Music,103,53,156
+2022,Stage 1,Arts,Visual Arts,533,89,622
+2022,Stage 1,"Business, Enterprise and Technology",Accounting,124,22,146
+2022,Stage 1,"Business, Enterprise and Technology",Business Innovation,240,158,398
+2022,Stage 1,"Business, Enterprise and Technology",Design and Technology,419,166,585
+2022,Stage 1,"Business, Enterprise and Technology","Design, Technology and Engineering",29,0,29
+2022,Stage 1,"Business, Enterprise and Technology",Digital Technologies,133,17,150
+2022,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,55,0,55
+2022,Stage 1,"Business, Enterprise and Technology",Workplace Practices,74,20,94
+2022,Stage 1,Cross-disciplinary,Community Studies,88,28,116
+2022,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,435,3,438
+2022,Stage 1,Cross-disciplinary,Integrated Learning,1984,167,2151
+2022,Stage 1,Cross-disciplinary,Personal Learning Plan,1471,605,2076
+2022,Stage 1,Cross-disciplinary,Research Practices,19,0,19
+2022,Stage 1,English,English,2747,1071,3818
+2022,Stage 1,Health and Physical Education,Child Studies,251,34,285
+2022,Stage 1,Health and Physical Education,Food and Hospitality,367,83,450
+2022,Stage 1,Health and Physical Education,Health and Wellbeing,427,44,471
+2022,Stage 1,Health and Physical Education,Outdoor Education,297,165,462
+2022,Stage 1,Health and Physical Education,Physical Education,645,246,891
+2022,Stage 1,Humanities and Social Sciences,Aboriginal Studies,43,0,43
+2022,Stage 1,Humanities and Social Sciences,Ancient Studies,137,22,159
+2022,Stage 1,Humanities and Social Sciences,Economics,7,21,28
+2022,Stage 1,Humanities and Social Sciences,Geography,91,16,107
+2022,Stage 1,Humanities and Social Sciences,Legal Studies,199,88,287
+2022,Stage 1,Humanities and Social Sciences,Media Studies,13,35,48
+2022,Stage 1,Humanities and Social Sciences,Modern History,246,150,396
+2022,Stage 1,Humanities and Social Sciences,Philosophy,1,43,44
+2022,Stage 1,Humanities and Social Sciences,"Politics, Power and People",17,0,17
+2022,Stage 1,Humanities and Social Sciences,Religion Studies,0,45,45
+2022,Stage 1,Humanities and Social Sciences,Society and Culture,105,3,108
+2022,Stage 1,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,254,254
+2022,Stage 1,Humanities and Social Sciences,Tourism,65,8,73
+2022,Stage 1,Humanities and Social Sciences,Women's Studies,49,0,49
+2022,Stage 1,Languages,Chinese,40,0,40
+2022,Stage 1,Languages,Filipino,25,0,25
+2022,Stage 1,Languages,French,18,24,42
+2022,Stage 1,Languages,German,0,15,15
+2022,Stage 1,Languages,Indonesian,43,19,62
+2022,Stage 1,Languages,Italian,34,0,34
+2022,Stage 1,Languages,Japanese,122,26,148
+2022,Stage 1,Languages,Language and Culture,2,0,2
+2022,Stage 1,Languages,Modern Greek,10,0,10
+2022,Stage 1,Languages,Spanish,84,0,84
+2022,Stage 1,Mathematics,Mathematics,2507,1056,3563
+2022,Stage 1,Other subjects,Additional Status,30,11,41
+2022,Stage 1,Other subjects,Australian Air Force Cadets,1,0,1
+2022,Stage 1,Other subjects,Australian Army Cadets,12,1,13
+2022,Stage 1,Other subjects,Australian Music Examinations Board,0,3,3
+2022,Stage 1,Other subjects,Cecchetti Ballet Australia Inc,0,1,1
+2022,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,0,2,2
+2022,Stage 1,Other subjects,Development Netball NT,0,11,11
+2022,Stage 1,Other subjects,Duke of Edinburgh's Award,301,62,363
+2022,Stage 1,Other subjects,Literacy,25,11,36
+2022,Stage 1,Other subjects,Ngurruniny Dhukarr Go'Li Ganhamirr,4,0,4
+2022,Stage 1,Other subjects,Numeracy,24,10,34
+2022,Stage 1,Other subjects,Royal Life Saving Society Australia,21,10,31
+2022,Stage 1,Other subjects,Sport Skills and Management,9,4,13
+2022,Stage 1,Other subjects,St. John Ambulance Australia Cadets,4,3,7
+2022,Stage 1,Other subjects,Surf Life Saving South Australia (SLSSA),7,1,8
+2022,Stage 1,Other subjects,Work Skills and Career Development,13,4,17
+2022,Stage 1,Sciences,Agriculture,18,12,30
+2022,Stage 1,Sciences,Biology,396,312,708
+2022,Stage 1,Sciences,Chemistry,393,209,602
+2022,Stage 1,Sciences,Earth and Environmental Science,91,0,91
+2022,Stage 1,Sciences,Nutrition,40,13,53
+2022,Stage 1,Sciences,Physics,286,156,442
+2022,Stage 1,Sciences,Psychology,346,296,642
+2022,Stage 1,Sciences,Scientific Studies,396,56,452
+2022,Stage 1,Self-directed Community Learning Programs,Community Development,4,1,5
+2022,Stage 1,Self-directed Community Learning Programs,Independent Living,5,1,6
+2022,Stage 1,Self-directed Community Learning Programs,Performance,3,0,3
+2022,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,2,0,2
+2022,Stage 1,Self-directed Community Learning Programs,Self Development,9,0,9
+2022,Stage 1,Self-directed Community Learning Programs,Volunteering,5,1,6
+2022,Stage 2,Arts,Creative Arts,148,42,190
+2022,Stage 2,Arts,Dance,16,4,20
+2022,Stage 2,Arts,Drama,21,12,33
+2022,Stage 2,Arts,Music,51,16,67
+2022,Stage 2,Arts,Visual Arts,87,25,112
+2022,Stage 2,"Business, Enterprise and Technology",Accounting,44,16,60
+2022,Stage 2,"Business, Enterprise and Technology",Business Innovation,66,90,156
+2022,Stage 2,"Business, Enterprise and Technology",Design and Technology,124,28,152
+2022,Stage 2,"Business, Enterprise and Technology","Design, Technology and Engineering",4,0,4
+2022,Stage 2,"Business, Enterprise and Technology",Digital Technologies,22,10,32
+2022,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,18,0,18
+2022,Stage 2,"Business, Enterprise and Technology",Workplace Practices,39,48,87
+2022,Stage 2,Cross-disciplinary,Community Connections,430,71,501
+2022,Stage 2,Cross-disciplinary,Community Studies,47,30,77
+2022,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,8,0,8
+2022,Stage 2,Cross-disciplinary,Integrated Learning,205,179,384
+2022,Stage 2,Cross-disciplinary,Research Project,79,31,110
+2022,Stage 2,English,English,681,408,1089
+2022,Stage 2,Health and Physical Education,Child Studies,71,31,102
+2022,Stage 2,Health and Physical Education,Food and Hospitality,54,43,97
+2022,Stage 2,Health and Physical Education,Health and Wellbeing,116,58,174
+2022,Stage 2,Health and Physical Education,Outdoor Education,41,43,84
+2022,Stage 2,Health and Physical Education,Physical Education,78,46,124
+2022,Stage 2,Humanities and Social Sciences,Aboriginal Studies,31,0,31
+2022,Stage 2,Humanities and Social Sciences,Ancient Studies,64,0,64
+2022,Stage 2,Humanities and Social Sciences,Economics,1,16,17
+2022,Stage 2,Humanities and Social Sciences,Geography,17,9,26
+2022,Stage 2,Humanities and Social Sciences,Legal Studies,51,22,73
+2022,Stage 2,Humanities and Social Sciences,Media Studies,8,18,26
+2022,Stage 2,Humanities and Social Sciences,Modern History,52,28,80
+2022,Stage 2,Humanities and Social Sciences,Philosophy,0,23,23
+2022,Stage 2,Humanities and Social Sciences,Religion Studies,0,11,11
+2022,Stage 2,Humanities and Social Sciences,Society and Culture,70,7,77
+2022,Stage 2,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,88,88
+2022,Stage 2,Humanities and Social Sciences,Tourism,11,0,11
+2022,Stage 2,Humanities and Social Sciences,Women's Studies,18,1,19
+2022,Stage 2,Languages,Australian Languages,8,0,8
+2022,Stage 2,Languages,Chinese,15,1,16
+2022,Stage 2,Languages,Filipino,6,1,7
+2022,Stage 2,Languages,French,7,0,7
+2022,Stage 2,Languages,German,0,5,5
+2022,Stage 2,Languages,Indonesian,12,8,20
+2022,Stage 2,Languages,Italian,11,0,11
+2022,Stage 2,Languages,Japanese,23,5,28
+2022,Stage 2,Languages,Language and Culture,18,0,18
+2022,Stage 2,Languages,Modern Greek,7,0,7
+2022,Stage 2,Languages,Sinhala,0,1,1
+2022,Stage 2,Languages,Spanish,12,0,12
+2022,Stage 2,Languages,Vietnamese,1,0,1
+2022,Stage 2,Mathematics,Mathematics,474,344,818
+2022,Stage 2,Other subjects,Australian Army Cadets,2,2,4
+2022,Stage 2,Other subjects,Australian Music Examinations Board,3,5,8
+2022,Stage 2,Other subjects,Commonwealth Society of Teachers of Dancing,0,1,1
+2022,Stage 2,Other subjects,Community-Led Aboriginal Cultural Learning,10,0,10
+2022,Stage 2,Other subjects,Duke of Edinburgh's Award,5,8,13
+2022,Stage 2,Other subjects,Royal Life Saving Society Australia,2,3,5
+2022,Stage 2,Other subjects,Self-Directed Aboriginal Cultural Learning,0,1,1
+2022,Stage 2,Sciences,Agriculture,0,15,15
+2022,Stage 2,Sciences,Biology,112,97,209
+2022,Stage 2,Sciences,Chemistry,107,58,165
+2022,Stage 2,Sciences,Earth and Environmental Science,11,0,11
+2022,Stage 2,Sciences,Nutrition,44,6,50
+2022,Stage 2,Sciences,Physics,67,36,103
+2022,Stage 2,Sciences,Psychology,78,97,175
+2022,Stage 2,Sciences,Scientific Studies,48,6,54
+2023,Stage 1,Arts,Creative Arts,382,163,545
+2023,Stage 1,Arts,Dance,64,21,85
+2023,Stage 1,Arts,Drama,93,32,125
+2023,Stage 1,Arts,Music,154,59,213
+2023,Stage 1,Arts,Visual Arts,554,118,672
+2023,Stage 1,"Business, Enterprise and Technology",Accounting,169,22,191
+2023,Stage 1,"Business, Enterprise and Technology",Business Innovation,171,153,324
+2023,Stage 1,"Business, Enterprise and Technology",Design and Technology,584,124,708
+2023,Stage 1,"Business, Enterprise and Technology","Design, Technology and Engineering",13,0,13
+2023,Stage 1,"Business, Enterprise and Technology",Digital Technologies,219,19,238
+2023,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,106,0,106
+2023,Stage 1,"Business, Enterprise and Technology",Workplace Practices,81,27,108
+2023,Stage 1,Cross-disciplinary,Community Studies,134,48,182
+2023,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,427,0,427
+2023,Stage 1,Cross-disciplinary,Exploring Identities and Futures,165,199,364
+2023,Stage 1,Cross-disciplinary,Integrated Learning,2408,218,2626
+2023,Stage 1,Cross-disciplinary,Personal Learning Plan,1558,428,1986
+2023,Stage 1,Cross-disciplinary,Research Practices,27,0,27
+2023,Stage 1,English,English,3259,1007,4266
+2023,Stage 1,Health and Physical Education,Child Studies,260,65,325
+2023,Stage 1,Health and Physical Education,Food and Hospitality,400,99,499
+2023,Stage 1,Health and Physical Education,Health and Wellbeing,605,69,674
+2023,Stage 1,Health and Physical Education,Outdoor Education,296,109,405
+2023,Stage 1,Health and Physical Education,Physical Education,613,190,803
+2023,Stage 1,Humanities and Social Sciences,Aboriginal Studies,84,0,84
+2023,Stage 1,Humanities and Social Sciences,Ancient Studies,118,9,127
+2023,Stage 1,Humanities and Social Sciences,Economics,7,14,21
+2023,Stage 1,Humanities and Social Sciences,Geography,100,43,143
+2023,Stage 1,Humanities and Social Sciences,Legal Studies,187,98,285
+2023,Stage 1,Humanities and Social Sciences,Media Studies,26,56,82
+2023,Stage 1,Humanities and Social Sciences,Modern History,205,126,331
+2023,Stage 1,Humanities and Social Sciences,Philosophy,14,24,38
+2023,Stage 1,Humanities and Social Sciences,"Politics, Power and People",25,0,25
+2023,Stage 1,Humanities and Social Sciences,Society and Culture,139,4,143
+2023,Stage 1,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,416,416
+2023,Stage 1,Humanities and Social Sciences,Tourism,45,7,52
+2023,Stage 1,Humanities and Social Sciences,Women's Studies,25,0,25
+2023,Stage 1,Languages,Chinese,70,20,90
+2023,Stage 1,Languages,Filipino,20,0,20
+2023,Stage 1,Languages,French,28,21,49
+2023,Stage 1,Languages,German,0,19,19
+2023,Stage 1,Languages,Indonesian,46,17,63
+2023,Stage 1,Languages,Italian,31,0,31
+2023,Stage 1,Languages,Japanese,100,8,108
+2023,Stage 1,Languages,Language and Culture,7,4,11
+2023,Stage 1,Languages,Modern Greek,23,0,23
+2023,Stage 1,Languages,Spanish,77,0,77
+2023,Stage 1,Mathematics,Mathematics,3065,1054,4119
+2023,Stage 1,Other subjects,Additional Status,30,5,35
+2023,Stage 1,Other subjects,Australian Air Force Cadets,4,0,4
+2023,Stage 1,Other subjects,Australian Army Cadets,15,5,20
+2023,Stage 1,Other subjects,Australian Music Examinations Board,0,1,1
+2023,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,1,0,1
+2023,Stage 1,Other subjects,Duke of Edinburgh's Award,241,100,341
+2023,Stage 1,Other subjects,Literacy,27,5,32
+2023,Stage 1,Other subjects,Ngurruniny Dhukarr Go'Li Ganhamirr,4,0,4
+2023,Stage 1,Other subjects,Numeracy,25,4,29
+2023,Stage 1,Other subjects,Palmerston Rugby Union Club,0,2,2
+2023,Stage 1,Other subjects,Royal Life Saving Society Australia,9,3,12
+2023,Stage 1,Other subjects,Self-Directed Aboriginal Cultural Learning,4,0,4
+2023,Stage 1,Other subjects,Sport Skills and Management,3,1,4
+2023,Stage 1,Other subjects,St. John Ambulance Australia Cadets,0,1,1
+2023,Stage 1,Other subjects,STV One and All Sailing Program,0,2,2
+2023,Stage 1,Other subjects,Surf Life Saving South Australia (SLSSA),1,0,1
+2023,Stage 1,Other subjects,Work Skills and Career Development,15,2,17
+2023,Stage 1,Sciences,Agriculture,0,19,19
+2023,Stage 1,Sciences,Biology,369,302,671
+2023,Stage 1,Sciences,Chemistry,410,158,568
+2023,Stage 1,Sciences,Earth and Environmental Science,90,0,90
+2023,Stage 1,Sciences,Nutrition,39,20,59
+2023,Stage 1,Sciences,Physics,288,90,378
+2023,Stage 1,Sciences,Psychology,329,240,569
+2023,Stage 1,Sciences,Scientific Studies,292,80,372
+2023,Stage 1,Self-directed Community Learning Programs,Community Development,0,4,4
+2023,Stage 1,Self-directed Community Learning Programs,Independent Living,1,0,1
+2023,Stage 1,Self-directed Community Learning Programs,Performance,3,1,4
+2023,Stage 1,Self-directed Community Learning Programs,Self Development,9,4,13
+2023,Stage 1,Self-directed Community Learning Programs,Volunteering,2,0,2
+2023,Stage 2,Arts,Creative Arts,123,41,164
+2023,Stage 2,Arts,Dance,28,6,34
+2023,Stage 2,Arts,Drama,5,17,22
+2023,Stage 2,Arts,Music,96,15,111
+2023,Stage 2,Arts,Visual Arts,90,21,111
+2023,Stage 2,"Business, Enterprise and Technology",Accounting,45,12,57
+2023,Stage 2,"Business, Enterprise and Technology",Business Innovation,91,46,137
+2023,Stage 2,"Business, Enterprise and Technology",Design and Technology,111,24,135
+2023,Stage 2,"Business, Enterprise and Technology","Design, Technology and Engineering",5,0,5
+2023,Stage 2,"Business, Enterprise and Technology",Digital Technologies,32,0,32
+2023,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,20,0,20
+2023,Stage 2,"Business, Enterprise and Technology",Workplace Practices,40,59,99
+2023,Stage 2,Cross-disciplinary,Activating Identities and Futures,0,38,38
+2023,Stage 2,Cross-disciplinary,Community Connections,470,64,534
+2023,Stage 2,Cross-disciplinary,Community Studies,68,28,96
+2023,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,47,3,50
+2023,Stage 2,Cross-disciplinary,Integrated Learning,168,49,217
+2023,Stage 2,Cross-disciplinary,Research Project,70,11,81
+2023,Stage 2,English,English,725,424,1149
+2023,Stage 2,Health and Physical Education,Child Studies,56,14,70
+2023,Stage 2,Health and Physical Education,Food and Hospitality,37,19,56
+2023,Stage 2,Health and Physical Education,Health and Wellbeing,179,25,204
+2023,Stage 2,Health and Physical Education,Outdoor Education,40,32,72
+2023,Stage 2,Health and Physical Education,Physical Education,73,54,127
+2023,Stage 2,Humanities and Social Sciences,Aboriginal Studies,32,0,32
+2023,Stage 2,Humanities and Social Sciences,Ancient Studies,36,13,49
+2023,Stage 2,Humanities and Social Sciences,Economics,6,8,14
+2023,Stage 2,Humanities and Social Sciences,Geography,22,1,23
+2023,Stage 2,Humanities and Social Sciences,Legal Studies,66,16,82
+2023,Stage 2,Humanities and Social Sciences,Media Studies,13,28,41
+2023,Stage 2,Humanities and Social Sciences,Modern History,69,47,116
+2023,Stage 2,Humanities and Social Sciences,Philosophy,0,21,21
+2023,Stage 2,Humanities and Social Sciences,"Politics, Power and People",17,0,17
+2023,Stage 2,Humanities and Social Sciences,Society and Culture,68,78,146
+2023,Stage 2,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,132,132
+2023,Stage 2,Humanities and Social Sciences,Women's Studies,17,0,17
+2023,Stage 2,Languages,Chinese,12,0,12
+2023,Stage 2,Languages,Filipino,15,0,15
+2023,Stage 2,Languages,French,0,4,4
+2023,Stage 2,Languages,German,0,5,5
+2023,Stage 2,Languages,Indonesian,15,4,19
+2023,Stage 2,Languages,Italian,9,0,9
+2023,Stage 2,Languages,Japanese,30,8,38
+2023,Stage 2,Languages,Language and Culture,7,0,7
+2023,Stage 2,Languages,Modern Greek,3,0,3
+2023,Stage 2,Languages,Spanish,21,0,21
+2023,Stage 2,Mathematics,Mathematics,509,351,860
+2023,Stage 2,Other subjects,Australian Army Cadets,1,1,2
+2023,Stage 2,Other subjects,Australian Music Examinations Board,0,1,1
+2023,Stage 2,Other subjects,Community-Led Aboriginal Cultural Learning,7,0,7
+2023,Stage 2,Other subjects,Duke of Edinburgh's Award,0,3,3
+2023,Stage 2,Other subjects,Royal Life Saving Society Australia,2,0,2
+2023,Stage 2,Sciences,Agriculture,0,7,7
+2023,Stage 2,Sciences,Biology,129,100,229
+2023,Stage 2,Sciences,Chemistry,115,58,173
+2023,Stage 2,Sciences,Nutrition,17,13,30
+2023,Stage 2,Sciences,Physics,60,50,110
+2023,Stage 2,Sciences,Psychology,87,116,203
+2023,Stage 2,Sciences,Scientific Studies,28,8,36
+2024,Stage 1,Arts,Creative Arts,412,136,548
+2024,Stage 1,Arts,Dance,79,27,106
+2024,Stage 1,Arts,Drama,84,42,126
+2024,Stage 1,Arts,Music,106,73,179
+2024,Stage 1,Arts,Visual Arts,661,87,748
+2024,Stage 1,"Business, Enterprise and Technology",Accounting,99,0,99
+2024,Stage 1,"Business, Enterprise and Technology",Business Innovation,228,166,394
+2024,Stage 1,"Business, Enterprise and Technology",Design and Technology,479,144,623
+2024,Stage 1,"Business, Enterprise and Technology","Design, Technology and Engineering",37,0,37
+2024,Stage 1,"Business, Enterprise and Technology",Digital Technologies,180,33,213
+2024,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,88,0,88
+2024,Stage 1,"Business, Enterprise and Technology",Workplace Practices,63,17,80
+2024,Stage 1,Cross-disciplinary,Community Studies,34,48,82
+2024,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,578,3,581
+2024,Stage 1,Cross-disciplinary,Exploring Identities and Futures,397,477,874
+2024,Stage 1,Cross-disciplinary,Integrated Learning,2285,302,2587
+2024,Stage 1,Cross-disciplinary,Personal Learning Plan,1142,270,1412
+2024,Stage 1,Cross-disciplinary,Research Practices,2,0,2
+2024,Stage 1,English,English,3492,1196,4688
+2024,Stage 1,Health and Physical Education,Child Studies,262,93,355
+2024,Stage 1,Health and Physical Education,Food and Hospitality,352,135,487
+2024,Stage 1,Health and Physical Education,Health and Wellbeing,530,89,619
+2024,Stage 1,Health and Physical Education,Outdoor Education,182,97,279
+2024,Stage 1,Health and Physical Education,Physical Education,445,334,779
+2024,Stage 1,Humanities and Social Sciences,Aboriginal Studies,73,39,112
+2024,Stage 1,Humanities and Social Sciences,Ancient Studies,173,25,198
+2024,Stage 1,Humanities and Social Sciences,Economics,10,5,15
+2024,Stage 1,Humanities and Social Sciences,Geography,63,10,73
+2024,Stage 1,Humanities and Social Sciences,Legal Studies,210,95,305
+2024,Stage 1,Humanities and Social Sciences,Media Studies,2,75,77
+2024,Stage 1,Humanities and Social Sciences,Modern History,160,86,246
+2024,Stage 1,Humanities and Social Sciences,"Politics, Power and People",34,0,34
+2024,Stage 1,Humanities and Social Sciences,Society and Culture,155,0,155
+2024,Stage 1,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",1,377,378
+2024,Stage 1,Humanities and Social Sciences,Tourism,64,0,64
+2024,Stage 1,Humanities and Social Sciences,Women's Studies,74,0,74
+2024,Stage 1,Languages,Australian Languages,5,0,5
+2024,Stage 1,Languages,Chinese,47,0,47
+2024,Stage 1,Languages,Filipino,13,0,13
+2024,Stage 1,Languages,French,2,8,10
+2024,Stage 1,Languages,German,0,26,26
+2024,Stage 1,Languages,Hungarian,1,0,1
+2024,Stage 1,Languages,Indonesian,31,3,34
+2024,Stage 1,Languages,Italian,33,0,33
+2024,Stage 1,Languages,Japanese,68,19,87
+2024,Stage 1,Languages,Language and Culture,19,0,19
+2024,Stage 1,Languages,Modern Greek,23,0,23
+2024,Stage 1,Languages,Spanish,109,5,114
+2024,Stage 1,Mathematics,Mathematics,2854,1085,3939
+2024,Stage 1,Other subjects,Additional Status,36,7,43
+2024,Stage 1,Other subjects,Australian Air Force Cadets,0,1,1
+2024,Stage 1,Other subjects,Australian Army Cadets,3,3,6
+2024,Stage 1,Other subjects,Australian Calisthenics Federation,0,1,1
+2024,Stage 1,Other subjects,Australian Music Examinations Board,2,0,2
+2024,Stage 1,Other subjects,Cecchetti Ballet Australia Inc,0,1,1
+2024,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,1,1,2
+2024,Stage 1,Other subjects,Development Netball NT,0,3,3
+2024,Stage 1,Other subjects,Duke of Edinburgh's Award,288,118,406
+2024,Stage 1,Other subjects,Literacy,32,5,37
+2024,Stage 1,Other subjects,Numeracy,29,4,33
+2024,Stage 1,Other subjects,Palmerston Rugby Union Club,3,0,3
+2024,Stage 1,Other subjects,Royal Life Saving Society Australia,2,4,6
+2024,Stage 1,Other subjects,Self-Directed Aboriginal Cultural Learning,1,0,1
+2024,Stage 1,Other subjects,Surf Life Saving South Australia (SLSSA),0,1,1
+2024,Stage 1,Other subjects,Work Skills and Career Development,17,8,25
+2024,Stage 1,Sciences,Agriculture,0,13,13
+2024,Stage 1,Sciences,Biology,388,304,692
+2024,Stage 1,Sciences,Chemistry,392,240,632
+2024,Stage 1,Sciences,Earth and Environmental Science,114,0,114
+2024,Stage 1,Sciences,Nutrition,36,10,46
+2024,Stage 1,Sciences,Physics,320,162,482
+2024,Stage 1,Sciences,Psychology,291,188,479
+2024,Stage 1,Sciences,Scientific Studies,361,33,394
+2024,Stage 1,Self-directed Community Learning Programs,Community Development,9,0,9
+2024,Stage 1,Self-directed Community Learning Programs,Independent Living,2,1,3
+2024,Stage 1,Self-directed Community Learning Programs,Performance,0,1,1
+2024,Stage 1,Self-directed Community Learning Programs,Recreation Skills and Management,3,0,3
+2024,Stage 1,Self-directed Community Learning Programs,Self Development,10,3,13
+2024,Stage 1,Self-directed Community Learning Programs,Volunteering,2,1,3
+2024,Stage 2,Arts,Creative Arts,116,45,161
+2024,Stage 2,Arts,Dance,14,7,21
+2024,Stage 2,Arts,Drama,19,2,21
+2024,Stage 2,Arts,Music,83,34,117
+2024,Stage 2,Arts,Visual Arts,85,19,104
+2024,Stage 2,"Business, Enterprise and Technology",Accounting,58,10,68
+2024,Stage 2,"Business, Enterprise and Technology",Business Innovation,87,44,131
+2024,Stage 2,"Business, Enterprise and Technology",Design and Technology,169,35,204
+2024,Stage 2,"Business, Enterprise and Technology","Design, Technology and Engineering",1,1,2
+2024,Stage 2,"Business, Enterprise and Technology",Digital Technologies,27,1,28
+2024,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,28,0,28
+2024,Stage 2,"Business, Enterprise and Technology",Workplace Practices,35,47,82
+2024,Stage 2,Cross-disciplinary,Activating Identities and Futures,0,43,43
+2024,Stage 2,Cross-disciplinary,Community Connections,506,56,562
+2024,Stage 2,Cross-disciplinary,Community Studies,52,22,74
+2024,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,31,1,32
+2024,Stage 2,Cross-disciplinary,Integrated Learning,177,84,261
+2024,Stage 2,Cross-disciplinary,Research Project,73,31,104
+2024,Stage 2,English,English,703,418,1121
+2024,Stage 2,Health and Physical Education,Child Studies,70,28,98
+2024,Stage 2,Health and Physical Education,Food and Hospitality,54,11,65
+2024,Stage 2,Health and Physical Education,Health and Wellbeing,176,41,217
+2024,Stage 2,Health and Physical Education,Outdoor Education,20,43,63
+2024,Stage 2,Health and Physical Education,Physical Education,48,64,112
+2024,Stage 2,Humanities and Social Sciences,Aboriginal Studies,35,0,35
+2024,Stage 2,Humanities and Social Sciences,Ancient Studies,27,0,27
+2024,Stage 2,Humanities and Social Sciences,Economics,3,11,14
+2024,Stage 2,Humanities and Social Sciences,Geography,11,18,29
+2024,Stage 2,Humanities and Social Sciences,Legal Studies,37,24,61
+2024,Stage 2,Humanities and Social Sciences,Media Studies,9,24,33
+2024,Stage 2,Humanities and Social Sciences,Modern History,63,52,115
+2024,Stage 2,Humanities and Social Sciences,Philosophy,0,13,13
+2024,Stage 2,Humanities and Social Sciences,"Politics, Power and People",16,0,16
+2024,Stage 2,Humanities and Social Sciences,Society and Culture,75,2,77
+2024,Stage 2,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,231,231
+2024,Stage 2,Humanities and Social Sciences,Women's Studies,17,1,18
+2024,Stage 2,Languages,Arabic,3,0,3
+2024,Stage 2,Languages,Australian Languages,13,0,13
+2024,Stage 2,Languages,Bengali,1,0,1
+2024,Stage 2,Languages,Chinese,23,5,28
+2024,Stage 2,Languages,Filipino,16,0,16
+2024,Stage 2,Languages,French,5,4,9
+2024,Stage 2,Languages,German,0,8,8
+2024,Stage 2,Languages,Indonesian,17,4,21
+2024,Stage 2,Languages,Italian,10,0,10
+2024,Stage 2,Languages,Japanese,19,2,21
+2024,Stage 2,Languages,Korean,1,0,1
+2024,Stage 2,Languages,Modern Greek,6,0,6
+2024,Stage 2,Languages,Nepali,2,0,2
+2024,Stage 2,Languages,Sinhala,1,0,1
+2024,Stage 2,Languages,Spanish,16,0,16
+2024,Stage 2,Languages,Tamil,3,0,3
+2024,Stage 2,Languages,Vietnamese,3,0,3
+2024,Stage 2,Mathematics,Mathematics,595,379,974
+2024,Stage 2,Other subjects,Additional Status,2,0,2
+2024,Stage 2,Other subjects,Australian Air Force Cadets,1,0,1
+2024,Stage 2,Other subjects,Australian Army Cadets,0,1,1
+2024,Stage 2,Other subjects,Australian Music Examinations Board,6,2,8
+2024,Stage 2,Other subjects,Cecchetti Ballet Australia Inc,0,1,1
+2024,Stage 2,Other subjects,Community-Led Aboriginal Cultural Learning,3,0,3
+2024,Stage 2,Other subjects,Duke of Edinburgh's Award,4,4,8
+2024,Stage 2,Other subjects,Higher Ed TAS subject,2,0,2
+2024,Stage 2,Other subjects,Royal Life Saving Society Australia,0,1,1
+2024,Stage 2,Sciences,Agriculture,0,5,5
+2024,Stage 2,Sciences,Biology,130,100,230
+2024,Stage 2,Sciences,Chemistry,125,68,193
+2024,Stage 2,Sciences,Earth and Environmental Science,3,1,4
+2024,Stage 2,Sciences,Nutrition,37,4,41
+2024,Stage 2,Sciences,Physics,76,35,111
+2024,Stage 2,Sciences,Psychology,89,84,173
+2024,Stage 2,Sciences,Scientific Studies,73,14,87
+2025,Stage 1,Arts,Creative Arts,702,210,912
+2025,Stage 1,Arts,Dance,30,36,66
+2025,Stage 1,Arts,Drama,81,32,113
+2025,Stage 1,Arts,Music,159,28,187
+2025,Stage 1,Arts,Visual Arts,553,109,662
+2025,Stage 1,"Business, Enterprise and Technology",Accounting,116,11,127
+2025,Stage 1,"Business, Enterprise and Technology",Business Innovation,198,137,335
+2025,Stage 1,"Business, Enterprise and Technology",Design and Technology,490,136,626
+2025,Stage 1,"Business, Enterprise and Technology","Design, Technology and Engineering",36,1,37
+2025,Stage 1,"Business, Enterprise and Technology",Digital Technologies,156,8,164
+2025,Stage 1,"Business, Enterprise and Technology",Information Processing and Publishing,97,0,97
+2025,Stage 1,"Business, Enterprise and Technology",Workplace Practices,114,184,298
+2025,Stage 1,Cross-disciplinary,Community Studies,41,32,73
+2025,Stage 1,Cross-disciplinary,Cross-disciplinary Studies,1142,7,1149
+2025,Stage 1,Cross-disciplinary,Exploring Identities and Futures,1472,731,2203
+2025,Stage 1,Cross-disciplinary,Integrated Learning,2381,425,2806
+2025,Stage 1,Cross-disciplinary,Personal Learning Plan,81,14,95
+2025,Stage 1,English,English,3387,1362,4749
+2025,Stage 1,Health and Physical Education,Child Studies,309,104,413
+2025,Stage 1,Health and Physical Education,Food and Hospitality,360,187,547
+2025,Stage 1,Health and Physical Education,Health and Wellbeing,454,127,581
+2025,Stage 1,Health and Physical Education,Outdoor Education,175,133,308
+2025,Stage 1,Health and Physical Education,Physical Education,480,265,745
+2025,Stage 1,Humanities and Social Sciences,Aboriginal Studies,82,24,106
+2025,Stage 1,Humanities and Social Sciences,Ancient Studies,109,0,109
+2025,Stage 1,Humanities and Social Sciences,Economics,1,6,7
+2025,Stage 1,Humanities and Social Sciences,Geography,110,1,111
+2025,Stage 1,Humanities and Social Sciences,Legal Studies,246,83,329
+2025,Stage 1,Humanities and Social Sciences,Media Studies,0,54,54
+2025,Stage 1,Humanities and Social Sciences,Modern History,228,139,367
+2025,Stage 1,Humanities and Social Sciences,"Politics, Power and People",19,0,19
+2025,Stage 1,Humanities and Social Sciences,Society and Culture,121,6,127
+2025,Stage 1,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",0,487,487
+2025,Stage 1,Humanities and Social Sciences,Tourism,45,0,45
+2025,Stage 1,Humanities and Social Sciences,Women's Studies,67,0,67
+2025,Stage 1,Languages,Australian Languages,0,8,8
+2025,Stage 1,Languages,Chinese,59,0,59
+2025,Stage 1,Languages,French,0,45,45
+2025,Stage 1,Languages,German,0,39,39
+2025,Stage 1,Languages,Indonesian,42,40,82
+2025,Stage 1,Languages,Italian,37,0,37
+2025,Stage 1,Languages,Japanese,85,60,145
+2025,Stage 1,Languages,Language and Culture,6,9,15
+2025,Stage 1,Languages,Modern Greek,23,0,23
+2025,Stage 1,Languages,Spanish,72,0,72
+2025,Stage 1,Mathematics,Mathematics,2842,1365,4207
+2025,Stage 1,Other subjects,Additional Status,14,5,19
+2025,Stage 1,Other subjects,Australian Army Cadets,12,5,17
+2025,Stage 1,Other subjects,Australian Calisthenics Federation,0,1,1
+2025,Stage 1,Other subjects,Australian Music Examinations Board,2,4,6
+2025,Stage 1,Other subjects,Australian Sailing,1,0,1
+2025,Stage 1,Other subjects,Co-delivered Aboriginal Cultural Learning,18,0,18
+2025,Stage 1,Other subjects,Commonwealth Society of Teachers of Dancing,2,0,2
+2025,Stage 1,Other subjects,Community Development,11,3,14
+2025,Stage 1,Other subjects,Duke of Edinburgh's Award,183,95,278
+2025,Stage 1,Other subjects,Exploring Identities and Futures,10,1,11
+2025,Stage 1,Other subjects,Independent Living,2,0,2
+2025,Stage 1,Other subjects,Literacy,14,5,19
+2025,Stage 1,Other subjects,Numeracy,13,5,18
+2025,Stage 1,Other subjects,Performance,2,0,2
+2025,Stage 1,Other subjects,Recreation Skills and Management,1,2,3
+2025,Stage 1,Other subjects,Royal Life Saving Society Australia,14,9,23
+2025,Stage 1,Other subjects,Self Development,14,5,19
+2025,Stage 1,Other subjects,Self-Directed Aboriginal Cultural Learning,1,0,1
+2025,Stage 1,Other subjects,Sport Skills and Management,10,6,16
+2025,Stage 1,Other subjects,Surf Life Saving South Australia (SLSSA),1,6,7
+2025,Stage 1,Other subjects,Volunteering,5,4,9
+2025,Stage 1,Other subjects,Work Skills and Career Development,25,12,37
+2025,Stage 1,Other subjects,YMCA,4,0,4
+2025,Stage 1,Sciences,Agriculture,0,21,21
+2025,Stage 1,Sciences,Biology,486,304,790
+2025,Stage 1,Sciences,Chemistry,394,209,603
+2025,Stage 1,Sciences,Earth and Environmental Science,378,11,389
+2025,Stage 1,Sciences,Nutrition,61,13,74
+2025,Stage 1,Sciences,Physics,251,165,416
+2025,Stage 1,Sciences,Psychology,227,267,494
+2025,Stage 1,Sciences,Scientific Studies,354,51,405
+2025,Stage 2,Arts,Creative Arts,136,57,193
+2025,Stage 2,Arts,Dance,18,8,26
+2025,Stage 2,Arts,Drama,16,9,25
+2025,Stage 2,Arts,Music,63,17,80
+2025,Stage 2,Arts,Visual Arts,113,34,147
+2025,Stage 2,"Business, Enterprise and Technology",Accounting,38,13,51
+2025,Stage 2,"Business, Enterprise and Technology",Business Innovation,102,58,160
+2025,Stage 2,"Business, Enterprise and Technology",Design and Technology,111,66,177
+2025,Stage 2,"Business, Enterprise and Technology","Design, Technology and Engineering",1,0,1
+2025,Stage 2,"Business, Enterprise and Technology",Digital Technologies,41,10,51
+2025,Stage 2,"Business, Enterprise and Technology",Information Processing and Publishing,25,0,25
+2025,Stage 2,"Business, Enterprise and Technology",Workplace Practices,10,63,73
+2025,Stage 2,Cross-disciplinary,Activating Identities and Futures,97,27,124
+2025,Stage 2,Cross-disciplinary,Community Connections,493,96,589
+2025,Stage 2,Cross-disciplinary,Community Studies,52,27,79
+2025,Stage 2,Cross-disciplinary,Cross-disciplinary Studies,32,3,35
+2025,Stage 2,Cross-disciplinary,Integrated Learning,163,181,344
+2025,Stage 2,Cross-disciplinary,Research Project,1,14,15
+2025,Stage 2,English,English,794,419,1213
+2025,Stage 2,Health and Physical Education,Child Studies,95,29,124
+2025,Stage 2,Health and Physical Education,Food and Hospitality,61,31,92
+2025,Stage 2,Health and Physical Education,Health and Wellbeing,163,40,203
+2025,Stage 2,Health and Physical Education,Outdoor Education,43,45,88
+2025,Stage 2,Health and Physical Education,Physical Education,55,64,119
+2025,Stage 2,Humanities and Social Sciences,Aboriginal Studies,25,15,40
+2025,Stage 2,Humanities and Social Sciences,Ancient Studies,47,3,50
+2025,Stage 2,Humanities and Social Sciences,Economics,7,1,8
+2025,Stage 2,Humanities and Social Sciences,Geography,8,3,11
+2025,Stage 2,Humanities and Social Sciences,Legal Studies,49,35,84
+2025,Stage 2,Humanities and Social Sciences,Media Studies,13,33,46
+2025,Stage 2,Humanities and Social Sciences,Modern History,82,14,96
+2025,Stage 2,Humanities and Social Sciences,Philosophy,0,30,30
+2025,Stage 2,Humanities and Social Sciences,"Politics, Power and People",17,0,17
+2025,Stage 2,Humanities and Social Sciences,Society and Culture,78,2,80
+2025,Stage 2,Humanities and Social Sciences,"Spiritualities, Religion, and Meaning",1,129,130
+2025,Stage 2,Humanities and Social Sciences,Women's Studies,49,1,50
+2025,Stage 2,Languages,Arabic,1,0,1
+2025,Stage 2,Languages,Bengali,2,0,2
+2025,Stage 2,Languages,Chinese,23,1,24
+2025,Stage 2,Languages,Filipino,6,1,7
+2025,Stage 2,Languages,French,1,3,4
+2025,Stage 2,Languages,German,0,6,6
+2025,Stage 2,Languages,Hindi,1,0,1
+2025,Stage 2,Languages,Hungarian,1,0,1
+2025,Stage 2,Languages,Indonesian,11,0,11
+2025,Stage 2,Languages,Italian,8,0,8
+2025,Stage 2,Languages,Japanese,15,7,22
+2025,Stage 2,Languages,Khmer,1,0,1
+2025,Stage 2,Languages,Language and Culture,16,0,16
+2025,Stage 2,Languages,Modern Greek,5,0,5
+2025,Stage 2,Languages,Nepali,3,0,3
+2025,Stage 2,Languages,Punjabi,1,0,1
+2025,Stage 2,Languages,Sinhala,2,0,2
+2025,Stage 2,Languages,Spanish,32,2,34
+2025,Stage 2,Languages,Tamil,1,0,1
+2025,Stage 2,Languages,Vietnamese,12,0,12
+2025,Stage 2,Mathematics,Mathematics,547,322,869
+2025,Stage 2,Other subjects,AUSTSWIM (SA Business Centre),0,1,1
+2025,Stage 2,Other subjects,Additional Status,4,0,4
+2025,Stage 2,Other subjects,Australian Air Force Cadets,1,0,1
+2025,Stage 2,Other subjects,Australian Army Cadets,1,2,3
+2025,Stage 2,Other subjects,Australian Music Examinations Board,1,2,3
+2025,Stage 2,Other subjects,Commonwealth Society of Teachers of Dancing,1,0,1
+2025,Stage 2,Other subjects,Community-Led Aboriginal Cultural Learning,35,10,45
+2025,Stage 2,Other subjects,Duke of Edinburgh's Award,10,13,23
+2025,Stage 2,Other subjects,Higher Ed TAS subject,6,14,20
+2025,Stage 2,Other subjects,Royal Life Saving Society Australia,1,2,3
+2025,Stage 2,Sciences,Agriculture,0,7,7
+2025,Stage 2,Sciences,Biology,121,124,245
+2025,Stage 2,Sciences,Chemistry,131,73,204
+2025,Stage 2,Sciences,Earth and Environmental Science,13,0,13
+2025,Stage 2,Sciences,Nutrition,26,10,36
+2025,Stage 2,Sciences,Physics,99,61,160
+2025,Stage 2,Sciences,Psychology,87,69,156
+2025,Stage 2,Sciences,Scientific Studies,76,10,86

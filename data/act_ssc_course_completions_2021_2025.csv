@@ -1,0 +1,1005 @@
+year,subject,course_type,students_total,students_female,students_male_or_nonbinary
+2021,Accounting,Accredited (A),7,5,2
+2021,Accounting,Tertiary (T),33,16,17
+2021,Agriculture,Accredited (A),11,6,5
+2021,Agriculture,Modified (M),8,1,7
+2021,Ancient History,Accredited (A),50,21,29
+2021,Ancient History,Modified (M),3,0,3
+2021,Ancient History,Tertiary (T),141,61,79
+2021,Australian and Global Politics,Accredited (A),2,2,0
+2021,Australian and Global Politics,Tertiary (T),38,23,15
+2021,Automotive Technology,Accredited (A),126,15,110
+2021,Automotive Technology,Modified (M),1,0,1
+2021,Behavioural Science,Accredited (A),24,22,2
+2021,Behavioural Science,Tertiary (T),66,55,11
+2021,Big Picture Education,Accredited (A),29,15,13
+2021,Biology,Accredited (A),38,22,16
+2021,Biology,Tertiary (T),678,435,242
+2021,Business,Accredited (A),135,52,83
+2021,Business,Tertiary (T),478,227,251
+2021,Business Services,Accredited (A),102,72,30
+2021,Business Services,Modified (M),6,5,1
+2021,Chemistry,Accredited (A),4,2,2
+2021,Chemistry,Tertiary (T),879,493,385
+2021,Childhood Studies,Accredited (A),1,1,0
+2021,Chinese,Accredited (A),5,3,2
+2021,Chinese,Tertiary (T),104,65,39
+2021,Commerce,Accredited (A),2,0,2
+2021,Commerce,Tertiary (T),19,9,10
+2021,Connected Learning,Accredited (A),36,30,6
+2021,Construction Pathways,Accredited (A),91,8,83
+2021,Dance,Accredited (A),57,51,6
+2021,Dance,Modified (M),4,2,2
+2021,Dance,Tertiary (T),85,79,6
+2021,Data Science,Accredited (A),2,0,2
+2021,Data Science,Tertiary (T),28,5,23
+2021,Design and Emerging Technologies,Accredited (A),17,4,12
+2021,Design and Emerging Technologies,Modified (M),2,1,1
+2021,Design and Emerging Technologies,Tertiary (T),54,18,36
+2021,Design and Graphics,Accredited (A),46,19,27
+2021,Design and Graphics,Modified (M),1,0,1
+2021,Design and Graphics,Tertiary (T),85,47,38
+2021,Design and Technology,Accredited (A),30,6,24
+2021,Design and Technology,Tertiary (T),81,40,41
+2021,Design and Textiles,Accredited (A),60,52,7
+2021,Design and Textiles,Modified (M),3,2,1
+2021,Design and Textiles,Tertiary (T),89,83,6
+2021,Designed Environments,Accredited (A),26,11,15
+2021,Designed Environments,Tertiary (T),62,34,27
+2021,Digital Technologies,Accredited (A),58,11,47
+2021,Digital Technologies,Modified (M),1,0,1
+2021,Digital Technologies,Tertiary (T),172,34,137
+2021,Drama,Accredited (A),92,54,34
+2021,Drama,Modified (M),9,5,4
+2021,Drama,Tertiary (T),204,123,76
+2021,Earth and Environmental Science,Accredited (A),16,9,7
+2021,Earth and Environmental Science,Tertiary (T),111,73,38
+2021,Economics,Accredited (A),14,1,13
+2021,Economics,Tertiary (T),300,108,191
+2021,Electronics and Mechatronics,Accredited (A),5,0,5
+2021,Electronics and Mechatronics,Tertiary (T),1,1,0
+2021,Engineering Studies,Accredited (A),5,1,4
+2021,Engineering Studies,Tertiary (T),90,10,79
+2021,English,Accredited (A),1290,555,730
+2021,English,Modified (M),71,22,49
+2021,English,Tertiary (T),3458,1881,1562
+2021,Exercise Science,Accredited (A),131,46,85
+2021,Exercise Science,Tertiary (T),487,250,236
+2021,Flight,Accredited (A),10,1,9
+2021,Flight,Tertiary (T),28,3,25
+2021,Food Science and Nutrition,Accredited (A),3,3,0
+2021,Food Science and Nutrition,Tertiary (T),3,3,0
+2021,Food Studies,Accredited (A),138,87,50
+2021,Food Studies,Modified (M),28,12,16
+2021,Food for Life,Accredited (A),45,31,14
+2021,Food for Life,Modified (M),6,2,4
+2021,Forestry,Tertiary (T),6,4,2
+2021,French,Accredited (A),9,5,4
+2021,French,Tertiary (T),130,85,45
+2021,French Baccalaureate courses,Tertiary (T),128,80,48
+2021,Furniture Making,Accredited (A),173,19,154
+2021,Furniture Making,Modified (M),7,1,6
+2021,Geography,Accredited (A),10,5,5
+2021,Geography,Modified (M),1,1,0
+2021,Geography,Tertiary (T),73,29,44
+2021,German,Accredited (A),7,3,4
+2021,German,Tertiary (T),37,24,13
+2021,Global Studies,Accredited (A),31,13,19
+2021,Global Studies,Tertiary (T),213,113,98
+2021,Health and Wellbeing,Accredited (A),66,44,22
+2021,Health and Wellbeing,Tertiary (T),74,55,19
+2021,Higher education courses (ANU/UC),Higher education (H),160,73,85
+2021,Hindi,Tertiary (T),15,8,7
+2021,History,Accredited (A),14,7,6
+2021,History,Modified (M),3,1,2
+2021,History,Tertiary (T),91,45,46
+2021,Hospitality,Accredited (A),176,89,87
+2021,Hospitality,Modified (M),3,2,1
+2021,Hospitality,Tertiary (T),57,28,29
+2021,Human Biology,Accredited (A),64,44,20
+2021,Human Biology,Modified (M),1,0,1
+2021,Human Biology,Tertiary (T),497,363,133
+2021,Hungarian,Tertiary (T),1,0,1
+2021,Indigenous Culture and Languages,Accredited (A),4,2,2
+2021,Indigenous Culture and Languages,Tertiary (T),5,3,2
+2021,Indonesian,Accredited (A),1,0,1
+2021,Indonesian,Tertiary (T),46,17,29
+2021,Information Technology,Accredited (A),19,0,19
+2021,Information Technology,Modified (M),1,0,1
+2021,Information Technology,Tertiary (T),153,29,124
+2021,Interdisciplinary Inquiry,Accredited (A),2,2,0
+2021,Interdisciplinary Inquiry,Modified (M),1,0,1
+2021,Interdisciplinary Inquiry,Tertiary (T),15,9,6
+2021,Interdisciplinary Science,Accredited (A),16,10,6
+2021,Interdisciplinary Science,Tertiary (T),17,9,8
+2021,Italian,Accredited (A),5,4,1
+2021,Italian,Tertiary (T),46,29,17
+2021,Japanese,Accredited (A),16,10,6
+2021,Japanese,Tertiary (T),154,90,62
+2021,Korean,Accredited (A),5,5,0
+2021,Korean,Tertiary (T),29,20,9
+2021,Languages (other),Accredited (A),1,1,0
+2021,Latin,Tertiary (T),3,2,1
+2021,Legal Studies,Accredited (A),89,53,34
+2021,Legal Studies,Modified (M),1,1,0
+2021,Legal Studies,Tertiary (T),396,227,169
+2021,"Life, Leisure and Learning",Modified (M),29,6,23
+2021,Mathematics,Accredited (A),976,449,522
+2021,Mathematics,Modified (M),65,21,44
+2021,Mathematics,Tertiary (T),3441,1773,1656
+2021,Media,Accredited (A),81,30,50
+2021,Media,Modified (M),4,0,4
+2021,Media,Tertiary (T),171,80,91
+2021,Metal Technology,Accredited (A),136,6,130
+2021,Modern History,Accredited (A),80,25,54
+2021,Modern History,Modified (M),3,1,2
+2021,Modern History,Tertiary (T),334,148,184
+2021,Music,Accredited (A),97,34,60
+2021,Music,Modified (M),5,1,4
+2021,Music,Tertiary (T),189,73,115
+2021,Networking and Security,Accredited (A),4,0,4
+2021,Networking and Security,Tertiary (T),23,4,19
+2021,Oceanography,Accredited (A),7,2,5
+2021,Oceanography,Modified (M),1,0,1
+2021,Oceanography,Tertiary (T),29,12,17
+2021,Outdoor Education,Accredited (A),80,34,46
+2021,Outdoor Education,Tertiary (T),149,61,88
+2021,Pathways to Work and Learning,Accredited (A),85,48,37
+2021,Pathways to Work and Learning,Modified (M),25,7,18
+2021,Philosophy,Accredited (A),20,12,7
+2021,Philosophy,Tertiary (T),82,46,36
+2021,Photography,Accredited (A),162,90,70
+2021,Photography,Modified (M),7,0,7
+2021,Photography,Tertiary (T),247,150,97
+2021,Physical Education,Accredited (A),466,115,351
+2021,Physical Education,Modified (M),28,3,25
+2021,Physics,Accredited (A),3,3,0
+2021,Physics,Tertiary (T),544,159,383
+2021,Pre Modern History,Accredited (A),11,1,10
+2021,Pre Modern History,Tertiary (T),29,16,13
+2021,Psychology,Accredited (A),191,134,57
+2021,Psychology,Modified (M),1,1,0
+2021,Psychology,Tertiary (T),676,521,152
+2021,Religious Studies,Accredited (A),194,82,112
+2021,Religious Studies,Modified (M),4,2,2
+2021,Religious Studies,Tertiary (T),415,261,154
+2021,Robotics and Mechatronics,Accredited (A),20,0,20
+2021,Robotics and Mechatronics,Modified (M),1,0,1
+2021,Robotics and Mechatronics,Tertiary (T),66,7,59
+2021,Russian,Tertiary (T),1,1,0
+2021,Science,Accredited (A),2,1,1
+2021,Senior Science,Accredited (A),10,2,8
+2021,Senior Science,Modified (M),2,1,1
+2021,Social and Community Work,Accredited (A),146,124,21
+2021,Social and Community Work,Modified (M),4,2,2
+2021,Sociology,Accredited (A),74,49,24
+2021,Sociology,Modified (M),1,0,1
+2021,Sociology,Tertiary (T),209,156,52
+2021,Spanish,Accredited (A),9,5,4
+2021,Spanish,Tertiary (T),66,46,20
+2021,Sport and Recreation,Accredited (A),1,0,1
+2021,"Sport, Recreation, Leadership",Accredited (A),68,27,41
+2021,Sports Development,Accredited (A),285,101,184
+2021,Sports Development,Tertiary (T),70,20,50
+2021,Studies of Religion,Accredited (A),93,34,59
+2021,Studies of Religion,Modified (M),7,3,4
+2021,Studies of Religion,Tertiary (T),490,218,272
+2021,Timber and Wood Technology,Accredited (A),79,9,70
+2021,Timber and Wood Technology,Modified (M),4,1,3
+2021,Tourism and Event Management,Accredited (A),42,36,6
+2021,Tourism and Event Management,Modified (M),2,2,0
+2021,Tourism and Event Management,Tertiary (T),14,9,5
+2021,Translating and Interpreting,Tertiary (T),11,8,3
+2021,Visual Arts,Accredited (A),228,160,66
+2021,Visual Arts,Modified (M),15,7,8
+2021,Visual Arts,Tertiary (T),357,264,88
+2021,Vocational Education and Training (VET),VET competency-based (C),216,98,115
+2021,Vocational Education and Training (VET),VET endorsed (E),301,148,151
+2021,Work Studies,Accredited (A),1,1,0
+2021,World Religions,Accredited (A),1,0,1
+2022,Accounting,Accredited (A),7,2,5
+2022,Accounting,Tertiary (T),29,15,14
+2022,Agriculture,Accredited (A),2,1,1
+2022,Agriculture,Modified (M),5,1,4
+2022,Ancient History,Accredited (A),40,11,29
+2022,Ancient History,Modified (M),4,3,1
+2022,Ancient History,Tertiary (T),110,64,46
+2022,Australian and Global Politics,Accredited (A),10,1,9
+2022,Australian and Global Politics,Tertiary (T),41,17,24
+2022,Automotive Technology,Accredited (A),105,9,96
+2022,Automotive Technology,Modified (M),2,0,2
+2022,Behavioural Science,Accredited (A),9,8,1
+2022,Behavioural Science,Tertiary (T),66,54,12
+2022,Big Picture Education,Accredited (A),31,14,17
+2022,Biology,Accredited (A),31,18,13
+2022,Biology,Tertiary (T),620,376,244
+2022,Business,Accredited (A),163,73,90
+2022,Business,Tertiary (T),443,201,242
+2022,Business Services,Accredited (A),116,73,43
+2022,Business Services,Modified (M),7,0,7
+2022,Chemistry,Accredited (A),2,1,1
+2022,Chemistry,Tertiary (T),884,484,400
+2022,Chinese,Accredited (A),4,2,2
+2022,Chinese,Tertiary (T),63,33,30
+2022,Commerce,Tertiary (T),52,19,33
+2022,Connected Learning,Accredited (A),53,34,19
+2022,Connected Learning,Modified (M),11,3,8
+2022,Construction Pathways,Accredited (A),87,6,81
+2022,Construction Pathways,Modified (M),2,0,2
+2022,Dance,Accredited (A),55,49,6
+2022,Dance,Modified (M),3,3,0
+2022,Dance,Tertiary (T),81,73,8
+2022,Data Science,Tertiary (T),24,4,20
+2022,Design and Emerging Technologies,Accredited (A),17,1,16
+2022,Design and Emerging Technologies,Tertiary (T),58,20,38
+2022,Design and Graphics,Accredited (A),54,24,30
+2022,Design and Graphics,Modified (M),2,1,1
+2022,Design and Graphics,Tertiary (T),106,48,58
+2022,Design and Technology,Accredited (A),38,11,27
+2022,Design and Technology,Modified (M),1,0,1
+2022,Design and Technology,Tertiary (T),99,44,55
+2022,Design and Textiles,Accredited (A),54,49,5
+2022,Design and Textiles,Modified (M),1,1,0
+2022,Design and Textiles,Tertiary (T),99,92,7
+2022,Designed Environments,Accredited (A),22,9,13
+2022,Designed Environments,Modified (M),1,0,1
+2022,Designed Environments,Tertiary (T),59,32,27
+2022,Digital Technologies,Accredited (A),46,7,39
+2022,Digital Technologies,Modified (M),3,1,2
+2022,Digital Technologies,Tertiary (T),137,30,107
+2022,Drama,Accredited (A),75,44,31
+2022,Drama,Modified (M),3,2,1
+2022,Drama,Tertiary (T),180,102,78
+2022,Dzongkha,Accredited (A),1,1,0
+2022,Early Childhood Studies,Accredited (A),6,6,0
+2022,Earth and Environmental Science,Accredited (A),14,5,9
+2022,Earth and Environmental Science,Tertiary (T),75,36,39
+2022,Economics,Accredited (A),15,7,8
+2022,Economics,Tertiary (T),271,101,170
+2022,Electronics and Mechatronics,Accredited (A),1,0,1
+2022,Electronics and Mechatronics,Tertiary (T),5,2,3
+2022,Engineering Studies,Accredited (A),6,1,5
+2022,Engineering Studies,Tertiary (T),101,15,86
+2022,English,Accredited (A),1247,518,729
+2022,English,Modified (M),59,23,36
+2022,English,Tertiary (T),3303,1772,1531
+2022,Exercise Science,Accredited (A),115,43,72
+2022,Exercise Science,Tertiary (T),488,236,252
+2022,Flight,Accredited (A),2,0,2
+2022,Flight,Tertiary (T),17,1,16
+2022,Food Science and Nutrition,Accredited (A),6,5,1
+2022,Food Science and Nutrition,Tertiary (T),1,0,1
+2022,Food Studies,Accredited (A),171,87,84
+2022,Food Studies,Modified (M),25,10,15
+2022,Food for Life,Accredited (A),1,1,0
+2022,Forestry,Accredited (A),1,1,0
+2022,Forestry,Modified (M),1,1,0
+2022,Forestry,Tertiary (T),5,4,1
+2022,French,Accredited (A),6,4,2
+2022,French,Modified (M),1,1,0
+2022,French,Tertiary (T),98,67,31
+2022,French Baccalaureate courses,Tertiary (T),212,98,114
+2022,Furniture Making,Accredited (A),177,17,160
+2022,Furniture Making,Modified (M),3,0,3
+2022,Geography,Accredited (A),5,2,3
+2022,Geography,Tertiary (T),67,38,29
+2022,German,Accredited (A),2,1,1
+2022,German,Tertiary (T),34,19,15
+2022,Global Studies,Accredited (A),37,14,23
+2022,Global Studies,Modified (M),1,0,1
+2022,Global Studies,Tertiary (T),227,113,114
+2022,Health Studies,Accredited (A),1,0,1
+2022,Health and Wellbeing,Accredited (A),52,32,20
+2022,Health and Wellbeing,Tertiary (T),70,53,17
+2022,Higher education courses (ANU/UC),Higher education (H),251,134,117
+2022,Hindi,Tertiary (T),7,4,3
+2022,History,Accredited (A),30,9,21
+2022,History,Tertiary (T),101,54,47
+2022,Hospitality,Accredited (A),124,75,49
+2022,Hospitality,Modified (M),8,5,3
+2022,Hospitality,Tertiary (T),62,26,36
+2022,Human Biology,Accredited (A),76,49,27
+2022,Human Biology,Tertiary (T),516,353,163
+2022,Indigenous Culture and Languages,Accredited (A),5,3,2
+2022,Indigenous Culture and Languages,Tertiary (T),6,5,1
+2022,Indonesian,Tertiary (T),45,25,20
+2022,Information Technology,Accredited (A),36,1,35
+2022,Information Technology,Modified (M),1,1,0
+2022,Information Technology,Tertiary (T),157,26,131
+2022,Interdisciplinary Inquiry,Accredited (A),3,0,3
+2022,Interdisciplinary Inquiry,Tertiary (T),1,1,0
+2022,Interdisciplinary Science,Accredited (A),13,6,7
+2022,Interdisciplinary Science,Tertiary (T),8,7,1
+2022,Italian,Accredited (A),7,3,4
+2022,Italian,Tertiary (T),38,30,8
+2022,Japanese,Accredited (A),24,8,16
+2022,Japanese,Modified (M),1,0,1
+2022,Japanese,Tertiary (T),131,69,62
+2022,Korean,Accredited (A),6,4,2
+2022,Korean,Tertiary (T),16,12,4
+2022,Languages (other),Accredited (A),1,1,0
+2022,Legal Studies,Accredited (A),89,60,29
+2022,Legal Studies,Modified (M),1,0,1
+2022,Legal Studies,Tertiary (T),382,258,124
+2022,"Life, Leisure and Learning",Modified (M),20,7,13
+2022,Mathematics,Accredited (A),927,412,515
+2022,Mathematics,Modified (M),52,18,34
+2022,Mathematics,Tertiary (T),3319,1692,1627
+2022,Media,Accredited (A),86,28,58
+2022,Media,Modified (M),3,2,1
+2022,Media,Tertiary (T),152,67,85
+2022,Metal Technology,Accredited (A),125,7,118
+2022,Metal Technology,Modified (M),2,0,2
+2022,Modern History,Accredited (A),69,21,48
+2022,Modern History,Modified (M),2,1,1
+2022,Modern History,Tertiary (T),293,149,144
+2022,Music,Accredited (A),59,16,43
+2022,Music,Modified (M),7,3,4
+2022,Music,Tertiary (T),138,54,84
+2022,Networking and Security,Accredited (A),6,1,5
+2022,Networking and Security,Tertiary (T),48,7,41
+2022,Oceanography,Accredited (A),8,4,4
+2022,Oceanography,Tertiary (T),27,16,11
+2022,Outdoor Education,Accredited (A),81,26,55
+2022,Outdoor Education,Modified (M),1,0,1
+2022,Outdoor Education,Tertiary (T),132,57,75
+2022,Pathways to Work and Learning,Accredited (A),71,45,26
+2022,Pathways to Work and Learning,Modified (M),12,6,6
+2022,Philosophy,Accredited (A),22,9,13
+2022,Philosophy,Tertiary (T),104,67,37
+2022,Photography,Accredited (A),128,65,63
+2022,Photography,Modified (M),4,2,2
+2022,Photography,Tertiary (T),154,89,65
+2022,Physical Education,Accredited (A),432,107,325
+2022,Physical Education,Modified (M),15,3,12
+2022,Physics,Accredited (A),4,1,3
+2022,Physics,Tertiary (T),557,166,391
+2022,Pre Modern History,Accredited (A),6,2,4
+2022,Pre Modern History,Modified (M),1,1,0
+2022,Pre Modern History,Tertiary (T),19,8,11
+2022,Psychology,Accredited (A),220,147,73
+2022,Psychology,Modified (M),1,1,0
+2022,Psychology,Tertiary (T),745,559,186
+2022,Religious Studies,Accredited (A),120,29,91
+2022,Religious Studies,Modified (M),4,2,2
+2022,Religious Studies,Tertiary (T),270,136,134
+2022,Robotics and Mechatronics,Accredited (A),20,1,19
+2022,Robotics and Mechatronics,Modified (M),1,0,1
+2022,Robotics and Mechatronics,Tertiary (T),52,9,43
+2022,Science,Accredited (A),1,0,1
+2022,Senior Science,Accredited (A),2,0,2
+2022,Senior Science,Modified (M),2,2,0
+2022,Social and Community Work,Accredited (A),100,89,11
+2022,Social and Community Work,Modified (M),4,4,0
+2022,Social and Community Work,Tertiary (T),12,11,1
+2022,Sociology,Accredited (A),57,41,16
+2022,Sociology,Modified (M),1,1,0
+2022,Sociology,Tertiary (T),225,183,42
+2022,Spanish,Accredited (A),14,5,9
+2022,Spanish,Tertiary (T),42,23,19
+2022,Sport and Recreation,Accredited (A),2,1,1
+2022,"Sport, Recreation, Leadership",Accredited (A),63,39,24
+2022,"Sport, Recreation, Leadership",Modified (M),2,1,1
+2022,Sports Development,Accredited (A),285,93,192
+2022,Sports Development,Tertiary (T),68,31,37
+2022,Studies of Religion,Accredited (A),184,83,101
+2022,Studies of Religion,Modified (M),8,5,3
+2022,Studies of Religion,Tertiary (T),618,320,298
+2022,Tamil,Tertiary (T),5,4,1
+2022,Timber and Wood Technology,Accredited (A),79,10,69
+2022,Timber and Wood Technology,Modified (M),5,0,5
+2022,Tourism and Event Management,Accredited (A),27,25,2
+2022,Tourism and Event Management,Modified (M),2,2,0
+2022,Tourism and Event Management,Tertiary (T),4,2,2
+2022,Translating and Interpreting,Tertiary (T),6,4,2
+2022,Visual Arts,Accredited (A),230,165,65
+2022,Visual Arts,Modified (M),16,9,7
+2022,Visual Arts,Tertiary (T),327,252,75
+2022,Vocational Education and Training (VET),VET competency-based (C),197,92,105
+2022,Vocational Education and Training (VET),VET endorsed (E),365,163,202
+2022,World Religions,Accredited (A),4,4,0
+2022,World Religions,Tertiary (T),36,33,3
+2023,Accounting,Accredited (A),5,3,2
+2023,Accounting,Tertiary (T),35,12,23
+2023,Afrikaans,Accredited (A),1,1,0
+2023,Agriculture,Accredited (A),2,0,2
+2023,Ancient History,Accredited (A),49,29,20
+2023,Ancient History,Modified (M),4,1,3
+2023,Ancient History,Tertiary (T),137,60,77
+2023,Arabic,Accredited (A),1,0,1
+2023,Australian and Global Politics,Accredited (A),1,0,1
+2023,Australian and Global Politics,Tertiary (T),9,4,5
+2023,Automotive Technology,Accredited (A),119,17,102
+2023,Automotive Technology,Modified (M),1,0,1
+2023,Behavioural Science,Tertiary (T),1,1,0
+2023,Big Picture Education,Accredited (A),41,24,17
+2023,Biology,Accredited (A),52,27,25
+2023,Biology,Tertiary (T),694,404,290
+2023,Business,Accredited (A),216,99,117
+2023,Business,Modified (M),3,1,2
+2023,Business,Tertiary (T),573,265,308
+2023,Business Services,Accredited (A),89,50,39
+2023,Business Services,Modified (M),7,4,3
+2023,Chemistry,Accredited (A),3,1,2
+2023,Chemistry,Tertiary (T),898,468,429
+2023,Children Studies,Accredited (A),1,0,1
+2023,Chinese,Accredited (A),1,1,0
+2023,Chinese,Tertiary (T),89,51,38
+2023,Commerce,Accredited (A),5,2,3
+2023,Commerce,Tertiary (T),42,14,28
+2023,Community Studies,Accredited (A),2,1,1
+2023,Connected Learning,Accredited (A),61,43,18
+2023,Connected Learning,Modified (M),14,5,9
+2023,Construction,Accredited (A),1,0,1
+2023,Construction Pathways,Accredited (A),96,8,88
+2023,Dance,Accredited (A),51,48,3
+2023,Dance,Modified (M),1,0,1
+2023,Dance,Tertiary (T),55,51,4
+2023,Data Science,Accredited (A),1,0,1
+2023,Data Science,Tertiary (T),28,2,26
+2023,Design and Emerging Technologies,Accredited (A),18,4,14
+2023,Design and Emerging Technologies,Modified (M),1,0,1
+2023,Design and Emerging Technologies,Tertiary (T),61,13,48
+2023,Design and Graphics,Accredited (A),60,25,35
+2023,Design and Graphics,Modified (M),1,0,1
+2023,Design and Graphics,Tertiary (T),133,60,73
+2023,Design and Technology,Accredited (A),30,10,20
+2023,Design and Technology,Tertiary (T),128,59,69
+2023,Design and Textiles,Accredited (A),65,56,9
+2023,Design and Textiles,Modified (M),4,4,0
+2023,Design and Textiles,Tertiary (T),90,83,7
+2023,Designed Environments,Accredited (A),29,19,10
+2023,Designed Environments,Tertiary (T),67,49,18
+2023,Digital Technologies,Accredited (A),34,5,29
+2023,Digital Technologies,Modified (M),4,0,4
+2023,Digital Technologies,Tertiary (T),145,27,118
+2023,Drama,Accredited (A),82,54,28
+2023,Drama,Modified (M),9,3,6
+2023,Drama,Tertiary (T),166,103,63
+2023,Dzongkha,Accredited (A),1,0,1
+2023,Early Childhood Studies,Accredited (A),20,17,3
+2023,Earth and Environmental Science,Accredited (A),7,5,2
+2023,Earth and Environmental Science,Tertiary (T),61,34,27
+2023,Economics,Accredited (A),8,3,5
+2023,Economics,Modified (M),1,1,0
+2023,Economics,Tertiary (T),312,95,217
+2023,Engineering Studies,Accredited (A),14,1,13
+2023,Engineering Studies,Tertiary (T),114,13,101
+2023,English,Accredited (A),1330,577,753
+2023,English,Modified (M),73,24,49
+2023,English,Tertiary (T),3614,1880,1731
+2023,Exercise Science,Accredited (A),125,55,70
+2023,Exercise Science,Tertiary (T),538,258,280
+2023,Filipino,Accredited (A),1,0,1
+2023,Flight,Accredited (A),1,0,1
+2023,Flight,Tertiary (T),3,1,2
+2023,Food Science and Nutrition,Accredited (A),4,3,1
+2023,Food Science and Nutrition,Tertiary (T),3,3,0
+2023,Food Studies,Accredited (A),191,118,73
+2023,Food Studies,Modified (M),36,11,25
+2023,Forestry,Tertiary (T),1,0,1
+2023,French,Accredited (A),5,4,1
+2023,French,Tertiary (T),124,78,46
+2023,French Baccalaureate courses,Tertiary (T),211,146,65
+2023,Furniture Making,Accredited (A),38,5,33
+2023,Furniture Making Pathways,Accredited (A),106,10,96
+2023,Geography,Accredited (A),10,5,5
+2023,Geography,Tertiary (T),51,21,30
+2023,German,Accredited (A),1,1,0
+2023,German,Modified (M),1,1,0
+2023,German,Tertiary (T),37,23,14
+2023,Global Studies,Accredited (A),37,14,23
+2023,Global Studies,Tertiary (T),233,105,126
+2023,Health Studies,Accredited (A),2,0,2
+2023,Health and Wellbeing,Accredited (A),46,29,17
+2023,Health and Wellbeing,Modified (M),5,2,3
+2023,Health and Wellbeing,Tertiary (T),67,53,14
+2023,Higher education courses (ANU/UC),Higher education (H),256,126,130
+2023,Hindi,Accredited (A),2,1,1
+2023,Hindi,Tertiary (T),24,12,12
+2023,History,Accredited (A),16,7,9
+2023,History,Tertiary (T),97,52,45
+2023,Horticulture,Accredited (A),9,5,4
+2023,Hospitality,Accredited (A),162,90,72
+2023,Hospitality,Modified (M),7,1,6
+2023,Hospitality,Tertiary (T),81,36,45
+2023,Human Biology,Accredited (A),79,54,25
+2023,Human Biology,Modified (M),3,3,0
+2023,Human Biology,Tertiary (T),473,326,147
+2023,Indigenous Culture and Languages,Accredited (A),4,2,2
+2023,Indigenous Culture and Languages,Tertiary (T),4,4,0
+2023,Indonesian,Tertiary (T),41,24,17
+2023,Information Technology,Accredited (A),25,1,24
+2023,Information Technology,Modified (M),1,0,1
+2023,Information Technology,Tertiary (T),142,29,113
+2023,Interdisciplinary Inquiry,Accredited (A),5,3,2
+2023,Interdisciplinary Inquiry,Tertiary (T),9,6,3
+2023,Interdisciplinary Science,Accredited (A),15,6,9
+2023,Interdisciplinary Science,Modified (M),1,0,1
+2023,Interdisciplinary Science,Tertiary (T),55,35,20
+2023,Italian,Accredited (A),7,5,2
+2023,Italian,Tertiary (T),42,28,14
+2023,Japanese,Accredited (A),18,8,10
+2023,Japanese,Modified (M),3,1,2
+2023,Japanese,Tertiary (T),148,79,69
+2023,Korean,Accredited (A),1,1,0
+2023,Korean,Tertiary (T),28,17,11
+2023,Legal Studies,Accredited (A),83,53,30
+2023,Legal Studies,Modified (M),1,0,1
+2023,Legal Studies,Tertiary (T),396,255,141
+2023,"Life, Leisure and Learning",Modified (M),3,1,2
+2023,Live Production and Services,Accredited (A),5,0,5
+2023,Mathematics,Accredited (A),1045,524,521
+2023,Mathematics,Modified (M),61,22,39
+2023,Mathematics,Tertiary (T),3557,1731,1824
+2023,Media,Accredited (A),75,23,52
+2023,Media,Modified (M),3,0,3
+2023,Media,Tertiary (T),157,60,97
+2023,Metal Technology,Accredited (A),115,11,104
+2023,Metal Technology,Modified (M),1,0,1
+2023,Modern History,Accredited (A),71,21,50
+2023,Modern History,Modified (M),4,1,3
+2023,Modern History,Tertiary (T),304,141,162
+2023,Music,Accredited (A),87,36,51
+2023,Music,Modified (M),4,2,2
+2023,Music,Tertiary (T),175,71,104
+2023,Networking and Security,Accredited (A),12,3,9
+2023,Networking and Security,Tertiary (T),64,12,52
+2023,Oceanography,Accredited (A),3,1,2
+2023,Oceanography,Tertiary (T),11,9,2
+2023,Outdoor Education,Accredited (A),103,39,64
+2023,Outdoor Education,Modified (M),1,0,1
+2023,Outdoor Education,Tertiary (T),135,72,63
+2023,Pathways to Work and Learning,Accredited (A),86,57,29
+2023,Pathways to Work and Learning,Modified (M),27,12,15
+2023,Philosophy,Accredited (A),27,13,14
+2023,Philosophy,Tertiary (T),129,73,56
+2023,Photography,Accredited (A),148,82,66
+2023,Photography,Modified (M),9,1,8
+2023,Photography,Tertiary (T),217,130,87
+2023,Physical Education,Accredited (A),463,105,358
+2023,Physical Education,Modified (M),8,0,8
+2023,Physics,Accredited (A),4,0,4
+2023,Physics,Tertiary (T),660,162,498
+2023,Politics,Accredited (A),2,1,1
+2023,Politics,Tertiary (T),35,16,19
+2023,Pre Modern History,Accredited (A),9,4,5
+2023,Pre Modern History,Modified (M),1,0,1
+2023,Pre Modern History,Tertiary (T),19,10,9
+2023,Psychology,Accredited (A),185,136,49
+2023,Psychology,Tertiary (T),805,596,208
+2023,Religious Studies,Accredited (A),138,46,92
+2023,Religious Studies,Modified (M),8,2,6
+2023,Religious Studies,Tertiary (T),264,112,152
+2023,Robotics and Mechatronics,Accredited (A),11,1,10
+2023,Robotics and Mechatronics,Tertiary (T),56,7,49
+2023,Science,Accredited (A),2,1,1
+2023,Senior Science,Accredited (A),10,3,7
+2023,Senior Science,Modified (M),3,2,1
+2023,Social Studies,Accredited (A),1,0,1
+2023,Social and Community Work,Accredited (A),87,73,14
+2023,Social and Community Work,Modified (M),1,0,1
+2023,Social and Community Work,Tertiary (T),14,14,0
+2023,Sociology,Accredited (A),79,58,21
+2023,Sociology,Modified (M),3,3,0
+2023,Sociology,Tertiary (T),307,235,72
+2023,Spanish,Accredited (A),11,5,6
+2023,Spanish,Tertiary (T),56,35,21
+2023,Sport Studies,Accredited (A),1,0,1
+2023,"Sport, Recreation, Leadership",Accredited (A),88,36,52
+2023,"Sport, Recreation, Leadership",Modified (M),1,0,1
+2023,Sports Development,Accredited (A),311,95,216
+2023,Sports Development,Tertiary (T),86,27,59
+2023,Stage Performance,Accredited (A),7,5,2
+2023,Studies of Religion,Accredited (A),161,80,81
+2023,Studies of Religion,Modified (M),10,2,8
+2023,Studies of Religion,Tertiary (T),729,361,368
+2023,Tamil,Tertiary (T),1,0,1
+2023,Timber and Wood Technology,Accredited (A),120,18,102
+2023,Timber and Wood Technology,Modified (M),7,0,7
+2023,Tourism and Event Management,Accredited (A),20,14,6
+2023,Tourism and Event Management,Tertiary (T),11,11,0
+2023,Translating and Interpreting,Tertiary (T),4,2,2
+2023,Visual Arts,Accredited (A),293,206,87
+2023,Visual Arts,Modified (M),21,12,9
+2023,Visual Arts,Tertiary (T),374,271,103
+2023,Vocational Education and Training (VET),VET competency-based (C),171,96,75
+2023,Vocational Education and Training (VET),VET endorsed (E),373,188,185
+2023,World Religions,Accredited (A),22,20,2
+2023,World Religions,Tertiary (T),32,27,5
+2024,Accounting,Accredited (A),7,3,4
+2024,Accounting,Tertiary (T),24,12,12
+2024,Agriculture,Accredited (A),1,1,0
+2024,Ancient History,Accredited (A),72,37,35
+2024,Ancient History,Modified (M),5,1,4
+2024,Ancient History,Tertiary (T),163,85,78
+2024,Arabic,Accredited (A),1,1,0
+2024,Automotive Technology,Accredited (A),119,15,104
+2024,Automotive Technology,Modified (M),4,0,4
+2024,Big Picture Education,Accredited (A),36,21,15
+2024,Biology,Accredited (A),48,29,19
+2024,Biology,Tertiary (T),689,431,258
+2024,Business,Accredited (A),234,86,148
+2024,Business,Modified (M),1,1,0
+2024,Business,Tertiary (T),606,257,349
+2024,Business Services,Accredited (A),70,38,32
+2024,Business Services,Modified (M),8,4,4
+2024,Chemistry,Accredited (A),7,4,3
+2024,Chemistry,Tertiary (T),870,461,409
+2024,Children Studies,Accredited (A),2,1,1
+2024,Chinese,Accredited (A),11,4,7
+2024,Chinese,Tertiary (T),75,49,26
+2024,Commerce,Accredited (A),1,1,0
+2024,Commerce,Tertiary (T),21,6,15
+2024,Connected Learning,Accredited (A),62,46,16
+2024,Connected Learning,Modified (M),12,2,10
+2024,Construction,Accredited (A),1,0,1
+2024,Construction Pathways,Accredited (A),118,5,113
+2024,Construction Pathways,Modified (M),3,1,2
+2024,Dance,Accredited (A),51,48,3
+2024,Dance,Modified (M),3,3,0
+2024,Dance,Tertiary (T),65,59,6
+2024,Data Science,Tertiary (T),12,0,12
+2024,Design and Emerging Technologies,Accredited (A),18,3,15
+2024,Design and Emerging Technologies,Tertiary (T),56,12,44
+2024,Design and Graphics,Accredited (A),69,31,38
+2024,Design and Graphics,Modified (M),2,1,1
+2024,Design and Graphics,Tertiary (T),146,58,88
+2024,Design and Technology,Accredited (A),38,10,28
+2024,Design and Technology,Modified (M),1,0,1
+2024,Design and Technology,Tertiary (T),129,65,64
+2024,Design and Textiles,Accredited (A),51,46,5
+2024,Design and Textiles,Modified (M),2,2,0
+2024,Design and Textiles,Tertiary (T),81,74,7
+2024,Designed Environments,Accredited (A),36,20,16
+2024,Designed Environments,Tertiary (T),90,63,27
+2024,Digital Technologies,Accredited (A),56,11,45
+2024,Digital Technologies,Modified (M),4,0,4
+2024,Digital Technologies,Tertiary (T),149,24,125
+2024,Drama,Accredited (A),74,40,34
+2024,Drama,Modified (M),3,1,2
+2024,Drama,Tertiary (T),187,114,73
+2024,Dzongkha,Accredited (A),4,4,0
+2024,Early Childhood Studies,Accredited (A),31,26,5
+2024,Early Childhood Studies,Modified (M),3,3,0
+2024,Earth and Environmental Science,Accredited (A),16,6,10
+2024,Earth and Environmental Science,Tertiary (T),107,68,39
+2024,Economics,Accredited (A),15,5,10
+2024,Economics,Tertiary (T),269,74,195
+2024,Engineering Studies,Accredited (A),28,1,27
+2024,Engineering Studies,Tertiary (T),132,19,113
+2024,English,Accredited (A),1506,614,892
+2024,English,Modified (M),73,26,47
+2024,English,Tertiary (T),3671,1890,1777
+2024,Exercise Science,Accredited (A),128,53,75
+2024,Exercise Science,Tertiary (T),544,239,305
+2024,Food Science and Nutrition,Accredited (A),11,7,4
+2024,Food Science and Nutrition,Tertiary (T),18,11,7
+2024,Food Studies,Accredited (A),215,101,114
+2024,Food Studies,Modified (M),29,11,18
+2024,French,Accredited (A),8,6,2
+2024,French,Tertiary (T),116,82,34
+2024,French Baccalaureate courses,Tertiary (T),154,82,72
+2024,Furniture Making Pathways,Accredited (A),115,18,97
+2024,Furniture Making Pathways,Modified (M),6,1,5
+2024,Geography,Accredited (A),11,7,4
+2024,Geography,Tertiary (T),55,32,23
+2024,German,Accredited (A),9,2,7
+2024,German,Tertiary (T),32,13,19
+2024,Global Studies,Accredited (A),32,13,19
+2024,Global Studies,Tertiary (T),196,82,111
+2024,Health and Wellbeing,Accredited (A),68,39,29
+2024,Health and Wellbeing,Modified (M),4,3,1
+2024,Health and Wellbeing,Tertiary (T),71,50,21
+2024,Higher education courses (ANU/UC),Higher education (H),238,126,112
+2024,Hindi,Tertiary (T),21,11,10
+2024,History,Accredited (A),16,8,8
+2024,History,Tertiary (T),89,49,40
+2024,Horticulture,Accredited (A),12,5,7
+2024,Horticulture,Modified (M),1,0,1
+2024,Hospitality,Accredited (A),220,117,103
+2024,Hospitality,Modified (M),8,5,3
+2024,Hospitality,Tertiary (T),66,23,43
+2024,Human Biology,Accredited (A),82,60,22
+2024,Human Biology,Tertiary (T),526,330,196
+2024,Hungarian,Tertiary (T),1,0,1
+2024,Indigenous Culture and Languages,Accredited (A),5,5,0
+2024,Indigenous Culture and Languages,Tertiary (T),3,2,1
+2024,Indonesian,Tertiary (T),33,16,17
+2024,Information Technology,Accredited (A),37,4,33
+2024,Information Technology,Modified (M),1,0,1
+2024,Information Technology,Tertiary (T),153,32,121
+2024,Interdisciplinary Inquiry,Accredited (A),12,7,5
+2024,Interdisciplinary Inquiry,Tertiary (T),6,2,4
+2024,Interdisciplinary Science,Accredited (A),13,1,12
+2024,Interdisciplinary Science,Tertiary (T),45,17,28
+2024,Italian,Accredited (A),6,5,1
+2024,Italian,Tertiary (T),47,30,17
+2024,Japanese,Accredited (A),26,11,15
+2024,Japanese,Tertiary (T),159,89,70
+2024,Korean,Accredited (A),6,2,4
+2024,Korean,Tertiary (T),19,16,3
+2024,Legal Studies,Accredited (A),86,54,32
+2024,Legal Studies,Tertiary (T),442,295,147
+2024,Live Production and Services,Accredited (A),23,10,13
+2024,Mathematics,Accredited (A),1150,520,630
+2024,Mathematics,Modified (M),59,24,35
+2024,Mathematics,Tertiary (T),3665,1771,1892
+2024,Media,Accredited (A),102,41,61
+2024,Media,Modified (M),4,0,4
+2024,Media,Tertiary (T),181,72,109
+2024,Metal Technology,Accredited (A),165,12,153
+2024,Metal Technology,Modified (M),4,1,3
+2024,Modern History,Accredited (A),103,32,71
+2024,Modern History,Modified (M),3,0,3
+2024,Modern History,Tertiary (T),351,153,196
+2024,Music,Accredited (A),111,34,77
+2024,Music,Modified (M),5,1,4
+2024,Music,Tertiary (T),168,55,113
+2024,Networking and Security,Accredited (A),20,1,19
+2024,Networking and Security,Tertiary (T),87,16,71
+2024,Outdoor Education,Accredited (A),85,24,61
+2024,Outdoor Education,Tertiary (T),106,40,66
+2024,Outdoor Recreation,Accredited (A),41,16,25
+2024,Pathways to Work and Learning,Accredited (A),98,62,36
+2024,Pathways to Work and Learning,Modified (M),30,13,17
+2024,Philosophy,Accredited (A),33,20,13
+2024,Philosophy,Tertiary (T),119,65,54
+2024,Photography,Accredited (A),180,90,90
+2024,Photography,Modified (M),8,3,5
+2024,Photography,Tertiary (T),185,96,89
+2024,Physical Education,Accredited (A),481,134,347
+2024,Physical Education,Modified (M),8,0,8
+2024,Physics,Accredited (A),3,2,1
+2024,Physics,Tertiary (T),630,172,457
+2024,Politics,Accredited (A),3,2,1
+2024,Politics,Tertiary (T),34,21,13
+2024,Pre Modern History,Accredited (A),7,3,4
+2024,Pre Modern History,Modified (M),1,0,1
+2024,Pre Modern History,Tertiary (T),30,16,14
+2024,Psychology,Accredited (A),229,158,71
+2024,Psychology,Tertiary (T),826,603,223
+2024,Religious Studies,Accredited (A),133,50,83
+2024,Religious Studies,Modified (M),7,4,3
+2024,Religious Studies,Tertiary (T),294,130,164
+2024,Robotics and Mechatronics,Accredited (A),25,3,22
+2024,Robotics and Mechatronics,Modified (M),2,1,1
+2024,Robotics and Mechatronics,Tertiary (T),54,8,46
+2024,Science,Accredited (A),2,2,0
+2024,Senior Science,Accredited (A),30,17,13
+2024,Senior Science,Modified (M),5,2,3
+2024,Social Studies,Accredited (A),1,0,1
+2024,Social and Community Work,Accredited (A),91,81,10
+2024,Social and Community Work,Modified (M),2,1,1
+2024,Social and Community Work,Tertiary (T),13,13,0
+2024,Sociology,Accredited (A),92,68,24
+2024,Sociology,Modified (M),1,0,1
+2024,Sociology,Tertiary (T),321,247,74
+2024,Spanish,Accredited (A),12,6,6
+2024,Spanish,Tertiary (T),59,45,14
+2024,Sport Studies,Accredited (A),4,0,4
+2024,"Sport, Recreation, Leadership",Accredited (A),87,32,55
+2024,Sports Development,Accredited (A),380,116,264
+2024,Sports Development,Tertiary (T),71,18,53
+2024,Stage Performance,Accredited (A),9,6,3
+2024,Studies of Religion,Accredited (A),161,56,105
+2024,Studies of Religion,Modified (M),8,4,4
+2024,Studies of Religion,Tertiary (T),661,278,383
+2024,Tamil,Tertiary (T),6,0,6
+2024,Timber and Wood Technology,Accredited (A),175,19,156
+2024,Timber and Wood Technology,Modified (M),9,2,7
+2024,Tourism and Event Management,Accredited (A),22,17,5
+2024,Tourism and Event Management,Tertiary (T),7,5,2
+2024,Translating and Interpreting,Tertiary (T),6,4,2
+2024,Visual Arts,Accredited (A),263,190,73
+2024,Visual Arts,Modified (M),22,10,12
+2024,Visual Arts,Tertiary (T),344,270,74
+2024,Vocational Education and Training (VET),VET competency-based (C),78,46,32
+2024,Vocational Education and Training (VET),VET endorsed (E),379,181,198
+2024,World Religions,Accredited (A),33,29,4
+2024,World Religions,Tertiary (T),89,85,4
+2025,Accounting,Accredited (A),6,1,5
+2025,Accounting,Tertiary (T),22,12,10
+2025,Agriculture,Accredited (A),2,2,0
+2025,Ancient History,Accredited (A),70,30,40
+2025,Ancient History,Modified (M),2,1,1
+2025,Ancient History,Tertiary (T),158,97,61
+2025,Automotive Technology,Accredited (A),120,13,107
+2025,Automotive Technology,Modified (M),2,0,2
+2025,Big Picture Education,Accredited (A),33,16,17
+2025,Biology,Accredited (A),49,34,15
+2025,Biology,Tertiary (T),724,481,243
+2025,Business,Accredited (A),234,98,136
+2025,Business,Tertiary (T),609,261,348
+2025,Business Services,Accredited (A),57,24,33
+2025,Business Services,Modified (M),5,2,3
+2025,Chemistry,Accredited (A),4,3,1
+2025,Chemistry,Tertiary (T),918,486,430
+2025,Chinese,Accredited (A),9,5,4
+2025,Chinese,Tertiary (T),107,65,42
+2025,Commerce,Accredited (A),9,3,6
+2025,Commerce,Tertiary (T),44,17,27
+2025,Community Studies,Accredited (A),1,1,0
+2025,Connected Learning,Accredited (A),48,31,17
+2025,Connected Learning,Modified (M),8,2,6
+2025,Construction,Accredited (A),2,1,1
+2025,Construction Pathways,Accredited (A),120,11,109
+2025,Construction Pathways,Modified (M),1,1,0
+2025,Dance,Accredited (A),69,65,4
+2025,Dance,Modified (M),2,1,1
+2025,Dance,Tertiary (T),56,52,4
+2025,Data Science,Accredited (A),1,0,1
+2025,Data Science,Tertiary (T),15,3,12
+2025,Design and Emerging Technologies,Accredited (A),22,5,17
+2025,Design and Emerging Technologies,Modified (M),1,0,1
+2025,Design and Emerging Technologies,Tertiary (T),53,8,45
+2025,Design and Graphics,Accredited (A),64,27,37
+2025,Design and Graphics,Modified (M),4,1,3
+2025,Design and Graphics,Tertiary (T),138,67,71
+2025,Design and Technology,Accredited (A),24,11,13
+2025,Design and Technology,Tertiary (T),136,76,60
+2025,Design and Textiles,Accredited (A),73,52,21
+2025,Design and Textiles,Modified (M),1,1,0
+2025,Design and Textiles,Tertiary (T),95,80,15
+2025,Designed Environments,Accredited (A),37,25,12
+2025,Designed Environments,Tertiary (T),76,52,24
+2025,Digital Technologies,Accredited (A),38,6,32
+2025,Digital Technologies,Modified (M),1,0,1
+2025,Digital Technologies,Tertiary (T),180,33,147
+2025,Drama,Accredited (A),88,58,30
+2025,Drama,Modified (M),3,2,1
+2025,Drama,Tertiary (T),192,121,71
+2025,Early Childhood Studies,Accredited (A),28,26,2
+2025,Early Childhood Studies,Modified (M),4,3,1
+2025,Early Childhood Studies,Tertiary (T),1,1,0
+2025,Earth and Environmental Science,Accredited (A),22,15,7
+2025,Earth and Environmental Science,Tertiary (T),124,69,55
+2025,Economics,Accredited (A),9,3,6
+2025,Economics,Tertiary (T),322,121,201
+2025,Engineering Studies,Accredited (A),19,1,18
+2025,Engineering Studies,Tertiary (T),168,14,154
+2025,English,Accredited (A),1516,636,880
+2025,English,Modified (M),55,21,34
+2025,English,Tertiary (T),3794,2005,1785
+2025,Exercise Science,Accredited (A),172,64,108
+2025,Exercise Science,Modified (M),1,0,1
+2025,Exercise Science,Tertiary (T),597,276,321
+2025,Food Science and Nutrition,Accredited (A),15,4,11
+2025,Food Science and Nutrition,Tertiary (T),23,14,9
+2025,Food Studies,Accredited (A),213,114,99
+2025,Food Studies,Modified (M),22,7,15
+2025,French,Accredited (A),11,8,3
+2025,French,Tertiary (T),101,65,36
+2025,French Baccalaureate courses,Tertiary (T),244,179,65
+2025,Furniture Making Pathways,Accredited (A),104,18,86
+2025,Furniture Making Pathways,Modified (M),2,0,2
+2025,Geography,Accredited (A),4,3,1
+2025,Geography,Tertiary (T),46,21,25
+2025,German,Accredited (A),7,2,5
+2025,German,Modified (M),2,1,1
+2025,German,Tertiary (T),38,17,21
+2025,Global Studies,Accredited (A),38,11,27
+2025,Global Studies,Tertiary (T),220,110,107
+2025,Health Science,Accredited (A),46,33,13
+2025,Health Science,Tertiary (T),169,114,55
+2025,Health Studies,Accredited (A),1,1,0
+2025,Health and Wellbeing,Accredited (A),53,37,16
+2025,Health and Wellbeing,Modified (M),2,2,0
+2025,Health and Wellbeing,Tertiary (T),75,51,24
+2025,Higher education courses (ANU/UC),Higher education (H),287,155,132
+2025,Hindi,Accredited (A),1,1,0
+2025,Hindi,Tertiary (T),27,18,9
+2025,History,Accredited (A),25,11,14
+2025,History,Tertiary (T),98,53,45
+2025,Horticulture,Accredited (A),12,5,7
+2025,Horticulture,Modified (M),1,1,0
+2025,Hospitality,Accredited (A),241,145,96
+2025,Hospitality,Modified (M),8,4,4
+2025,Hospitality,Tertiary (T),64,46,18
+2025,Human Biology,Accredited (A),54,36,18
+2025,Human Biology,Modified (M),2,1,1
+2025,Human Biology,Tertiary (T),396,234,162
+2025,Hungarian,Accredited (A),1,1,0
+2025,Indigenous Culture and Languages,Accredited (A),5,4,1
+2025,Indigenous Culture and Languages,Tertiary (T),7,7,0
+2025,Indonesian,Accredited (A),1,1,0
+2025,Indonesian,Tertiary (T),37,20,17
+2025,Information Technology,Accredited (A),24,1,23
+2025,Information Technology,Modified (M),1,0,1
+2025,Information Technology,Tertiary (T),142,40,102
+2025,Interdisciplinary Inquiry,Accredited (A),26,10,16
+2025,Interdisciplinary Inquiry,Modified (M),1,0,1
+2025,Interdisciplinary Inquiry,Tertiary (T),13,8,5
+2025,Interdisciplinary Science,Accredited (A),17,8,9
+2025,Interdisciplinary Science,Modified (M),1,1,0
+2025,Interdisciplinary Science,Tertiary (T),54,21,33
+2025,Italian,Accredited (A),18,9,9
+2025,Italian,Modified (M),1,1,0
+2025,Italian,Tertiary (T),55,43,12
+2025,Japanese,Accredited (A),21,9,12
+2025,Japanese,Tertiary (T),145,76,69
+2025,Korean,Accredited (A),6,4,2
+2025,Korean,Modified (M),1,0,1
+2025,Korean,Tertiary (T),24,19,5
+2025,Legal Studies,Accredited (A),93,55,38
+2025,Legal Studies,Tertiary (T),419,277,142
+2025,Live Production and Services,Accredited (A),20,9,11
+2025,Mathematics,Accredited (A),1092,517,575
+2025,Mathematics,Modified (M),50,22,28
+2025,Mathematics,Tertiary (T),3791,1881,1906
+2025,Media,Accredited (A),99,28,71
+2025,Media,Modified (M),1,0,1
+2025,Media,Tertiary (T),127,63,64
+2025,Metal Technology,Accredited (A),192,27,165
+2025,Metal Technology,Modified (M),4,0,4
+2025,Modern History,Accredited (A),84,32,52
+2025,Modern History,Modified (M),3,0,3
+2025,Modern History,Tertiary (T),308,148,159
+2025,Music,Accredited (A),104,35,69
+2025,Music,Modified (M),8,0,8
+2025,Music,Tertiary (T),194,86,108
+2025,Networking and Security,Accredited (A),32,4,28
+2025,Networking and Security,Tertiary (T),51,11,40
+2025,Outdoor Education,Accredited (A),69,25,44
+2025,Outdoor Education,Tertiary (T),127,68,59
+2025,Outdoor Recreation,Accredited (A),99,45,54
+2025,Pathways to Work and Learning,Accredited (A),111,64,47
+2025,Pathways to Work and Learning,Modified (M),15,6,9
+2025,Philosophy,Accredited (A),28,15,13
+2025,Philosophy,Modified (M),1,0,1
+2025,Philosophy,Tertiary (T),112,59,53
+2025,Photography,Accredited (A),171,96,75
+2025,Photography,Modified (M),5,3,2
+2025,Photography,Tertiary (T),143,93,50
+2025,Physical Education,Accredited (A),612,156,456
+2025,Physical Education,Modified (M),8,1,7
+2025,Physics,Accredited (A),2,2,0
+2025,Physics,Tertiary (T),689,186,502
+2025,Politics,Accredited (A),1,1,0
+2025,Politics,Tertiary (T),28,20,8
+2025,Pre Modern History,Accredited (A),10,5,5
+2025,Pre Modern History,Tertiary (T),26,11,15
+2025,Psychology,Accredited (A),198,145,53
+2025,Psychology,Tertiary (T),749,562,187
+2025,Religious Studies,Accredited (A),83,49,34
+2025,Religious Studies,Modified (M),2,0,2
+2025,Religious Studies,Tertiary (T),177,86,91
+2025,Robotics and Mechatronics,Accredited (A),18,2,16
+2025,Robotics and Mechatronics,Tertiary (T),55,6,49
+2025,Science,Accredited (A),1,0,1
+2025,Senior Science,Accredited (A),15,7,8
+2025,Senior Science,Modified (M),1,0,1
+2025,Social Studies,Accredited (A),1,0,1
+2025,Social and Community Work,Accredited (A),105,93,12
+2025,Social and Community Work,Modified (M),3,1,2
+2025,Social and Community Work,Tertiary (T),29,27,2
+2025,Sociology,Accredited (A),97,72,25
+2025,Sociology,Tertiary (T),308,250,58
+2025,Spanish,Accredited (A),19,11,8
+2025,Spanish,Modified (M),1,1,0
+2025,Spanish,Tertiary (T),69,49,20
+2025,Sport Studies,Accredited (A),1,1,0
+2025,"Sport, Fitness and Recreation",Accredited (A),67,23,44
+2025,"Sport, Fitness and Recreation",Modified (M),1,1,0
+2025,"Sport, Recreation, Leadership",Accredited (A),18,12,6
+2025,"Sport, Recreation, Leadership",Modified (M),1,1,0
+2025,Sports Development,Accredited (A),398,112,286
+2025,Sports Development,Tertiary (T),109,39,70
+2025,Stage Performance,Accredited (A),11,9,2
+2025,Studies of Religion,Accredited (A),236,75,161
+2025,Studies of Religion,Modified (M),11,8,3
+2025,Studies of Religion,Tertiary (T),825,406,419
+2025,Tamil,Tertiary (T),11,6,5
+2025,Timber and Wood Technology,Accredited (A),152,10,142
+2025,Timber and Wood Technology,Modified (M),5,2,3
+2025,Tourism,Accredited (A),1,1,0
+2025,Tourism and Event Management,Accredited (A),12,8,4
+2025,Tourism and Event Management,Tertiary (T),8,8,0
+2025,Translating and Interpreting,Tertiary (T),1,1,0
+2025,Visual Arts,Accredited (A),283,215,68
+2025,Visual Arts,Modified (M),18,11,7
+2025,Visual Arts,Tertiary (T),324,245,79
+2025,Vocational Education and Training (VET),VET endorsed (E),292,143,149
+2025,World Religions,Accredited (A),19,16,3
+2025,World Religions,Modified (M),1,1,0
+2025,World Religions,Tertiary (T),58,56,2
