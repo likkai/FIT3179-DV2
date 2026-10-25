@@ -1,0 +1,297 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Non-contiguous cartogram: each state keeps its shape but is scaled about its centre so its area is proportional to its senior secondary students; colour = the chosen subject's uptake index.",
+  "title": {
+    "text": "State Breakdown of Senior Subject Uptake",
+    "fontSize": 17,
+    "anchor": "start",
+    "subtitle": [
+      "State areas scaled to senior student numbers",
+      "Uptake index = popularity of subject in a state compared with average of states"
+    ]
+  },
+
+  "width": "container",
+  "height": 440,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "projection": {"type": "identity", "reflectY": true},
+  "data": {
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_senior_enrolments.csv",
+    "format": {"parse": {"year": "number", "enrolments": "number"}}
+  },
+
+  "params": [
+    {
+      "name": "selected_subject",
+      "value": "Physics",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Biology",
+          "Business",
+          "Chemistry",
+          "Community and Family Studies",
+          "Computing and IT",
+          "Design and Technology",
+          "Economics",
+          "English",
+          "Food and Nutrition",
+          "Health",
+          "Legal Studies",
+          "Mathematics",
+          "Modern History",
+          "Music",
+          "Outdoor Education",
+          "Physical Education",
+          "Physics",
+          "Psychology",
+          "Science (general)",
+          "Sociology and Society and Culture",
+          "Studies of Religion",
+          "Visual Arts"
+        ],
+        "name": "Subject "
+      }
+    },
+    {
+      "name": "selected_year",
+      "value": 2025,
+      "bind": {"input": "range", "min": 2021, "max": 2025, "step": 1, "name": "Year "}
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area !== 'Vocational and Other' && datum.year === selected_year"
+    },
+    {
+      "joinaggregate": [{"op": "sum", "field": "enrolments", "as": "state_total_enrolments"}],
+      "groupby": ["state"]
+    },
+    {"filter": "datum.subject === selected_subject"},
+    {
+      "aggregate": [
+        {"op": "sum", "field": "enrolments", "as": "subject_enrolments"},
+        {"op": "max", "field": "state_total_enrolments", "as": "state_total_enrolments"}
+      ],
+      "groupby": ["state"]
+    },
+    {
+      "calculate": "datum.subject_enrolments / datum.state_total_enrolments * 100",
+      "as": "share_of_state_enrolments_pct"
+    },
+    {
+      "impute": "share_of_state_enrolments_pct",
+      "key": "state",
+      "keyvals": ["NSW", "VIC", "QLD", "SA", "WA", "TAS", "NT", "ACT"],
+      "value": null
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv"
+        },
+        "key": "state",
+        "fields": ["state_name", "symbol_lon", "symbol_lat"]
+      }
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "mean",
+          "field": "share_of_state_enrolments_pct",
+          "as": "average_share_across_states_pct"
+        }
+      ]
+    },
+    {
+      "calculate": "isValid(datum.share_of_state_enrolments_pct) ? datum.share_of_state_enrolments_pct / datum.average_share_across_states_pct * 100 : null",
+      "as": "uptake_index"
+    },
+    {"calculate": "datum.state_name + '|' + selected_year", "as": "state_year_key"},
+    {
+      "calculate": "isValid(datum.uptake_index) ? format(datum.share_of_state_enrolments_pct, '.1f') + '%' : 'No data'",
+      "as": "share_text"
+    },
+    {
+      "calculate": "isValid(datum.uptake_index) ? format(datum.share_of_state_enrolments_pct, '.1f') + '%' : 'no data'",
+      "as": "value_label"
+    },
+    {
+      "lookup": "state_year_key",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/aus_states_noncontiguous.geojson",
+          "format": {"type": "json", "property": "features"}
+        },
+        "key": "properties.state_year"
+      },
+      "as": "geo"
+    },
+    {"calculate": "datum.geo.properties.senior_students", "as": "students_all_number"},
+    {
+      "calculate": "datum.state === 'NSW' ? datum.geo.properties.senior_students_government : datum.geo.properties.senior_students",
+      "as": "senior_students_counted"
+    },
+    {
+      "calculate": "isValid(datum.subject_enrolments) ? datum.subject_enrolments / datum.senior_students_counted * 100 : null",
+      "as": "enrolments_per_100_students"
+    },
+    {"calculate": "datum.geo.properties.label_x", "as": "label_x"},
+    {"calculate": "datum.geo.properties.label_y", "as": "label_y"}
+  ],
+
+  "layer": [
+    {
+      "mark": {"type": "geoshape", "stroke": "#fbfaf7", "strokeWidth": 1.2},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "condition": {"test": "!isValid(datum.uptake_index)", "value": "#d9d7cf"},
+          "field": "uptake_index",
+          "type": "quantitative",
+          "scale": {
+            "domain": [50, 100, 150],
+            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "clamp": true
+          },
+          "legend": {
+            "title": ["Uptake index", "(100 = average of states)"],
+            "orient": "right",
+            "titleFontSize": 11,
+            "labelFontSize": 11,
+            "gradientLength": 160
+          }
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
+          {"field": "share_text", "title": "Share of state enrolments: "},
+          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {
+            "field": "enrolments_per_100_students",
+            "title": "Enrolments per 100 senior students",
+            "format": ".1f"
+          },
+          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.students_all_number >= 30000"}],
+      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600, "dy": -7},
+      "encoding": {
+        "longitude": {"field": "label_x", "type": "quantitative"},
+        "latitude": {"field": "label_y", "type": "quantitative"},
+        "text": {"field": "state"},
+        "color": {
+          "condition": {
+            "test": "datum.uptake_index <= 62 || datum.uptake_index >= 138",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
+          {"field": "share_text", "title": "Share of state enrolments: "},
+          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {
+            "field": "enrolments_per_100_students",
+            "title": "Enrolments per 100 senior students",
+            "format": ".1f"
+          },
+          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.students_all_number >= 30000"}],
+      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600, "dy": 8},
+      "encoding": {
+        "longitude": {"field": "label_x", "type": "quantitative"},
+        "latitude": {"field": "label_y", "type": "quantitative"},
+        "text": {"field": "value_label"},
+        "color": {
+          "condition": {
+            "test": "datum.uptake_index <= 62 || datum.uptake_index >= 138",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
+          {"field": "share_text", "title": "Share of state enrolments: "},
+          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {
+            "field": "enrolments_per_100_students",
+            "title": "Enrolments per 100 senior students",
+            "format": ".1f"
+          },
+          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.students_all_number < 30000"}],
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "color": "#1d1c1a",
+        "align": "left",
+        "dx": {"expr": "datum.state === 'TAS' ? 32 : 12"},
+        "dy": -6
+      },
+      "encoding": {
+        "longitude": {"field": "label_x", "type": "quantitative"},
+        "latitude": {"field": "label_y", "type": "quantitative"},
+        "text": {"field": "state"},
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
+          {"field": "share_text", "title": "Share of state enrolments: "},
+          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {
+            "field": "enrolments_per_100_students",
+            "title": "Enrolments per 100 senior students",
+            "format": ".1f"
+          },
+          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.students_all_number < 30000"}],
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "color": "#1d1c1a",
+        "align": "left",
+        "dx": {"expr": "datum.state === 'TAS' ? 32 : 12"},
+        "dy": 8
+      },
+      "encoding": {
+        "longitude": {"field": "label_x", "type": "quantitative"},
+        "latitude": {"field": "label_y", "type": "quantitative"},
+        "text": {"field": "value_label"},
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
+          {"field": "share_text", "title": "Share of state enrolments: "},
+          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {
+            "field": "enrolments_per_100_students",
+            "title": "Enrolments per 100 senior students",
+            "format": ".1f"
+          },
+          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
+        ]
+      }
+    }
+  ]
+}
