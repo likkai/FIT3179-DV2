@@ -1,10 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+  "description": "Proportion of Year 12 students enrolled in each learning area in 2010 and 2024",
   "title": {
-    "text": "Proportion of Year 12 students enrolled in each learning area in 2010 vs 2024",
+    "text": "Proportion of Year 12 students enrolled in each learning area in 2010 and 2024",
     "anchor": "start",
-    "subtitle": ["Hover a line to highlight it", "pp = percentage points"]
+    "fontSize": 17,
+    "subtitle": ["pp = percentage points", "Hover a line to highlight it"]
   },
 
   "width": "container",
@@ -46,7 +47,8 @@
     "x": {
       "field": "year",
       "type": "ordinal",
-      "title": null,
+      "title": "Year",
+      "scale": {"paddingOuter": 0.5},
       "axis": {
         "orient": "top",
         "domain": false,
@@ -78,7 +80,7 @@
           "field": "proportion_pct",
           "type": "quantitative",
           "scale": {"domain": [0, 100], "nice": false},
-          "axis": {"title": "Proportion"}
+          "axis": {"title": "Student Enrolment Proportion"}
         },
         "detail": {"field": "learning_area"}
       }
