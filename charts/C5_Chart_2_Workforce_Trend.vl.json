@@ -180,7 +180,7 @@
           "title": "Percentage of change since 2019",
           "scale": {
             "domain": [-60, 0, 120],
-            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"],
             "clamp": true
           },
           "legend": {

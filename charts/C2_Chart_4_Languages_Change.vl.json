@@ -73,7 +73,7 @@
 
   "layer": [
     {
-      "description": "Blue if the language gained share, red if it lost share.",
+      "description": "Blue if the language gained share, orange if it lost share.",
       "transform": [{"filter": "datum.year === 2024"}],
       "mark": {"type": "rule", "strokeWidth": 3, "strokeCap": "round"},
       "encoding": {
@@ -83,7 +83,7 @@
           "field": "direction",
           "type": "nominal",
           "title": null,
-          "scale": {"domain": ["Gained share", "Lost share"], "range": ["#86b6ef", "#f1a3a3"]},
+          "scale": {"domain": ["Gained share", "Lost share"], "range": ["#2166ac", "#b35806"]},
           "legend": {
             "orient": "top",
             "direction": "horizontal",
@@ -114,7 +114,7 @@
           "field": "year_label",
           "type": "nominal",
           "title": null,
-          "scale": {"domain": ["2010", "2024"], "range": ["#3478C9", "#e34948"]},
+          "scale": {"domain": ["2010", "2024"], "range": ["#b9b7ae", "#1d1c1a"]},
           "legend": {"orient": "top", "direction": "horizontal", "symbolType": "circle"}
         },
         "tooltip": [

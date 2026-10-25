@@ -6,7 +6,7 @@
     "fontSize": 17,
     "anchor": "start",
     "subtitle": [
-      "Purple means more girls, otherwise more boys",
+      "Pink means more girls, olive means more boys",
       "Northern Territory excluded because no gender data"
     ]
   },
@@ -120,7 +120,7 @@
           "title": "Female share minus 50 (pp)",
           "scale": {
             "domain": [-25, 0, 25],
-            "range": ["#b34d00", "#f7f5ee", "#4a3aa7"],
+            "interpolate": "lab", "range": ["#6b7a1e", "#f7f5ee", "#d6619b"],
             "clamp": true
           },
           "legend": {
@@ -145,7 +145,7 @@
       "encoding": {
         "text": {"field": "gap_label"},
         "color": {
-          "condition": {"test": "abs(datum.gap_from_balance_pp) >= 15", "value": "#ffffff"},
+          "condition": {"test": "abs(datum.gap_from_balance_pp) >= 20", "value": "#ffffff"},
           "value": "#1d1c1a"
         }
       }

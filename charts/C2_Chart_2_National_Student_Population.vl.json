@@ -60,7 +60,7 @@
           "field": "change_pct",
           "type": "quantitative",
           "title": "Change in students percentage",
-          "scale": {"scheme": "redblue", "domain": [-22, 22], "domainMid": 0},
+          "scale": {"domain": [-22, 0, 22], "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"], "clamp": true},
           "legend": {
             "orient": "bottom-left",
             "direction": "horizontal",

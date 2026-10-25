@@ -59,11 +59,11 @@
     {
       "mark": {
         "type": "line",
-        "color": "#2a78d6",
+        "color": "#44546a",
         "strokeWidth": 2.5,
         "point": {
           "filled": true,
-          "fill": "#2a78d6",
+          "fill": "#44546a",
           "stroke": "white",
           "strokeWidth": 1.5,
           "size": 70

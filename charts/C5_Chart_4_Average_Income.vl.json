@@ -97,7 +97,7 @@
           "field": "average_income",
           "type": "quantitative",
           "title": "Average income",
-          "scale": {"domain": [50000, 160000], "range": ["#f7f5ee", "#2166ac"], "clamp": true},
+          "scale": {"domain": [50000, 160000], "interpolate": "lab", "range": ["#f7f5ee", "#a8325e"], "clamp": true},
           "legend": {
             "orient": "bottom",
             "direction": "horizontal",
@@ -314,7 +314,7 @@
           "field": "average_income",
           "type": "quantitative",
           "title": "Average income",
-          "scale": {"domain": [50000, 160000], "range": ["#f7f5ee", "#2166ac"], "clamp": true},
+          "scale": {"domain": [50000, 160000], "interpolate": "lab", "range": ["#f7f5ee", "#a8325e"], "clamp": true},
           "legend": {
             "orient": "bottom",
             "direction": "horizontal",

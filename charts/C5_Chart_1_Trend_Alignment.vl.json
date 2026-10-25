@@ -149,7 +149,7 @@
           "title": null,
           "scale": {
             "domain": ["School students", "University students"],
-            "range": ["#b34d00", "#2166ac"]
+            "range": ["#6b7b8c", "#14284b"]
           },
           "legend": {"orient": "bottom", "direction": "horizontal"}
         },

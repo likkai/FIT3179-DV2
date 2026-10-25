@@ -142,7 +142,7 @@
           "title": null,
           "scale": {
             "domain": ["Increase", "Decrease", "Net change"],
-            "range": ["#0072B2", "#D55E00", "#1d1c1a"]
+            "range": ["#2166ac", "#b35806", "#1d1c1a"]
           },
           "legend": {"orient": "bottom", "direction": "horizontal"}
         },

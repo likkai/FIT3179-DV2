@@ -137,7 +137,7 @@
           "title": null,
           "scale": {
             "domain": ["Both grew", "Both fell", "Opposite directions"],
-            "range": ["#2166ac", "#b35806", "#1b7837"]
+            "range": ["#2166ac", "#b35806", "#5f5d56"]
           },
           "legend": {"orient": "bottom", "direction": "horizontal"}
         },

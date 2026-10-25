@@ -52,7 +52,7 @@
         "fontSize": 14,
         "font": "Source Sans 3",
         "fontWeight": 700,
-        "color": "#4a3aa7"
+        "color": "#6b7a1e"
       },
       "width": 180,
       "height": {"step": 40},
@@ -78,7 +78,7 @@
         ]
       },
       "layer": [
-        {"mark": {"type": "bar", "color": "#4a3aa7", "size": 22, "cornerRadiusEnd": 4}},
+        {"mark": {"type": "bar", "color": "#6b7a1e", "size": 22, "cornerRadiusEnd": 4}},
         {
           "mark": {"type": "text", "align": "right", "dx": -5, "fontSize": 12, "color": "#1d1c1a"},
           "encoding": {"text": {"field": "Male", "format": ".1f"}}
@@ -114,7 +114,7 @@
         "fontSize": 14,
         "font": "Source Sans 3",
         "fontWeight": 700,
-        "color": "#d95f02"
+        "color": "#d6619b"
       },
       "width": 180,
       "height": {"step": 40},
@@ -140,7 +140,7 @@
         ]
       },
       "layer": [
-        {"mark": {"type": "bar", "color": "#d95f02", "size": 22, "cornerRadiusEnd": 4}},
+        {"mark": {"type": "bar", "color": "#d6619b", "size": 22, "cornerRadiusEnd": 4}},
         {
           "mark": {"type": "text", "align": "left", "dx": 5, "fontSize": 12, "color": "#1d1c1a"},
           "encoding": {"text": {"field": "Female", "format": ".1f"}}

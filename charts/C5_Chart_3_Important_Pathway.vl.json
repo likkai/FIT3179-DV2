@@ -88,7 +88,7 @@
       "type": "nominal",
       "title": null,
       "sort": ["Vocational", "University"],
-      "scale": {"domain": ["Vocational", "University"], "range": ["#e66101", "#2b83ba"]},
+      "scale": {"domain": ["Vocational", "University"], "range": ["#ddcc77", "#14284b"]},
       "legend": {"orient": "bottom", "direction": "horizontal", "labelFontSize": 12}
     },
     "order": {"field": "pathway_order", "type": "quantitative"},

@@ -154,7 +154,7 @@
           "type": "quantitative",
           "scale": {
             "domain": [50, 100, 150],
-            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"],
             "clamp": true
           },
           "legend": {

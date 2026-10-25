@@ -58,27 +58,8 @@
       }
     },
     "color": {
-      "field": "learning_area",
-      "type": "nominal",
-      "legend": null,
-      "scale": {
-        "domain": [
-          "English",
-          "Mathematics",
-          "Science",
-          "Technology",
-          "Society and Environment",
-          "Arts"
-        ],
-        "range": [
-          "#0072B2",
-          "#E69F00",
-          "#009E73",
-          "#CC79A7",
-          "#56B4E9",
-          "#D55E00"
-        ]
-      }
+      "condition": {"test": "datum.change <= -6", "value": "#b35806"},
+      "value": "#9a988f"
     },
     "opacity": {"condition": [{"param": "hover", "value": 1}], "value": 0.2},
     "tooltip": [
