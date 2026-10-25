@@ -106,7 +106,7 @@
         "x": {
           "field": "proportion_pct",
           "type": "quantitative",
-          "title": "Share of Year 12 language enrolments (%)",
+          "title": "Percentage of Share of Year 12 language enrolments",
           "scale": {"domain": [0, 26]},
           "axis": {"labelExpr": "datum.value + '%'", "grid": false}
         },

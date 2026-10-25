@@ -103,7 +103,6 @@
         "labelFontSize": 12,
         "labelFontWeight": 600,
         "labelLimit": 380,
-        "titlePadding": 20,
         "ticks": false,
         "domain": false
       }
@@ -141,7 +140,7 @@
           "type": "quantitative",
           "title": "Percentage of change in enrolments",
           "axis": {"format": "+d", "grid": true, "gridColor": "#eeede8"},
-          "scale": {"domain": [-40, 185], "nice": false}
+          "scale": {"domain": [-45, 190], "nice": false}
         },
         "color": {
           "field": "level",

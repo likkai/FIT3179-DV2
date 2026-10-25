@@ -112,7 +112,7 @@
     "x": {
       "field": "bar_label",
       "type": "ordinal",
-      "title": null,
+      "title": "Australian State",
       "sort": {"field": "bar_order", "op": "min"},
       "axis": {
         "labelAngle": 0,
@@ -131,7 +131,7 @@
         "y": {
           "field": "bar_start",
           "type": "quantitative",
-          "title": "Change in students",
+          "title": "Change in Student Enrolments",
           "scale": {"padding": 20},
           "axis": {"format": "+,.0f", "grid": true, "gridColor": "#eeede8"}
         },

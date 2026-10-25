@@ -132,6 +132,7 @@
           "field": "difference",
           "type": "quantitative",
           "title": "Compared with average (pp)",
+          "titleLimit": 300,
           "scale": {"domain": [-6.5, 0, 6.5], "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"], "clamp": true},
           "legend": {
             "orient": "bottom",

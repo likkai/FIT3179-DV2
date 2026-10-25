@@ -105,7 +105,8 @@
         "labelFontWeight": 600,
         "ticks": false,
         "domain": false,
-        "labelLimit": 260
+        "labelLimit": 260,
+        "labelExpr": "({'Health and Physical Education': ['Health and', 'Physical Education'], 'Humanities and Social Sciences': ['Humanities and', 'Social Sciences'], 'Technology and Business': ['Technology and', 'Business']})[datum.label] || datum.label"
       }
     }
   },
@@ -124,11 +125,13 @@
             "clamp": true
           },
           "legend": {
-            "orient": "right",
+            "orient": "bottom",
+            "direction": "horizontal",
             "format": "+d",
             "titleFontSize": 11,
             "labelFontSize": 11,
-            "gradientLength": 160
+            "gradientLength": 200,
+            "titleLimit": 300
           }
         },
         "tooltip": [
@@ -144,6 +147,13 @@
       "mark": {"type": "text", "fontSize": 11, "fontWeight": 600},
       "encoding": {
         "text": {"field": "gap_label"},
+        "tooltip": [
+          {"field": "group", "title": "Learning area"},
+          {"field": "year", "title": "Year", "format": "d"},
+          {"field": "female_share_pct", "title": "Female share of enrolments (%)", "format": ".1f"},
+          {"field": "gap_from_balance_pp", "title": "Female share minus 50 (pp)", "format": "+.1f"},
+          {"field": "states_counted", "title": "States counted"}
+        ],
         "color": {
           "condition": {"test": "abs(datum.gap_from_balance_pp) >= 20", "value": "#ffffff"},
           "value": "#1d1c1a"

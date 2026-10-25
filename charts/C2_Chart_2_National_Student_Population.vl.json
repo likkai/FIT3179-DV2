@@ -65,6 +65,7 @@
             "orient": "bottom-left",
             "direction": "horizontal",
             "gradientLength": 200,
+            "titleLimit": 300,
             "format": "+.0f"
           }
         },
@@ -115,6 +116,12 @@
         "longitude": {"field": "symbol_lon", "type": "quantitative"},
         "latitude": {"field": "symbol_lat", "type": "quantitative"},
         "text": {"field": "label"},
+        "tooltip": [
+          {"field": "state_territory", "title": "State"},
+          {"field": "students_2010", "title": "Students 2010", "format": ",.0f"},
+          {"field": "students_2024", "title": "Students 2024", "format": ",.0f"},
+          {"field": "change_pct", "title": "Change (%)", "format": "+.1f"}
+        ],
         "color": {
           "condition": {
             "test": "datum.state !== 'ACT' && datum.state !== 'TAS' && abs(datum.change_pct) >= 14",

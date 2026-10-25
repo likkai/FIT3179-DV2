@@ -54,7 +54,7 @@
         "fontWeight": 700,
         "color": "#6b7a1e"
       },
-      "width": 180,
+      "width": 255,
       "height": {"step": 40},
       "encoding": {
         "y": {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "width": 165,
+      "width": 230,
       "height": {"step": 40},
       "encoding": {
         "y": {
@@ -99,11 +99,11 @@
       "layer": [
         {
           "mark": {"type": "text", "dy": -7, "fontSize": 13, "fontWeight": 600, "color": "#1d1c1a"},
-          "encoding": {"x": {"value": 83}, "text": {"field": "short_name"}}
+          "encoding": {"x": {"value": 115}, "text": {"field": "short_name"}}
         },
         {
           "mark": {"type": "text", "dy": 9, "fontSize": 11, "color": "#807e78"},
-          "encoding": {"x": {"value": 83}, "text": {"field": "gap_label"}}
+          "encoding": {"x": {"value": 115}, "text": {"field": "gap_label"}}
         }
       ]
     },
@@ -116,7 +116,7 @@
         "fontWeight": 700,
         "color": "#d6619b"
       },
-      "width": 180,
+      "width": 255,
       "height": {"step": 40},
       "encoding": {
         "y": {

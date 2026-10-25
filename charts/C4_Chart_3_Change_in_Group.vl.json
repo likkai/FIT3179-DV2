@@ -13,7 +13,7 @@
 
   "width": "container",
   "height": 460,
-  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "padding": {"left": 10, "right": 10, "top": 36, "bottom": 10},
   "autosize": {"type": "fit", "contains": "padding"},
   "data": {
     "url": "data/aus_senior_enrolments.csv",
@@ -139,7 +139,7 @@
             "domain": ["Both grew", "Both fell", "Opposite directions"],
             "range": ["#2166ac", "#b35806", "#5f5d56"]
           },
-          "legend": {"orient": "bottom", "direction": "horizontal"}
+          "legend": {"orient": "bottom", "direction": "horizontal", "labelLimit": 200}
         },
         "tooltip": [
           {"field": "group", "title": "Subject"},
@@ -153,11 +153,14 @@
     },
     {
       "transform": [
+        {"calculate": "abs(datum.female_change_pct - datum.male_change_pct)", "as": "gap_abs"},
         {
-          "filter": "abs(datum.female_change_pct - datum.male_change_pct) >= 15 || datum.pattern === 'Opposite directions' || (datum.pattern === 'Both fell' && indexof(['Computing and IT', 'Drama', 'Visual Arts', 'Music'], datum.group) >= 0)"
+          "window": [{"op": "rank", "as": "gap_rank"}],
+          "sort": [{"field": "gap_abs", "order": "descending"}]
         },
+        {"filter": "datum.gap_rank <= 3"},
         {
-          "calculate": "({'Chemistry': ['right', -9, 0], 'Psychology': ['center', 0, -12], 'Economics': ['center', 0, 14], 'Drama': ['center', 0, -12], 'Computing and IT': ['left', 9, 9], 'Visual Arts': ['right', -9, 0], 'Music': ['center', 0, 13]})[datum.group] || ['left', 9, 0]",
+          "calculate": "datum.female_change_pct >= datum.male_change_pct ? ['right', -8, -8] : ['left', 8, 10]",
           "as": "label_placement"
         }
       ],

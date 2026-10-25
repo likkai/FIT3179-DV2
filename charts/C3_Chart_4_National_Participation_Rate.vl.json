@@ -159,6 +159,7 @@
           },
           "legend": {
             "title": ["Uptake index", "(100 = average of states)"],
+            "titleLimit": 300,
             "orient": "right",
             "titleFontSize": 11,
             "labelFontSize": 11,
