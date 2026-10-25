@@ -1,0 +1,240 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "Where Are the Jobs for Each University Field?",
+    "anchor": "start",
+    "fontSize": 17,
+    "subtitle": ["Colour shows change in vacancies since 2019"]
+  },
+
+  "width": "container",
+  "height": 460,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "data/jsa_internet_vacancy_index_trend_anzsco2_states.csv",
+    "format": {"parse": {"level": "number", "anzsco_code": "string"}}
+  },
+
+  "params": [
+    {
+      "name": "selected_field",
+      "value": "Information Technology",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Information Technology",
+          "Engineering and Related Technologies",
+          "Natural and Physical Sciences",
+          "Architecture and Building",
+          "Health",
+          "Education",
+          "Management and Commerce",
+          "Society and Culture",
+          "Creative Arts"
+        ],
+        "name": "University field "
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "calculate": "datum.level === 1 ? 'total' : (datum.level === 3 && indexof(({'Information Technology': ['26'], 'Engineering and Related Technologies': ['2E'], 'Natural and Physical Sciences': ['2F'], 'Architecture and Building': ['2D'], 'Health': ['2G', '2H'], 'Education': ['24'], 'Management and Commerce': ['2A', '2C'], 'Society and Culture': ['27'], 'Creative Arts': ['21']})[selected_field], datum.anzsco_code) >= 0 ? 'field' : null)",
+      "as": "row_type"
+    },
+    {"filter": "datum.state !== 'AUST' && isValid(datum.row_type)"},
+    {
+      "fold": [
+        "2019-01",
+        "2019-02",
+        "2019-03",
+        "2019-04",
+        "2019-05",
+        "2019-06",
+        "2019-07",
+        "2019-08",
+        "2019-09",
+        "2019-10",
+        "2019-11",
+        "2019-12",
+        "2025-01",
+        "2025-02",
+        "2025-03",
+        "2025-04",
+        "2025-05",
+        "2025-06",
+        "2025-07",
+        "2025-08",
+        "2025-09",
+        "2025-10",
+        "2025-11",
+        "2025-12"
+      ],
+      "as": ["month", "vacancies"]
+    },
+    {"calculate": "toNumber(substring(datum.month, 0, 4))", "as": "year"},
+    {
+      "aggregate": [{"op": "sum", "field": "vacancies", "as": "vacancies"}],
+      "groupby": ["state", "row_type", "year", "month"]
+    },
+    {
+      "aggregate": [{"op": "mean", "field": "vacancies", "as": "vacancies_monthly_average"}],
+      "groupby": ["state", "row_type", "year"]
+    },
+    {
+      "calculate": "datum.row_type === 'field' && datum.year === 2019 ? datum.vacancies_monthly_average : null",
+      "as": "vacancies_2019"
+    },
+    {
+      "calculate": "datum.row_type === 'total' && datum.year === 2025 ? datum.vacancies_monthly_average : null",
+      "as": "all_occupations_vacancies_monthly_average"
+    },
+    {
+      "joinaggregate": [
+        {"op": "max", "field": "vacancies_2019", "as": "vacancies_2019"},
+        {
+          "op": "max",
+          "field": "all_occupations_vacancies_monthly_average",
+          "as": "all_occupations_vacancies_monthly_average"
+        }
+      ],
+      "groupby": ["state"]
+    },
+    {"filter": "datum.row_type === 'field' && datum.year === 2025"},
+    {
+      "calculate": "(datum.vacancies_monthly_average / datum.vacancies_2019 - 1) * 100",
+      "as": "change_pct"
+    },
+    {
+      "calculate": "datum.vacancies_monthly_average / datum.all_occupations_vacancies_monthly_average * 100",
+      "as": "share_pct"
+    },
+    {
+      "calculate": "datum.vacancies_monthly_average < 100 ? '< 100' : datum.vacancies_monthly_average < 500 ? '100 – 500' : datum.vacancies_monthly_average < 1500 ? '500 – 1,500' : datum.vacancies_monthly_average <= 3000 ? '1,500 – 3,000' : '> 3,000'",
+      "as": "vacancy_tier"
+    },
+    {
+      "calculate": "({'Information Technology': 'ICT Professionals', 'Engineering and Related Technologies': 'Engineering Professionals', 'Natural and Physical Sciences': 'Natural and Physical Science Professionals', 'Architecture and Building': 'Architects, Designers, Planners and Surveyors', 'Health': 'Health Professionals', 'Education': 'Education Professionals', 'Management and Commerce': 'Business, Human Resource and Marketing Professionals', 'Society and Culture': 'Legal, Social and Welfare Professionals', 'Creative Arts': 'Arts and Media Professionals'})[selected_field]",
+      "as": "occupation_group"
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {"url": "data/aus_states_location.csv"},
+        "key": "state",
+        "fields": [
+          "state_name",
+          "capital",
+          "capital_lon",
+          "capital_lat",
+          "symbol_lon",
+          "symbol_lat"
+        ]
+      }
+    }
+  ],
+
+  "layer": [
+    {
+      "data": {
+        "url": "australia_states.topojson",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "mark": {"type": "geoshape", "fill": "#eeece4", "stroke": "#d9d7cf", "strokeWidth": 1}
+    },
+    {
+      "transform": [{"filter": "datum.state === 'ACT'"}],
+      "mark": {"type": "rule", "color": "#807e78", "strokeWidth": 1},
+      "encoding": {
+        "longitude": {"field": "capital_lon", "type": "quantitative"},
+        "latitude": {"field": "capital_lat", "type": "quantitative"},
+        "longitude2": {"field": "symbol_lon"},
+        "latitude2": {"field": "symbol_lat"}
+      }
+    },
+    {
+      "mark": {"type": "circle", "stroke": "#fbfaf7", "strokeWidth": 1.5, "opacity": 0.9},
+      "encoding": {
+        "longitude": {"field": "symbol_lon", "type": "quantitative"},
+        "latitude": {"field": "symbol_lat", "type": "quantitative"},
+        "size": {
+          "field": "vacancy_tier",
+          "type": "ordinal",
+          "scale": {
+            "type": "ordinal",
+            "domain": ["< 100", "100 – 500", "500 – 1,500", "1,500 – 3,000", "> 3,000"],
+            "range": [900, 1450, 2050, 2750, 3500]
+          },
+          "legend": {
+            "title": ["Vacancies per", "month, 2025"],
+            "orient": "right",
+            "symbolFillColor": "#b9b7ae",
+            "titleFontSize": 11,
+            "labelFontSize": 11
+          }
+        },
+        "color": {
+          "field": "change_pct",
+          "type": "quantitative",
+          "title": "Percentage of change since 2019",
+          "scale": {
+            "domain": [-60, 0, 120],
+            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "clamp": true
+          },
+          "legend": {
+            "orient": "bottom",
+            "direction": "horizontal",
+            "gradientLength": 150,
+            "gradientThickness": 10,
+            "titleOrient": "left",
+            "titlePadding": 10,
+            "format": "+d",
+            "titleFontSize": 11,
+            "labelFontSize": 11
+          }
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {
+            "field": "vacancies_monthly_average",
+            "title": "Vacancies per month, 2025",
+            "format": ",.0f"
+          },
+          {"field": "vacancies_2019", "title": "Vacancies per month, 2019", "format": ",.0f"},
+          {"field": "change_pct", "title": "Change since 2019 (%)", "format": "+.0f"},
+          {
+            "field": "share_pct",
+            "title": "Share of all vacancies in the state (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 10.5,
+        "fontWeight": 700,
+        "align": "center",
+        "baseline": "middle",
+        "dx": 0,
+        "dy": 0
+      },
+      "encoding": {
+        "longitude": {"field": "symbol_lon", "type": "quantitative"},
+        "latitude": {"field": "symbol_lat", "type": "quantitative"},
+        "text": {"field": "state"},
+        "color": {
+          "condition": {
+            "test": "datum.change_pct <= -30 || datum.change_pct >= 60",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      }
+    }
+  ]
+}
