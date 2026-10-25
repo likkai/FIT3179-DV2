@@ -16,15 +16,9 @@
   "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
   "autosize": {"type": "fit", "contains": "padding"},
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_gender_by_subject.csv",
+    "url": "data/aus_senior_enrolments.csv",
     "format": {
-      "parse": {
-        "year": "number",
-        "enrolments": "number",
-        "female": "number",
-        "male": "number",
-        "female_share_pct": "number"
-      }
+      "parse": {"year": "number", "enrolments": "number", "female": "number", "male": "number"}
     }
   },
 
@@ -52,8 +46,17 @@
 
   "transform": [
     {
-      "filter": "datum.group_type === 'learning_area' && datum.group !== 'Vocational and Other' && datum.year_level === 'Year 11-12 combined' && datum.low_count !== 'yes'"
+      "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area !== 'Vocational and Other' && isValid(datum.female) && isValid(datum.male)"
     },
+    {
+      "aggregate": [
+        {"op": "sum", "field": "female", "as": "female"},
+        {"op": "sum", "field": "male", "as": "male"}
+      ],
+      "groupby": ["state", "year", "learning_area"]
+    },
+    {"filter": "datum.female + datum.male >= 50"},
+    {"calculate": "datum.learning_area", "as": "group"},
     {
       "filter": "state_choice === 'All states (coverage grows over time)' || (state_choice === 'NSW, VIC, SA and WA (full series)' && indexof(['NSW', 'VIC', 'SA', 'WA'], datum.state) >= 0) || datum.state === state_choice"
     },

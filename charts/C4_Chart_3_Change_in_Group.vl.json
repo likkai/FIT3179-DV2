@@ -16,15 +16,9 @@
   "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
   "autosize": {"type": "fit", "contains": "padding"},
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_gender_by_subject.csv",
+    "url": "data/aus_senior_enrolments.csv",
     "format": {
-      "parse": {
-        "year": "number",
-        "enrolments": "number",
-        "female": "number",
-        "male": "number",
-        "female_share_pct": "number"
-      }
+      "parse": {"year": "number", "enrolments": "number", "female": "number", "male": "number"}
     }
   },
 
@@ -43,8 +37,17 @@
 
   "transform": [
     {
-      "filter": "datum.group_type === 'subject' && datum.year_level === 'Year 11-12 combined' && datum.low_count !== 'yes' && indexof([\"NSW\", \"VIC\", \"SA\", \"WA\"], datum.state) >= 0 && (datum.year === start_year || datum.year === end_year)"
+      "filter": "datum.year_level === 'Year 11-12 combined' && datum.subject_group && isValid(datum.female) && isValid(datum.male) && indexof([\"NSW\", \"VIC\", \"SA\", \"WA\"], datum.state) >= 0 && (datum.year === start_year || datum.year === end_year)"
     },
+    {
+      "aggregate": [
+        {"op": "sum", "field": "female", "as": "female"},
+        {"op": "sum", "field": "male", "as": "male"}
+      ],
+      "groupby": ["state", "year", "subject_group"]
+    },
+    {"filter": "datum.female + datum.male >= 50"},
+    {"calculate": "datum.subject_group", "as": "group"},
     {
       "aggregate": [
         {"op": "sum", "field": "female", "as": "female_students"},
