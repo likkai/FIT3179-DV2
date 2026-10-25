@@ -1,0 +1,401 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "How Much Do Jobs in Each University Field Pay?",
+    "anchor": "start",
+    "fontSize": 17,
+    "subtitle": []
+  },
+
+  "width": "container",
+  "height": 460,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {
+    "url": "data/ato_individuals_occupation_unit_group_by_state_2023_24.csv",
+    "format": {"parse": {"occupation_unit_group": "string"}}
+  },
+
+  "params": [
+    {
+      "name": "selected_field",
+      "value": "Information Technology",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Information Technology",
+          "Engineering and Related Technologies",
+          "Natural and Physical Sciences",
+          "Architecture and Building",
+          "Health",
+          "Education",
+          "Management and Commerce",
+          "Society and Culture",
+          "Creative Arts"
+        ],
+        "name": "University field "
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "calculate": "indexof(({'Information Technology': ['26'], 'Engineering and Related Technologies': ['233'], 'Natural and Physical Sciences': ['234'], 'Architecture and Building': ['232'], 'Health': ['25'], 'Education': ['24'], 'Management and Commerce': ['22'], 'Society and Culture': ['27'], 'Creative Arts': ['21']})[selected_field], substring(datum.occupation_unit_group, 0, length(({'Information Technology': '26', 'Engineering and Related Technologies': '233', 'Natural and Physical Sciences': '234', 'Architecture and Building': '232', 'Health': '25', 'Education': '24', 'Management and Commerce': '22', 'Society and Culture': '27', 'Creative Arts': '21'})[selected_field]))) >= 0 ? 'field' : null",
+      "as": "row_type"
+    },
+    {"filter": "isValid(datum.row_type) && datum.state !== 'Overseas'"},
+    {"calculate": "toNumber(datum.individuals)", "as": "individuals_number"},
+    {"calculate": "toNumber(datum.average_salary_or_wage_income)", "as": "average_salary_number"},
+    {"filter": "isFinite(datum.individuals_number) && isFinite(datum.average_salary_number)"},
+    {"calculate": "datum.individuals_number * datum.average_salary_number", "as": "salary_total"},
+    {
+      "aggregate": [
+        {"op": "sum", "field": "individuals_number", "as": "individuals_total"},
+        {"op": "sum", "field": "salary_total", "as": "salary_total"}
+      ],
+      "groupby": ["state"]
+    },
+    {"calculate": "datum.salary_total / datum.individuals_total", "as": "average_income"},
+    {
+      "calculate": "'$' + format(datum.average_income / 1000, '.0f') + 'k'",
+      "as": "average_income_label"
+    },
+    {"calculate": "format(datum.individuals_total / 1000, '.1~f') + 'k'", "as": "individuals_label"},
+    {
+      "calculate": "({'Information Technology': 'ICT Professionals', 'Engineering and Related Technologies': 'Engineering Professionals', 'Natural and Physical Sciences': 'Natural and Physical Science Professionals', 'Architecture and Building': 'Architects, Designers, Planners and Surveyors', 'Health': 'Health Professionals', 'Education': 'Education Professionals', 'Management and Commerce': 'Business, Human Resource and Marketing Professionals', 'Society and Culture': 'Legal, Social and Welfare Professionals', 'Creative Arts': 'Arts and Media Professionals'})[selected_field]",
+      "as": "occupation_group"
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {"url": "data/aus_states_location.csv"},
+        "key": "state",
+        "fields": ["state_name", "capital_lon", "capital_lat", "symbol_lon", "symbol_lat"]
+      }
+    }
+  ],
+
+  "layer": [
+    {
+      "transform": [
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "australia_states.topojson",
+              "format": {"type": "topojson", "feature": "states"}
+            },
+            "key": "properties.state"
+          },
+          "as": "geo"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "#fbfaf7", "strokeWidth": 1.5},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "average_income",
+          "type": "quantitative",
+          "title": "Average income",
+          "scale": {"domain": [50000, 160000], "range": ["#f7f5ee", "#2166ac"], "clamp": true},
+          "legend": {
+            "orient": "bottom",
+            "direction": "horizontal",
+            "gradientLength": 200,
+            "gradientThickness": 10,
+            "titleOrient": "left",
+            "titlePadding": 10,
+            "format": "$,.0f",
+            "titleFontSize": 11,
+            "labelFontSize": 11
+          }
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
+          {"field": "individuals_label", "title": "People in these occupations"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.state === 'ACT'"},
+        {"calculate": "157.5", "as": "magnifier_lon"},
+        {"calculate": "-37", "as": "magnifier_lat"}
+      ],
+      "mark": {"type": "rule", "color": "#807e78", "strokeWidth": 1},
+      "encoding": {
+        "longitude": {"field": "capital_lon", "type": "quantitative"},
+        "latitude": {"field": "capital_lat", "type": "quantitative"},
+        "longitude2": {"field": "magnifier_lon"},
+        "latitude2": {"field": "magnifier_lat"}
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.state === 'ACT'"},
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "values": [
+                {
+                  "state": "ACT",
+                  "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                      [
+                        [157.6075, -37.9427],
+                        [157.6401, -38.0005],
+                        [157.6173, -38.2372],
+                        [157.7345, -38.3941],
+                        [157.6531, -38.5399],
+                        [157.6889, -38.6087],
+                        [157.627, -38.7711],
+                        [157.6303, -38.8454],
+                        [157.5847, -38.9473],
+                        [157.6368, -39.0436],
+                        [157.6075, -39.1207],
+                        [157.6596, -39.1399],
+                        [157.6368, -39.2198],
+                        [157.6629, -39.3409],
+                        [157.6075, -39.4152],
+                        [157.5945, -39.506],
+                        [157.6238, -39.5886],
+                        [157.5521, -39.6078],
+                        [157.3534, -39.8611],
+                        [157.3534, -39.9546],
+                        [157.272, -40.051],
+                        [157.3176, -40.0812],
+                        [157.2524, -40.1831],
+                        [156.9593, -40.0207],
+                        [156.6628, -39.9601],
+                        [156.526, -39.9574],
+                        [156.3827, -39.828],
+                        [156.1221, -39.6299],
+                        [156.083, -39.506],
+                        [156.1156, -39.4592],
+                        [156.0407, -39.4207],
+                        [156.0309, -39.3656],
+                        [155.9527, -39.3023],
+                        [156.0407, -39.1812],
+                        [156.0179, -38.9886],
+                        [156.0863, -38.8867],
+                        [156.0114, -38.8344],
+                        [155.9658, -38.6913],
+                        [155.9983, -38.65],
+                        [155.9527, -38.5757],
+                        [155.8811, -38.5427],
+                        [155.7703, -38.6941],
+                        [155.7996, -38.7326],
+                        [155.7442, -38.8454],
+                        [155.6368, -38.8262],
+                        [155.5358, -38.7464],
+                        [155.4804, -38.6308],
+                        [155.2296, -38.4986],
+                        [155.1677, -38.4051],
+                        [155.2296, -38.284],
+                        [155.2459, -38.1574],
+                        [155.184, -38.0968],
+                        [155.0472, -38.0665],
+                        [155.0244, -37.9427],
+                        [155.1253, -37.8518],
+                        [155.083, -37.7307],
+                        [155.0113, -37.6564],
+                        [155.1253, -37.5849],
+                        [155.1677, -37.5298],
+                        [155.0406, -37.3647],
+                        [155.083, -37.2904],
+                        [155.0178, -37.1885],
+                        [155.0374, -37.0619],
+                        [155.0016, -37.0234],
+                        [154.9625, -36.7867],
+                        [155.0537, -36.7124],
+                        [154.9918, -36.5913],
+                        [155.0667, -36.4619],
+                        [155.0569, -36.3573],
+                        [155.1709, -36.2335],
+                        [155.1449, -36.0931],
+                        [155.2263, -36.0766],
+                        [155.2231, -35.9665],
+                        [155.3273, -35.8812],
+                        [155.2915, -35.8316],
+                        [155.3045, -35.7436],
+                        [155.2328, -35.6913],
+                        [155.2491, -35.6087],
+                        [155.2068, -35.5344],
+                        [155.2719, -35.4573],
+                        [155.2687, -35.3968],
+                        [155.3403, -35.2812],
+                        [156.7997, -34.4252],
+                        [157.588, -33.96],
+                        [157.7606, -33.8444],
+                        [157.8257, -33.8169],
+                        [157.9788, -33.8665],
+                        [158.057, -33.9298],
+                        [158.0603, -33.9848],
+                        [158.1743, -33.9573],
+                        [158.1613, -34.0564],
+                        [158.2134, -34.1032],
+                        [158.272, -34.0894],
+                        [158.3697, -34.1472],
+                        [158.3274, -34.227],
+                        [158.4349, -34.3068],
+                        [158.3795, -34.3784],
+                        [158.5196, -34.5518],
+                        [158.5684, -34.5793],
+                        [158.7671, -34.6013],
+                        [158.8323, -34.6564],
+                        [158.7346, -34.7472],
+                        [158.8616, -34.8078],
+                        [158.917, -34.8793],
+                        [159.044, -34.8958],
+                        [159.031, -34.9894],
+                        [159.246, -35.0004],
+                        [159.3795, -35.0335],
+                        [159.6401, -35.1546],
+                        [159.6629, -35.2179],
+                        [159.7541, -35.2481],
+                        [159.9268, -35.2757],
+                        [160.018, -35.2481],
+                        [160.0375, -35.416],
+                        [159.9789, -35.4711],
+                        [159.7997, -35.5399],
+                        [159.7802, -35.5949],
+                        [159.6401, -35.6252],
+                        [159.5489, -35.5399],
+                        [159.2623, -35.4876],
+                        [159.1352, -35.5234],
+                        [159.0049, -35.5041],
+                        [158.9593, -35.4738],
+                        [158.8323, -35.4711],
+                        [158.7052, -35.5647],
+                        [158.601, -35.5564],
+                        [158.4903, -35.6087],
+                        [158.3274, -35.8564],
+                        [158.1189, -36.0793],
+                        [158.0407, -36.1344],
+                        [157.9821, -36.294],
+                        [158.0831, -36.2913],
+                        [158.0831, -36.3601],
+                        [157.9398, -36.4509],
+                        [157.9658, -36.5693],
+                        [158.0212, -36.6381],
+                        [158.07, -36.7674],
+                        [158.0603, -36.9133],
+                        [157.9202, -37.2133],
+                        [157.9137, -37.2794],
+                        [158.0016, -37.5656],
+                        [157.8648, -37.5216],
+                        [157.5358, -37.4693],
+                        [157.4837, -37.5133],
+                        [157.4935, -37.684],
+                        [157.5358, -37.739],
+                        [157.5619, -37.8463],
+                        [157.5586, -37.9399],
+                        [157.6075, -37.9427]
+                      ]
+                    ]
+                  }
+                }
+              ]
+            },
+            "key": "state",
+            "fields": ["geometry"]
+          },
+          "as": "act_magnified"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "#807e78", "strokeWidth": 1.5},
+      "encoding": {
+        "shape": {"field": "act_magnified", "type": "geojson"},
+        "color": {
+          "field": "average_income",
+          "type": "quantitative",
+          "title": "Average income",
+          "scale": {"domain": [50000, 160000], "range": ["#f7f5ee", "#2166ac"], "clamp": true},
+          "legend": {
+            "orient": "bottom",
+            "direction": "horizontal",
+            "gradientLength": 200,
+            "gradientThickness": 10,
+            "titleOrient": "left",
+            "titlePadding": 10,
+            "format": "$,.0f",
+            "titleFontSize": 11,
+            "labelFontSize": 11
+          }
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
+          {"field": "individuals_label", "title": "People in these occupations"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "fontSize": 11, "fontWeight": 700, "baseline": "middle", "dy": -7},
+      "encoding": {
+        "longitude": {"field": "label_lon", "type": "quantitative"},
+        "latitude": {"field": "label_lat", "type": "quantitative"},
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
+          {"field": "individuals_label", "title": "People in these occupations"}
+        ],
+        "text": {"field": "state"},
+        "color": {
+          "condition": {
+            "test": "datum.state !== 'ACT' && datum.average_income >= 105000",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "datum.state === 'ACT' ? 157.5 : (datum.state === 'VIC' ? 142.8 : datum.symbol_lon)",
+          "as": "label_lon"
+        },
+        {
+          "calculate": "datum.state === 'ACT' ? -42.2 : (datum.state === 'VIC' ? -36.9 : datum.symbol_lat)",
+          "as": "label_lat"
+        }
+      ]
+    },
+    {
+      "mark": {"type": "text", "fontSize": 11, "baseline": "middle", "dy": 7},
+      "encoding": {
+        "longitude": {"field": "label_lon", "type": "quantitative"},
+        "latitude": {"field": "label_lat", "type": "quantitative"},
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
+          {"field": "individuals_label", "title": "People in these occupations"}
+        ],
+        "text": {"field": "average_income_label"},
+        "color": {
+          "condition": {
+            "test": "datum.state !== 'ACT' && datum.average_income >= 105000",
+            "value": "#ffffff"
+          },
+          "value": "#1d1c1a"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "datum.state === 'ACT' ? 157.5 : (datum.state === 'VIC' ? 142.8 : datum.symbol_lon)",
+          "as": "label_lon"
+        },
+        {
+          "calculate": "datum.state === 'ACT' ? -42.2 : (datum.state === 'VIC' ? -36.9 : datum.symbol_lat)",
+          "as": "label_lat"
+        }
+      ]
+    }
+  ]
+}
