@@ -9,16 +9,8 @@
   },
 
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/national_learning_area.csv",
-    "format": {
-      "parse": {
-        "year": "number",
-        "enrolments": "number",
-        "state_total_enrolments": "number",
-        "share_of_all_pct": "number",
-        "share_excl_vocational_other_pct": "number"
-      }
-    }
+    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_senior_enrolments.csv",
+    "format": {"parse": {"year": "number", "enrolments": "number"}}
   },
 
   "params": [
@@ -30,8 +22,36 @@
   ],
 
   "transform": [
+    {"filter": "datum.year_level === 'Year 11-12 combined' && datum.year === selectedYear"},
     {
-      "filter": "datum.year_level === 'Year 11-12 combined' && datum.year === selectedYear && datum.learning_area !== 'Vocational and Other'"
+      "calculate": "datum.learning_area === 'Vocational and Other' ? 0 : datum.enrolments",
+      "as": "enrolments_excl_vocational_other"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "enrolments_excl_vocational_other",
+          "as": "state_total_excl_vocational_other"
+        }
+      ],
+      "groupby": ["state"]
+    },
+    {"filter": "datum.learning_area !== 'Vocational and Other'"},
+    {
+      "aggregate": [
+        {"op": "sum", "field": "enrolments", "as": "learning_area_enrolments"},
+        {
+          "op": "max",
+          "field": "state_total_excl_vocational_other",
+          "as": "state_total_excl_vocational_other"
+        }
+      ],
+      "groupby": ["state", "state_name", "learning_area"]
+    },
+    {
+      "calculate": "datum.learning_area_enrolments / datum.state_total_excl_vocational_other * 100",
+      "as": "share_excl_vocational_other_pct"
     },
     {
       "joinaggregate": [{"op": "mean", "field": "share_excl_vocational_other_pct", "as": "average"}],
@@ -49,11 +69,11 @@
       "as": "tip_share"
     },
     {
-      "calculate": "datum.col === 'Average' ? '–' : format(datum.difference, '+.1f')",
+      "calculate": "datum.col === 'Average' ? '–' : (round(datum.difference * 10) === 0 ? '0.0' : format(datum.difference, '+.1f'))",
       "as": "tip_diff"
     },
     {
-      "calculate": "datum.col === 'Average' ? format(datum.average, '.1f') + '%' : format(datum.difference, '+.1f')",
+      "calculate": "datum.col === 'Average' ? format(datum.average, '.1f') + '%' : (round(datum.difference * 10) === 0 ? '0.0' : format(datum.difference, '+.1f'))",
       "as": "cell_label"
     }
   ],
