@@ -1,0 +1,102 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "Is University the Only Route in Each Field?",
+    "anchor": "start",
+    "fontSize": 17,
+    "subtitle": []
+  },
+
+  "width": "container",
+  "height": 380,
+  "padding": {"left": 10, "right": 20, "top": 10, "bottom": 10},
+  "autosize": {"type": "fit", "contains": "padding"},
+  "data": {"url": "data/abs_studying_non_school_qualification_by_level_and_field_2025.csv"},
+  "transform": [
+    {
+      "filter": "datum.main_field_of_education !== 'Total(c)' && datum.main_field_of_education !== 'Total'"
+    },
+    {
+      "fold": [
+        "Certificate I/II",
+        "Certificate III/IV",
+        "Advanced Diploma/Diploma",
+        "Bachelor Degree",
+        "Graduate Diploma/ Graduate Certificate",
+        "Postgraduate Degree"
+      ],
+      "as": ["level", "students_000"]
+    },
+    {"calculate": "toNumber(datum.students_000)", "as": "students_000"},
+    {
+      "calculate": "indexof(['Certificate I/II', 'Certificate III/IV', 'Advanced Diploma/Diploma'], datum.level) >= 0 ? 'Vocational' : 'University'",
+      "as": "pathway_type"
+    },
+    {
+      "calculate": "replace(replace(datum.main_field_of_education, /\\(b\\)/, ''), /\\(a\\)/, '')",
+      "as": "field"
+    },
+    {
+      "aggregate": [{"op": "sum", "field": "students_000", "as": "pathway_total_000"}],
+      "groupby": ["field", "pathway_type"]
+    },
+    {
+      "joinaggregate": [{"op": "sum", "field": "pathway_total_000", "as": "field_total_000"}],
+      "groupby": ["field"]
+    },
+    {"calculate": "datum.pathway_total_000 / datum.field_total_000 * 100", "as": "pathway_pct"},
+    {"calculate": "format(datum.pathway_total_000, '.1~f') + 'k'", "as": "pathway_total_label"},
+    {
+      "calculate": "datum.pathway_type === 'Vocational' ? datum.pathway_pct : 0",
+      "as": "vocational_pct_row"
+    },
+    {
+      "joinaggregate": [{"op": "max", "field": "vocational_pct_row", "as": "vocational_pct"}],
+      "groupby": ["field"]
+    },
+    {
+      "calculate": "indexof(['Vocational', 'University'], datum.pathway_type)",
+      "as": "pathway_order"
+    }
+  ],
+
+  "mark": {"type": "bar", "stroke": "#ffffff", "strokeWidth": 1},
+  "encoding": {
+    "y": {
+      "field": "field",
+      "type": "nominal",
+      "title": null,
+      "sort": {"field": "vocational_pct", "op": "max", "order": "descending"},
+      "axis": {
+        "labelFontSize": 12,
+        "labelFontWeight": 600,
+        "labelLimit": 340,
+        "ticks": false,
+        "domain": false
+      }
+    },
+    "x": {
+      "field": "pathway_pct",
+      "type": "quantitative",
+      "title": "Share of people studying in the field (%)",
+      "stack": "zero",
+      "scale": {"domain": [0, 100]},
+      "axis": {"grid": true, "gridColor": "#eeede8"}
+    },
+    "color": {
+      "field": "pathway_type",
+      "type": "nominal",
+      "title": null,
+      "sort": ["Vocational", "University"],
+      "scale": {"domain": ["Vocational", "University"], "range": ["#e66101", "#2b83ba"]},
+      "legend": {"orient": "bottom", "direction": "horizontal", "labelFontSize": 12}
+    },
+    "order": {"field": "pathway_order", "type": "quantitative"},
+    "tooltip": [
+      {"field": "field", "title": "Field"},
+      {"field": "pathway_type", "title": "Pathway"},
+      {"field": "pathway_total_label", "title": "People studying"},
+      {"field": "pathway_pct", "title": "Share of field (%)", "format": ".1f"}
+    ]
+  }
+}
