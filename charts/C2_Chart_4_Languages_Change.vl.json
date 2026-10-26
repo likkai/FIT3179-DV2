@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Language's Share of Year 12 Enrolments in 2010 and 2024",
   "title": {
-    "text": "How Language Study is Divided Between Languages in 2010 and 2024",
-    "subtitle": [""],
+    "text": "Which Languages Are Gaining Ground in Senior Secondary Study?",
+    "subtitle": ["Change in share of Year 12 language enrolments"],
     "anchor": "start",
     "fontSize": 17
   },

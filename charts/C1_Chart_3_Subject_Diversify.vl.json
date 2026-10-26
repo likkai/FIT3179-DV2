@@ -161,7 +161,7 @@
         "lineHeight": 15,
         "text": [
           "Learning areas included: English, Mathematics, Society and Environment, Science,",
-          "Arts, Languages other than English, Technology, Health and Physical Education."
+          "Technology, Health and Physical Education, Arts, Languages other than English."
         ]
       },
       "encoding": {"x": {"value": 0}, "y": {"value": "height"}}

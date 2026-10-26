@@ -2,11 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Heat strip: each learning area's female share of enrolments (minus 50) by year.",
   "title": {
-    "text": "Trends in Learning Area Participation Gender Gap",
+    "text": "How Has the Subject Gender Gap Evolved Over Time?",
     "fontSize": 17,
     "anchor": "start",
     "subtitle": [
-      "Pink means more girls, olive means more boys",
+      "Change in female enrolment share from gender balance (50%)",
       "Northern Territory excluded because no gender data"
     ]
   },
@@ -105,7 +105,6 @@
         "labelFontWeight": 600,
         "ticks": false,
         "domain": false,
-        "labelLimit": 260,
         "labelExpr": "({'Health and Physical Education': ['Health and', 'Physical Education'], 'Humanities and Social Sciences': ['Humanities and', 'Social Sciences'], 'Technology and Business': ['Technology and', 'Business']})[datum.label] || datum.label"
       }
     }
@@ -118,7 +117,7 @@
         "color": {
           "field": "gap_from_balance_pp",
           "type": "quantitative",
-          "title": "Female share minus 50 (pp)",
+          "title": "Female deviation from parity (pp)",
           "scale": {
             "domain": [-25, 0, 25],
             "interpolate": "lab", "range": ["#6b7a1e", "#f7f5ee", "#d6619b"],
@@ -130,8 +129,7 @@
             "format": "+d",
             "titleFontSize": 11,
             "labelFontSize": 11,
-            "gradientLength": 200,
-            "titleLimit": 300
+            "gradientLength": 200
           }
         },
         "tooltip": [

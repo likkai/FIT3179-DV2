@@ -2,12 +2,13 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Non-contiguous cartogram: each state keeps its shape but is scaled about its centre so its area is proportional to its senior secondary students; colour = the chosen subject's uptake index.",
   "title": {
-    "text": "State Breakdown of Senior Subject Uptake",
+    "text": "Which States Take Up Specific Subjects Most?",
     "fontSize": 17,
     "anchor": "start",
     "subtitle": [
       "State areas scaled to senior student numbers",
-      "Uptake index = popularity of subject in a state compared with average of states"
+      "Uptake index, popularity of subject compared with average of states",
+      "Percentage in label is subject's share of that state's enrolments"
     ]
   },
 
@@ -24,7 +25,7 @@
   "params": [
     {
       "name": "selected_subject",
-      "value": "Physics",
+      "value": "Business",
       "bind": {
         "input": "select",
         "options": [
@@ -116,7 +117,7 @@
       "as": "share_text"
     },
     {
-      "calculate": "isValid(datum.uptake_index) ? format(datum.share_of_state_enrolments_pct, '.1f') + '%' : 'no data'",
+      "calculate": "isValid(datum.uptake_index) ? format(datum.share_of_state_enrolments_pct, '.1f') + '%' : 'No data'",
       "as": "value_label"
     },
     {
@@ -145,7 +146,7 @@
 
   "layer": [
     {
-      "mark": {"type": "geoshape", "stroke": "#fbfaf7", "strokeWidth": 1.2},
+      "mark": {"type": "geoshape", "stroke": "#fbfaf7", "strokeWidth": 1.2, "invalid": null},
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
@@ -159,7 +160,6 @@
           },
           "legend": {
             "title": ["Uptake index", "(100 = average of states)"],
-            "titleLimit": 300,
             "orient": "right",
             "titleFontSize": 11,
             "labelFontSize": 11,
@@ -182,14 +182,19 @@
     },
     {
       "transform": [{"filter": "datum.students_all_number >= 30000"}],
-      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600, "dy": -7},
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "dy": {"expr": "datum.state === 'SA' ? -10 : (datum.state === 'VIC' ? -3 : -7)"}
+      },
       "encoding": {
         "longitude": {"field": "label_x", "type": "quantitative"},
         "latitude": {"field": "label_y", "type": "quantitative"},
         "text": {"field": "state"},
         "color": {
           "condition": {
-            "test": "datum.uptake_index <= 62 || datum.uptake_index >= 138",
+            "test": "isValid(datum.uptake_index) && (datum.uptake_index <= 62 || datum.uptake_index >= 138)",
             "value": "#ffffff"
           },
           "value": "#1d1c1a"
@@ -210,14 +215,19 @@
     },
     {
       "transform": [{"filter": "datum.students_all_number >= 30000"}],
-      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600, "dy": 8},
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "dy": {"expr": "datum.state === 'SA' ? 3 : (datum.state === 'VIC' ? 12 : 8)"}
+      },
       "encoding": {
         "longitude": {"field": "label_x", "type": "quantitative"},
         "latitude": {"field": "label_y", "type": "quantitative"},
         "text": {"field": "value_label"},
         "color": {
           "condition": {
-            "test": "datum.uptake_index <= 62 || datum.uptake_index >= 138",
+            "test": "isValid(datum.uptake_index) && (datum.uptake_index <= 62 || datum.uptake_index >= 138)",
             "value": "#ffffff"
           },
           "value": "#1d1c1a"
@@ -244,7 +254,7 @@
         "fontWeight": 600,
         "color": "#1d1c1a",
         "align": "left",
-        "dx": {"expr": "datum.state === 'TAS' ? 32 : 12"},
+        "dx": {"expr": "datum.state === 'TAS' ? 32 : (datum.state === 'ACT' ? 22 : 12)"},
         "dy": -6
       },
       "encoding": {
@@ -273,7 +283,7 @@
         "fontWeight": 600,
         "color": "#1d1c1a",
         "align": "left",
-        "dx": {"expr": "datum.state === 'TAS' ? 32 : 12"},
+        "dx": {"expr": "datum.state === 'TAS' ? 32 : (datum.state === 'ACT' ? 22 : 12)"},
         "dy": 8
       },
       "encoding": {

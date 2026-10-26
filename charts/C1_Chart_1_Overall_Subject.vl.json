@@ -3,6 +3,7 @@
   "description": "Year 12 Enrolment by Learning Area",
   "title": {
     "text": "Year 12 Enrolment by Learning Area",
+    "fontSize": 17,
     "anchor": "start",
     "subtitle": ["Students can be counted in multiple areas", "Bars are not shares of a total"]
   },

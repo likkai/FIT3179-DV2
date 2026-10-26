@@ -2,9 +2,9 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Percentage change in the number of senior secondary students.",
   "title": {
-    "text": "Where the Senior Secondary Student Population Changed from 2010 to 2024",
+    "text": "Which States Are Driving Senior Secondary Enrolment Growth?",
     "anchor": "start",
-    "subtitle": ["Percentage change in the number of senior secondary students"],
+    "subtitle": ["Change in senior secondary student population nationally"],
     "fontSize": 17
   },
 
@@ -60,12 +60,16 @@
           "field": "change_pct",
           "type": "quantitative",
           "title": "Change in students percentage",
-          "scale": {"domain": [-22, 0, 22], "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"], "clamp": true},
+          "scale": {
+            "domain": [-22, 0, 22],
+            "interpolate": "lab",
+            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "clamp": true
+          },
           "legend": {
             "orient": "bottom-left",
             "direction": "horizontal",
             "gradientLength": 200,
-            "titleLimit": 300,
             "format": "+.0f"
           }
         },
@@ -75,6 +79,33 @@
           {"field": "students_2024", "title": "Students 2024", "format": ",.0f"},
           {"field": "change_pct", "title": "Change (%)", "format": "+.1f"}
         ]
+      }
+    },
+    {
+      "description": "Leader line from the ACT to its label.",
+      "data": {
+        "url": "data/senior_numbers_students.csv",
+        "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
+      },
+      "transform": [
+        {
+          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory === 'Australian Capital Territory' && datum.calendar_year === 2024"
+        },
+        {
+          "lookup": "state_territory",
+          "from": {
+            "data": {"url": "data/aus_states_location.csv"},
+            "key": "state_name",
+            "fields": ["capital_lon", "capital_lat", "symbol_lon", "symbol_lat"]
+          }
+        }
+      ],
+      "mark": {"type": "rule", "color": "#807e78", "strokeWidth": 1},
+      "encoding": {
+        "longitude": {"field": "capital_lon", "type": "quantitative"},
+        "latitude": {"field": "capital_lat", "type": "quantitative"},
+        "longitude2": {"field": "symbol_lon"},
+        "latitude2": {"field": "symbol_lat"}
       }
     },
     {
@@ -111,7 +142,13 @@
         },
         {"calculate": "datum.state + ' ' + format(datum.change_pct, '+.1f') + '%'", "as": "label"}
       ],
-      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600},
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "align": {"expr": "datum.state === 'ACT' ? 'left' : 'center'"},
+        "dx": {"expr": "datum.state === 'ACT' ? 6 : 0"}
+      },
       "encoding": {
         "longitude": {"field": "symbol_lon", "type": "quantitative"},
         "latitude": {"field": "symbol_lat", "type": "quantitative"},

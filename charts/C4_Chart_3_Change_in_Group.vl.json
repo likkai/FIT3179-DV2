@@ -13,7 +13,7 @@
 
   "width": "container",
   "height": 460,
-  "padding": {"left": 10, "right": 10, "top": 36, "bottom": 10},
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 10},
   "autosize": {"type": "fit", "contains": "padding"},
   "data": {
     "url": "data/aus_senior_enrolments.csv",
@@ -139,7 +139,7 @@
             "domain": ["Both grew", "Both fell", "Opposite directions"],
             "range": ["#2166ac", "#b35806", "#5f5d56"]
           },
-          "legend": {"orient": "bottom", "direction": "horizontal", "labelLimit": 200}
+          "legend": {"orient": "bottom", "direction": "horizontal"}
         },
         "tooltip": [
           {"field": "group", "title": "Subject"},

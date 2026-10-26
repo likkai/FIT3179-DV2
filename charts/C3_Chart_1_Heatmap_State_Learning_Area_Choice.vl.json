@@ -2,9 +2,9 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "How Each State's Subject Mix Compares with the National Average",
   "title": {
-    "text": "How Subject Choices Differ Across States",
+    "text": "Which States Deviate Most from National Subject Averages?",
     "fontSize": 17,
-    "subtitle": ["pp = percentage points"],
+    "subtitle": ["Change in enrolment share from national average by state", "pp = percentage points"],
     "anchor": "start"
   },
 
@@ -84,7 +84,7 @@
     "x": {
       "field": "col",
       "type": "nominal",
-      "title": null,
+      "title": "States and national average",
       "sort": ["Average", "NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"],
       "axis": {
         "orient": "top",
@@ -99,15 +99,15 @@
     "y": {
       "field": "learning_area",
       "type": "nominal",
-      "title": null,
+      "title": "Learning Area",
       "sort": {"field": "average", "op": "mean", "order": "descending"},
       "axis": {
         "labelFontSize": 12.5,
         "labelColor": "#1d1c1a",
-        "labelLimit": 200,
         "domain": false,
         "ticks": false,
-        "labelPadding": 8
+        "labelPadding": 8,
+        "titlePadding": 10
       }
     }
   },
@@ -132,7 +132,6 @@
           "field": "difference",
           "type": "quantitative",
           "title": "Compared with average (pp)",
-          "titleLimit": 300,
           "scale": {"domain": [-6.5, 0, 6.5], "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"], "clamp": true},
           "legend": {
             "orient": "bottom",

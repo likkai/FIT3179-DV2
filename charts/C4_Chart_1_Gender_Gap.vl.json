@@ -2,9 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Male vs Female Year 12 Students Enrolled in Each Learning Area",
   "title": {
-    "text": "Male vs Female Year 12 Students Enrolled in Each Learning Area in 2024",
+    "text": "How Do Subject Choices Divide Among Genders?",
+    "fontSize": 17,
     "anchor": "start",
-    "subtitle": ["Sort by gender gap", "pp = percentage points"]
+    "subtitle": ["Change in Year 12 enrolment share between male and female", "pp = percentage points"]
   },
 
   "data": {
@@ -33,10 +34,6 @@
     {"calculate": "datum.Female - datum.Male", "as": "gap"},
     {"calculate": "abs(datum.gap)", "as": "abs_gap"},
     {
-      "calculate": "{'Health and Physical Education': 'Physical Education', 'Languages other than English': 'Non-English Languages'}[datum.learning_area] || datum.learning_area",
-      "as": "short_name"
-    },
-    {
       "calculate": "(datum.gap > 0 ? 'Girls +' : 'Boys +') + format(abs(datum.gap), '.1f') + ' pp'",
       "as": "gap_label"
     }
@@ -58,7 +55,7 @@
       "height": {"step": 40},
       "encoding": {
         "y": {
-          "field": "short_name",
+          "field": "learning_area",
           "type": "nominal",
           "sort": {"field": "abs_gap", "order": "descending"},
           "axis": null
@@ -71,7 +68,7 @@
           "axis": {"values": [0, 25, 50, 75, 100], "labelExpr": "datum.value + '%'", "grid": true}
         },
         "tooltip": [
-          {"field": "short_name", "title": "Learning area"},
+          {"field": "learning_area", "title": "Learning area"},
           {"field": "Male", "title": "Boys (%)", "format": ".1f"},
           {"field": "Female", "title": "Girls (%)", "format": ".1f"},
           {"field": "gap_label", "title": "Gap"}
@@ -90,7 +87,7 @@
       "height": {"step": 40},
       "encoding": {
         "y": {
-          "field": "short_name",
+          "field": "learning_area",
           "type": "nominal",
           "sort": {"field": "abs_gap", "order": "descending"},
           "axis": null
@@ -99,7 +96,7 @@
       "layer": [
         {
           "mark": {"type": "text", "dy": -7, "fontSize": 13, "fontWeight": 600, "color": "#1d1c1a"},
-          "encoding": {"x": {"value": 115}, "text": {"field": "short_name"}}
+          "encoding": {"x": {"value": 115}, "text": {"field": "learning_area"}}
         },
         {
           "mark": {"type": "text", "dy": 9, "fontSize": 11, "color": "#807e78"},
@@ -120,7 +117,7 @@
       "height": {"step": 40},
       "encoding": {
         "y": {
-          "field": "short_name",
+          "field": "learning_area",
           "type": "nominal",
           "sort": {"field": "abs_gap", "order": "descending"},
           "axis": null

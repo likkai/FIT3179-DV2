@@ -2,10 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "State Breakdown of National Senior Secondary Enrolment Growth",
   "title": {
-    "text": "State Breakdown of National Senior Secondary Enrolment Growth",
+    "text": "Which States Drove the Net Change in Senior Enrolments?",
     "fontSize": 17,
     "anchor": "start",
-    "subtitle": []
+    "subtitle": ["Breakdown of student enrolment gains and losses by state"]
   },
 
   "width": "container",
@@ -112,7 +112,7 @@
     "x": {
       "field": "bar_label",
       "type": "ordinal",
-      "title": "Australian State",
+      "title": "Australian State and Territory",
       "sort": {"field": "bar_order", "op": "min"},
       "axis": {
         "labelAngle": 0,

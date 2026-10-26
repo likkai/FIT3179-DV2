@@ -2,10 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Proportion of Year 12 students enrolled in each learning area in 2010 and 2024",
   "title": {
-    "text": "Proportion of Year 12 students enrolled in each learning area in 2010 and 2024",
+    "text": "Which Learning Areas Are Losing Students?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["pp = percentage points", "Hover a line to highlight it"]
+    "subtitle": ["Change in Year 12 student enrolment proportion", "pp = percentage points"]
   },
 
   "width": "container",
