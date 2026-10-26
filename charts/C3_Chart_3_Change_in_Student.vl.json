@@ -12,7 +12,7 @@
   "height": "container",
   "padding": {"left": 10, "right": 20, "top": 10, "bottom": 10},
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+    "url": "data/senior_numbers_students.csv",
     "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
   },
 

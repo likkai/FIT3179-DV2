@@ -9,7 +9,7 @@
   },
 
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_senior_enrolments.csv",
+    "url": "data/aus_senior_enrolments.csv",
     "format": {"parse": {"year": "number", "enrolments": "number"}}
   },
 

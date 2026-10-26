@@ -12,7 +12,7 @@
   "height": "container",
   "autosize": {"type": "fit", "contains": "padding"},
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/acara_year12_subject_enrolments.csv",
+    "url": "data/acara_year12_subject_enrolments.csv",
     "format": {"parse": {"year": "number", "proportion_pct": "number"}}
   },
 

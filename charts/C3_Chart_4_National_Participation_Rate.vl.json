@@ -17,7 +17,7 @@
   "autosize": {"type": "fit", "contains": "padding"},
   "projection": {"type": "identity", "reflectY": true},
   "data": {
-    "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_senior_enrolments.csv",
+    "url": "data/aus_senior_enrolments.csv",
     "format": {"parse": {"year": "number", "enrolments": "number"}}
   },
 
@@ -91,7 +91,7 @@
       "lookup": "state",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv"
+          "url": "data/aus_states_location.csv"
         },
         "key": "state",
         "fields": ["state_name", "symbol_lon", "symbol_lat"]
@@ -123,7 +123,7 @@
       "lookup": "state_year_key",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/aus_states_noncontiguous.geojson",
+          "url": "aus_states_noncontiguous.geojson",
           "format": {"type": "json", "property": "features"}
         },
         "key": "properties.state_year"

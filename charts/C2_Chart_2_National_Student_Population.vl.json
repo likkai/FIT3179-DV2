@@ -15,7 +15,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+        "url": "australia_states.topojson",
         "format": {"type": "topojson", "feature": "states"}
       },
       "mark": {"type": "geoshape", "fill": "#e9e7e1", "stroke": "#fbfaf7", "strokeWidth": 1}
@@ -23,7 +23,7 @@
     {
       "description": "Change in senior secondary students.",
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+        "url": "data/senior_numbers_students.csv",
         "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
       },
       "transform": [
@@ -45,7 +45,7 @@
           "lookup": "state_territory",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/australia_states.topojson",
+              "url": "australia_states.topojson",
               "format": {"type": "topojson", "feature": "states"}
             },
             "key": "properties.state_name"
@@ -80,7 +80,7 @@
     {
       "description": "State code and change.",
       "data": {
-        "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/senior_numbers_students.csv",
+        "url": "data/senior_numbers_students.csv",
         "format": {"parse": {"calendar_year": "number", "student_count": "number"}}
       },
       "transform": [
@@ -102,7 +102,7 @@
           "lookup": "state_territory",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/likkai/FIT3179-DV2/refs/heads/main/data/aus_states_location.csv",
+              "url": "data/aus_states_location.csv",
               "format": {"parse": {"symbol_lon": "number", "symbol_lat": "number"}}
             },
             "key": "state_name",
