@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DV2</title>
+  <meta name="description" content="What Australian senior secondary students choose to study, and where it leads: university, jobs and pay.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;600;700&display=swap">
+
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/magazine.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@6.4.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.5.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <noscript><p style="padding:24px">This page needs JavaScript to draw its charts.</p></noscript>
+
+  <script src="js/charts.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/parts.js"></script>
+  <script src="js/layout-magazine.js"></script>
+  <script>
+    MagazineLayout.render(document.getElementById("app"));
+    Dashboard.embedAll();
+    PageUI.progress();
+  </script>
+</body>
+</html>

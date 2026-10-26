@@ -1,0 +1,32 @@
+:root {
+  /* Page */
+  --page-width: 1200px;
+  --page-pad: 32px;
+  --grid-gap: 24px;
+
+  /* Colour */
+  --paper: #f7f5ee;
+  --card: #ffffff;
+  --ink: #1d1c1a;
+  --ink-soft: #55534c;
+  --line: #e3e0d5;
+  --line-strong: #cfcbbd;
+
+  /* Chapter colour (one colour per chapter) */
+  --accent-1: #2166ac;
+  --accent-2: #b35806;
+  --accent-3: #1b7f79;
+  --accent-4: #6a51a3;
+  --accent-5: #a63a2b;
+
+  /* Font type */
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --text-base: 17px;
+  --line-height: 1.55;
+  --measure: 62ch;
+
+  /* Shape */
+  --radius: 6px;
+  --shadow: 0 1px 2px rgba(29, 28, 26, 0.06);
+}

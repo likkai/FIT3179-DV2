@@ -1,0 +1,32 @@
+.chapter { scroll-margin-top: 16px; }
+
+/* Hero */
+.mag-hero-wrap { padding-top: 32px; }
+.mag-hero { background: var(--ink); color: #f7f5ee; border-radius: 10px; padding: 52px 52px 44px; }
+.mag-hero .eyebrow { color: #b9b7ae; display: block; margin-bottom: 18px; }
+.mag-hero__title { font-size: 58px; line-height: 1.08; max-width: 19ch; margin-bottom: 20px; }
+.mag-hero__deck { font-size: 21px; line-height: 1.5; color: #d6d3c8; max-width: 56ch; margin-bottom: 36px; }
+.mag-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--grid-gap); border-top: 1px solid #4a4842; padding-top: 28px; }
+.mag-stat__value { font-family: var(--font-display); font-weight: 600; font-size: 40px; line-height: 1; color: #ffffff; }
+.mag-stat__label { margin-top: 10px; font-size: 15px; line-height: 1.35; color: #b9b7ae; }
+
+/* Chapter chips */
+.ribbon { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+.ribbon a { display: flex; align-items: baseline; gap: 8px; padding: 12px 14px; background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--accent); border-radius: var(--radius); text-decoration: none; font-weight: 600; font-size: 15px; box-shadow: var(--shadow); }
+.ribbon a span { font-family: var(--font-display); color: var(--accent); }
+.ribbon a:hover { background: #fbfaf6; }
+
+/* Chapter (story tile + chart block) */
+.mag-chapter { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: var(--grid-gap); margin-top: 72px; align-items: start; }
+.mag-chapter.is-flipped { grid-template-columns: minmax(0, 1fr) 320px; }
+.mag-chapter.is-flipped .mag-tile { order: 2; }
+.mag-tile { position: sticky; top: 24px; background: var(--accent); color: #ffffff; border-radius: 10px; }
+.mag-tile__inner { padding: 30px 28px 28px; }
+.mag-tile__num { display: block; font-family: var(--font-display); font-size: 84px; line-height: 1; opacity: 0.9; margin-bottom: 14px; }
+.mag-tile__title { font-size: 32px; margin-bottom: 14px; }
+.mag-tile__lead { font-size: 17px; line-height: 1.5; margin-bottom: 22px; }
+.mag-tile__takeaway { border-top: 1px solid rgba(255, 255, 255, 0.5); padding-top: 16px; font-size: 17px; line-height: 1.45; font-weight: 600; }
+.mag-tile__takeaway span { display: block; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700; opacity: 0.85; margin-bottom: 6px; }
+.mag-body { min-width: 0; }
+.mag-row { margin-bottom: var(--grid-gap); }
+.mag-chapter .card { border-top: 4px solid var(--accent); }
