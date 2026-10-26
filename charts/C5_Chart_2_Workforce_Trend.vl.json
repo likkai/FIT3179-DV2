@@ -4,7 +4,7 @@
     "text": "Where Are the Jobs for Each University Field?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["Colour shows change in vacancies since 2019"]
+    "subtitle": ["Change in job vacancies by state since 2019"]
   },
 
   "width": "container",
@@ -19,7 +19,7 @@
   "params": [
     {
       "name": "selected_field",
-      "value": "Information Technology",
+      "value": "Engineering and Related Technologies",
       "bind": {
         "input": "select",
         "options": [
@@ -207,7 +207,7 @@
           {"field": "change_pct", "title": "Change since 2019 (%)", "format": "+.0f"},
           {
             "field": "share_pct",
-            "title": "Share of all vacancies in the state (%)",
+            "title": "Share of vacancies in the state (%)",
             "format": ".1f"
           }
         ]
@@ -233,7 +233,23 @@
             "value": "#ffffff"
           },
           "value": "#1d1c1a"
-        }
+        },
+        "tooltip": [
+          {"field": "state_name", "title": "State"},
+          {"field": "occupation_group", "title": "Matching occupations"},
+          {
+            "field": "vacancies_monthly_average",
+            "title": "Vacancies per month, 2025",
+            "format": ",.0f"
+          },
+          {"field": "vacancies_2019", "title": "Vacancies per month, 2019", "format": ",.0f"},
+          {"field": "change_pct", "title": "Change since 2019 (%)", "format": "+.0f"},
+          {
+            "field": "share_pct",
+            "title": "Share of vacancies in the state (%)",
+            "format": ".1f"
+          }
+        ]
       }
     }
   ]

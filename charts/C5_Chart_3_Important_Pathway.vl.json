@@ -4,7 +4,7 @@
     "text": "Is University the Only Route in Each Field?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": []
+    "subtitle": ["Share of tertiary enrolments across different fields"]
   },
 
   "width": "container",
@@ -57,10 +57,10 @@
     {
       "calculate": "indexof(['Vocational', 'University'], datum.pathway_type)",
       "as": "pathway_order"
-    }
+    },
+    {"calculate": "format(datum.pathway_pct, '.0f') + '%'", "as": "pathway_pct_label"}
   ],
 
-  "mark": {"type": "bar", "stroke": "#ffffff", "strokeWidth": 1},
   "encoding": {
     "y": {
       "field": "field",
@@ -74,29 +74,58 @@
         "ticks": false,
         "domain": false
       }
+    }
+  },
+
+  "layer": [
+    {
+      "mark": {"type": "bar", "stroke": "#ffffff", "strokeWidth": 1},
+      "encoding": {
+        "x": {
+          "field": "pathway_pct",
+          "type": "quantitative",
+          "title": "Share of people studying in the field (%)",
+          "stack": "zero",
+          "scale": {"domain": [0, 100]},
+          "axis": {"grid": true, "gridColor": "#eeede8"}
+        },
+        "color": {
+          "field": "pathway_type",
+          "type": "nominal",
+          "title": null,
+          "sort": ["Vocational", "University"],
+          "scale": {"domain": ["Vocational", "University"], "range": ["#ddcc77", "#14284b"]},
+          "legend": {"orient": "bottom", "direction": "horizontal", "labelFontSize": 12}
+        },
+        "order": {"field": "pathway_order", "type": "quantitative"},
+        "tooltip": [
+          {"field": "field", "title": "Field"},
+          {"field": "pathway_type", "title": "Pathway"},
+          {"field": "pathway_total_label", "title": "People studying"},
+          {"field": "pathway_pct", "title": "Share of field (%)", "format": ".1f"}
+        ]
+      }
     },
-    "x": {
-      "field": "pathway_pct",
-      "type": "quantitative",
-      "title": "Share of people studying in the field (%)",
-      "stack": "zero",
-      "scale": {"domain": [0, 100]},
-      "axis": {"grid": true, "gridColor": "#eeede8"}
-    },
-    "color": {
-      "field": "pathway_type",
-      "type": "nominal",
-      "title": null,
-      "sort": ["Vocational", "University"],
-      "scale": {"domain": ["Vocational", "University"], "range": ["#ddcc77", "#14284b"]},
-      "legend": {"orient": "bottom", "direction": "horizontal", "labelFontSize": 12}
-    },
-    "order": {"field": "pathway_order", "type": "quantitative"},
-    "tooltip": [
-      {"field": "field", "title": "Field"},
-      {"field": "pathway_type", "title": "Pathway"},
-      {"field": "pathway_total_label", "title": "People studying"},
-      {"field": "pathway_pct", "title": "Share of field (%)", "format": ".1f"}
-    ]
-  }
+    {
+      "transform": [{"filter": "datum.pathway_type === 'Vocational'"}],
+      "mark": {
+        "type": "text",
+        "fontSize": 11,
+        "fontWeight": 700,
+        "color": "#1d1c1a",
+        "align": "right",
+        "dx": -3
+      },
+      "encoding": {
+        "x": {"field": "pathway_pct", "type": "quantitative"},
+        "text": {"field": "pathway_pct_label"},
+        "tooltip": [
+          {"field": "field", "title": "Field"},
+          {"field": "pathway_type", "title": "Pathway"},
+          {"field": "pathway_total_label", "title": "People studying"},
+          {"field": "pathway_pct", "title": "Share of field (%)", "format": ".1f"}
+        ]
+      }
+    }
+  ]
 }
