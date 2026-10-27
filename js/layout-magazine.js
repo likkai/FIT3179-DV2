@@ -31,6 +31,8 @@ const MagazineLayout = {
         ${d.chapters.map((c, i) => MagazineLayout.chapter(c, i)).join("")}
       </main>
 
+      ${PageParts.conclusion(d.conclusion)}
+
       ${PageParts.footer(d.footer)}`;
   },
 

@@ -65,16 +65,36 @@ const DASHBOARD = {
     },
   ],
 
+  conclusion: {
+    label: "Conclusion",
+    title: "Key takeaways",
+    lead: "Senior students are choosing from a narrower range of subjects, and where they live, their gender and what they plan to do after school all shape those choices.",
+  },
+
   footer: {
     authorLabel: "Author",
     author: [
       "Brand Chong Lik Kai",
       "Student ID: 35498846"
     ],
-    sourcesLabel: "Sources and credits",
+    sourcesLabel: "Data Sources",
     sources: [
       "<a href=\"https://www.acara.edu.au/reporting/national-report-on-schooling-in-australia/year-12-subject-enrolments\">https://www.acara.edu.au/reporting/national-report-on-schooling-in-australia/year-12-subject-enrolments</a>",
+      "<a href=\"https://acara.edu.au/reporting/national-report-on-schooling-in-australia/student-numbers\">https://acara.edu.au/reporting/national-report-on-schooling-in-australia/student-numbers</a>",
+      "<a href=\"https://www.data.nsw.gov.au/data/en/dataset/nsw-education-course-enrolments-in-year-11-and-year-12-subjects-in-nsw-government-schools\">https://www.data.nsw.gov.au/data/en/dataset/nsw-education-course-enrolments-in-year-11-and-year-12-subjects-in-nsw-government-schools</a>",
+      "<a href=\"https://www.vcaa.vic.edu.au/administration/school-administration/performance-senior-secondary/performance-senior-secondary\">https://www.vcaa.vic.edu.au/administration/school-administration/performance-senior-secondary/performance-senior-secondary</a>",
+      "<a href=\"https://www.qcaa.qld.edu.au/news-data/statistics/statistics-from-2020\">https://www.qcaa.qld.edu.au/news-data/statistics/statistics-from-2020</a>",
+      "<a href=\"https://www.sace.sa.edu.au/web/sace-data/subject-enrolments/stage-1\">https://www.sace.sa.edu.au/web/sace-data/subject-enrolments/stage-1</a>",
+      "<a href=\"https://www.scsa.wa.edu.au/publications/reports/statistical-reports/secondary-education-statistics\">https://www.scsa.wa.edu.au/publications/reports/statistical-reports/secondary-education-statistics</a>",
+      "<a href=\"https://www.tasc.tas.gov.au/about/data/state-level-education-outcomes-data\">https://www.tasc.tas.gov.au/about/data/state-level-education-outcomes-data</a>",
+      "<a href=\"https://education.nt.gov.au/statistics-research-and-strategies/ntcet-statistics\">https://education.nt.gov.au/statistics-research-and-strategies/ntcet-statistics</a>",
+      "<a href=\"https://www.bsss.act.edu.au/act_senior_secondary_system/certification-data\">https://www.bsss.act.edu.au/act_senior_secondary_system/certification-data</a>",
+      "<a href=\"https://www.education.gov.au/higher-education-statistics/resources/2024-student-summary-time-series\">https://www.education.gov.au/higher-education-statistics/resources/2024-student-summary-time-series</a>",
+      "<a href=\"https://www.jobsandskills.gov.au/data/internet-vacancy-index\">https://www.jobsandskills.gov.au/data/internet-vacancy-index</a>",
+      "<a href=\"https://www.abs.gov.au/statistics/people/education/education-and-work-australia/latest-release\">https://www.abs.gov.au/statistics/people/education/education-and-work-australia/latest-release</a>",
+      "<a href=\"https://data.gov.au/data/dataset/taxation-statistics-2023-24\">https://data.gov.au/data/dataset/taxation-statistics-2023-24</a>",
+      "<a href=\"https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-4-july-2026-june-2031/access-and-downloads/digital-boundary-files\">https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-4-july-2026-june-2031/access-and-downloads/digital-boundary-files</a>",
     ],
-    note: "",
+    note: "27 October 2026",
   },
 };

@@ -21,6 +21,7 @@
 
 /* Chapter (story tile + chart block) */
 .mag-chapter { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: var(--grid-gap); margin-top: 72px; align-items: start; }
+main > .mag-chapter:first-child { margin-top: 15px; }
 .mag-chapter.is-flipped { grid-template-columns: minmax(0, 1fr) 320px; }
 .mag-chapter.is-flipped .mag-tile { order: 2; }
 .mag-tile { position: sticky; top: 24px; background: var(--accent); color: #ffffff; border-radius: 10px; }

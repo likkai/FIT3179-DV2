@@ -1,4 +1,16 @@
 const PageParts = {
+  /* Conclusion */
+  conclusion(c) {
+    return `
+      <section class="conclusion page" id="conclusion">
+        <div class="conclusion__box">
+          <span class="eyebrow">${c.label}</span>
+          <h2 class="conclusion__title">${c.title}</h2>
+          <p class="conclusion__lead">${c.lead}</p>
+        </div>
+      </section>`;
+  },
+
   /* Footer */
   footer(f) {
     return `

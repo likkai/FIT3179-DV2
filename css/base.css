@@ -67,7 +67,7 @@ body { min-width: var(--page-width); }
 .stat__label { margin-top: 8px; font-size: 15px; line-height: 1.35; color: var(--ink-soft); }
 
 /* Footer */
-.footer { border-top: 1px solid var(--line-strong); margin-top: 72px; padding: 32px 0 48px; }
+.footer { margin-top: 0; padding: 32px 0 48px; }
 .footer__grid { display: grid; grid-template-columns: 1fr; gap: var(--grid-gap); }
 .footer__block h3 { font-family: var(--font-body); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 8px; }
 .footer__fill ol { margin: 0; padding-left: 20px; }
@@ -89,3 +89,10 @@ body { min-width: var(--page-width); }
 .card input[type="range"] { accent-color: var(--accent, var(--ink)); }
 .card__chart details { display: none; }
 .card .vega-bindings:empty { display: none; }
+
+/* Conclusion (same look as the hero box) */
+.conclusion { margin-top: 72px; }
+.conclusion__box { background: var(--ink); color: #f7f5ee; border-radius: 10px; padding: 52px 52px 44px; }
+.conclusion__box .eyebrow { color: #b9b7ae; display: block; margin-bottom: 18px; }
+.conclusion__title { font-family: Georgia, "Times New Roman", Times, serif; font-size: 58px; line-height: 1.08; margin-bottom: 20px; }
+.conclusion__lead { font-size: 21px; line-height: 1.5; color: #d6d3c8; max-width: 23em; margin: 0; }
