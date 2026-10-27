@@ -66,7 +66,14 @@ const DASHBOARD = {
 
   footer: {
     authorLabel: "Author",
+    author: [
+      "Brand Chong Lik Kai",
+      "Student ID: 35498846"
+    ],
     sourcesLabel: "Sources and credits",
+    sources: [
+      "<a href=\"https://www.acara.edu.au/reporting/national-report-on-schooling-in-australia/year-12-subject-enrolments\">https://www.acara.edu.au/reporting/national-report-on-schooling-in-australia/year-12-subject-enrolments</a>",
+    ],
     note: "",
   },
 };

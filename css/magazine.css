@@ -5,8 +5,10 @@
 .mag-hero { background: var(--ink); color: #f7f5ee; border-radius: 10px; padding: 52px 52px 44px; }
 .mag-hero .eyebrow { color: #b9b7ae; display: block; margin-bottom: 18px; }
 .mag-hero__title { font-size: 58px; line-height: 1.08; max-width: 19ch; margin-bottom: 20px; }
-.mag-hero__deck { font-size: 21px; line-height: 1.5; color: #d6d3c8; max-width: 56ch; margin-bottom: 36px; }
-.mag-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--grid-gap); border-top: 1px solid #4a4842; padding-top: 28px; }
+.mag-hero__deck { font-size: 21px; line-height: 1.5; color: #d6d3c8; max-width: 52ch; margin-bottom: 36px; }
+.mag-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; border-top: 1px solid #4a4842; padding-top: 28px; }
+.mag-stat { padding: 0 12px 0 16px; border-left: 1px solid #4a4842; }
+.mag-stat:last-child { border-right: 1px solid #4a4842; }
 .mag-stat__value { font-family: var(--font-display); font-weight: 600; font-size: 40px; line-height: 1; color: #ffffff; }
 .mag-stat__label { margin-top: 10px; font-size: 15px; line-height: 1.35; color: #b9b7ae; }
 
