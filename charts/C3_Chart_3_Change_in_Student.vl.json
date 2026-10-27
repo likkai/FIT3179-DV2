@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "State Breakdown of National Senior Secondary Enrolment Growth",
+  "description": "Which States Drove the Net Change in Senior Enrolments?",
   "title": {
     "text": "Which States Drove the Net Change in Senior Enrolments?",
-    "fontSize": 17,
+    "fontSize": 19,
     "anchor": "start",
     "subtitle": ["Breakdown of student enrolment gains and losses by state", "Data from 2021 to 2025"]
   },
@@ -127,7 +127,7 @@
       "sort": {"field": "bar_order", "op": "min"},
       "axis": {
         "labelAngle": 0,
-        "labelFontSize": 12,
+        "labelFontSize": 14,
         "labelFontWeight": 700,
         "ticks": false,
         "domain": false
@@ -169,7 +169,7 @@
     {
       "mark": {
         "type": "text",
-        "fontSize": 12,
+        "fontSize": 14,
         "fontWeight": 700,
         "color": "#1d1c1a",
         "dy": {"expr": "datum.bar_draw_end >= datum.bar_start ? -7 : 14"}

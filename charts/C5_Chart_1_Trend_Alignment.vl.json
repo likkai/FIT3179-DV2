@@ -4,7 +4,7 @@
   "title": {
     "text": "How Far Apart Are School and University Trends?",
     "anchor": "start",
-    "fontSize": 17,
+    "fontSize": 19,
     "subtitle": ["Change in school and university enrolments by subject group", "pp = percentage points"]
   },
 
@@ -100,7 +100,7 @@
       "title": "Subjects",
       "sort": {"field": "gap_pp", "op": "mean", "order": "descending"},
       "axis": {
-        "labelFontSize": 12,
+        "labelFontSize": 14,
         "labelFontWeight": 600,
         "ticks": false,
         "domain": false
@@ -164,7 +164,7 @@
     {
       "mark": {
         "type": "text",
-        "fontSize": 11,
+        "fontSize": 14,
         "fontWeight": 700,
         "color": "#1d1c1a",
         "align": {"expr": "datum.change_pct === datum.row_min ? 'right' : 'left'"},

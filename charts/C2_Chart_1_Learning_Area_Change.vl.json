@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Proportion of Year 12 students enrolled in each learning area in 2015 and 2024",
+  "description": "Which Learning Areas Are Losing Students?",
   "title": {
     "text": "Which Learning Areas Are Losing Students?",
     "anchor": "start",
-    "fontSize": 17,
+    "fontSize": 19,
     "subtitle": ["Change in Year 12 student enrolment proportion", "pp = percentage points"]
   },
 
@@ -142,7 +142,7 @@
           "as": "label"
         }
       ],
-      "mark": {"type": "text", "align": "right", "dx": -10, "fontSize": 12},
+      "mark": {"type": "text", "align": "right", "dx": -10, "fontSize": 14},
       "encoding": {
         "y": {"field": "proportion_pct", "type": "quantitative"},
         "text": {"field": "label"},
@@ -157,7 +157,13 @@
           "as": "label"
         }
       ],
-      "mark": {"type": "text", "align": "left", "dx": 10, "fontSize": 12},
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "fontSize": 14,
+        "dy": {"expr": "datum.learning_area === 'Society and Environment' ? -4 : (datum.learning_area === 'Science' ? 4 : 0)"}
+      },
       "encoding": {
         "y": {"field": "proportion_pct", "type": "quantitative"},
         "text": {"field": "label"},

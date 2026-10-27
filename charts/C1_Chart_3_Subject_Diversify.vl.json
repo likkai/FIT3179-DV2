@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Change in HHI of Year 12 enrolments",
   "title": {
     "text": "Change in HHI of Year 12 enrolments",
     "subtitle": [
@@ -8,12 +9,7 @@
       "2015 HHI = 1,546"
     ],
     "anchor": "start",
-    "fontSize": 17,
-    "subtitleColor": "#52514e",
-    "subtitleFontSize": 12,
-    "subtitleFontWeight": "normal",
-    "subtitlePadding": 6,
-    "offset": 16
+    "fontSize": 19
   },
 
   "width": "container",
@@ -123,7 +119,7 @@
         },
         {"calculate": "datum.change + (datum.year === 2020 ? 10 : 7)", "as": "label_y"}
       ],
-      "mark": {"type": "text", "color": "#52514e", "fontSize": 12, "baseline": "middle"},
+      "mark": {"type": "text", "color": "#52514e", "fontSize": 14, "baseline": "middle"},
       "encoding": {
         "x": {"field": "year", "type": "quantitative"},
         "y": {"field": "label_y", "type": "quantitative"},
@@ -138,7 +134,7 @@
         "baseline": "top",
         "dy": 42,
         "color": "#898781",
-        "fontSize": 10,
+        "fontSize": 14,
         "lineHeight": 15,
         "text": [
           "Learning areas included: English, Mathematics, Society and Environment, Science,",
@@ -149,5 +145,5 @@
     }
   ],
 
-  "config": {"view": {"stroke": null}, "font": "Helvetica, Arial, sans-serif"}
+  "config": {"view": {"stroke": null}}
 }

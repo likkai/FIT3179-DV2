@@ -1,9 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "How Much Do Jobs in Each University Field Pay?",
   "title": {
     "text": "How Much Do Jobs in Each University Field Pay?",
     "anchor": "start",
-    "fontSize": 17,
+    "fontSize": 19,
     "subtitle": [
       "Average income by state for graduates in selected field",
       "Data from 2023 to 2024"
@@ -114,7 +115,8 @@
             "titleOrient": "left",
             "titlePadding": 10,
             "format": "$,.0f",
-            "titleFontSize": 11,
+            "values": [60000, 100000, 140000],
+            "titleFontSize": 13,
             "labelFontSize": 11
           }
         },
@@ -154,7 +156,7 @@
       ],
       "mark": {
         "type": "text",
-        "fontSize": 12,
+        "fontSize": 13,
         "fontWeight": 600,
         "baseline": "middle",
         "align": {"expr": "datum.state === 'ACT' ? 'left' : 'center'"},

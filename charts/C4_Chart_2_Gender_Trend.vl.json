@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Heat strip: each learning area's female share of enrolments (minus 50) by year.",
+  "description": "How Has the Learning Area Gender Gap Evolved Over Time?",
   "title": {
     "text": "How Has the Learning Area Gender Gap Evolved Over Time?",
-    "fontSize": 17,
+    "fontSize": 19,
     "anchor": "start",
     "subtitle": [
       "Female share shift from gender balance (pp = percentage points)",
@@ -89,7 +89,7 @@
       "title": "Year",
       "axis": {
         "labelAngle": 0,
-        "labelFontSize": 12,
+        "labelFontSize": 14,
         "ticks": false,
         "domain": false,
         "orient": "top"
@@ -101,10 +101,17 @@
       "title": "Learning Area",
       "sort": {"field": "gap_from_balance_pp", "op": "mean", "order": "descending"},
       "axis": {
-        "labelFontSize": 12,
+        "labelFontSize": 14,
         "labelFontWeight": 600,
         "ticks": false,
         "domain": false,
+        "labelOffset": {
+          "condition": {
+            "test": "indexof(['Health and Physical Education', 'Humanities and Social Sciences', 'Technology and Business'], datum.value) >= 0",
+            "value": -8
+          },
+          "value": 0
+        },
         "labelExpr": "({'Health and Physical Education': ['Health and', 'Physical Education'], 'Humanities and Social Sciences': ['Humanities and', 'Social Sciences'], 'Technology and Business': ['Technology and', 'Business']})[datum.label] || datum.label"
       }
     }
@@ -127,7 +134,8 @@
             "orient": "bottom",
             "direction": "horizontal",
             "format": "+d",
-            "titleFontSize": 11,
+            "titleFontSize": 13,
+            "titleLimit": 400,
             "labelFontSize": 11,
             "gradientLength": 200
           }
@@ -142,7 +150,7 @@
       }
     },
     {
-      "mark": {"type": "text", "fontSize": 11, "fontWeight": 600},
+      "mark": {"type": "text", "fontSize": 14, "fontWeight": 600},
       "encoding": {
         "text": {"field": "gap_label"},
         "tooltip": [

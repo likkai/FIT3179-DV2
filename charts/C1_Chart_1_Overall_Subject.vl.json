@@ -3,7 +3,7 @@
   "description": "Year 12 Enrolment by Learning Area",
   "title": {
     "text": "Year 12 Enrolment by Learning Area",
-    "fontSize": 17,
+    "fontSize": 19,
     "anchor": "start",
     "subtitle": ["Students can be counted in multiple areas", "Bars are not shares of a total"]
   },
@@ -41,7 +41,7 @@
         "titlePadding": 20,
         "domain": false,
         "ticks": false,
-        "labelFontSize": 11,
+        "labelFontSize": 14,
         "labelPadding": 8,
         "labelExpr": "datum.label === 'Health and Physical Education' ? ['Health and', 'Physical Education'] : (datum.label === 'Languages other than English' ? ['Languages other', 'than English'] : datum.label)"
       }
@@ -105,7 +105,7 @@
     },
     {
       "description": "Value labels",
-      "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 12, "color": "#1d1c1a"},
+      "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 14, "color": "#1d1c1a"},
       "encoding": {
         "x": {
           "field": "proportion_pct",

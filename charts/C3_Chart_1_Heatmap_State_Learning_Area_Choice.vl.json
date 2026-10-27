@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "How Each State's Subject Mix Compares with the National Average",
+  "description": "Which States Deviate Most from National Subject Averages?",
   "title": {
     "text": "Which States Deviate Most from National Subject Averages?",
-    "fontSize": 17,
+    "fontSize": 19,
     "subtitle": [
       "Enrolment share from national average (pp = percentage points)",
       "Data from 2021 to 2025"
@@ -96,7 +96,7 @@
       "axis": {
         "orient": "top",
         "labelAngle": 0,
-        "labelFontSize": 13,
+        "labelFontSize": 14,
         "labelFontWeight": 700,
         "labelColor": "#1d1c1a",
         "domain": false,
@@ -109,8 +109,13 @@
       "title": "Learning Area",
       "sort": {"field": "average", "op": "mean", "order": "descending"},
       "axis": {
-        "labelFontSize": 12.5,
+        "labelFontSize": 14,
         "labelColor": "#1d1c1a",
+        "labelExpr": "({'Humanities and Social Sciences': ['Humanities and', 'Social Sciences']})[datum.label] || datum.label",
+        "labelOffset": {
+          "condition": {"test": "datum.value === 'Humanities and Social Sciences'", "value": -8},
+          "value": 0
+        },
         "domain": false,
         "ticks": false,
         "labelPadding": 8,
@@ -162,7 +167,7 @@
       }
     },
     {
-      "mark": {"type": "text", "fontSize": 12, "fontWeight": 600},
+      "mark": {"type": "text", "fontSize": 14, "fontWeight": 600},
       "encoding": {
         "text": {"field": "cell_label", "type": "nominal"},
         "color": {

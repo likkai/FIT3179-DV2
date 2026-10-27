@@ -1,9 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Where Are the Jobs for Each University Field?",
   "title": {
     "text": "Where Are the Jobs for Each University Field?",
     "anchor": "start",
-    "fontSize": 17,
+    "fontSize": 19,
     "subtitle": ["Change in job vacancies by state", "Data from 2019 to 2025"]
   },
 
@@ -170,7 +171,7 @@
             "title": ["Vacancies per", "month, 2025"],
             "orient": "right",
             "symbolFillColor": "#b9b7ae",
-            "titleFontSize": 11,
+            "titleFontSize": 13,
             "labelFontSize": 11
           }
         },
@@ -191,7 +192,7 @@
             "titleOrient": "left",
             "titlePadding": 10,
             "format": "+d",
-            "titleFontSize": 11,
+            "titleFontSize": 13,
             "labelFontSize": 11
           }
         },
@@ -216,7 +217,7 @@
     {
       "mark": {
         "type": "text",
-        "fontSize": 10.5,
+        "fontSize": 13,
         "fontWeight": 700,
         "align": "center",
         "baseline": "middle",

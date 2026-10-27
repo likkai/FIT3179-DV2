@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Percentage change in the number of senior secondary students.",
+  "description": "Which States Are Driving Senior Secondary Enrolment Growth?",
   "title": {
     "text": "Which States Are Driving Senior Secondary Enrolment Growth?",
     "anchor": "start",
     "subtitle": ["Change in senior secondary student population nationally"],
-    "fontSize": 17
+    "fontSize": 19
   },
 
   "width": "container",
@@ -144,7 +144,7 @@
       ],
       "mark": {
         "type": "text",
-        "fontSize": 12,
+        "fontSize": 13,
         "fontWeight": 600,
         "align": {"expr": "datum.state === 'ACT' ? 'left' : 'center'"},
         "dx": {"expr": "datum.state === 'ACT' ? 6 : 0"}

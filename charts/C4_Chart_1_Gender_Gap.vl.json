@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Male vs Female Year 12 Students Enrolled in Each Learning Area",
+  "description": "How Do Learning Area Choices Divide Among Genders?",
   "title": {
     "text": "How Do Learning Area Choices Divide Among Genders?",
-    "fontSize": 17,
+    "fontSize": 19,
     "anchor": "start",
     "subtitle": ["Change in Year 12 enrolment share between male and female", "pp = percentage points"]
   },
@@ -54,8 +54,8 @@
       "title": {
         "text": "Boys",
         "anchor": "end",
-        "fontSize": 14,
-        "font": "Source Sans 3",
+        "fontSize": 16,
+        "font": "\"Source Sans 3\", \"Segoe UI\", sans-serif",
         "fontWeight": 700,
         "color": "#6b7a1e"
       },
@@ -85,7 +85,7 @@
       "layer": [
         {"mark": {"type": "bar", "color": "#6b7a1e", "size": 22, "cornerRadiusEnd": 4}},
         {
-          "mark": {"type": "text", "align": "right", "dx": -5, "fontSize": 12, "color": "#1d1c1a"},
+          "mark": {"type": "text", "align": "right", "dx": -5, "fontSize": 14, "color": "#1d1c1a"},
           "encoding": {"text": {"field": "Male", "format": ".1f"}}
         }
       ]
@@ -103,11 +103,11 @@
       },
       "layer": [
         {
-          "mark": {"type": "text", "dy": -7, "fontSize": 13, "fontWeight": 600, "color": "#1d1c1a"},
+          "mark": {"type": "text", "dy": -8, "fontSize": 14, "fontWeight": 600, "color": "#1d1c1a"},
           "encoding": {"x": {"value": 115}, "text": {"field": "learning_area"}}
         },
         {
-          "mark": {"type": "text", "dy": 9, "fontSize": 11, "color": "#807e78"},
+          "mark": {"type": "text", "dy": 10, "fontSize": 14, "color": "#807e78"},
           "encoding": {"x": {"value": 115}, "text": {"field": "gap_label"}}
         }
       ]
@@ -116,8 +116,8 @@
       "title": {
         "text": "Girls",
         "anchor": "start",
-        "fontSize": 14,
-        "font": "Source Sans 3",
+        "fontSize": 16,
+        "font": "\"Source Sans 3\", \"Segoe UI\", sans-serif",
         "fontWeight": 700,
         "color": "#d6619b"
       },
@@ -147,7 +147,7 @@
       "layer": [
         {"mark": {"type": "bar", "color": "#d6619b", "size": 22, "cornerRadiusEnd": 4}},
         {
-          "mark": {"type": "text", "align": "left", "dx": 5, "fontSize": 12, "color": "#1d1c1a"},
+          "mark": {"type": "text", "align": "left", "dx": 5, "fontSize": 14, "color": "#1d1c1a"},
           "encoding": {"text": {"field": "Female", "format": ".1f"}}
         }
       ]

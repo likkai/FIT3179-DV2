@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Language's Share of Year 12 Enrolments in 2015 and 2024",
+  "description": "Which Languages Are Gaining Ground in Senior Secondary Study?",
   "title": {
     "text": "Which Languages Are Gaining Ground in Senior Secondary Study?",
     "subtitle": ["Change in share of Year 12 language enrolments", "pp = percentage points"],
     "anchor": "start",
-    "fontSize": 17
+    "fontSize": 19
   },
 
   "width": "container",
@@ -62,7 +62,7 @@
         "domain": false,
         "title": "Languages",
         "ticks": false,
-        "labelFontSize": 12.5,
+        "labelFontSize": 14,
         "labelColor": "#1d1c1a",
         "labelPadding": 8,
         "grid": true,
@@ -132,7 +132,7 @@
         {"calculate": "max(datum.start, datum.end)", "as": "label_x"},
         {"calculate": "format(datum.change, '+.1f') + ' pp'", "as": "change_label"}
       ],
-      "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 11.5, "color": "#52514e"},
+      "mark": {"type": "text", "align": "left", "dx": 12, "fontSize": 14, "color": "#52514e"},
       "encoding": {
         "x": {"field": "label_x", "type": "quantitative"},
         "text": {"field": "change_label"}
