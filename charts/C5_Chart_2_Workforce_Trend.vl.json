@@ -4,7 +4,7 @@
     "text": "Where Are the Jobs for Each University Field?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["Change in job vacancies by state since 2019"]
+    "subtitle": ["Change in job vacancies by state", "Data from 2019 to 2025"]
   },
 
   "width": "container",
@@ -229,7 +229,7 @@
         "text": {"field": "state"},
         "color": {
           "condition": {
-            "test": "datum.change_pct <= -30 || datum.change_pct >= 60",
+            "test": "datum.change_pct <= -30 || datum.change_pct >= 62",
             "value": "#ffffff"
           },
           "value": "#1d1c1a"

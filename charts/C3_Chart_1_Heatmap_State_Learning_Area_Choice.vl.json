@@ -4,7 +4,10 @@
   "title": {
     "text": "Which States Deviate Most from National Subject Averages?",
     "fontSize": 17,
-    "subtitle": ["Change in enrolment share from national average by state", "pp = percentage points"],
+    "subtitle": [
+      "Enrolment share from national average (pp = percentage points)",
+      "Data from 2021 to 2025"
+    ],
     "anchor": "start"
   },
 
@@ -132,7 +135,12 @@
           "field": "difference",
           "type": "quantitative",
           "title": "Compared with average (pp)",
-          "scale": {"domain": [-6.5, 0, 6.5], "interpolate": "lab", "range": ["#b35806", "#f7f5ee", "#2166ac"], "clamp": true},
+          "scale": {
+            "domain": [-6.5, 0, 6.5],
+            "interpolate": "lab",
+            "range": ["#b35806", "#f7f5ee", "#2166ac"],
+            "clamp": true
+          },
           "legend": {
             "orient": "bottom",
             "direction": "horizontal",

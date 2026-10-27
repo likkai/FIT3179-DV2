@@ -89,7 +89,7 @@
     },
     {"joinaggregate": [{"op": "min", "field": "change_pct", "as": "row_min"}], "groupby": ["group"]},
     {
-      "calculate": "indexof(['Engineering', 'Business', 'Accounting', 'Chemistry', 'Mathematics'], datum.group) < 0 ? '' : (round(datum.change_pct) === 0 ? '0' : format(datum.change_pct, '+.0f'))",
+      "calculate": "indexof(['Engineering', 'Business', 'Accounting', 'Mathematics'], datum.group) < 0 ? '' : (round(datum.change_pct) === 0 ? '0' : format(datum.change_pct, '+.0f'))",
       "as": "value_label"
     }
   ],

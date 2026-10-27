@@ -4,7 +4,7 @@
     "text": "Is University the Only Route in Each Field?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["Share of tertiary enrolments across different fields"]
+    "subtitle": ["Share of tertiary enrolments across different fields", "Data from 2025"]
   },
 
   "width": "container",
@@ -84,7 +84,7 @@
         "x": {
           "field": "pathway_pct",
           "type": "quantitative",
-          "title": "Share of people studying in the field (%)",
+          "title": "Percentage of share of people studying in the field",
           "stack": "zero",
           "scale": {"domain": [0, 100]},
           "axis": {"grid": true, "gridColor": "#eeede8"}

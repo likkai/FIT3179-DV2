@@ -7,8 +7,8 @@
     "anchor": "start",
     "subtitle": [
       "State areas scaled to senior student numbers",
-      "Uptake index, popularity of subject compared with average of states",
-      "Percentage in label is subject's share of that state's enrolments"
+      "Percentage in label is subject's share of that state's enrolments",
+      "Data from 2021 to 2025"
     ]
   },
 
@@ -159,7 +159,7 @@
             "clamp": true
           },
           "legend": {
-            "title": ["Uptake index", "(100 = average of states)"],
+            "title": ["Relative popularity", "(100 = average of states)"],
             "orient": "right",
             "titleFontSize": 11,
             "labelFontSize": 11,
@@ -170,7 +170,7 @@
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
           {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
           {
             "field": "enrolments_per_100_students",
             "title": "Enrolments per 100 senior students",
@@ -203,7 +203,7 @@
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
           {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
           {
             "field": "enrolments_per_100_students",
             "title": "Enrolments per 100 senior students",
@@ -236,7 +236,7 @@
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
           {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
           {
             "field": "enrolments_per_100_students",
             "title": "Enrolments per 100 senior students",
@@ -265,7 +265,7 @@
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
           {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
           {
             "field": "enrolments_per_100_students",
             "title": "Enrolments per 100 senior students",
@@ -294,7 +294,7 @@
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
           {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Uptake index", "format": ".0f"},
+          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
           {
             "field": "enrolments_per_100_students",
             "title": "Enrolments per 100 senior students",

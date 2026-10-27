@@ -17,6 +17,7 @@ const MagazineLayout = {
           <span class="eyebrow">FIT3179 Data Visualisation 2 &middot; Australia</span>
           <h1 class="mag-hero__title">${d.headline}</h1>
           <p class="mag-hero__deck">${d.deck}</p>
+          <p class="mag-hero__deck mag-hero__deck--period">${d.period}</p>
           <div class="mag-stats">
             ${d.stats.map((s) => `<div class="mag-stat"><div class="mag-stat__value">${s.value}</div><div class="mag-stat__label">${s.label}</div></div>`).join("")}
           </div>

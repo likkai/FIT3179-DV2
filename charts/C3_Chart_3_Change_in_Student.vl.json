@@ -5,7 +5,7 @@
     "text": "Which States Drove the Net Change in Senior Enrolments?",
     "fontSize": 17,
     "anchor": "start",
-    "subtitle": ["Breakdown of student enrolment gains and losses by state"]
+    "subtitle": ["Breakdown of student enrolment gains and losses by state", "Data from 2021 to 2025"]
   },
 
   "width": "container",
@@ -19,13 +19,13 @@
   "params": [
     {
       "name": "startYear",
-      "value": 2011,
-      "bind": {"input": "range", "min": 2006, "max": 2024, "step": 1, "name": "From year "}
+      "value": 2021,
+      "bind": {"input": "range", "min": 2021, "max": 2024, "step": 1, "name": "From year "}
     },
     {
       "name": "endYear",
-      "value": 2020,
-      "bind": {"input": "range", "min": 2007, "max": 2025, "step": 1, "name": "To year "}
+      "value": 2025,
+      "bind": {"input": "range", "min": 2022, "max": 2025, "step": 1, "name": "To year "}
     }
   ],
 
@@ -105,6 +105,17 @@
     {
       "calculate": "datum.is_national_total ? 100 : datum.share_of_net_change_pct",
       "as": "bar_share_pct"
+    },
+    {
+      "calculate": "max(abs(datum.bar_start), abs(datum.bar_end))",
+      "as": "bar_reach"
+    },
+    {
+      "joinaggregate": [{"op": "max", "field": "bar_reach", "as": "axis_reach"}]
+    },
+    {
+      "calculate": "datum.bar_start + (datum.bar_end >= datum.bar_start ? 1 : -1) * max(abs(datum.bar_end - datum.bar_start), datum.axis_reach * 0.0115)",
+      "as": "bar_draw_end"
     }
   ],
 
@@ -135,7 +146,7 @@
           "scale": {"padding": 20},
           "axis": {"format": "+,.0f", "grid": true, "gridColor": "#eeede8"}
         },
-        "y2": {"field": "bar_end"},
+        "y2": {"field": "bar_draw_end"},
         "color": {
           "field": "bar_type",
           "type": "nominal",
@@ -161,10 +172,10 @@
         "fontSize": 12,
         "fontWeight": 700,
         "color": "#1d1c1a",
-        "dy": {"expr": "datum.bar_end >= datum.bar_start ? -7 : 14"}
+        "dy": {"expr": "datum.bar_draw_end >= datum.bar_start ? -7 : 14"}
       },
       "encoding": {
-        "y": {"field": "bar_end", "type": "quantitative"},
+        "y": {"field": "bar_draw_end", "type": "quantitative"},
         "text": {"field": "bar_value", "type": "quantitative", "format": "+,.0f"}
       }
     },
