@@ -43,6 +43,13 @@
         "ticks": false,
         "labelFontSize": 14,
         "labelPadding": 8,
+        "labelOffset": {
+          "condition": {
+            "test": "datum.value === 'Health and Physical Education' || datum.value === 'Languages other than English'",
+            "value": -8
+          },
+          "value": 0
+        },
         "labelExpr": "datum.label === 'Health and Physical Education' ? ['Health and', 'Physical Education'] : (datum.label === 'Languages other than English' ? ['Languages other', 'than English'] : datum.label)"
       }
     }
