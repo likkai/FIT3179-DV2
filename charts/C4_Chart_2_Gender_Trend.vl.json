@@ -25,21 +25,21 @@
   "params": [
     {
       "name": "state_choice",
-      "value": "NSW, VIC, SA and WA (full series)",
+      "value": "Four states with complete data (New South Wales, Victoria, South Australia, Western Australia)",
       "bind": {
         "input": "select",
         "options": [
-          "NSW, VIC, SA and WA (full series)",
+          "Complete data (NSW, VIC, SA and WA)",
           "All states (coverage grows over time)",
-          "NSW",
-          "VIC",
-          "QLD",
-          "SA",
-          "WA",
-          "TAS",
-          "ACT"
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "South Australia",
+          "Western Australia",
+          "Tasmania",
+          "Australian Capital Territory"
         ],
-        "name": "States "
+        "name": "States included "
       }
     }
   ],
@@ -58,7 +58,7 @@
     {"filter": "datum.female + datum.male >= 50"},
     {"calculate": "datum.learning_area === 'The Arts' ? 'Arts' : datum.learning_area", "as": "group"},
     {
-      "filter": "state_choice === 'All states (coverage grows over time)' || (state_choice === 'NSW, VIC, SA and WA (full series)' && indexof(['NSW', 'VIC', 'SA', 'WA'], datum.state) >= 0) || datum.state === state_choice"
+      "filter": "state_choice === 'All states (coverage grows over time)' || (state_choice === 'Four states with complete data (New South Wales, Victoria, South Australia, Western Australia)' && indexof(['NSW', 'VIC', 'SA', 'WA'], datum.state) >= 0) || datum.state === ({'New South Wales': 'NSW', 'Victoria': 'VIC', 'Queensland': 'QLD', 'South Australia': 'SA', 'Western Australia': 'WA', 'Tasmania': 'TAS', 'Australian Capital Territory': 'ACT'})[state_choice]"
     },
     {
       "aggregate": [
