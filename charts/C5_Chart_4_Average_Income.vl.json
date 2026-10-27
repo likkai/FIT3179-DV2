@@ -4,7 +4,10 @@
     "text": "How Much Do Jobs in Each University Field Pay?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["Average income by state for graduates in selected field", "Data from 2023 to 2024"]
+    "subtitle": [
+      "Average income by state for graduates in selected field",
+      "Data from 2023 to 2024"
+    ]
   },
 
   "width": "container",
@@ -138,14 +141,24 @@
       }
     },
     {
+      "transform": [
+        {
+          "calculate": "datum.state === 'ACT' ? 157.5 : (datum.state === 'VIC' ? 144.5 : datum.symbol_lon)",
+          "as": "label_lon"
+        },
+        {
+          "calculate": "datum.state === 'ACT' ? -37 : (datum.state === 'VIC' ? -36.9 : datum.symbol_lat)",
+          "as": "label_lat"
+        },
+        {"calculate": "datum.state + ' ' + datum.average_income_label", "as": "label_text"}
+      ],
       "mark": {
         "type": "text",
-        "fontSize": 11,
-        "fontWeight": 700,
+        "fontSize": 12,
+        "fontWeight": 600,
         "baseline": "middle",
-        "dy": -7,
         "align": {"expr": "datum.state === 'ACT' ? 'left' : 'center'"},
-        "dx": {"expr": "datum.state === 'ACT' ? 5 : 0"}
+        "dx": {"expr": "datum.state === 'ACT' ? 6 : (datum.state === 'TAS' ? 8 : 0)"}
       },
       "encoding": {
         "longitude": {"field": "label_lon", "type": "quantitative"},
@@ -156,63 +169,15 @@
           {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
           {"field": "individuals_label", "title": "People in these occupations"}
         ],
-        "text": {"field": "state"},
+        "text": {"field": "label_text"},
         "color": {
           "condition": {
-            "test": "datum.state !== 'ACT' && datum.average_income >= 105000",
+            "test": "datum.state !== 'ACT' && datum.state !== 'TAS' && datum.average_income >= 105000",
             "value": "#ffffff"
           },
           "value": "#1d1c1a"
         }
-      },
-      "transform": [
-        {
-          "calculate": "datum.state === 'ACT' ? 157.5 : (datum.state === 'VIC' ? 142.8 : datum.symbol_lon)",
-          "as": "label_lon"
-        },
-        {
-          "calculate": "datum.state === 'ACT' ? -37 : (datum.state === 'VIC' ? -36.9 : datum.symbol_lat)",
-          "as": "label_lat"
-        }
-      ]
-    },
-    {
-      "mark": {
-        "type": "text",
-        "fontSize": 11,
-        "baseline": "middle",
-        "dy": 7,
-        "align": {"expr": "datum.state === 'ACT' ? 'left' : 'center'"},
-        "dx": {"expr": "datum.state === 'ACT' ? 5 : 0"}
-      },
-      "encoding": {
-        "longitude": {"field": "label_lon", "type": "quantitative"},
-        "latitude": {"field": "label_lat", "type": "quantitative"},
-        "tooltip": [
-          {"field": "state_name", "title": "State"},
-          {"field": "occupation_group", "title": "Matching occupations"},
-          {"field": "average_income", "title": "Average salary", "format": "$,.0f"},
-          {"field": "individuals_label", "title": "People in these occupations"}
-        ],
-        "text": {"field": "average_income_label"},
-        "color": {
-          "condition": {
-            "test": "datum.state !== 'ACT' && datum.average_income >= 105000",
-            "value": "#ffffff"
-          },
-          "value": "#1d1c1a"
-        }
-      },
-      "transform": [
-        {
-          "calculate": "datum.state === 'ACT' ? 157.5 : (datum.state === 'VIC' ? 142.8 : datum.symbol_lon)",
-          "as": "label_lon"
-        },
-        {
-          "calculate": "datum.state === 'ACT' ? -37 : (datum.state === 'VIC' ? -36.9 : datum.symbol_lat)",
-          "as": "label_lat"
-        }
-      ]
+      }
     }
   ]
 }

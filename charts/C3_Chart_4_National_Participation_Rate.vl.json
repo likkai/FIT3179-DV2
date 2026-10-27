@@ -181,17 +181,21 @@
       }
     },
     {
-      "transform": [{"filter": "datum.students_all_number >= 30000"}],
+      "transform": [
+        {"filter": "datum.students_all_number >= 30000"},
+        {"calculate": "datum.state + ' ' + datum.value_label", "as": "label_text"}
+      ],
       "mark": {
         "type": "text",
         "fontSize": 12,
         "fontWeight": 600,
-        "dy": {"expr": "datum.state === 'SA' ? -10 : (datum.state === 'VIC' ? -3 : -7)"}
+        "dx": {"expr": "datum.state === 'QLD' ? -6 : (datum.state === 'SA' || datum.state === 'WA' ? -2 : 0)"},
+        "dy": {"expr": "datum.state === 'SA' ? -4 : (datum.state === 'VIC' ? 5 : 0)"}
       },
       "encoding": {
         "longitude": {"field": "label_x", "type": "quantitative"},
         "latitude": {"field": "label_y", "type": "quantitative"},
-        "text": {"field": "state"},
+        "text": {"field": "label_text"},
         "color": {
           "condition": {
             "test": "isValid(datum.uptake_index) && (datum.uptake_index <= 62 || datum.uptake_index >= 138)",
@@ -214,82 +218,22 @@
       }
     },
     {
-      "transform": [{"filter": "datum.students_all_number >= 30000"}],
-      "mark": {
-        "type": "text",
-        "fontSize": 12,
-        "fontWeight": 600,
-        "dy": {"expr": "datum.state === 'SA' ? 3 : (datum.state === 'VIC' ? 12 : 8)"}
-      },
-      "encoding": {
-        "longitude": {"field": "label_x", "type": "quantitative"},
-        "latitude": {"field": "label_y", "type": "quantitative"},
-        "text": {"field": "value_label"},
-        "color": {
-          "condition": {
-            "test": "isValid(datum.uptake_index) && (datum.uptake_index <= 62 || datum.uptake_index >= 138)",
-            "value": "#ffffff"
-          },
-          "value": "#1d1c1a"
-        },
-        "tooltip": [
-          {"field": "state_name", "title": "State"},
-          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
-          {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
-          {
-            "field": "enrolments_per_100_students",
-            "title": "Enrolments per 100 senior students",
-            "format": ".1f"
-          },
-          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
-        ]
-      }
-    },
-    {
-      "transform": [{"filter": "datum.students_all_number < 30000"}],
+      "transform": [
+        {"filter": "datum.students_all_number < 30000"},
+        {"calculate": "datum.state + ' ' + datum.value_label", "as": "label_text"}
+      ],
       "mark": {
         "type": "text",
         "fontSize": 12,
         "fontWeight": 600,
         "color": "#1d1c1a",
         "align": "left",
-        "dx": {"expr": "datum.state === 'TAS' ? 32 : (datum.state === 'ACT' ? 22 : 12)"},
-        "dy": -6
+        "dx": {"expr": "datum.state === 'TAS' ? 24 : (datum.state === 'ACT' ? 22 : 12)"}
       },
       "encoding": {
         "longitude": {"field": "label_x", "type": "quantitative"},
         "latitude": {"field": "label_y", "type": "quantitative"},
-        "text": {"field": "state"},
-        "tooltip": [
-          {"field": "state_name", "title": "State"},
-          {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},
-          {"field": "share_text", "title": "Share of state enrolments: "},
-          {"field": "uptake_index", "title": "Relative popularity", "format": ".0f"},
-          {
-            "field": "enrolments_per_100_students",
-            "title": "Enrolments per 100 senior students",
-            "format": ".1f"
-          },
-          {"field": "subject_enrolments", "title": "Subject enrolments", "format": ",.0f"}
-        ]
-      }
-    },
-    {
-      "transform": [{"filter": "datum.students_all_number < 30000"}],
-      "mark": {
-        "type": "text",
-        "fontSize": 12,
-        "fontWeight": 600,
-        "color": "#1d1c1a",
-        "align": "left",
-        "dx": {"expr": "datum.state === 'TAS' ? 32 : (datum.state === 'ACT' ? 22 : 12)"},
-        "dy": 8
-      },
-      "encoding": {
-        "longitude": {"field": "label_x", "type": "quantitative"},
-        "latitude": {"field": "label_y", "type": "quantitative"},
-        "text": {"field": "value_label"},
+        "text": {"field": "label_text"},
         "tooltip": [
           {"field": "state_name", "title": "State"},
           {"field": "students_all_number", "title": "Senior students", "format": ",.0f"},

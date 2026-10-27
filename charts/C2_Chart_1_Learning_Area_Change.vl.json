@@ -40,7 +40,11 @@
       ],
       "groupby": ["learning_area"]
     },
-    {"calculate": "datum.end - datum.start", "as": "change"}
+    {"calculate": "datum.end - datum.start", "as": "change"},
+    {
+      "calculate": "datum.change <= -6 ? 'Lost more than 6 pp' : (datum.change > 0 ? 'Gained share' : 'Other')",
+      "as": "highlight"
+    }
   ],
 
   "encoding": {
@@ -60,8 +64,20 @@
       }
     },
     "color": {
-      "condition": {"test": "datum.change <= -6", "value": "#b35806"},
-      "value": "#9a988f"
+      "field": "highlight",
+      "type": "nominal",
+      "title": null,
+      "scale": {
+        "domain": ["Gained share", "Lost more than 6 pp", "Other"],
+        "range": ["#2166ac", "#b35806", "#9a988f"]
+      },
+      "legend": {
+        "orient": "top",
+        "direction": "horizontal",
+        "values": ["Gained share", "Lost more than 6 pp"],
+        "symbolType": "stroke",
+        "symbolStrokeWidth": 3
+      }
     },
     "opacity": {"condition": [{"param": "hover", "value": 1}], "value": 0.2},
     "tooltip": [

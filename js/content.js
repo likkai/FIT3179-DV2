@@ -24,10 +24,10 @@ const DASHBOARD = {
     },
     {
       id: "what-changed", number: "02", title: "What changed", accent: "var(--accent-2)",
-      lead: "Between 2015 and 2024, five of the six main learning areas lost share of students, led by Technology and Arts. The only exception was English, which grew slightly. Student numbers grew overall, but not evenly.",
-      takeaway: "Victoria led student growth (+16%) while South Australia saw slight contraction (1.2%), showing how local demographics shape subject demand differently by state.",
+      lead: "Most main learning areas lost share of students, led by Technology and Arts. The only exception was English, which grew slightly. Student numbers grew overall, but not evenly.",
+      takeaway: "Victoria led student growth while South Australia saw slight contraction, showing how local demographics shape subject demand differently.",
       charts: {
-        c2a: "<strong>Enrolment rates fell across most major learning areas</strong>. The steepest declines occurred in Technology and Arts, while English maintained high participation.",
+        c2a: "<strong>Enrolment rates fell across most major learning areas</strong>. The steepest declines occurred in Technology and Arts, while English experienced slight growth in participation.",
         c2b: "Student population growth diverged sharply by region. Victoria and Western Australia led national growth whereas South Australia and Tasmania experienced minor contractions.",
         c2c: "Student preferences shifted toward Japanese and Spanish at the expense of established programs. Japanese maintained its position as the top language share, while traditional European offerings like German and Italian continued to contract.",
       },
@@ -37,14 +37,14 @@ const DASHBOARD = {
       lead: "Where a student lives shapes what is on offer. Some states lean towards maths and science, others towards technology and business. Regional priorities and course availability naturally create distinct subject profiles.",
       takeaway: "Subject popularity varies dramatically across Australia, making a discipline common in one state surprisingly rare in another.",
       charts: {
-        c3a: "Subject choices vary significantly across states. Tasmania shows the greatest divergence, with higher Health and Physical Education, and lower English enrolment. Queensland (QLD) leads in Mathematics while Victoria (VIC) leads in Science.",
-        c3b: "All states and territories expanded senior enrolments between 2021 and 2025, driving a net national addition of +57,202 students. Victoria (VIC) and New South Wales (NSW) led national growth, together accounting for over 52% of total expansion.",
+        c3a: "Subject choices vary significantly across states. Tasmania (TAS) shows the greatest divergence, with higher Health and Physical Education and lower English enrolment. Queensland (QLD) leads in Mathematics while Victoria (VIC) leads in Science.",
+        c3b: "All states and territories expanded senior enrolments between 2021 and 2025, driving a net national addition of +57,202 students. Victoria (VIC) led national growth, together accounting for over 30% of total expansion.",
         c3c: "Business study concentrates heavily in eastern commercial hubs. New South Wales (NSW) and Victoria (VIC) lead state participation with relative popularity well above average, whereas regional markets like the Northern Territory (NT) show considerably lower relative engagement.",
       },
     },
     {
       id: "girls-and-boys", number: "04", title: "Girls and boys", accent: "var(--accent-4)",
-      lead: "Girls are over-represented in the Arts, Science, and Health and Physical Education, while boys lead in Technology and Mathematics. The participation gaps are large and are not all closing over time.",
+      lead: "Girls are over-represented in the Arts, Science and Health and Physical Education, while boys lead in Technology and Mathematics. Most of the participation gaps are large.",
       takeaway: "Arts shows the widest gender gap overall, taken by 26% of girls compared to 15% of boys.",
       charts: {
         c4a: "Girls lead participation in six of eight learning areas, with Arts (+11.4 pp) and Science (+9.4 pp) showing the largest female leads. Technology (+11.2 pp) and Mathematics (+6.0 pp) remain male-dominated exceptions.",
@@ -55,11 +55,11 @@ const DASHBOARD = {
     {
       id: "school-to-work", number: "05", title: "From school to work", accent: "var(--accent-5)",
       lead: "Do school choices match what universities teach? For Engineering, secondary engineering interest surged 35%, outstripping university growth of 16%.",
-      takeaway: "University is not the only road. Vocational study makes up 97% of food and hospitality.",
+      takeaway: "University is not the only road. Vocational study makes up to 97% of food and hospitality.",
       charts: {
-        c5a: "University enrolments outpaced school participation in most fields, with the widest gap in Computing and IT (+171% versus −28%). Drama also diverged (−28% versus +6%), while Engineering showed the reverse (+35% versus +16%).",
-        c5b: "Engineering vacancies grew in most states since 2019, led by Western Australia, Queensland, South Australia and Tasmania, while Victoria recorded a notable decline in monthly openings.",
-        c5c: "Educational pathways reflect distinct sector specialisation. Food, hospitality and personal services is dominated by vocational qualifications (97%), while IT and physical sciences favour university study, with higher education shares reaching 95%.",
+        c5a: "University enrolments outpaced school participation in most fields, with the widest gap in Computing and IT (+171% versus −28%). Drama also diverged (+6% versus -28%), while Engineering showed the reverse (+35% versus +16%).",
+        c5b: "Engineering vacancies grew in most states since 2019, led by Western Australia (WA), Queensland (QLD), South Australia (SA) and Tasmania (TAS), while Victoria (VIC) recorded a notable decline in monthly openings.",
+        c5c: "Educational pathways reflect distinct sector specialisation. Food, hospitality and personal services is dominated by vocational qualifications (97%), while Information Technology and physical sciences favour university study, with higher education shares reaching 95%.",
         c5d: "Graduate incomes vary noticeably across states. Western Australia leads the nation at $157k, substantially outpacing eastern states such as New South Wales ($127k), Victoria ($120k) and South Australia ($120k).",
       },
     },
