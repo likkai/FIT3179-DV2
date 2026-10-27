@@ -28,19 +28,19 @@
       },
       "transform": [
         {
-          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2010 || datum.calendar_year === 2024)"
+          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2015 || datum.calendar_year === 2024)"
         },
-        {"calculate": "datum.calendar_year === 2010 ? datum.student_count : null", "as": "s2010"},
+        {"calculate": "datum.calendar_year === 2015 ? datum.student_count : null", "as": "s2015"},
         {"calculate": "datum.calendar_year === 2024 ? datum.student_count : null", "as": "s2024"},
         {
           "joinaggregate": [
-            {"op": "max", "field": "s2010", "as": "students_2010"},
+            {"op": "max", "field": "s2015", "as": "students_2015"},
             {"op": "max", "field": "s2024", "as": "students_2024"}
           ],
           "groupby": ["state_territory"]
         },
         {"filter": "datum.calendar_year === 2024"},
-        {"calculate": "(datum.students_2024 / datum.students_2010 - 1) * 100", "as": "change_pct"},
+        {"calculate": "(datum.students_2024 / datum.students_2015 - 1) * 100", "as": "change_pct"},
         {
           "lookup": "state_territory",
           "from": {
@@ -75,7 +75,7 @@
         },
         "tooltip": [
           {"field": "state_territory", "title": "State"},
-          {"field": "students_2010", "title": "Students 2010", "format": ",.0f"},
+          {"field": "students_2015", "title": "Students 2015", "format": ",.0f"},
           {"field": "students_2024", "title": "Students 2024", "format": ",.0f"},
           {"field": "change_pct", "title": "Change (%)", "format": "+.1f"}
         ]
@@ -116,19 +116,19 @@
       },
       "transform": [
         {
-          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2010 || datum.calendar_year === 2024)"
+          "filter": "datum.school_sector === 'All' && datum.sex_gender === 'All' && datum.aboriginal_or_torres_strait_islander_status === 'All' && datum.full_time_part_time_status === 'All' && datum.state_territory !== 'Australia' && (datum.calendar_year === 2015 || datum.calendar_year === 2024)"
         },
-        {"calculate": "datum.calendar_year === 2010 ? datum.student_count : null", "as": "s2010"},
+        {"calculate": "datum.calendar_year === 2015 ? datum.student_count : null", "as": "s2015"},
         {"calculate": "datum.calendar_year === 2024 ? datum.student_count : null", "as": "s2024"},
         {
           "joinaggregate": [
-            {"op": "max", "field": "s2010", "as": "students_2010"},
+            {"op": "max", "field": "s2015", "as": "students_2015"},
             {"op": "max", "field": "s2024", "as": "students_2024"}
           ],
           "groupby": ["state_territory"]
         },
         {"filter": "datum.calendar_year === 2024"},
-        {"calculate": "(datum.students_2024 / datum.students_2010 - 1) * 100", "as": "change_pct"},
+        {"calculate": "(datum.students_2024 / datum.students_2015 - 1) * 100", "as": "change_pct"},
         {
           "lookup": "state_territory",
           "from": {
@@ -155,7 +155,7 @@
         "text": {"field": "label"},
         "tooltip": [
           {"field": "state_territory", "title": "State"},
-          {"field": "students_2010", "title": "Students 2010", "format": ",.0f"},
+          {"field": "students_2015", "title": "Students 2015", "format": ",.0f"},
           {"field": "students_2024", "title": "Students 2024", "format": ",.0f"},
           {"field": "change_pct", "title": "Change (%)", "format": "+.1f"}
         ],

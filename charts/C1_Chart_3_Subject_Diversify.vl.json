@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Change in HHI of Year 12 enrolments from 2010",
+    "text": "Change in HHI of Year 12 enrolments",
     "subtitle": [
       "HHI = Herfindahl-Hirschman Index",
       "Below 0 = Less concentrated; Above 0 = More concentrated",
-      "2010 HHI = 1,558"
+      "2015 HHI = 1,546"
     ],
     "anchor": "start",
     "fontSize": 17,
@@ -25,7 +25,7 @@
   },
 
   "transform": [
-    {"filter": "datum.sex === 'All'"},
+    {"filter": "datum.sex === 'All' && datum.year >= 2015"},
     {
       "filter": {
         "field": "learning_area",
@@ -48,10 +48,10 @@
     {"calculate": "pow(datum.proportion_pct / datum.total, 2) * 10000", "as": "sqr"},
     {"aggregate": [{"op": "sum", "field": "sqr", "as": "hhi"}], "groupby": ["year"]},
     {
-      "window": [{"op": "first_value", "field": "hhi", "as": "hhi_2010"}],
+      "window": [{"op": "first_value", "field": "hhi", "as": "hhi_2015"}],
       "sort": [{"field": "year", "order": "ascending"}]
     },
-    {"calculate": "datum.hhi - datum.hhi_2010", "as": "change"},
+    {"calculate": "datum.hhi - datum.hhi_2015", "as": "change"},
     {"joinaggregate": [{"op": "min", "field": "change", "as": "min_change"}]}
   ],
 
@@ -79,9 +79,9 @@
           "field": "year",
           "title": "Year",
           "type": "quantitative",
-          "scale": {"domain": [2009.5, 2024.5], "nice": false},
+          "scale": {"domain": [2014.5, 2024.5], "nice": false},
           "axis": {
-            "values": [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024],
+            "values": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
             "format": "d",
             "grid": false,
             "labelAngle": 0,
@@ -96,7 +96,7 @@
           "axis": {
             "values": [-25, 0, 25, 50, 75, 100],
             "labelExpr": "datum.value > 0 ? '+' + datum.value : datum.value < 0 ? '−' + abs(datum.value) : '0'",
-            "title": "HHI points compared to 2010",
+            "title": "HHI points compared to 2015",
             "grid": true,
             "domain": false,
             "ticks": false
@@ -105,47 +105,28 @@
         "tooltip": [
           {"field": "year", "type": "ordinal", "title": "Year"},
           {"field": "hhi", "type": "quantitative", "title": "HHI", "format": ",.0f"},
-          {"field": "change", "type": "quantitative", "title": "Change vs 2010", "format": "+.1f"}
+          {
+            "field": "change",
+            "type": "quantitative",
+            "title": "Change since 2015",
+            "format": "+.1f"
+          }
         ]
       }
     },
     {
       "transform": [
-        {
-          "filter": "datum.year === 2024 || datum.year === 2021 || datum.change === datum.min_change"
-        },
+        {"filter": "datum.year === 2024 || datum.year === 2021 || datum.year === 2020"},
         {
           "calculate": "datum.change > 0 ? '+' + format(datum.change, '.1f') : '−' + format(abs(datum.change), '.1f')",
           "as": "label"
         },
-        {"calculate": "datum.change + 7", "as": "label_y"}
+        {"calculate": "datum.change + (datum.year === 2020 ? 10 : 7)", "as": "label_y"}
       ],
       "mark": {"type": "text", "color": "#52514e", "fontSize": 12, "baseline": "middle"},
       "encoding": {
         "x": {"field": "year", "type": "quantitative"},
         "y": {"field": "label_y", "type": "quantitative"},
-        "text": {"field": "label", "type": "nominal"}
-      }
-    },
-    {
-      "transform": [
-        {"filter": "datum.year === 2020"},
-        {
-          "calculate": "datum.change > 0 ? '+' + format(datum.change, '.1f') : '−' + format(abs(datum.change), '.1f')",
-          "as": "label"
-        }
-      ],
-      "mark": {
-        "type": "text",
-        "color": "#52514e",
-        "fontSize": 12,
-        "align": "left",
-        "baseline": "middle",
-        "dx": 10
-      },
-      "encoding": {
-        "x": {"field": "year", "type": "quantitative"},
-        "y": {"field": "change", "type": "quantitative"},
         "text": {"field": "label", "type": "nominal"}
       }
     },

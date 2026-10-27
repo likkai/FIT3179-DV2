@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Proportion of Year 12 students enrolled in each learning area in 2010 and 2024",
+  "description": "Proportion of Year 12 students enrolled in each learning area in 2015 and 2024",
   "title": {
     "text": "Which Learning Areas Are Losing Students?",
     "anchor": "start",
@@ -17,7 +17,7 @@
   },
 
   "transform": [
-    {"filter": "datum.sex === 'All' && (datum.year === 2010 || datum.year === 2024)"},
+    {"filter": "datum.sex === 'All' && (datum.year === 2015 || datum.year === 2024)"},
     {
       "filter": {
         "field": "learning_area",
@@ -31,11 +31,11 @@
         ]
       }
     },
-    {"calculate": "datum.year === 2010 ? datum.proportion_pct : null", "as": "v2010"},
+    {"calculate": "datum.year === 2015 ? datum.proportion_pct : null", "as": "v2015"},
     {"calculate": "datum.year === 2024 ? datum.proportion_pct : null", "as": "v2024"},
     {
       "joinaggregate": [
-        {"op": "max", "field": "v2010", "as": "start"},
+        {"op": "max", "field": "v2015", "as": "start"},
         {"op": "max", "field": "v2024", "as": "end"}
       ],
       "groupby": ["learning_area"]
@@ -66,7 +66,7 @@
     "opacity": {"condition": [{"param": "hover", "value": 1}], "value": 0.2},
     "tooltip": [
       {"field": "learning_area", "title": "Learning area"},
-      {"field": "start", "title": "2010 (%)", "format": ".1f"},
+      {"field": "start", "title": "2015 (%)", "format": ".1f"},
       {"field": "end", "title": "2024 (%)", "format": ".1f"},
       {"field": "change", "title": "Change (pp)", "format": "+.1f"}
     ]
@@ -102,7 +102,7 @@
           }
         }
       ],
-      "transform": [{"filter": "datum.year === 2010"}, {"calculate": "2024", "as": "year_end"}],
+      "transform": [{"filter": "datum.year === 2015"}, {"calculate": "2024", "as": "year_end"}],
       "mark": {"type": "rule", "strokeWidth": 14},
       "encoding": {
         "x": {"field": "year", "type": "ordinal"},
@@ -112,7 +112,7 @@
         "opacity": {"value": 0},
         "tooltip": [
           {"field": "learning_area", "title": "Learning area"},
-          {"field": "start", "title": "2010 (%)", "format": ".1f"},
+          {"field": "start", "title": "2015 (%)", "format": ".1f"},
           {"field": "end", "title": "2024 (%)", "format": ".1f"},
           {"field": "change", "title": "Change (pp)", "format": "+.1f"}
         ]
@@ -120,7 +120,7 @@
     },
     {
       "transform": [
-        {"filter": "datum.year === 2010"},
+        {"filter": "datum.year === 2015"},
         {
           "calculate": "datum.learning_area + '  ' + format(datum.proportion_pct, '.1f') + '%'",
           "as": "label"

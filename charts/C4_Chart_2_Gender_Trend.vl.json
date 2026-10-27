@@ -46,7 +46,7 @@
 
   "transform": [
     {
-      "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area !== 'Vocational and Other' && isValid(datum.female) && isValid(datum.male)"
+      "filter": "datum.year_level === 'Year 11-12 combined' && datum.learning_area !== 'Vocational and Other' && isValid(datum.female) && isValid(datum.male) && datum.year >= 2015 && datum.year <= 2024"
     },
     {
       "aggregate": [

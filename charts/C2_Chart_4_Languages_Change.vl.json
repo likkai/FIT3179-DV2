@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "Language's Share of Year 12 Enrolments in 2010 and 2024",
+  "description": "Language's Share of Year 12 Enrolments in 2015 and 2024",
   "title": {
     "text": "Which Languages Are Gaining Ground in Senior Secondary Study?",
     "subtitle": ["Change in share of Year 12 language enrolments"],
@@ -17,7 +17,7 @@
   },
 
   "transform": [
-    {"filter": "datum.sex === 'All' && (datum.year === 2010 || datum.year === 2024)"},
+    {"filter": "datum.sex === 'All' && (datum.year === 2015 || datum.year === 2024)"},
     {
       "filter": {
         "field": "learning_area",
@@ -39,11 +39,11 @@
       "calculate": "datum.learning_area === 'Other' ? 'Other languages' : datum.learning_area",
       "as": "learning_area"
     },
-    {"calculate": "datum.year === 2010 ? datum.proportion_pct : null", "as": "v2010"},
+    {"calculate": "datum.year === 2015 ? datum.proportion_pct : null", "as": "v2015"},
     {"calculate": "datum.year === 2024 ? datum.proportion_pct : null", "as": "v2024"},
     {
       "joinaggregate": [
-        {"op": "max", "field": "v2010", "as": "start"},
+        {"op": "max", "field": "v2015", "as": "start"},
         {"op": "max", "field": "v2024", "as": "end"}
       ],
       "groupby": ["learning_area"]
@@ -114,12 +114,12 @@
           "field": "year_label",
           "type": "nominal",
           "title": null,
-          "scale": {"domain": ["2010", "2024"], "range": ["#b9b7ae", "#1d1c1a"]},
+          "scale": {"domain": ["2015", "2024"], "range": ["#b9b7ae", "#1d1c1a"]},
           "legend": {"orient": "top", "direction": "horizontal", "symbolType": "circle"}
         },
         "tooltip": [
           {"field": "learning_area", "title": "Language"},
-          {"field": "start", "title": "2010 (%)", "format": ".1f"},
+          {"field": "start", "title": "2015 (%)", "format": ".1f"},
           {"field": "end", "title": "2024 (%)", "format": ".1f"},
           {"field": "change", "title": "Change (pp)", "format": "+.1f"}
         ]

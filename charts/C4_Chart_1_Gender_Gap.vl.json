@@ -13,8 +13,16 @@
     "format": {"parse": {"year": "number", "proportion_pct": "number"}}
   },
 
+  "params": [
+    {
+      "name": "selected_year",
+      "value": 2024,
+      "bind": {"input": "range", "min": 2015, "max": 2024, "step": 1, "name": "Year "}
+    }
+  ],
+
   "transform": [
-    {"filter": "datum.year === 2019 && datum.sex !== 'All'"},
+    {"filter": "datum.year === selected_year && datum.sex !== 'All'"},
     {
       "filter": {
         "field": "learning_area",

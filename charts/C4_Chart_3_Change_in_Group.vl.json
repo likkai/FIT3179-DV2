@@ -25,13 +25,13 @@
   "params": [
     {
       "name": "start_year",
-      "value": 2014,
-      "bind": {"input": "range", "min": 2014, "max": 2024, "step": 1, "name": "From year "}
+      "value": 2015,
+      "bind": {"input": "range", "min": 2015, "max": 2023, "step": 1, "name": "From year "}
     },
     {
       "name": "end_year",
-      "value": 2025,
-      "bind": {"input": "range", "min": 2015, "max": 2025, "step": 1, "name": "To year "}
+      "value": 2024,
+      "bind": {"input": "range", "min": 2016, "max": 2024, "step": 1, "name": "To year "}
     }
   ],
 

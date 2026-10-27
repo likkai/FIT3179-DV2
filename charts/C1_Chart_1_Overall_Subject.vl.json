@@ -20,7 +20,7 @@
     {
       "name": "selectedYear",
       "value": 2024,
-      "bind": {"input": "range", "min": 2010, "max": 2024, "step": 1, "name": "Year "}
+      "bind": {"input": "range", "min": 2015, "max": 2024, "step": 1, "name": "Year "}
     }
   ],
 
