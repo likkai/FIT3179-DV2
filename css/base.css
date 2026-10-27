@@ -49,23 +49,6 @@ body { min-width: var(--page-width); }
 .card__caption .is-boys { color: var(--boys); }
 .card__error { padding: 24px; color: #8c2d04; font-size: 14px; }
 
-/* Chapter text */
-.chapter__num { font-family: var(--font-display); font-weight: 600; line-height: 1; color: var(--accent); }
-.chapter__title { font-size: 34px; }
-.chapter__lead { font-size: 19px; line-height: 1.5; max-width: var(--measure); color: var(--ink); }
-.takeaway {
-  border-left: 4px solid var(--accent); background: var(--card); border-radius: 0 var(--radius) var(--radius) 0;
-  padding: 14px 18px; font-size: 17px; line-height: 1.45; box-shadow: var(--shadow);
-}
-.takeaway__label { display: block; font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
-
-/* Hero */
-.hero__title { font-family: Georgia, "Times New Roman", Times, serif; font-size: 56px; letter-spacing: -0.02em; }
-.hero__deck { font-size: 21px; line-height: 1.5; color: var(--ink-soft); max-width: 58ch; }
-.stat { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; box-shadow: var(--shadow); }
-.stat__value { font-family: var(--font-display); font-weight: 600; font-size: 38px; line-height: 1; color: var(--accent); }
-.stat__label { margin-top: 8px; font-size: 15px; line-height: 1.35; color: var(--ink-soft); }
-
 /* Footer */
 .footer { margin-top: 0; padding: 32px 0 48px; }
 .footer__grid { display: grid; grid-template-columns: 1fr; gap: var(--grid-gap); }
