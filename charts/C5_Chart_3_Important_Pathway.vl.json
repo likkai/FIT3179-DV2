@@ -84,7 +84,7 @@
         "x": {
           "field": "pathway_pct",
           "type": "quantitative",
-          "title": "Percentage of share of people studying in the field",
+          "title": "Percentage of Share of People Studying in the Field",
           "stack": "zero",
           "scale": {"domain": [0, 100]},
           "axis": {"grid": true, "gridColor": "#eeede8"}

@@ -56,7 +56,7 @@
         "x": {
           "field": "zero",
           "type": "quantitative",
-          "title": "Proportion of Year 12 students enrolled (%)",
+          "title": "Percentage of Year 12 Students Enrolled",
           "scale": {"domain": [0, 100], "nice": false},
           "axis": {
             "format": ".0f",
@@ -87,7 +87,7 @@
         "x": {
           "field": "proportion_pct",
           "type": "quantitative",
-          "title": "Proportion of Year 12 students enrolled (%)",
+          "title": "Percentage of Year 12 Students Enrolled",
           "scale": {"domain": [0, 100], "nice": false},
           "axis": {
             "format": ".0f",
@@ -110,7 +110,7 @@
         "x": {
           "field": "proportion_pct",
           "type": "quantitative",
-          "title": "Proportion of Year 12 students enrolled (%)",
+          "title": "Percentage of Year 12 Students Enrolled",
           "scale": {"domain": [0, 100], "nice": false},
           "axis": {
             "format": ".0f",

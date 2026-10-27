@@ -2,11 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Heat strip: each learning area's female share of enrolments (minus 50) by year.",
   "title": {
-    "text": "How Has the Subject Gender Gap Evolved Over Time?",
+    "text": "How Has the Learning Area Gender Gap Evolved Over Time?",
     "fontSize": 17,
     "anchor": "start",
     "subtitle": [
-      "Change in female enrolment share from gender balance (50%)",
+      "Female share shift from gender balance (pp = percentage points)",
       "Northern Territory excluded because no gender data"
     ]
   },
@@ -86,7 +86,7 @@
     "x": {
       "field": "year",
       "type": "ordinal",
-      "title": null,
+      "title": "Year",
       "axis": {
         "labelAngle": 0,
         "labelFontSize": 12,
@@ -98,7 +98,7 @@
     "y": {
       "field": "group",
       "type": "nominal",
-      "title": null,
+      "title": "Learning Area",
       "sort": {"field": "gap_from_balance_pp", "op": "mean", "order": "descending"},
       "axis": {
         "labelFontSize": 12,

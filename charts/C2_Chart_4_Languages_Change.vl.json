@@ -3,7 +3,7 @@
   "description": "Language's Share of Year 12 Enrolments in 2015 and 2024",
   "title": {
     "text": "Which Languages Are Gaining Ground in Senior Secondary Study?",
-    "subtitle": ["Change in share of Year 12 language enrolments"],
+    "subtitle": ["Change in share of Year 12 language enrolments", "pp = percentage points"],
     "anchor": "start",
     "fontSize": 17
   },
@@ -97,16 +97,17 @@
       "mark": {
         "type": "point",
         "filled": true,
-        "size": 110,
+        "size": 170,
         "stroke": "#fbfaf7",
-        "strokeWidth": 2,
+        "strokeWidth": 1.5,
+        "fillOpacity": 0.75,
         "opacity": 1
       },
       "encoding": {
         "x": {
           "field": "proportion_pct",
           "type": "quantitative",
-          "title": "Percentage of Share of Year 12 language enrolments",
+          "title": "Percentage of Share of Year 12 Language Enrolments",
           "scale": {"domain": [0, 26]},
           "axis": {"labelExpr": "datum.value + '%'", "grid": false}
         },

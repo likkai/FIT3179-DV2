@@ -96,7 +96,7 @@
           "axis": {
             "values": [-25, 0, 25, 50, 75, 100],
             "labelExpr": "datum.value > 0 ? '+' + datum.value : datum.value < 0 ? '−' + abs(datum.value) : '0'",
-            "title": "HHI points compared to 2015",
+            "title": "HHI Points Compared to 2015",
             "grid": true,
             "domain": false,
             "ticks": false

@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Male vs Female Year 12 Students Enrolled in Each Learning Area",
   "title": {
-    "text": "How Do Subject Choices Divide Among Genders?",
+    "text": "How Do Learning Area Choices Divide Among Genders?",
     "fontSize": 17,
     "anchor": "start",
     "subtitle": ["Change in Year 12 enrolment share between male and female", "pp = percentage points"]

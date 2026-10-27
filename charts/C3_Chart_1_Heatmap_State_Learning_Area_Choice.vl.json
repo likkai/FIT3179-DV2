@@ -42,6 +42,10 @@
     },
     {"filter": "datum.learning_area !== 'Vocational and Other'"},
     {
+      "calculate": "datum.learning_area === 'The Arts' ? 'Arts' : datum.learning_area",
+      "as": "learning_area"
+    },
+    {
       "aggregate": [
         {"op": "sum", "field": "enrolments", "as": "learning_area_enrolments"},
         {
@@ -87,7 +91,7 @@
     "x": {
       "field": "col",
       "type": "nominal",
-      "title": "States and national average",
+      "title": "States and National Average",
       "sort": ["Average", "NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"],
       "axis": {
         "orient": "top",

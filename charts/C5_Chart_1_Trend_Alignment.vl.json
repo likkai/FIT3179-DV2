@@ -5,7 +5,7 @@
     "text": "How Far Apart Are School and University Trends?",
     "anchor": "start",
     "fontSize": 17,
-    "subtitle": ["Change in school and university enrolments by subject group"]
+    "subtitle": ["Change in school and university enrolments by subject group", "pp = percentage points"]
   },
 
   "width": "container",
@@ -138,7 +138,7 @@
         "x": {
           "field": "change_pct",
           "type": "quantitative",
-          "title": "Percentage of change in enrolments",
+          "title": "Percentage of Change in Enrolments",
           "axis": {"format": "+d", "grid": true, "gridColor": "#eeede8"},
           "scale": {"domain": [-45, 190], "nice": false}
         },
@@ -173,7 +173,14 @@
       "encoding": {
         "x": {"field": "change_pct", "type": "quantitative"},
         "text": {"field": "value_label"},
-        "color": {"value": "#1d1c1a"}
+        "color": {"value": "#1d1c1a"},
+        "tooltip": [
+          {"field": "school_subject", "title": "School subject"},
+          {"field": "tertiary_field", "title": "University field"},
+          {"field": "level", "title": "Level"},
+          {"field": "change_pct", "title": "Change (%)", "format": "+.0f"},
+          {"field": "gap_pp", "title": "University minus school (pp)", "format": "+.0f"}
+        ]
       }
     }
   ]
