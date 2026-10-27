@@ -40,9 +40,13 @@ body { min-width: var(--page-width); }
 .card__chart.is-loading { background: linear-gradient(90deg, #f1efe6, #f8f6ef, #f1efe6); border-radius: 4px; }
 .card__caption {
   margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line);
-  font-size: 15px; color: var(--ink-soft); line-height: 1.45;
+  font-size: 16px; color: var(--ink-soft); line-height: 1.45;
 }
 .card__caption strong { color: var(--ink); font-weight: 700; }
+.card__caption .is-up { color: var(--up); }
+.card__caption .is-down { color: var(--down); }
+.card__caption .is-girls { color: var(--girls); }
+.card__caption .is-boys { color: var(--boys); }
 .card__error { padding: 24px; color: #8c2d04; font-size: 14px; }
 
 /* Chapter text */
@@ -56,7 +60,7 @@ body { min-width: var(--page-width); }
 .takeaway__label { display: block; font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
 
 /* Hero */
-.hero__title { font-size: 56px; letter-spacing: -0.02em; }
+.hero__title { font-family: Georgia, "Times New Roman", Times, serif; font-size: 56px; letter-spacing: -0.02em; }
 .hero__deck { font-size: 21px; line-height: 1.5; color: var(--ink-soft); max-width: 58ch; }
 .stat { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; box-shadow: var(--shadow); }
 .stat__value { font-family: var(--font-display); font-weight: 600; font-size: 38px; line-height: 1; color: var(--accent); }

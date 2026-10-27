@@ -193,7 +193,8 @@
             "titlePadding": 10,
             "format": "+d",
             "titleFontSize": 13,
-            "labelFontSize": 11
+            "labelFontSize": 11,
+            "titleLimit": 400
           }
         },
         "tooltip": [

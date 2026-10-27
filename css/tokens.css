@@ -12,15 +12,21 @@
   --line: #e3e0d5;
   --line-strong: #cfcbbd;
 
+  /* Meaning colours for text */
+  --up: #2166ac;
+  --down: #b35806;
+  --girls: #b8467f;
+  --boys: #6b7a1e;
+
   /* Chapter colour (one colour per chapter) */
-  --accent-1: #2166ac;
-  --accent-2: #b35806;
+  --accent-1: #3a2fb8;
+  --accent-2: #8a6d0b;
   --accent-3: #1b7f79;
   --accent-4: #6a51a3;
-  --accent-5: #a63a2b;
+  --accent-5: #632127;
 
   /* Font type */
-  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-display: Georgia, "Times New Roman", Times, serif;
   --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   --text-base: 17px;
   --line-height: 1.55;

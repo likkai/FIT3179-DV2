@@ -6,9 +6,9 @@ const DASHBOARD = {
   period: "Unless stated otherwise, charts cover 2015-2024.",
 
   stats: [
-    { value: "550k",     label: "Senior secondary students in 2024, up 14% since 2010" },
-    { value: "29% → 21%", label: "Share of Year 12 students taking an Arts subject, 2010 to 2024" },
-    { value: "+22% / −11%", label: "Change in senior students from 2010 to 2024: Victoria against Tasmania" },
+    { value: "550k", label: "Senior secondary students in 2024, up 9% since 2015" },
+    { value: "27% → 21%", label: "Share of Year 12 students taking an Arts subject, 2015 to 2024" },
+    { value: "+16% / −1%", label: "Change in senior students from 2015 to 2024: Victoria against South Australia" },
     { value: "34% vs 22%", label: "Boys against girls taking a Technology subject in Year 12, 2024" },
   ],
 
@@ -27,7 +27,7 @@ const DASHBOARD = {
       lead: "Most main learning areas lost share of students, led by Technology and Arts. The only exception was English, which grew slightly. Student numbers grew overall, but not evenly.",
       takeaway: "Victoria led student growth while South Australia saw slight contraction, showing how local demographics shape subject demand differently.",
       charts: {
-        c2a: "<strong>Enrolment rates fell across most major learning areas</strong>. The steepest declines occurred in <strong class='is-down'>Technology and Arts</strong>, while English experienced slight growth in participation.",
+        c2a: "<strong>Enrolment rates fell across most major learning areas</strong>. The steepest declines occurred in <strong class='is-down'>Technology and Arts</strong>, while <strong class='is-up'>English</strong> experienced slight growth in participation.",
         c2b: "Student population growth diverged sharply by region. <strong class='is-up'>Victoria and Western Australia led national growth</strong> whereas South Australia and Tasmania experienced minor contractions.",
         c2c: "Student preferences shifted toward <strong class='is-up'>Japanese and Spanish</strong> at the expense of established programs. Japanese maintained its position as the top language share, while traditional European offerings like <strong class='is-down'>German and Italian</strong> continued to contract.",
       },

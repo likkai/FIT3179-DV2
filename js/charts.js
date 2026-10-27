@@ -25,7 +25,10 @@ const CHARTS = {
 /* Default look for charts if not specified */
 const CHART_CONFIG = {
   font: '"Source Sans 3", "Segoe UI", sans-serif',
-  title: { font: '"Fraunces", Georgia, serif' },
+  title: { font: 'Georgia, "Times New Roman", Times, serif', fontSize: 19, subtitleFontSize: 15, offset: 12 },
+  axis: { labelFontSize: 14, titleFontSize: 13 },
+  legend: { labelFontSize: 11, titleFontSize: 13 },
+  text: { fontSize: 14 },
 };
 
 const Dashboard = {

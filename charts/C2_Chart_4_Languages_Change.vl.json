@@ -61,6 +61,7 @@
       "axis": {
         "domain": false,
         "title": "Languages",
+        "titlePadding": 20,
         "ticks": false,
         "labelFontSize": 14,
         "labelColor": "#1d1c1a",

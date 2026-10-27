@@ -101,6 +101,7 @@
       "title": "Learning Area",
       "sort": {"field": "gap_from_balance_pp", "op": "mean", "order": "descending"},
       "axis": {
+        "titlePadding": 20,
         "labelFontSize": 14,
         "labelFontWeight": 600,
         "ticks": false,

@@ -119,7 +119,7 @@
         "domain": false,
         "ticks": false,
         "labelPadding": 8,
-        "titlePadding": 10
+        "titlePadding": 20
       }
     }
   },

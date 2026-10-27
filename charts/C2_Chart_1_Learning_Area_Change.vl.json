@@ -96,7 +96,7 @@
           "field": "proportion_pct",
           "type": "quantitative",
           "scale": {"domain": [0, 100], "nice": false},
-          "axis": {"title": "Student Enrolment Proportion"}
+          "axis": {"title": "Student Enrolment Proportion", "titlePadding": 20}
         },
         "detail": {"field": "learning_area"}
       }

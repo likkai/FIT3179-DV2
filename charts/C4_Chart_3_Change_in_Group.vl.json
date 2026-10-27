@@ -101,7 +101,7 @@
       "title": "Subjects",
       "sort": {"field": "gap_abs", "op": "max", "order": "descending"},
       "axis": {
-        "titlePadding": 10,
+        "titlePadding": 20,
         "labelFontSize": 14,
         "labelFontWeight": 600,
         "ticks": false,

@@ -100,6 +100,7 @@
       "title": "Subjects",
       "sort": {"field": "gap_pp", "op": "mean", "order": "descending"},
       "axis": {
+        "titlePadding": 20,
         "labelFontSize": 14,
         "labelFontWeight": 600,
         "ticks": false,

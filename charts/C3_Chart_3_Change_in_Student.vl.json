@@ -144,7 +144,7 @@
           "type": "quantitative",
           "title": "Change in Student Enrolments",
           "scale": {"padding": 20},
-          "axis": {"format": "+,.0f", "grid": true, "gridColor": "#eeede8"}
+          "axis": {"format": "+,.0f", "grid": true, "gridColor": "#eeede8", "titlePadding": 20}
         },
         "y2": {"field": "bar_draw_end"},
         "color": {
